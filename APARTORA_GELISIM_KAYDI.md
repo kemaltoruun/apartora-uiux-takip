@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayıtlar değiştirilmez; bir
 **Rolümüz:** Analiz ve tavsiye. Sistemsel değişiklik kararı sistem sahibindedir.
 **Takip kuralı:** Her kalıcı değişiklik (karar, rapor dosyası, dilim onayı, kapanış) yeni numarayla **sona** eklenir. Eski kayıt metni değiştirilmez; durum değişince yeni kayıt + eski numaraya atıf.
 **Klasör:** `C:\Users\Kemal\Desktop\APARTORA` — numaralı md raporlar burada; bu dosya tek gelişim günlüğüdür.
-**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 31
+**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 32
 
 ---
 
@@ -139,6 +139,9 @@ M002 (Claude): okudu, push token yok, indeks “Private” çelişkisi bildirdi,
 
 ### 31 — Sohbet sürekliliği / oto takip (20.09.2026)
 Kaynak gerçeklik sohbet değil: GitHub’daki ILETISIM + GELISIM. `OTO_TAKIP.md` + `.cursor/rules/iletisim-oto-takip.mdc` (alwaysApply): her turda `git pull` + kanal okuma. YONETIM §10. İsteğe bağlı `/loop` veya Cursor Automation. M005.
+
+### 32 — Ön test + katılımcı sohbet açılışı (20.09.2026)
+Kanal ön testleri geçti (yerel dosyalar, GitHub API, public raw YONETIM, M001–M005 zinciri). M006: Claude / GPT / İnsan:Kemal davet + yapıştır metinleri; Gündem-A Tur 1 oyları bekleniyor. Kod yok.
 
 ---
 
