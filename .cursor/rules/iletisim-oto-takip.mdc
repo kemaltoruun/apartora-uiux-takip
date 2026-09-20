@@ -34,3 +34,7 @@ Sohbet kapanırsa bağlam kaybolabilir; **kaynak gerçeklik GitHub’daki ILETIS
 
 Önemli tur, oy sayımı, köprü durumu veya görsel düzenleme özeti → sağ panel **Canvas** güncelle:
 `canvases/apartora-takip-durum.canvas.tsx` (workspace canvases). Chat’te yalnız kısa özet; tablo/durum panosu canvas’ta.
+
+## Canlı web kanıtı
+
+Gerekince **https://apartora.com** (açık oturum) → ekran görüntüsü / snapshot. Sahip: “web açık, oradan al.” Otomasyon tarayıcısı login isterse sahip oturumu kullanır veya yapıştırır.
