@@ -169,11 +169,11 @@ Prefix: `özellik:` (yeni) | `düzeltme:` (bug fix) | `güncelleme:` (update) | 
 - **Sıklık**: Günlük 23:00 UTC (7 gün) + Haftalık Pazar (4 hafta) + Aylık ayın 1'i (12 ay) + Aylık restore drill (4:00 UTC)
 - **Cronicle event ID'leri**: kod sabit `src/lib/backup/r2-backup.ts → CRONICLE_EVENTS`
 - **Script kaynağı**: `scripts/cronicle/{backup-supabase.sh,restore-drill.sh}` (Cronicle event'leri inline kopya — UI'dan değişiklik repo'ya yansıtılmalı)
-- **Şifreleme parolası**: `C:\Users\furka\OneDrive\Belgeler\apartora-backup-parolasi.txt` + `C:\Users\furka\Documents\apartora-backup-parolasi.txt`. Cronicle event env'inde de var. Env'e (Apartora) KOYMA
-- **Restore**: UI'dan engelli (CLI prosedürü `scripts/cronicle/README.md`)
+- **Şifreleme parolası**: Yerel kasa / Cronicle event env (bu takip deposuna KOYMA).
+- **Restore**: UI'dan engelli (CLI prosedürü ürün reposunda)
 - **Audit retention**: pg_cron `cleanup-all-logs` (03:00 UTC, ~180 gün). Backup 23:00'a alındı ki cleanup öncesi son kayıtlar yedeğe girsin
-- **Coolify env eklenmeli (production)**: `CRONICLE_API_KEY`, `R2_BACKUP_BUCKET=apartora-db`, `SUPABASE_DB_URL` (opsiyonel, app kullanmıyor)
-- **Detay**: `memory/project_supabase_backup.md`
+- **Coolify env (production, yalnız isimler)**: `CRONICLE_API_KEY`, `R2_BACKUP_BUCKET`, `SUPABASE_DB_URL` — değerler burada yok.
+- **Detay**: ürün reposu `memory/project_supabase_backup.md`
 
 ## ÖNEMLİ NOTLAR
 - **Lint seçici çalıştır** (detay: `memory/feedback_lint_run_selectively.md`) — sadece push öncesi / 3+ dosya / yeni component-hook-API
@@ -182,9 +182,7 @@ Prefix: `özellik:` (yeni) | `düzeltme:` (bug fix) | `güncelleme:` (update) | 
 - Major değişiklik/deploy öncesi: `docker compose up --build` ile test
 
 ## ÖDEME TEST & ADMİN
-- **Primary provider**: PayTR (test kartları: `memory/reference_paytr_test_cards.md` — Visa/MC/Troy, CVV=000)
-- **iyzico (legacy)**: `5892830000000000` | SKT: `12/28` | CVV: `703`
-- **Admin email**: ürün içi admin hesabı (bu takip deposunda yazılmaz)
+- Test kartları / admin hesabı: ürün reposu hafızasında (bu takip deposunda yazılmaz)
 
 ## SKILLS
 `/mobile-review` `/i18n-check` `/pdf` `/xlsx` `/docx` `/pptx` `/frontend-design` `/webapp-testing`
