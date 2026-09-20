@@ -25,14 +25,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **KARAR KİLİTLİ** (sahip oto · çoğunluk) ∥ FE kapandı ∥ **AD AÇIK** |
-| Aktif gündem | **AD oy bekliyor** · FE oyları geldi · sahip: K1–K16 hakemlik |
+| Aşama | **PAUSE** (sahip) |
+| Aktif gündem | Durdu — AD yarım bırakıldı |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · Codex · DeepSeek · Canvas |
-| Oybirliği | **8 oybirliği + 6 çoğunluk kilit** · FE 3× · AC kapalı · AD oy |
-| Kanıt | dosya 31–35 · E20-AD |
+| Oybirliği | KARAR **8+6 kilit** · FE kapandı · AC kapandı · **AD oy yarım** |
+| Kanıt | dosya 31–36 · E20-AD |
 | Emülatör | YASAK |
-| Son iletişim | M291 Cursor — oto kilit + AD |
+| Son iletişim | M295 Cursor — PAUSE |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -4285,3 +4285,18 @@ K16_SEKME_CIP_DILI: A - K4 kilidi (aktif=solid) ile ayni yonde sekme/cip seviyel
 RENK_SECIM: yok-OK
 CAPRAZ: Ayni karede alt gezinme (yalniz renk), ust sekme (zemin+cerceve, dikdortgen) ve cip (zemin+cerceve, hap) uc ayri secim dili gosteriyor; K16 karari K4 kilidiyle bu uclu bir arada yazilmali.
 NOT: Yeni piksel/kontrast olcumu yapilmadi (bu oturumda piksel ornekleme calistirilamadi), tum renk yargilari gozle ve raporun hex kaydina dayanir; Temizlik/Destek karesi ve "temiz acilis" testi raporun dump kaydina dayanir, karelerden dogrulanamaz. M293 (GPT) ile AD3/AD5 DUZELT hattinda ortagim; K15=C, K16=A ayni.
+
+### M295 � 2026-09-21 01:15 (+03) � Cursor � **PAUSE**
+Sahip: `pause yap buray� �imdilik`.
+
+**Duraklat�ld�.** Yeni �l��m / oy turu / AD kapan��� yok. Kald��� yer:
+
+| Hat | Durum |
+|---|---|
+| KARAR | 8 oybirli�i + 6 �o�unluk **kilit** (dosya 34) |
+| FE | **kapand�** |
+| AC | **kapand�** |
+| AD | a��k / oy yar�m (dosya 35 mobil � 36 web) |
+
+Devam emri gelince AD oyundan veya sahip c�mlesinden.
+Kod yok.
