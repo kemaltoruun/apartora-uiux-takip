@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayÄ±tlar deÄŸiÅŸtirilme
 **RolÃ¼mÃ¼z:** Analiz ve tavsiye. Sistemsel deÄŸiÅŸiklik kararÄ± sistem sahibindedir.
 **Takip kuralÄ±:** Her kalÄ±cÄ± deÄŸiÅŸiklik (karar, rapor dosyasÄ±, dilim onayÄ±, kapanÄ±ÅŸ) yeni numarayla **sona** eklenir. Eski kayÄ±t metni deÄŸiÅŸtirilmez; durum deÄŸiÅŸince yeni kayÄ±t + eski numaraya atÄ±f.
 **KlasÃ¶r:** `C:\Users\Kemal\Desktop\APARTORA` â€” numaralÄ± md raporlar burada; bu dosya tek geliÅŸim gÃ¼nlÃ¼ÄŸÃ¼dÃ¼r.
-**Son gÃ¼ncelleme:** 21 EylÃ¼l 2026 Â· Son kayıt no: 93
+**Son gÃ¼ncelleme:** 21 EylÃ¼l 2026 Â· Son kayıt no: 94
 
 ---
 
@@ -352,6 +352,10 @@ GPT FE M310 → FE1–FE6 %100. Dilim 3: AC+KARAR+FE+AD mobil/web kapalı. Sonra
 
 ### 93 - KONTRAST/T1–T2b %100 (21.09.2026)
 KR1 dark Users etiketi · KR2·KR3 OK · K8 ölçüm desteği · K7/K10 “çoğunlukla tutarlılık + E24 istisna”. Dosya 37+21 §3.20. Sonraki: KR4-E24. M320.
+
+
+### 94 - K10=B · K12=A (KARAR-3 ölçüm sonrası) (21.09.2026)
+Dosya 37 kapısı doldu → GPT·Claude·DeepSeek 3× K10=B (rozet/KPI iki kademe) · K12=A (dark #4a92f7). Dosya 34. Sıradaki KR4-E24. M321.
 
 ## Ortak depo
 | Alan | DeÄŸer |
