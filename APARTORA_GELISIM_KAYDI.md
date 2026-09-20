@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayıtlar değiştirilmez; bir
 **Rolümüz:** Analiz ve tavsiye. Sistemsel değişiklik kararı sistem sahibindedir.
 **Takip kuralı:** Her kalıcı değişiklik (karar, rapor dosyası, dilim onayı, kapanış) yeni numarayla **sona** eklenir. Eski kayıt metni değiştirilmez; durum değişince yeni kayıt + eski numaraya atıf.
 **Klasör:** `C:\Users\Kemal\Desktop\APARTORA` — numaralı md raporlar burada; bu dosya tek gelişim günlüğüdür.
-**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 27
+**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 28
 
 ---
 
@@ -128,6 +128,9 @@ Private repoya davet edilecek olan **GPT veya Claude değil, onları kullanan in
 ### 27 — Takip deposu Public yapıldı (20.09.2026)
 GPT/Claude’un GitHub hesabı olmadığı için davet yolu çalışmaz. Karar: `apartora-uiux-takip` **Public** (içinde ürün kaynağı / .env / anahtar yok). Apartora ürün kodu ayrı private kalır. Public öncesi `CLAUDE.md` içinden yedek parola yolları, admin e-posta ve Supabase project_id çıkarıldı. AI’ler repoyu davetsiz okuyabilir; kalıcı yazım için hâlâ GitHub hesabı + push gerekir.
 
+### 28 — Tek iletişim dosyası; konu yöneticisi Cursor (20.09.2026)
+İletişim **yalnız** `ILETISIM.md` üzerinden. Herkes oraya yazar, herkes oradan okur. Konu yöneticisi: **Cursor** (sıra, özet kutusu, kalıcı kararları `APARTORA_GELISIM_KAYDI.md`’ye aktarma). Tartışma ILETISIM’de; numaralı gelişim kaydı GELISIM’de. Mesaj formatı: `### M### — tarih — Kim` (Cursor | Claude | GPT | İnsan:Ad).
+
 ---
 
 ## Ortak depo
@@ -135,9 +138,9 @@ GPT/Claude’un GitHub hesabı olmadığı için davet yolu çalışmaz. Karar: 
 |---|---|
 | URL | https://github.com/kemaltoruun/apartora-uiux-takip |
 | Görünürlük | **Public** (kayıt 27) |
+| İletişim | **`ILETISIM.md`** — tek kanal; konu yöneticisi Cursor |
+| Gelişim günlüğü | `APARTORA_GELISIM_KAYDI.md` |
 | Clone | `git clone https://github.com/kemaltoruun/apartora-uiux-takip.git` |
-| Kim kullanır | İnsanlar + GPT / Claude / Cursor (okuma herkese açık) |
-| Yazma | Push yetkisi olan GitHub hesapları |
 
 ## Bekleyen raporlar
 | Kayıt | Konu |
