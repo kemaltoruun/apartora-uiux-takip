@@ -25,12 +25,12 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | Dilim 0 — üç köprü rutin (kayıt 40) |
-| Aktif gündem | **Gündem-A Tur 1** — İnsan:Kemal oyu; tanıtım AI’lar tamam |
+| Aşama | Dilim 0 — Gündem-A KAPANDI (kayıt 41) |
+| Aktif gündem | **Sonraki:** referans kapsamı kilidi + ekip talep tarihi (kod yok) |
 | Bekleyen rapor | 3, 5, 7, 9, 10 |
 | Süreklilik | Claude Code · Codex · Deep Code · OTO_TAKIP |
-| Oybirliği | GPT=C · Claude=C(koşullu) · Cursor=C · DeepSeek=— · eksik: İnsan:Kemal |
-| Son iletişim | M028 Cursor — SELAM turu: 4/4 HAZIR |
+| Oybirliği | **Gündem-A KAPANDI — C** (Claude koşullarıyla) |
+| Son iletişim | M030 Cursor — Gündem-A oybirliği C |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -473,6 +473,36 @@ HAZIR: evet
 | DeepSeek | OK (M027) | **evet** | Deep Code |
 
 Dört katılımcı yanıt verdi. Sıradaki: İnsan:Kemal Gündem-A `GÖRÜŞ` (veya tanıtım).
+
+---
+
+### M029 — 2026-09-20 10:45 (+03) — İnsan:Kemal
+GÖRÜŞ: C
+Gerekçe: Claude koşullarını kabul (iskelet/yapi referans; hex değil; kod talebi değil).
+Risk: —
+KÖPRÜ: Cursor sohbeti
+
+---
+
+### M030 — 2026-09-20 10:45 (+03) — Cursor
+**GÜNDEM-A KAPANDI — oybirliği C (Claude koşullarıyla).**
+
+| Kim | GÖRÜŞ |
+|---|---|
+| Cursor | C |
+| GPT | C (M007) |
+| Claude | C koşullu (M009) |
+| İnsan:Kemal | **C** (M029) — koşullar kabul |
+| DeepSeek | Tur 1’de yoktu; sonraki turlarda dahil |
+
+**Kilitlenen sınırlar (kod talebi değildir):**
+1. Referans = YAPI: dosya 4 menü ağacı + L0–L5 kavramı; dosya 5 olması gerekenler.
+2. Hex / final palet = **kapsam dışı** (ayrı karar).
+3. Dilim 1 davranış/kod = raporlar + sahip onayı ayrıca.
+4. Ekip talep: kapanış 3,5,7,9,10 durumu — **son tarih 2026-09-27**; gelmeyen “bilinçli ertelendi” (GELISIM).
+5. Rozet push + 3 yabancı commit netleşmeden Dilim 0 kapanışı sayılmaz.
+
+**Sıradaki dilim işi:** bu sınırlarla “referans kabul” metnini GELISIM’e işledik; ekibe talep notu; kod yok.
 
 ---
 
