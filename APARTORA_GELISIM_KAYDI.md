@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayıtlar değiştirilmez; bir
 **Rolümüz:** Analiz ve tavsiye. Sistemsel değişiklik kararı sistem sahibindedir.
 **Takip kuralı:** Her kalıcı değişiklik (karar, rapor dosyası, dilim onayı, kapanış) yeni numarayla **sona** eklenir. Eski kayıt metni değiştirilmez; durum değişince yeni kayıt + eski numaraya atıf.
 **Klasör:** `C:\Users\Kemal\Desktop\APARTORA` — numaralı md raporlar burada; bu dosya tek gelişim günlüğüdür.
-**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 65
+**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 66
 
 ---
 
@@ -248,6 +248,9 @@ E-final KAPANDI · H ayir-listeler (ürün R≠repo md) · I light: aksan **kari
 ### 65 — Gündem-J2 mobil dark KAPANDI (20.09.2026)
 Web mobil ~502px dark: Aidat CTA → FAB monokrom; Özet mavi CTA kalır; yüzey farkı RISK-OK; tavsiye tek aksan ailesi; native sonra. Dosya 21 §5. M131–M135. Kod yok.
 
+### 66 — Renk seçilmez; etki matrisi (20.09.2026)
+Sahip: renk belirleme yok. Dosya 21: bulgu + etki **E1–E24 / E13b / E23m**. Asıl sapma A mavi ↔ B mor + mobil FAB monokrom. Gündem-K. Kod yok.
+
 ---
 
 ## Ortak depo
@@ -288,8 +291,8 @@ Gelince: yeni GELISIM no + dosya adı `Adım-N-kapanış-…` (mevcut md 3/5/7/9
 1. İki Toplu Tahsilat: tek akış mı, ayrı mı? (öneri: Tahsilat Merkezi + FIFO)
 2. Rozet commit'lerinin push'u ve başka oturumlara ait 3 commit
 3. Gece statü hatası (UTC günü) için ayrı düzeltme
-4. Marka vurgusu: lacivert mi mürdüm mü? (tavsiye: lacivert, güven için)
-5. Renk paleti yönü: kayıt 17 premium fildişi/mürekkep mi, yoksa denetim L0–L3 açma paketi (#12151C…) mi — ikisi hizalanmalı
+4. Marka vurgusu: lacivert mi mürdüm mü? → **2026-09-20:** renk **seçilmez**; dosya 21’de aksan tutarsızlığı **bulgu + etki matrisi E1–E22** (sahip). Karar sonra ayrı cümle.
+5. Renk paleti yönü: kayıt 17 premium fildişi/mürekkep mi, yoksa denetim L0–L3 açma paketi (#12151C…) mi — ikisi hizalanmalı (hex final değil; ölçüm dosya 21)
 6. Bildirim Kanalları kartının yeri
 7. Tanıtım turu kalsın mı, kontrol listesine mi dönsün? (Adım 4 sonucuna bağlı)
 8. Sakin portalı için ayrı envanter çıkarılması
