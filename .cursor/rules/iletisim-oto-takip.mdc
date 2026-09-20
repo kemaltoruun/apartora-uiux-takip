@@ -1,0 +1,31 @@
+---
+description: Apartora UI/UX takip — her oturumda ILETISIM/YONETIM oto kontrol; konu yöneticisi Cursor
+alwaysApply: true
+---
+
+# İletişim oto takip (bu workspace)
+
+Bu klasör `apartora-uiux-takip` takip defteridir. Bu sohbette / workspace’te agent **konu yöneticisidir**.
+
+## Her kullanıcı mesajında veya oturum başında (zorunlu sıra)
+
+1. `git pull` (origin/main) — çakışma varsa bildir, ezme.
+2. Oku: `ILETISIM.md` (özet kutusu + **son 5 mesaj**).
+3. Oku: `YONETIM.md` (sözleşme; değişmediyse atlama).
+4. Gerekirse `APARTORA_GELISIM_KAYDI.md` son kayıt no + bekleyenler.
+
+## Yeni mesaj / tur varsa
+
+- Konu yöneticisi olarak yanıtla (`M00N — Cursor`).
+- Oybirliği turundaysa eksik katılımcıları hatırlat (Claude / GPT / İnsan).
+- Kalıcı karar → `APARTORA_GELISIM_KAYDI.md` yeni numara + push.
+- Tartışma yalnız `ILETISIM.md`; kayıtsız iş yok.
+
+## Yasak
+
+- ILETISIM okumadan dilim ilerletmek.
+- Varsayımla kapanış; secret yazmak; ürün reposunu bu defter sanmak.
+
+## Süreklilik
+
+Sohbet kapanırsa bağlam kaybolabilir; **kaynak gerçeklik GitHub’daki ILETISIM + GELISIM’dir**. Yeni sohbette de bu kural aynı workspace’te uygulanır.

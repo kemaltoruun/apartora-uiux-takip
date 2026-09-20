@@ -6,6 +6,9 @@
 !0.INDEX_TAKIP.md
 !*.md
 !live-dashboard-snapshot.yml
+!.cursor/
+!.cursor/rules/
+!.cursor/rules/iletisim-oto-takip.mdc
 
 # Asla
 .env

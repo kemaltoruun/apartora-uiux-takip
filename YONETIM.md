@@ -127,12 +127,24 @@ Sonra: ILETISIM’e bulgu + görüş
 
 | Dosya | Ne |
 |---|---|
-| `YONETIM.md` | Bu sözleşme (nadiren güncellenir; değişiklik = GELISIM kaydı) |
+| `YONETIM.md` | Bu sözleşme |
+| `OTO_TAKIP.md` | Sohbet sürekliliği / oto kontrol |
 | `ILETISIM.md` | Günlük tartışma, turlar, talimatlar |
 | `APARTORA_GELISIM_KAYDI.md` | Kalıcı numaralı tarihçe |
 | `0.INDEX_TAKIP.md` | Rapor indeksi |
+| `.cursor/rules/iletisim-oto-takip.mdc` | Cursor her turda pull+ILETISIM |
 | `1.`…`n.` md | Derin raporlar |
 
 ---
 
-*Sözleşme yürürlük: kayıt 30 · 2026-09-20*
+## 10. Süreklilik (sohbet ≠ kaynak)
+
+Sohbet kapanabilir; **ILETISIM + GELISIM** kapanmaz. Ayrıntı: [`OTO_TAKIP.md`](./OTO_TAKIP.md).
+
+- Bu workspace’te Cursor kuralı her turda kanalı okutur.
+- Diğer AI’lar push eder; yönetici bir sonraki uyanışta görür.
+- İsteğe bağlı: `/loop` veya Cursor Automation ile periyodik `git pull` + yanıt.
+
+---
+
+*Sözleşme yürürlük: kayıt 30 · süreklilik: kayıt 31 · 2026-09-20*
