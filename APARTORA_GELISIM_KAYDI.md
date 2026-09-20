@@ -443,3 +443,13 @@ Dilim 2 renk ölçümü doğal sınırına ulaştıktan sonra sahip «ikisi para
 **KARAR-1:** Tur1’de K4/K7/K8 anlaşmazlığı → Tur2’de GPT A/B/A’ya çekildi → **9/9 tavsiye oybirliği**: K1A · K2B · K3B · K4A · K5A · K6B · K7B · K8A · K9A. Hex kilidi yok, kod yok; **sahip kilidi bekliyor**.
 **AC:** Üç kehribar (K10 adayı) · Malik=E6 çakışması · AB4 öz-düzeltme (KPI token-dışı) · CTA A-mavi kanıtı · filtre hipotezi düşürüldü · Hatırlat(0) ürün kararı. 3× OK.
 **Mesajlar:** M269–M279. Emülatör yasak. Sonraki aday ölçüm: AD Talepler (sahip onayıyla).
+
+### 96 — Kontrast ölçümü karar kilidini açtı: KARAR 16/16 + AD mobil kapandı (21.09.2026)
+GPT dört kalemde (K7·K8·K10·K12) “önce kontrast ölç, sonra kuralı seç” diyordu. Kontrast **ölçüldü** (`37.KONTRAST_OLCUMU_WCAG_2026-09-21.md` · dosya 21 §3.20) ve C gerekçeleri düştü.
+
+**Ölçümün bulduğu üç sorun:** KR1 `#0f172a`↔`#2563eb` = **3,45:1 FAIL** (etiket Tur 4’te düzeltildi: **dark** Users CTA’sında light-hex artığı, E16d §3.8) · KR2 `#f8fafc`↔`#4a92f7` = **2,98:1** (kullanılmayan tuzak eşleme) · KR3 `#2563eb`↔`#e3ebfa` = **4,31:1** (yalnız light).
+**Kilidi belirleyen nüans:** A ailesi tema arası **yazı rengini ters çeviriyor** (light açık 4,94 · dark koyu 5,73); tek yazı rengine çekmek kesin FAIL üretir → **K12=A**. Dark glif 500 metin eşiğini geçmiyor, yazı 400 geçiyor → **K8=A** (iki-ton = kontrast mekanizması). Üç kırmızı + üç kehribar eşiği geçiyor → **K7/K10 tutarlılık kalemi**.
+
+**KARAR-3 (M306·M313·M317):** açık altı kalemin hepsi 3× aynı → **K4=B · K7=C · K8=A · K10=B · K12=A · K14=B**. Dosya 31 “NIHAI KILIT — 16 kalem %100”. Çoğunlukla kapanan kalem yok (§3.1).
+**Gündem-AD mobil (dosya 35):** AD1 ekran “Talepler” ama varsayılan sekme **Bakım** (temiz açılışla iki kez) · AD2 varsayılan filtre tutarsızlığı (**K15**) · AD3 seçim dili renk ailesi ortak/şekil ayrı · AD4 sekmeye göre üç filtre şeması · AD5 ölçülen altı boş-durum katmanı hizalı (“tam hizalı ekran” iddiası **geri çekildi**) · AD6 rozetler **ölçülemedi** (iki sitede 0 kayıt) · AD7 **A-mavi üç işte, solid yalnız FAB** (FAB yazısı: light `#f5f8fb` · dark `#12151c`).
+**Dört öz-düzeltme** ölçümle yapıldı (sekme çerçevesi · “tam hizalı” iddiası · KR1 etiketi · AD7’nin genişliği). **Mesajlar:** M292–M325. Sıradaki ölçüm: **AE Duyurular**. Hex final yok · kod yok.
