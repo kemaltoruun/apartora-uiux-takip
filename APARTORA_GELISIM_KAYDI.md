@@ -1,4 +1,4 @@
-# APARTORA — Gelişim Kaydı
+﻿# APARTORA — Gelişim Kaydı
 
 Her yenilik yeni bir numarayla sona eklenir. Eski kayıtlar değiştirilmez; bir kaydın durumu değişirse yeni bir kayıt açılır ve eskisine atıf yapılır.
 
@@ -251,6 +251,8 @@ Web mobil ~502px dark: Aidat CTA → FAB monokrom; Özet mavi CTA kalır; yüzey
 ### 66 — Renk seçilmez; etki matrisi (20.09.2026)
 Sahip: renk belirleme yok. Dosya 21: bulgu + etki **E1–E24 / E13b / E23m**. Asıl sapma A mavi ↔ B mor + mobil FAB monokrom. Gündem-K. Kod yok.
 
+### 67 — Gündem-L KAPANDI: E13b + E24 ölçüldü (20.09.2026)
+Kapalı FAB `#2563eb` (A); maddeler monokrom. E24 light+dark: Bekleyen=E6 örtüşme; kırmızı çoklu hex; yeşil iki ton. Renk seçimi yok. M142–M150. Kod yok.
 ---
 
 ## Ortak depo
@@ -291,7 +293,7 @@ Gelince: yeni GELISIM no + dosya adı `Adım-N-kapanış-…` (mevcut md 3/5/7/9
 1. İki Toplu Tahsilat: tek akış mı, ayrı mı? (öneri: Tahsilat Merkezi + FIFO)
 2. Rozet commit'lerinin push'u ve başka oturumlara ait 3 commit
 3. Gece statü hatası (UTC günü) için ayrı düzeltme
-4. Marka vurgusu: lacivert mi mürdüm mü? → **2026-09-20:** renk **seçilmez**; dosya 21’de aksan tutarsızlığı **bulgu + etki matrisi E1–E22** (sahip). Karar sonra ayrı cümle.
+4. Marka vurgusu: lacivert mi mürdüm mü? → **2026-09-20:** renk **seçilmez**; dosya 21’de aksan tutarsızlığı **bulgu + etki matrisi E1–E24 / E13b** (sahip). Karar sonra ayrı cümle.
 5. Renk paleti yönü: kayıt 17 premium fildişi/mürekkep mi, yoksa denetim L0–L3 açma paketi (#12151C…) mi — ikisi hizalanmalı (hex final değil; ölçüm dosya 21)
 6. Bildirim Kanalları kartının yeri
 7. Tanıtım turu kalsın mı, kontrol listesine mi dönsün? (Adım 4 sonucuna bağlı)
