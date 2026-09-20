@@ -29,3 +29,8 @@ Bu klasör `apartora-uiux-takip` takip defteridir. Bu sohbette / workspace’te 
 ## Süreklilik
 
 Sohbet kapanırsa bağlam kaybolabilir; **kaynak gerçeklik GitHub’daki ILETISIM + GELISIM’dir**. Yeni sohbette de bu kural aynı workspace’te uygulanır.
+
+## Canvas (zorunlu — görsel durum)
+
+Önemli tur, oy sayımı, köprü durumu veya görsel düzenleme özeti → sağ panel **Canvas** güncelle:
+`canvases/apartora-takip-durum.canvas.tsx` (workspace canvases). Chat’te yalnız kısa özet; tablo/durum panosu canvas’ta.
