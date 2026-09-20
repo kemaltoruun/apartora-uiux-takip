@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayıtlar değiştirilmez; bir
 **Rolümüz:** Analiz ve tavsiye. Sistemsel değişiklik kararı sistem sahibindedir.
 **Takip kuralı:** Her kalıcı değişiklik (karar, rapor dosyası, dilim onayı, kapanış) yeni numarayla **sona** eklenir. Eski kayıt metni değiştirilmez; durum değişince yeni kayıt + eski numaraya atıf.
 **Klasör:** `C:\Users\Kemal\Desktop\APARTORA` — numaralı md raporlar burada; bu dosya tek gelişim günlüğüdür.
-**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 59
+**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 61
 
 ---
 
@@ -223,6 +223,18 @@ Dosya 20: V1–V6 özet · sahip kilitleri · öncelik P1–P7 · ekip/kod kapı
 
 ### 59 — §3.3 her aşama katılımcı + Gündem-F/G (20.09.2026)
 Sahip: her aşama ekiplerle değerlendirilecek. YONETIM §3.3 + oto-takip. F Tur1: Claude/GPT/DeepSeek sentez-OK+AL+beklet (+P1+P2 tek dilim). G: Faz2–5 geriye dönük açıldı. M074–M078. Kod yok.
+
+### 60 — Gündem-G Tur1–2 + §3.3 işliyor (20.09.2026)
+G Tur1: 3× FAZ2 OK · 3× FAZ3/4/5 DUZELT. Tur2: G2a OK; G2b/c/d DUZELT → dil/dump/talep. M079–M087. Kod yok.
+
+### Bekleyen talepler (§7)
+| ID | Kime | Soru | Durum |
+|---|---|---|---|
+| T-para-kart | yazılım-ekibi | Özet “Tahsilat Durumu” + “Aidat Özeti”: `label + query/kaynak + period` (tek satır) | **açık** — dönüşte G2b turu |
+| T-saf-sakin | sahip / ekip | Saf tek-rol RESIDENT test hesabı (kayıt API; raw SQL yok) | **açık** — dönüşte G2d kesinleşir |
+
+### 61 — Gündem-G KAPANDI (20.09.2026)
+G2.2: Claude/GPT/DeepSeek 3× OK. Kanıt dili tutarlı (aday · koşullu RISK · tanım bekliyor). Açık talepler T-para-kart / T-saf-sakin. M088–M095. Kod yok.
 
 ---
 
