@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayÄ±tlar deÄŸiÅŸtirilme
 **RolÃ¼mÃ¼z:** Analiz ve tavsiye. Sistemsel deÄŸiÅŸiklik kararÄ± sistem sahibindedir.
 **Takip kuralÄ±:** Her kalÄ±cÄ± deÄŸiÅŸiklik (karar, rapor dosyasÄ±, dilim onayÄ±, kapanÄ±ÅŸ) yeni numarayla **sona** eklenir. Eski kayÄ±t metni deÄŸiÅŸtirilmez; durum deÄŸiÅŸince yeni kayÄ±t + eski numaraya atÄ±f.
 **KlasÃ¶r:** `C:\Users\Kemal\Desktop\APARTORA` â€” numaralÄ± md raporlar burada; bu dosya tek geliÅŸim gÃ¼nlÃ¼ÄŸÃ¼dÃ¼r.
-**Son gÃ¼ncelleme:** 21 EylÃ¼l 2026 Â· Son kayıt no: 87
+**Son gÃ¼ncelleme:** 21 EylÃ¼l 2026 Â· Son kayıt no: 90
 
 ---
 
@@ -328,6 +328,18 @@ Kayıt 85 “KARAR-1 9/9 tavsiye” diyordu; dayanağı GPT’nin Tur2’de A/B/
 ### 87 - Sahip oto kilit + FE kapandı + AD açıldı (21.09.2026)
 Sahip “net karar / sorma / oto devam”. **8 oybirliği + 6 çoğunluk** kilitlendi (GPT azınlık B/C/C kayıtlı; kontrast = uygulama kapısı). FE1–FE6 3× koru-OK. Dosya 34. Canlı AD web: Dneme1234 `/manager/requests` light+dark — CTA A-mavi, Acil kenar@0, body `#030712` (K5 gerilim), 0 kayıt → rozet ertelendi (dosya 36). Mobil AD ayrı (dosya 35). M291–M292. Kod yok.
 
+
+### 88 - YONETIM §3.4: %100 oy = kilit; sahip onay/devam bekleme (21.09.2026)
+Sahip: onay veya “devam” beklenmez; Claude·GPT·DeepSeek 3× aynı yeter. Çoğunluk kapanış yasak. Dosya 34’teki “çoğunluk kilit” geçici; 8 oybirliği kalem %100 KAPANDI. PAUSE kalktı (oy hattı). M296.
+
+
+
+### 89 - AD/T1 %100 kısmi + K15C/K16A + AD3/AD5 düzelt + Tur2 (21.09.2026)
+AD/T1: AD1·2·4·6 %100 KAPANDI; AD3·AD5 3× DUZELT → dosya 35 dil düzeltildi, Tur2 `AD/T2-ad35`. K15=C · K16=A %100. Açık KARAR 6 kalem Tur2 `KARAR-T2-100` (§3.4 çoğunluk kilit değil). M299.
+
+
+### 90 - KARAR 16/16 + AD mobil %100 (§3.4) (21.09.2026)
+K4=B · K7=C · K8=C · K10=C · K12=C · K14=B (Tur2–3: GPT azınlık + DeepSeek M301 + Claude M302). K15=C · K16=A. AD/T1–T2 mobil AD1–AD6 %100. Dosya 34. C kalemleri = uygulama kontrast kapısı. Sıradaki: AD web oy. M304.
 
 ## Ortak depo
 | Alan | DeÄŸer |

@@ -83,6 +83,20 @@ Sahip talimatı (2026-09-20, tekrar teyit): **Her faz / her ölçüm aşaması**
 
 İhlal = aşama yarım sayılır; geriye dönük tur açılır.
 
+### 3.4 Sahip onayı / “devam” bekleme (2026-09-21)
+
+Sahip talimatı: **“Onay vermemi veya devam et dememi bekleme; oylamada %100 yakala, yeter.”**
+
+| Ne | Kural |
+|---|---|
+| Kilit eşiği | Claude · GPT · DeepSeek **aynı seçenek (3×)** = **%100 oybirliği** → gündem **KAPANDI**, sonraki işe geçilir |
+| Sahip “ok / devam / tmm” | **Gerekmez** (bu madde yürürlükteyken) |
+| %100 yoksa | Tur 2+ / çapraz (§3.1) sürer; çoğunlukla kapatılmaz (§3.1 yasak durur) |
+| Sahip “PAUSE” | Yeni iş açılmaz; açık turlar durur |
+| Sahip “kır / red” | Açık cümleyle kırıcı karar (§3.1 madde 5) |
+
+**Not:** Daha önce “sahip kilidi bekliyor” yazılmış kalemler, bu kural sonrası **%100** ile kapanır; %100 olmayanlar (çoğunluk) kilit sayılmaz, tur devam eder.
+
 ---
 
 ## 4. Kademeli ilerleme (dilimler)

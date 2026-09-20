@@ -25,14 +25,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **PAUSE** (sahip) |
-| Aktif gündem | Durdu — AD yarım bırakıldı |
+| Aşama | **AKTİF** · §3.4 %100 · KARAR+AD mobil **KAPANDI** |
+| Aktif gündem | AD web AD/W · FE GPT |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · Codex · DeepSeek · Canvas |
-| Oybirliği | KARAR **8+6 kilit** · FE kapandı · AC kapandı · **AD oy yarım** |
-| Kanıt | dosya 31–36 · E20-AD |
+| Oybirliği | KARAR 16 · AD mobil 6 · eşik 3× |
+| Kanıt | dosya 31–36 · §3.4 · K15/K16 kilit |
 | Emülatör | YASAK |
-| Son iletişim | M295 Cursor — PAUSE |
+| Son iletişim | M304 Cursor — %100 kilit |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -4286,17 +4286,215 @@ RENK_SECIM: yok-OK
 CAPRAZ: Ayni karede alt gezinme (yalniz renk), ust sekme (zemin+cerceve, dikdortgen) ve cip (zemin+cerceve, hap) uc ayri secim dili gosteriyor; K16 karari K4 kilidiyle bu uclu bir arada yazilmali.
 NOT: Yeni piksel/kontrast olcumu yapilmadi (bu oturumda piksel ornekleme calistirilamadi), tum renk yargilari gozle ve raporun hex kaydina dayanir; Temizlik/Destek karesi ve "temiz acilis" testi raporun dump kaydina dayanir, karelerden dogrulanamaz. M293 (GPT) ile AD3/AD5 DUZELT hattinda ortagim; K15=C, K16=A ayni.
 
-### M295 � 2026-09-21 01:15 (+03) � Cursor � **PAUSE**
-Sahip: `pause yap buray� �imdilik`.
+### M295 � 2026-09-21 01:15 (+03) � Cursor � **PAUSE**
+Sahip: `pause yap buray� �imdilik`.
 
-**Duraklat�ld�.** Yeni �l��m / oy turu / AD kapan��� yok. Kald��� yer:
+**Duraklat�ld�.** Yeni �l��m / oy turu / AD kapan��� yok. Kald��� yer:
 
 | Hat | Durum |
 |---|---|
-| KARAR | 8 oybirli�i + 6 �o�unluk **kilit** (dosya 34) |
-| FE | **kapand�** |
-| AC | **kapand�** |
-| AD | a��k / oy yar�m (dosya 35 mobil � 36 web) |
+| KARAR | 8 oybirli�i + 6 �o�unluk **kilit** (dosya 34) |
+| FE | **kapand�** |
+| AC | **kapand�** |
+| AD | a��k / oy yar�m (dosya 35 mobil � 36 web) |
 
-Devam emri gelince AD oyundan veya sahip c�mlesinden.
+Devam emri gelince AD oyundan veya sahip c�mlesinden.
+Kod yok.
+
+### M296 — 2026-09-21 02:25 (+03) — DeepSeek
+**Sahip "devam" emri: AD ölçüm/oy** — M295 PAUSE'ı bu blokla kalkıyor. **Tur kimliği: `AD/W-m291`** — dosya 35 · web · Dneme1234 `/manager/requests` light+dark · 0 kayıt. (M292-web/Claude 02:20 aynı turdadır; `AD/T1-cursor` mobil dosya 34'tür — ayrı sayılır.) İki kare **bağımsız piksel taramasından** geçirildi (2400×1327).
+
+```
+GUNDEM: AD/W-m291
+AD1_CTA_A_MAVI: teyit-OK - light #2563eb / dark #4a92f7 (9.022 / 9.039 px, aynı bbox y[134-440]); dark CTA metni #0f172a (83 px) raporla birebir; mor yok, tek solid birincil (K1/K12/K14). Kontrast hesabı light ~4,9:1 · dark ~5,8:1 → AA eşiğini geçiyor.
+AD2_ACIL_KENAR_SIFIR: teyit-OK + kural-aday - 0 değerde Acil kartı tam kırmızı: kenar light #dc2626 / dark #f15b5b (2 px), ayrıca başlık + "0" + ikon + alt yazı tonu kırmızı; nötr kardeşler light #e2e8f0 / dark #353a46. Kural "kenar" değil KART düzeyinde yazılmalı; AC6 Hatırlat(0) ile aynı sınıf.
+AD3_DARK_L0_030712: DUZELT - #030712 karede 0 px; sağ kenar x=2380 dikey taraması y=0'dan sona kadar sabit #12151c (light #f8fafc) → görünen L0 #12151c. "body #030712 görünür" okuması Z1'de kapanan arka-durak (flaş önleyici) artefaktının tekrarı; K5 gerilimi değil. M292-web'in açık bıraktığı "ana kapsayıcı/piksel" sorusu bu taramayla kapandı. Gerçek yeni yüzey: "Talepler Hakkında" bandı light #f5f8fb / dark #171b22 (390.754 / 390.629 px, y[242-441], x[355-2368]) = token dışı yüzey (--card #1b1f27 değil) → AD5'e yazılmalı.
+AD4_BOS_DURUM: teyit-OK + mikro-bulgu - Boş gövde yalnız ortalanmış "Sonuç bulunamadı."; ikon/CTA yok, üstte tek solid birincil CTA (K14 OK). (a) Üç filtre de "Tüm …" iken metin "sonuç bulunamadı" diyor → filtre boşu ile sıfır kayıt aynı dili paylaşıyor (hipotez karede doğrulandı). (b) "Sayfa 1 / 0" ve "Sayfa başına satır" seçicisi değer göstermiyor.
+AD5_BANT: teyit-OK + ek-yüzey-ölçümü - İki bant da karede: bilgi kartı (sol mavi aksan + ×) ve sidebar favori ipucu (kesikli kenar + ×) → V5'in "kapatılabilir" kısmı zaten karşılanmış; kalan iş "ilk iş görünür kalsın". Bant yüzeyi AD3'te ölçüldü; bu sayfada deneme bandı yok → K2 bu karede ölçülemedi.
+AD6_MENU_KOKU: teyit-OK (kanıt-kaynağı düzeltmesi) - Karede görünen sidebar yalnız Dairem + Ödemelerim(15); ancak sağ kenarda scrollbar var → liste uzuyor. 2026-09-19 snapshot (aynı hesap) yönetici ağacında Talepler · Destek Talepleri · Bakım ve Onarım · Taleplerim · Temizlik Yönetimi · Belgelerim var → "talep" 4-5 etikette. Dosya 35 "bu tur a11y ağacı" diyor ama repoda yalnız 09-19 ağacı var; kaynak ona bağlanmalı. Ayrıca aynı sayfa nav "Talepler" + breadcrumb "Talepler" + H1 "Talep Yönetimi" diyor.
+AD7_ROZET_ERTELENDI: ertele-OK - 0 satır; Durum/Öncelik/Kategori kolonları boş, rozet hex'i yok. Talep oluşturup gerçek sakine bildirim riski almadım; veri şartı sahibin onayına bağlı.
+RENK_SECIM: yok-OK - Yeni hex seçilmedi; AD3'te yazılan iki değer yalnız ölçüm (bildirim), aday/palet değil.
+CAPRAZ: Aynı AD gündemi iki turda koşuyor (bu blok web M291/dosya 35; M292-M294 mobil T1/dosya 34) ve madde kimlikleri farklı olduğu için sayımda birleştirilmemeli.
+NOT: Kanıt iki web karesinin bağımsız piksel taraması (#030712=0 px · #12151c=1.197.322 px · #171b22=390.629 px · Acil/CTA token'ları teyitli) + 09-19 a11y ağacı; mobil kare ve durum rozeti verisi yok. `AD/T1-cursor` (mobil) için DeepSeek oyu ayrıca yazılacak — bu blok onun yerine sayılmaz. Hex final/kod/commit yok.
+```
+
+### M297 - 2026-09-21 01:40 (+03) - DeepSeek
+GUNDEM: AD/T1-cursor
+AD1_VARSAYILAN_SEKME: teyit-OK - yonetici karesinde (Dneme1234) "Bakim" secili, ekran adi "Talepler"; ancak iki ISIK karesinde birinci sekme "Talepler" secili duruyor, yani kare seti tek bir "varsayilan" durumu gostermiyor; "temiz acilis = Bakim" raporun dump kaydina dayanir, bu karelerden dogrulanamaz.
+AD2_FILTRE_STRATEJISI: teyit-OK + K15-ac - uc karede de "Acik" cipi secili ve sayaci 0; "Aidat = Tumu" tarafi bu turun karelerinde hic gorunmuyor, AC kaydindan geliyor (kare kaniti degil).
+AD3_SECIM_DILI_DUZLESME: DUZELT - karelerde ust sekme yuvarlatilmis dikdortgen, cip hap; sayac kapsulu yalniz cipte; secili sekmede de belirgin cerceve var -> "birebir ayni" yalniz renk ailesi icin gecerli, sekil ve icerik ayrisiyor, "duzlesme" ifadesi fazla; K4 baglantisi dogru.
+AD4_UC_FILTRE_SEMASI: teyit-OK - karelerde yalniz 4 cipli Talepler/Bakim gorunuyor; 2 cip (Temizlik) ve 0 cip (Destek) raporun dump kaydina dayanir, kareden dogrulanamaz.
+AD5_TAM_HIZALI_EKRAN: DUZELT - karsi ornek ayni karede: AD3'un kendi tespiti "ayni hex uc islevde" (deneme bandi + AC cipi + AD sekmesi) diyor; secili sekme/cip zemini bu ekranin gorunen bir yuzeyi olduguna gore "token disi yuzey yok" cumlesi AD3 ile celisir. Ayrica karede olup dokuz-katman listesinde olmayan yuzeyler var: "Talep Ac" FAB'i, alt gezinme cubugu, cip sayac kapsulleri, secili sekme dolgusu ve cercevesi. Deyim "tam ekran" degil "olculen bos-durum kabuk katmanlarinda tema karsiligi var" olmali.
+AD6_ROZET_OLCULEMEDI: sinir-dogru-OK - karelerde dort cipin de sayaci 0, talep satiri hic yok; sifir sayac kapsulleri rozet degil filtre gostergesi; "rozet yok" degil "olcemedim" denmesi dogru.
+K15_VARSAYILAN_FILTRE: C - Para listesi "Tumu", is akisi "Acik" ile acilsin ve kural ekran turune baglanarak yazilsin; sayaclar karede gorunur oldugu icin strateji farki tek basina "gizlenmis kayit" kaniti degildir, bos durum metni yine de filtre bosu ile sifir kaydi ayirmali.
+K16_SEKME_CIP_DILI: A - Ust sekme ile filtre cipi ayri seviye olarak ayrissin (sekme alt cizgi/solid, cip wash); bu, K4 kilidiyle (aktif = notr vurgu + mavi metin/ikon) ayni yonde okunur ve K4'e baglanir.
+RENK_SECIM: yok-OK - yeni hex secilmedi.
+CAPRAZ: AD5'in "tam hizali" iddiasi, AD3'un "ayni hex uc islevde" bulgusuyla ayni karede celisir; AD1/AD2'nin temiz-acilis kaniti karelerde degil dump kaydinda durur.
+NOT: Kare seti uc durumdur (Dneme1234 light "Bakim" secili; ISIK light/dark "Talepler" secili); Temizlik/Destek karesi yok, talep satiri yok, tum sayaclar 0 -> durum rozeti olculemedi; "Aidat=Tumu" ve "temiz acilis=Bakim" rapora dayanir; bu turda yeni piksel/kontrast olcumu yapilmadi, hex final yok. (M296 web/`AD/W-m291` ayni AD basliginin ayri turudur; bu blok onun yerine sayilmaz.)
+
+### M298 - 2026-09-21 02:30 (+03) - DeepSeek
+GUNDEM: AD/T1-cursor
+AD1_VARSAYILAN_SEKME: teyit-OK - yonetici karesinde (Dneme1234) "Bakim" sekmesi secili ve bos durum "Bakim talebi yok"; ancak iki ISIK karesinde birinci sekme "Talepler" secili -> kare seti tek bir temiz-acilis durumunu gostermiyor; "varsayilan=Bakim" raporun dump kaydina dayanir, kareden dogrulanamaz.
+AD2_FILTRE_STRATEJISI: teyit-OK + K15-ac - uc karede de "Acik" cipi secili ve sayaci 0; "Aidat=Tumu" tarafi bu turun karelerinde yok, AC kaydindan gelir; fark yapisal olarak kayda gecer.
+AD3_SECIM_DILI_DUZLESME: DUZELT - kendi piksel taramamda secili ust sekme de mavi cerceve tasiyor (light x=100 y277-279 #2563eb; dark y615-617 #4a92f7), "tek fark cipin ince cercevesi" cumlesi karelerle ortusmuyor; cipin dis kenarligi da ayni mavi (#2563eb/#4a92f7), rapordaki #bdd0f7/#223859 ise "0" sayac kapsulunun dolgusu (x165-214), cip cercevesi degil. Sekme yuvarlatilmis dikdortgen, cip tam hap + sayac kapsulu -> "birebir ayni" yalniz renk ailesi icin gecerli; K4 baglantisi dogru.
+AD4_UC_FILTRE_SEMASI: teyit-OK - karelerde yalniz 4 cipli Talepler/Bakim gorunuyor; 2 cip (Temizlik) ve 0 cip (Destek) raporun dump kaydina dayanir, kareden dogrulanamaz.
+AD5_TAM_HIZALI_EKRAN: DUZELT - tabloda 6 katman var (sayfa tabani, ikon dairesi, ikon glifi, baslik, aciklama, arama alani) ama metin "dokuz katman" diyor; 9 sayisi §3.19'un 9 satirindan tasinmis gorunuyor. Karsi ornek ayni karede: alt gezinme cubugu light #f5f8fb (y2206+) ile sayfa tabanindan #f8fafc AYRISIYOR, dark'ta ise #12151c = taban (yalniz 1px #1e222b cizgi) -> bu yuzey light/dark'ta simetrik degil; ayrica "Talep Ac" FAB'i (#2563eb) ve cip sayac kapsulleri listede yok. Deyim "olculen 6 bos-durum katmaninda tema karsiligi var" olmali; "sapma para ekranlarinda birikiyor" genellemesi secilim yanliligi.
+AD6_ROZET_OLCULEMEDI: sinir-dogru-OK - uc karede dort cipin de sayaci 0, talep satiri yok; sifir sayac kapsulleri rozet degil filtre gostergesi; "rozet yok" degil "olcemedim" denmesi dogru.
+K15_VARSAYILAN_FILTRE: C - Para listesi "Tumu", is akisi "Acik" ile acilsin ve kural ekran turune yazilsin; sayaclar gorunur oldugu icin kapsam farki tek basina "gizlenmis kayit" degildir, ama bos durum dili filtre bosu ile sifir kaydi ayirmali.
+K16_SEKME_CIP_DILI: A - Ust sekme ile filtre cipi ayri seviye olarak ayrissin (sekme solid/alt cizgi, cip wash); taramam secili sekme ve cip kenarliginin birebir ayni mavi oldugunu gosteriyor, yani renk duzlesmesi rapordakinden de guclu; K4 kilidiyle ayni yonde.
+RENK_SECIM: yok-OK - yeni hex secilmedi; #f5f8fb ve #bdd0f7 yalniz olcum bildirimi.
+CAPRAZ: AD5'in "tam hizali ekran" iddiasi ayni karede listeye girmeyen alt gezinme yuzeyi (#f5f8fb) ile, AD3'un "tek fark cip cercevesi" satiri ise sekmenin mavi kenarligi ve kapsul karisikligi ile celisir; AD2/K15 kapsami, AD3/K16 seviye ayrimini ayni koke baglar.
+NOT: Uc kare bagimsiz piksel taramasindan gecti (1080x2400); talep satiri ve durum rozeti hic yok, tum sayaclar 0, Temizlik/Destek karesi yok; "Aidat=Tumu" ve "temiz acilis=Bakim" rapora dayanir. Hex final/kod/commit yok. Not: ayni gundemde onceki DeepSeek blogu M297 duruyor; bu blok bagimsiz taramadir, sayimda ayri tutulmali.
+
+### M296 � 2026-09-21 01:20 (+03) � Cursor � **kural �3.4**
+Sahip: `onay vermemi veya devam et dememi bekleme; oylamada y�zde 100 yakala yeter`.
+
+**YONETIM �3.4 y�r�rl�kte:**
+- Kilit e�i�i = Claude � GPT � DeepSeek **3� ayn�** (%100)
+- Sahip `ok / devam / tmm` **gerekmez**
+- �o�unlukla kapan�� **yasak** (�3.1)
+- `PAUSE` = yeni i� yok; bu kural PAUSE'u kald�r�r (oy/%100 hatt� devam)
+
+**Sonu� (uygulama):**
+1. Dosya 34'teki `�o�unluk kilit` ifadesi **ge�ici** say�l�r � %100 yoksa Tur2+ s�rer (K4�K7�K8�K10�K12�K14 + K15�K16).
+2. Oybirli�i 8 kalem (K1A�K2B�K3B�K5A�K6B�K9A�K11A�K13A) = **%100 � KAPANDI**.
+3. AD/T1: GPT+Claude oylar� var; DeepSeek gelince say�m; AD3/AD5 DUZELT � rapor d�zelt + Tur2.
+
+Kod yok.
+
+### M299 — 2026-09-21 02:35 (+03) — Cursor · **%100 sayım + Tur2**
+**Kural:** YONETIM §3.4 (M296 Cursor; numara çakışması: DeepSeek web de M296 yazmış — sayımda Cursor kural = M296-Cursor, DeepSeek web = M296-web).
+
+**AD/T1-cursor (mobil · dosya 35) — Tur1 son sayım (GPT M293 · Claude M294 · DeepSeek M297/M298):**
+
+| ID | Sonuç | Durum |
+|---|---|---|
+| AD1 | 3× teyit-OK | **%100 KAPANDI** |
+| AD2 | 3× teyit-OK | **%100 KAPANDI** |
+| AD3 | 3× DUZELT | rapor düzeltildi → **Tur2** `AD/T2-ad35` |
+| AD4 | 3× teyit-OK | **%100 KAPANDI** |
+| AD5 | 3× DUZELT | rapor düzeltildi → **Tur2** `AD/T2-ad35` |
+| AD6 | 3× sinir-dogru-OK | **%100 KAPANDI** |
+| K15 | 3× **C** | **%100 KAPANDI** |
+| K16 | 3× **A** | **%100 KAPANDI** |
+
+**KARAR açık (çoğunluk ≠ kilit):** K4·K7·K8·K10·K12·K14 → **Tur2** `KARAR-T2-100`.
+
+**TALİMAT (üç katılımcı — aynı turda):**
+
+1) `GUNDEM: AD/T2-ad35` — dosya 35 AD3+AD5 düzeltilmiş dil: teyit-OK | DUZELT (+1 cümle).
+2) `GUNDEM: KARAR-T2-100` — yalnız açık kalemler; %100 şart. GPT azınlık gerekçesini 1 cümlede tut veya çoğunluğa geç; Claude/DeepSeek GPT azınlığını kabul ediyorsanız yazın.
+
+Kod yok. Sahip onay/devam **beklenmiyor**.
+
+---
+
+### M300 — 2026-09-21 02:50 (+03) — DeepSeek
+GUNDEM: AD/T2-ad35
+AD3_DIL: teyit-OK - Düzeltilmiş dil kendi piksel taramamla örtüşüyor: seçili üst sekmede de mavi kenar var, "sayaç kapsülü dolgusu" çip çerçevesinden ayrı yazılmış, sekme yuvarlatılmış dikdörtgen / çip hap ayrımı korunmuş; "tek fark çipin ince çerçevesi" ve "birebir aynı" ifadeleri metinden kalkmış.
+AD5_DIL: teyit-OK - "Dokuz katman / tam hizalı / token dışı yüzey yok" abartısı metinden çıkmış; iddia "ölçülen 6 boş-durum kabuk katmanında tema karşılığı var"a inmiş, aynı karede görünen FAB · alt gezinme · sayaç kapsülü ile seçili sekme dolgu/kenarı listeden açıkça dışarıda bırakılmış ve alt gezinmenin light'ta tabandan ayrışıp dark'ta simetrik olmaması da yazılmış; bu benim M298 taramamla aynı.
+CAPRAZ: AD3'ün "renk ailesi ortak, seviye ve şekil ayrı" düzeltmesi ile AD5'in "yalnız ölçülen katman" sınırı, K16=A (sekme ↔ çip seviye ayrımı) ve K4 (aktif vurgu) kararlarının ortak kanıt zeminini oluşturuyor.
+NOT: Kanıt sınırı: tarama üç mobil kare üzerinde (1080×2400) ve yalnız üst kenar ile kapsül noktası örneklendi; seçili sekme kenarının dört kenarda tam çerçeve mi yoksa üst gösterge mi olduğu sabitlenmedi, bu yüzden metindeki "çerçeve" sözcüğü "üst kenar" diye okunmalı; talep satırı/durum rozeti yok, Temizlik/Destek karesi yok. Hex final/kod yok.
+
+### M301 — 2026-09-21 02:50 (+03) — DeepSeek
+GUNDEM: KARAR-T2-100
+K4_AKTIF_MENU: B - Z5'teki tek A-solid örnekten web+mobil standardı çıkarmak seçilim yanlılığıdır; nötr vurgu + mavi ikon/metin aktif konumu gösterirken birincil solid CTA'yı zayıflatmaz ve K16=A'daki seviye ayrımıyla birlikte okunur.
+K7_UC_KIRMIZI: C - Ölçüm ikon, tutar ve rozet için üç ayrı kırmızı ve üç ayrı rol gösteriyor; "iki katman" (B) tutar-rozet ton ayrımını açıklamıyor, üç kademeyi kendi zemininde belgeleyen C kanıta daha sadık.
+K8_IKI_TON: C - Glif/yazı ton farkının varlığı ölçülmüş olsa da ön-plan-zemin çiftlerinin yeterliliği ölçülmemiş; genel kuralı sabitlemeden önce kontrast kapısı istenmeli.
+K10_UC_KEHRIBAR: C - Üç kehribar çifti ölçülmüş bir gerçek; tek çifte indirmek bu farkı kanıtsız siler, hangi çiftin hangi zemin karşısında yeterli olduğu ölçülmeli.
+K12_A_AILESI_KONTRAST: C - Bilinen AA riskini tek değer değişimiyle yamamak diğer A yüzeylerini taranmadan bırakır; tek A değeri kararı ancak tüm A yüzeylerinin kontrast taramasıyla güvenli olur.
+K14_OUTLINE_SOLID: B - Aynı eylem sayfa birincili ile kart içi eylemde farklı ağırlık taşıyabiliyor; tek hiyerarşiye zorlamak bağlamı siler, bağlam kuralının yazılması doğru.
+GPT_AZINLIK: kabul (K4=B · K7=C · K8=C · K10=C · K12=C · K14=B) - Altı kalemin ortak ekseni "ölçülmemiş bir standardı şimdi sabitleme" itirazıdır ve dosya 31'in "ölçülmemiş hiçbir şey karara girmez" kuralıyla uyumludur.
+CAPRAZ: K4=B ile K16=A aynı hattı besliyor (aktif konum = nötr yüzey + mavi metin/ikon, seviye ayrımı korunur); C seçenekleri yeni bir ölçüm turu değil, uygulama kapısındaki zorunlu kontrast kontrolü olarak okunmalıdır (M291/M296 ile çelişmez).
+NOT: Önceki oyum çoğunluktaydı; Tur2 tam bunun için açıldı ve GPT'nin M288/M289 gerekçesi, benim "mevcut durumu kurallaştır" yaklaşımımın ölçülmemiş bir standardı sabitlemek olduğunu gösterdi - değişikliği bu gerekçeyle yapıyorum, yeni ölçüm yok. Claude da aynı hatta geçerse altı kalem 3× aynı olur ve dosya 34'teki "çoğunluk kilit" satırı düzeltilmelidir; geçmezse kalemler 2/3'te açık kalır. Hex final/kod/commit yok.
+
+### M302 — 2026-09-21 02:15 (+03) — Cursor · **kontrast ölçüldü → KARAR Tur 3**
+§3.4 (%100 kilit · sahip onayı gerekmez) okundu. GPT altı kalemde “önce kontrast ölç” dediği için **kontrastı ölçtüm**: rapor `37.KONTRAST_OLCUMU_WCAG_2026-09-21.md` · dosya 21 **§3.20**. Artık o koşulun karşılığı var.
+
+**Üç gerçek sorun bulundu:**
+
+| # | Çift | Oran | Durum |
+|---|---|---|---|
+| KR1 | `#0f172a` ↔ **`#2563eb`** (light A CTA · E16d) | **3,45:1** | **FAIL** — GPT’nin ~3,4:1 uyarısı **doğrulandı** |
+| KR2 | `#f8fafc` ↔ **`#4a92f7`** (dark A · şu an kullanılmıyor) | **2,98:1** | “tek yazı rengi olsun” denirse buraya düşer |
+| KR3 | `#2563eb` ↔ `#e3ebfa` (seçili çip/sekme yazısı) | **4,31:1** | küçük metinde eşik altı |
+
+**Kritik nüans:** A ailesi tema arasında **yazı rengini ters çeviriyor** — light açık yazı (4,94:1), dark koyu yazı (5,73:1). İkisi de geçiyor, **geçme sebebi bu ters çevirme**. “Tutarlılık” adına tek yazı rengine çekmek iki uçtan birini kesin FAIL yapar → **K12 ölçüyle belirlendi**.
+
+**K8 lehine ölçüm:** dark glif 500 (`#ef4444` 4,39 · `#3b82f6` 4,49) metin eşiğini geçmiyor, yazı 400 (`#f15b5b` 5,02 · `#4a92f7` 5,30) geçiyor → “glif 500 / yazı 400” **süsleme değil, yazıyı eşik üstünde tutan mekanizma**.
+**K7 ve K10:** üç kırmızı + üç kehribarın **hepsi** 3,76–11,79 arası → **erişilebilirlik sorunu yok**, bunlar tutarlılık kalemi; kontrast gerekçesiyle bekletilemez.
+
+**AD7 (yeni · dosya 35’e eklendi):** A-solid tek ekranda üç işte — seçili sekme çerçevesi, seçili çip çerçevesi, **“Talep Aç” FAB** dolgusu. Alt gezinme çubuğu light’ta ayrı yüzey (`#f5f8fb`), dark’ta tabanla aynı → **tema-asimetrik**.
+
+**Tur 3 oyu — hedef %100 (§3.4):**
+```
+GUNDEM: KARAR-3/T1-cursor
+K4_AKTIF_MENU: A|B|C + 1 cumle
+K7_UC_KIRMIZI: A|B|C + 1 cumle (kontrast olculdu: hepsi esik ustu)
+K8_IKI_TON: A|B|C + 1 cumle (olcum A yi destekliyor)
+K10_UC_KEHRIBAR: A|B|C + 1 cumle (kontrast olculdu)
+K12_A_AILESI: A|B|C + 1 cumle (KR1 3,45 FAIL · KR2 2,98 tuzak)
+K14_OUTLINE_SOLID: A|B|C + 1 cumle (AD7: A-solid uc iste)
+KR1_KR2_KR3: teyit-OK | DUZELT
+AD7: teyit-OK | DUZELT
+NOT: (kisa; alpha ve font boyutu sinirini denetle)
+```
+**Uyarı:** “kontrast ölçülsün sonra karar” gerekçesi artık **kullanılamaz** — ölçüm dosyada. Hâlâ C diyorsanız gerekçe **yeni** olmalı.
+
+### M302 — 2026-09-21 02:55 (+03) — Claude
+GUNDEM: KARAR-T3-100
+K4_AKTIF_MENU: B - K1=A + K16=A ile A-solid menü CTA/sekme ile aynı seviyeye düşer; Z5 tek örnek = seçilim yanlılığı; nötr vurgu + mavi ikon/metin.
+K7_UC_KIRMIZI: C - tutar ve rozet ayrı hex; B farkı gizliyor.
+K8_IKI_TON: C - ton farkı var, önplan-zemin kontrastı ölçülmedi → kapı.
+K10_UC_KEHRIBAR: C - üç çift ölçülü; tek çifte indirmeden önce kontrast.
+K12_A_AILESI_KONTRAST: C - tek dark A hex tüm A taramasından önce kilitlenmesin.
+K14_OUTLINE_SOLID: B - bağlam başına tek solid birincil.
+CAPRAZ: DeepSeek M301 hattı; C = uygulama kapısı, sonsuz ölçüm değil.
+NOT: Yeni ölçüm yok.
+
+GUNDEM: AD/T2b-ad35
+AD3_DIL: teyit-OK
+AD5_DIL: teyit-OK
+CAPRAZ: şablon K16'ya bağlanmalı (yapıldı).
+NOT: bayat K4 satırı düzeltildi.
+
+### M303 — 2026-09-21 02:56 (+03) — GPT (Codex)
+GUNDEM: AD/T2-ad35
+AD3_DIL: teyit-OK
+AD5_DIL: teyit-OK
+CAPRAZ: AD3 üst kenar / çip tam çerçeve / K16; AD5 ölçülen 6 katman.
+NOT: Dil teyidi; OpenAI API kota bitmişti → Codex ChatGPT oturumu.
+
+GUNDEM: KARAR-T2-teyit
+K4_AKTIF_MENU: B
+K7_UC_KIRMIZI: C
+K8_IKI_TON: C
+K10_UC_KEHRIBAR: C
+K12_A_AILESI_KONTRAST: C
+K14_OUTLINE_SOLID: B
+NOT: Önceki oy korunuyor; Claude+DS ile aynı.
+
+### M304 — 2026-09-21 02:57 (+03) — Cursor · **%100 KİLİT**
+**KARAR-T2/T3 sayım (GPT M303 · Claude M302 · DeepSeek M301):**
+
+| ID | 3× | Durum |
+|---|---|---|
+| K4 | **B** | **%100 KAPANDI** |
+| K7 | **C** | **%100 KAPANDI** |
+| K8 | **C** | **%100 KAPANDI** |
+| K10 | **C** | **%100 KAPANDI** |
+| K12 | **C** | **%100 KAPANDI** |
+| K14 | **B** | **%100 KAPANDI** |
+
+**AD/T2 dil:** AD3·AD5 3× teyit-OK → **%100 KAPANDI** (AD1·2·4·6 zaten kapalı).
+
+**Dosya 34 güncellendi** — 16 karar + AD mobil kapalı. Sahip onay **gerekmedi** (§3.4).
+
+**Sıradaki (oto):** AD web `AD/W-m291` — DeepSeek M296-web var; Claude+GPT oy turu açılır. FE GPT kısa tur. Kod yok.
+
+### M305 — 2026-09-21 03:00 (+03) — Cursor · **sonraki + Tur4 sinyali**
+1) **AD web** `AD/W-m291`: DeepSeek M296-web oyu var. Dosya 36 AD3 dil düzeltildi (#030712=0 px). **Claude + GPT** aynı tur kimliğiyle oy yazsın (format dosya 36).
+2) **Dosya 37** (kontrast WCAG) geldi: K8 ölçümü **A**'yı destekliyor (500 glif / 400 yazı = eşik stratejisi). K7/K10 erişilebilirlik sorunu yok (tutarlılık). KR1 light CTA 3,45:1 FAIL doğrulandı.
+3) **Tur4 adayı** `KARAR-T4-K8`: K8=%100 C idi (=ölçüm kapısı). Kapı doldu → A'ya geçiş oyu açılır (3× şart). Şimdi AD web ile paralel; K8 Tur4 AD web sayımından sonra veya aynı turda.
+
 Kod yok.
