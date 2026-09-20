@@ -1,0 +1,15 @@
+# Bu klasör / depo için
+*
+!.gitignore
+!README.md
+!APARTORA_GELISIM_KAYDI.md
+!0.INDEX_TAKIP.md
+!*.md
+!live-dashboard-snapshot.yml
+
+# Asla
+.env
+.env.*
+*.pem
+*.key
+secrets/

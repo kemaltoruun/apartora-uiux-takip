@@ -1,0 +1,382 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e37]:
+      - generic [ref=e39]:
+        - generic [ref=e41]:
+          - button "KT KEMAL Torun Site Yöneticisi · Dneme1234" [ref=e42] [cursor=pointer]:
+            - generic [ref=e43]: KT
+            - generic [ref=e47]:
+              - generic [ref=e48]: KEMAL Torun
+              - generic [ref=e49]: Site Yöneticisi · Dneme1234
+          - button [ref=e54] [cursor=pointer]
+        - button "Menüde ara... ⌘ K" [ref=e56] [cursor=pointer]:
+          - generic [ref=e57]: Menüde ara...
+          - generic [ref=e58]:
+            - generic [ref=e59]: ⌘
+            - text: K
+        - navigation "Ana menü" [ref=e60]:
+          - generic [ref=e62]:
+            - generic [ref=e63]:
+              - button "Ana Sayfa" [expanded] [ref=e64] [cursor=pointer]
+              - generic [ref=e66]:
+                - generic [ref=e68]:
+                  - link "Ana Sayfa" [ref=e69] [cursor=pointer]:
+                    - /url: /manager/dashboard
+                  - button "Sabitle" [ref=e73] [cursor=pointer]
+                - generic [ref=e77]:
+                  - link "Ajanda" [ref=e78] [cursor=pointer]:
+                    - /url: /manager/ajanda
+                  - button "Sabitle" [ref=e82] [cursor=pointer]
+                - generic [ref=e86]:
+                  - link "Onay Kuyruğu" [ref=e87] [cursor=pointer]:
+                    - /url: /manager/onay-kuyrugu
+                  - button "Sabitle" [ref=e91] [cursor=pointer]
+            - generic [ref=e94]:
+              - button "Ana Menü" [expanded] [ref=e95] [cursor=pointer]
+              - generic [ref=e99]:
+                - link "Dairem" [ref=e100] [cursor=pointer]:
+                  - /url: /resident/apartments
+                - button "Sabitle" [ref=e104] [cursor=pointer]
+            - generic [ref=e107]:
+              - button "Finans" [expanded] [ref=e108] [cursor=pointer]
+              - generic [ref=e110]:
+                - generic [ref=e112]:
+                  - link "Aidat Yönetimi" [ref=e113] [cursor=pointer]:
+                    - /url: /manager/dues
+                  - button "Sabitle" [ref=e117] [cursor=pointer]
+                - generic [ref=e121]:
+                  - link "Ortak Giderler" [ref=e122] [cursor=pointer]:
+                    - /url: /manager/shared-expenses
+                  - button "Sabitle" [ref=e126] [cursor=pointer]
+                - generic [ref=e130]:
+                  - link "Finans Yönetimi" [ref=e131] [cursor=pointer]:
+                    - /url: /manager/finance
+                  - button "Sabitle" [ref=e135] [cursor=pointer]
+                - generic [ref=e139]:
+                  - link "Hukuki Belgeler" [ref=e140] [cursor=pointer]:
+                    - /url: /manager/hukuki-belgeler
+                  - button "Sabitle" [ref=e144] [cursor=pointer]
+                - generic [ref=e148]:
+                  - link "Bakiye Yönetimi" [ref=e149] [cursor=pointer]:
+                    - /url: /manager/balance
+                  - button "Sabitle" [ref=e153] [cursor=pointer]
+                - button "Banka Hesap Entegrasyonu" [ref=e157] [cursor=pointer]
+                - generic [ref=e161]:
+                  - link "Gelişmiş Raporlar" [ref=e162] [cursor=pointer]:
+                    - /url: /manager/reports
+                  - button "Sabitle" [ref=e166] [cursor=pointer]
+                - generic [ref=e170]:
+                  - link "Ödemelerim 15 gecikmiş ödeme" [ref=e171] [cursor=pointer]:
+                    - /url: /resident/my-payments
+                    - generic [ref=e172]:
+                      - generic [ref=e174]: Ödemelerim
+                      - generic [ref=e175]:
+                        - generic [aria-hidden] [ref=e176]: "15"
+                        - generic [ref=e177]: 15 gecikmiş ödeme
+                  - button "Sabitle" [ref=e178] [cursor=pointer]
+                - generic [ref=e182]:
+                  - link "Ödeme Hesabı" [ref=e183] [cursor=pointer]:
+                    - /url: /manager/finance/payment-account
+                  - button "Sabitle" [ref=e187] [cursor=pointer]
+            - generic [ref=e190]:
+              - button "Yönetim" [expanded] [ref=e191] [cursor=pointer]
+              - generic [ref=e193]:
+                - generic [ref=e195]:
+                  - link "Personel Yönetimi" [ref=e196] [cursor=pointer]:
+                    - /url: /manager/staff
+                  - button "Sabitle" [ref=e200] [cursor=pointer]
+                - generic [ref=e204]:
+                  - link "Kadro & Yetkiler" [ref=e205] [cursor=pointer]:
+                    - /url: /manager/team
+                  - button "Sabitle" [ref=e209] [cursor=pointer]
+                - generic [ref=e213]:
+                  - link "Belgelerim" [ref=e214] [cursor=pointer]:
+                    - /url: /resident/my-documents
+                  - button "Sabitle" [ref=e218] [cursor=pointer]
+            - generic [ref=e221]:
+              - button "İletişim" [expanded] [ref=e222] [cursor=pointer]
+              - generic [ref=e224]:
+                - generic [ref=e226]:
+                  - link "Gelen Kutusu" [ref=e227] [cursor=pointer]:
+                    - /url: /manager/gelen-kutusu
+                  - button "Sabitle" [ref=e231] [cursor=pointer]
+                - generic [ref=e235]:
+                  - link "Duyurular & Bildirimler 2 okunmamış duyuru" [ref=e236] [cursor=pointer]:
+                    - /url: /manager/announcements
+                    - generic [ref=e237]:
+                      - generic [ref=e239]: Duyurular & Bildirimler
+                      - generic [ref=e240]:
+                        - generic [aria-hidden] [ref=e241]: "2"
+                        - generic [ref=e242]: 2 okunmamış duyuru
+                  - button "Sabitle" [ref=e243] [cursor=pointer]
+                - generic [ref=e247]:
+                  - link "Apartora Duyuruları" [ref=e248] [cursor=pointer]:
+                    - /url: /manager/platform-announcements
+                  - button "Sabitle" [ref=e252] [cursor=pointer]
+                - generic [ref=e256]:
+                  - link "Talepler" [ref=e257] [cursor=pointer]:
+                    - /url: /manager/requests
+                  - button "Sabitle" [ref=e261] [cursor=pointer]
+                - generic [ref=e265]:
+                  - link "Etkinlikler" [ref=e266] [cursor=pointer]:
+                    - /url: /manager/events
+                  - button "Sabitle" [ref=e270] [cursor=pointer]
+                - generic [ref=e274]:
+                  - link "Anketler" [ref=e275] [cursor=pointer]:
+                    - /url: /manager/surveys
+                  - button "Sabitle" [ref=e279] [cursor=pointer]
+                - generic [ref=e283]:
+                  - link "Destek Talepleri" [ref=e284] [cursor=pointer]:
+                    - /url: /manager/support-requests
+                  - button "Sabitle" [ref=e288] [cursor=pointer]
+            - generic [ref=e291]:
+              - button "Operasyon" [expanded] [ref=e292] [cursor=pointer]
+              - generic [ref=e294]:
+                - generic [ref=e296]:
+                  - link "Bakım ve Onarım" [ref=e297] [cursor=pointer]:
+                    - /url: /manager/maintenance
+                  - button "Sabitle" [ref=e301] [cursor=pointer]
+                - generic [ref=e305]:
+                  - link "Temizlik Yönetimi" [ref=e306] [cursor=pointer]:
+                    - /url: /manager/cleaning
+                  - button "Sabitle" [ref=e310] [cursor=pointer]
+                - generic [ref=e314]:
+                  - link "Envanter Takibi" [ref=e315] [cursor=pointer]:
+                    - /url: /manager/inventory
+                  - button "Sabitle" [ref=e319] [cursor=pointer]
+                - generic [ref=e323]:
+                  - link "Hizmet Rehberi" [ref=e324] [cursor=pointer]:
+                    - /url: /manager/service-guide
+                  - button "Sabitle" [ref=e328] [cursor=pointer]
+                - generic [ref=e332]:
+                  - link "Taleplerim" [ref=e333] [cursor=pointer]:
+                    - /url: /resident/requests
+                  - button "Sabitle" [ref=e337] [cursor=pointer]
+            - generic [ref=e340]:
+              - button "Site Yönetimi" [expanded] [ref=e341] [cursor=pointer]
+              - generic [ref=e343]:
+                - generic [ref=e345]:
+                  - link "Site Yönetimi" [ref=e346] [cursor=pointer]:
+                    - /url: /manager/site-management
+                  - button "Sabitle" [ref=e350] [cursor=pointer]
+                - generic [ref=e354]:
+                  - link "Kullanıcı Yönetimi" [ref=e355] [cursor=pointer]:
+                    - /url: /manager/users
+                  - button "Sabitle" [ref=e359] [cursor=pointer]
+                - generic [ref=e363]:
+                  - link "Onay Bekleyenler" [ref=e364] [cursor=pointer]:
+                    - /url: /manager/pending-registrations
+                  - button "Sabitle" [ref=e368] [cursor=pointer]
+                - generic [ref=e372]:
+                  - link "Site Yaşam Kuralları" [ref=e373] [cursor=pointer]:
+                    - /url: /manager/rules
+                  - button "Sabitle" [ref=e377] [cursor=pointer]
+                - generic [ref=e381]:
+                  - link "Genel Kurul" [ref=e382] [cursor=pointer]:
+                    - /url: /manager/general-assembly
+                  - button "Sabitle" [ref=e386] [cursor=pointer]
+                - generic [ref=e390]:
+                  - link "Site Karar Defteri" [ref=e391] [cursor=pointer]:
+                    - /url: /manager/decisions
+                  - button "Sabitle" [ref=e395] [cursor=pointer]
+                - generic [ref=e399]:
+                  - link "Site Belgeleri" [ref=e400] [cursor=pointer]:
+                    - /url: /manager/documents
+                  - button "Sabitle" [ref=e404] [cursor=pointer]
+                - generic [ref=e408]:
+                  - link "Denetim Kayıtları" [ref=e409] [cursor=pointer]:
+                    - /url: /manager/audit-logs
+                  - button "Sabitle" [ref=e413] [cursor=pointer]
+            - generic [ref=e416]:
+              - button "Güvenlik" [expanded] [ref=e417] [cursor=pointer]
+              - generic [ref=e419]:
+                - generic [ref=e421]:
+                  - link "Güvenlik ve Ziyaretçi" [ref=e422] [cursor=pointer]:
+                    - /url: /manager/security
+                  - button "Sabitle" [ref=e426] [cursor=pointer]
+                - generic [ref=e430]:
+                  - link "QR Noktaları" [ref=e431] [cursor=pointer]:
+                    - /url: /manager/qr-checkpoints
+                  - button "Sabitle" [ref=e435] [cursor=pointer]
+                - generic [ref=e439]:
+                  - link "Olay Raporları" [ref=e440] [cursor=pointer]:
+                    - /url: /manager/incident-reports
+                  - button "Sabitle" [ref=e444] [cursor=pointer]
+                - generic [ref=e448]:
+                  - link "Nöbet Çizelgesi" [ref=e449] [cursor=pointer]:
+                    - /url: /manager/guard-shifts
+                  - button "Sabitle" [ref=e453] [cursor=pointer]
+                - generic [ref=e457]:
+                  - link "Nöbet Defteri" [ref=e458] [cursor=pointer]:
+                    - /url: /manager/shift-logbook
+                  - button "Sabitle" [ref=e462] [cursor=pointer]
+            - button "1 özellik kilitli" [ref=e465] [cursor=pointer]
+        - generic [ref=e470]:
+          - generic [ref=e471]:
+            - link [ref=e472] [cursor=pointer]:
+              - /url: /manager/account
+              - button "Hesabım" [ref=e473]
+            - button "Uygulama Hakkında" [ref=e474] [cursor=pointer]
+            - button "🇹🇷" [ref=e476] [cursor=pointer]
+            - button "Tema değiştir" [ref=e478] [cursor=pointer]
+          - button "Çıkış Yap" [ref=e480] [cursor=pointer]
+      - generic [ref=e481]:
+        - generic [ref=e483]:
+          - navigation "breadcrumb" [ref=e484]:
+            - list [ref=e485]:
+              - listitem [ref=e486]:
+                - link [ref=e487] [cursor=pointer]:
+                  - /url: /manager/dashboard
+              - listitem [aria-hidden] [ref=e491]
+              - listitem [ref=e494]:
+                - link "Yönetici" [ref=e495] [cursor=pointer]:
+                  - /url: /manager
+              - listitem [aria-hidden] [ref=e496]
+              - listitem [ref=e499]:
+                - link "Ana Sayfa" [disabled] [ref=e500]
+          - generic [ref=e501]:
+            - button "Site Yöneticisi" [ref=e502] [cursor=pointer]
+            - button "Bildirimler" [ref=e504] [cursor=pointer]
+            - generic [ref=e506]:
+              - button "🇹🇷" [ref=e508] [cursor=pointer]
+              - button "Tema değiştir" [ref=e510] [cursor=pointer]
+        - main [ref=e512]:
+          - generic [ref=e513]:
+            - generic [ref=e517] [cursor=pointer]:
+              - generic [ref=e518]:
+                - generic [ref=e521]: ✨ Uzatılmış Deneme Aktif
+                - generic [ref=e522]: 8 gün kaldı
+              - link [ref=e524]:
+                - /url: /manager/packages/upgrade
+                - button "Paketleri Gör" [ref=e525]
+            - generic [ref=e528]:
+              - generic [ref=e529]:
+                - generic [ref=e530]:
+                  - heading "Ana Sayfa" [level=1] [ref=e531]
+                  - paragraph [ref=e532]: Dneme1234 - Genel Durum ve İstatistikler
+                - button "Arama paletini aç" [ref=e535] [cursor=pointer]:
+                  - generic [ref=e539]: Ara...
+                  - generic:
+                    - generic: ⌘
+                    - text: K
+              - generic [ref=e540]:
+                - button "Deneme" [ref=e542] [cursor=pointer]
+                - generic [ref=e544]:
+                  - button "Widget Ayarları" [ref=e546] [cursor=pointer]
+                  - button "Turu Başlat" [ref=e548] [cursor=pointer]
+                  - button "Yenile" [ref=e550] [cursor=pointer]
+            - generic [ref=e552]:
+              - heading "Dikkat Gerektiren İşlemler Bu bölümde onay bekleyen kayıtlar, acil ve bekleyen bakım talepleri, boş daireler ve yayınlanmamış taslak duyurular otomatik olarak listelenir. Hiçbir bekleyen işlem yoksa \"Tüm işlemler güncel\" mesajı görünür." [level=3] [ref=e554]:
+                - generic [ref=e557]: Dikkat Gerektiren İşlemler
+                - button "Bu bölümde onay bekleyen kayıtlar, acil ve bekleyen bakım talepleri, boş daireler ve yayınlanmamış taslak duyurular otomatik olarak listelenir. Hiçbir bekleyen işlem yoksa \"Tüm işlemler güncel\" mesajı görünür." [ref=e558] [cursor=pointer]
+              - generic [ref=e564]:
+                - generic [ref=e569]:
+                  - paragraph [ref=e570]: 14 boş daire mevcut
+                  - paragraph [ref=e571]: Sakin ataması yapılmamış
+                - generic [ref=e572]:
+                  - link "Yönet" [ref=e573] [cursor=pointer]:
+                    - /url: /manager/site-management
+                  - button [ref=e574] [cursor=pointer]
+            - generic [ref=e578]:
+              - generic [ref=e579] [cursor=pointer]:
+                - heading "Toplam Daire" [level=3] [ref=e581]
+                - generic [ref=e585]:
+                  - generic [ref=e586]: "20"
+                  - paragraph [ref=e587]:
+                    - generic [ref=e588]: 2 blok • %30 doluluk • 14 boş
+                  - generic [ref=e589]:
+                    - generic [ref=e590]: 5 ev sahibi
+                    - generic [ref=e592]: 1 kiracı
+              - generic [ref=e594] [cursor=pointer]:
+                - heading "Toplam Kullanıcı" [level=3] [ref=e596]
+                - generic [ref=e602]:
+                  - generic [ref=e603]: "2"
+                  - paragraph [ref=e604]:
+                    - generic [ref=e605]: 1 sakin • 1 yönetici
+                  - generic [ref=e607]:
+                    - text: "0"
+                    - generic [ref=e609]: güvenlik
+              - generic [ref=e610] [cursor=pointer]:
+                - heading "Tahsilat Durumu" [level=3] [ref=e612]
+                - generic [ref=e616]:
+                  - generic [ref=e617]: ₺0
+                  - paragraph [ref=e618]: ₺100 toplam
+                  - generic [ref=e619]: "%0"
+                  - link "Tahsilat Al" [ref=e624]:
+                    - /url: /manager/dues
+            - generic [ref=e625]:
+              - generic [ref=e627]:
+                - generic [ref=e628]:
+                  - heading "Bu Ay Mali Durum" [level=3] [ref=e629]
+                  - paragraph [ref=e633]: Gelir-gider dağılımı ve mali özet
+                - generic [ref=e634]:
+                  - generic [ref=e635]:
+                    - generic [ref=e636]:
+                      - generic [ref=e637]: Tahsilat Oranı
+                      - generic [ref=e638]: "%0"
+                    - generic [ref=e640]:
+                      - generic [ref=e641]: ₺0 tahsil edilen
+                      - generic [ref=e642]: ₺100 bekleyen tutar
+                  - generic [ref=e643]:
+                    - generic [ref=e644]: Toplam Tutar (Aidat + Ortak Gider)
+                    - generic [ref=e645]: ₺100
+                  - link "Aidat Özeti 1 49 50 ₺5 / ₺250 %2" [ref=e647] [cursor=pointer]:
+                    - /url: /manager/dues
+                    - generic [ref=e648]:
+                      - generic [ref=e649]: Aidat Özeti
+                      - generic [ref=e657]:
+                        - generic [ref=e658]: "1"
+                        - generic [ref=e662]: "49"
+                        - generic [ref=e666]: "50"
+                      - generic [ref=e670]:
+                        - generic [ref=e671]: ₺5 / ₺250
+                        - generic [ref=e672]: "%2"
+              - generic [ref=e688]:
+                - generic [ref=e690]:
+                  - heading "Hızlı İşlemler" [level=3] [ref=e692]
+                  - generic [ref=e696]:
+                    - link "14 Daire Yönetimi Daireleri görüntüle ve yönet" [ref=e697] [cursor=pointer]:
+                      - /url: /manager/site-management
+                      - generic [ref=e698]:
+                        - generic [ref=e699]: "14"
+                        - generic [ref=e705]:
+                          - paragraph [ref=e706]: Daire Yönetimi
+                          - paragraph [ref=e707]: Daireleri görüntüle ve yönet
+                    - link [ref=e710] [cursor=pointer]:
+                      - /url: /manager/users
+                      - generic [ref=e718]:
+                        - paragraph [ref=e719]: Kullanıcı Yönetimi
+                        - paragraph [ref=e720]: Kullanıcıları yönet
+                    - generic [ref=e728] [cursor=pointer]:
+                      - paragraph [ref=e729]: Tahsilat Al
+                      - paragraph [ref=e730]: Borç tahsil et ve makbuz oluştur
+                    - link [ref=e733] [cursor=pointer]:
+                      - /url: /manager/finance
+                      - generic [ref=e738]:
+                        - paragraph [ref=e739]: Mali İşlemler
+                        - paragraph [ref=e740]: Aidat ve ödemeleri yönet
+                    - link [ref=e743] [cursor=pointer]:
+                      - /url: /manager/announcements
+                      - generic [ref=e749]:
+                        - paragraph [ref=e750]: Duyuru Yayınla
+                        - paragraph [ref=e751]: Yeni duyuru oluştur
+                    - link [ref=e754] [cursor=pointer]:
+                      - /url: /manager/maintenance
+                      - generic [ref=e759]:
+                        - paragraph [ref=e760]: Bakım Talepleri
+                        - paragraph [ref=e761]: Talepleri görüntüle ve yönet
+                    - link [ref=e764] [cursor=pointer]:
+                      - /url: /manager/team
+                      - generic [ref=e779]:
+                        - paragraph [ref=e780]: Yönetim Kadrosu
+                        - paragraph [ref=e781]: Kadro ve yetki yönetimi
+                - generic [ref=e784]:
+                  - heading "Hızlı Notlar" [level=3] [ref=e786]
+                  - generic [ref=e791]:
+                    - generic [ref=e792]: Henüz not eklenmemiş. İlk notunuzu ekleyin!
+                    - button "Yeni Not" [ref=e794] [cursor=pointer]
+          - generic [ref=e795]:
+            - button "Apartora turunu tekrar başlat" [ref=e796] [cursor=pointer]
+            - button "Yardım butonunu gizle" [ref=e797] [cursor=pointer]
+    - region "Notifications alt+T"
+  - alert [ref=e35]: Apartora - Türkiye'nin En Kapsamlı Apartman Yönetim Sistemi
