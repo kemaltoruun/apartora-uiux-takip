@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayÄ±tlar deÄŸiÅŸtirilme
 **RolÃ¼mÃ¼z:** Analiz ve tavsiye. Sistemsel deÄŸiÅŸiklik kararÄ± sistem sahibindedir.
 **Takip kuralÄ±:** Her kalÄ±cÄ± deÄŸiÅŸiklik (karar, rapor dosyasÄ±, dilim onayÄ±, kapanÄ±ÅŸ) yeni numarayla **sona** eklenir. Eski kayÄ±t metni deÄŸiÅŸtirilmez; durum deÄŸiÅŸince yeni kayÄ±t + eski numaraya atÄ±f.
 **KlasÃ¶r:** `C:\Users\Kemal\Desktop\APARTORA` â€” numaralÄ± md raporlar burada; bu dosya tek geliÅŸim gÃ¼nlÃ¼ÄŸÃ¼dÃ¼r.
-**Son gÃ¼ncelleme:** 20 EylÃ¼l 2026 Â· Son kayıt no: 78
+**Son gÃ¼ncelleme:** 21 EylÃ¼l 2026 Â· Son kayıt no: 85
 
 ---
 
@@ -310,6 +310,15 @@ Tur 1’de AA2 (“tür rozeti tema arası anlam kaybı”) üç katılımcıdan
 
 ### 83 - Gündem-AB KAPANDI: E19m aday-yok + ipucu kartı (21.09.2026)
 E19m turuncusu (`#431407`/`#fdba74`) **4 kare / 3 bağlam / 2 rol / 2 site** tam-kare taramada **0 px** → turuncu ölçüm kalemi “**aday yok**” diye kapandı, kayıt tarihsel korunur (“eski sürüm” hipotez). IŞIK’ta 128 boş daire olmasına rağmen Dikkat kartı nötr → mobil yüzey dili veri hacminden bağımsız. “Biliyor muydun?” ipucu kartı ölçüldü: **E6 tüketicisi** (fg light `#b45309` ↔ dark `#fcd34d`) ve **token-dışı kart yüzeyi iki temada** (`#f7f5f0` ↔ `#1d1c1c`). AB3’teki rol-değişimi iddiası ölçümle **geri çekildi**. Dosya 30 + dosya 21 §3.17 / md.16. M260-M268. **Ölçüm fazında açık kalem kalmadı**; kalanlar karar/ürün işi. Kod yok.
+
+
+### 84 - Gündem-FE açıldı: frontend mimarisi (alışkanlık / geçiş) (21.09.2026)
+Sahip frontend mimarisini psikoloji + alışkanlık + geçiş ile açtı. Primer Navigation, Jakob’s Law, NN/G scent/mental model, Shopify Polaris Frame okundu; `primer/primitives` kökü tarandı. **Alınan:** 5 sekme kilit, site=repo bağlamı, T1–T6 geçiş sözlüğü, nav≠action, 4 günlük nesne + Menü. **Alınmayan:** Primer/Polaris npm, 9 UnderlineNav, komut paleti, token derleme zinciri. Dilim 1 “yeni menü mimarisi yok” ve Faz 4 silme yasağı duruyor. Dosya 33. M282. Kod yok.
+
+
+### 85 - KARAR-1 Tur2 + Gündem-AC kapandı (21.09.2026)
+M279: Tur2 **K4A · K7B · K8A** 3× (GPT A/B/A’ya çekti). KARAR-1 tavsiye: K1A·K2B·K3B·K4A·K5A·K6B·K7B·K8A·K9A — **sahip kilidi bekliyor**, hex/kod yok. AC 3× OK; K10 kehribar adayı açık. AD Talepler sahip “devam” demeden yok. (GELISIM’e FE kaydı 84 ile aynı pencerede işlendi.)
+
 
 ## Ortak depo
 | Alan | DeÄŸer |
