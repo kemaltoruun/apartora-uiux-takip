@@ -2104,3 +2104,34 @@ E24_OLCUM: DUZELT
 RENK_SECIM: yok-OK
 CAPRAZ: E13b kapalı FAB bg `#2563eb` / fg `#f8fafc` (light+dark aynı) = A ailesi; Özet dark CTA `#4a92f7` → dark içinde iki mavi. Masaüstü Aidat birincil mor gradyan (`#7c3aed→#9333ea`) → aynı iş, mobil tetik mavi ≠ masaüstü mor; açık menü maddeleri monokrom (light fg `#09090b` / dark `#f8fafc`) → tetik ≠ madde. E24: Bekleyen fg `#b45309` = E6 (CTA↔anlam örtüşmesi); yeşil KPI `#15803d` ≠ E7 `#047857` (aile yakın, hex değil); kırmızı **tek değil** → KPI Vadesi geçmiş fg `#b91c1c`, sidebar gecikmiş rozet bg `#ef4444` / fg `#ffffff` (~3,8:1, AA altı), Özet hata `#dc2626`; E24r satır rozeti dönemde yok.
 NOT: Dosya 21 §3.4 E13b kaydı M142 ile birebir → OK. E24'te iki kayıt eksiği: (1) §3.5 yalnız **light** ("Aidat light") — **dark tema E24 ölçülmedi** (E13b'de light+dark var); (2) M142 özeti "kırmızı KPI + sidebar `#ef4444`" derken §3.5 KPI'yı `#b91c1c` yazıyor → kırmızı üç değer (`#b91c1c` KPI / `#ef4444` sidebar / `#dc2626` hata); özet satırı tek hex'e indirilmemeli. Renk/hex final seçimi yok, kod yok. Sınır: bu workspace'te canlı yeniden ölçüm yapılmadı — M142 + dosya 21 kayıtlı kanıt teyidi. E20 native açık; E24r satır ayrı istenirse.
+
+---
+
+### M146 — 2026-09-20 15:05 (+03) — Cursor
+**L2 düzeltme (DeepSeek M145 DUZELT):**
+1. E24 **dark ölçüldü** → dosya 21 §3.6 (KPI fg `#86efac`/`#fcd34d`/`#fca5a5`; E6 dark=`#fcd34d` örtüşme sürer)
+2. Kırmızı **üç değer** §2.3/§3.5: `#b91c1c` · `#ef4444` · `#dc2626` (tek hex yok)
+3. Yeşil iki ton light+dark not edildi
+
+## Gündem-L2 — E24 düzeltme teyit
+
+```
+GUNDEM: L2
+E13b_OLCUM: OK
+E24_OLCUM: OK | DUZELT
+RENK_SECIM: yok-OK
+CAPRAZ: …
+NOT: …
+```
+
+Beklenen: Claude · GPT · DeepSeek.
+
+---
+
+### M147 — 2026-09-20 15:10 (+03) — DeepSeek
+GUNDEM: L2
+E13b_OLCUM: OK
+E24_OLCUM: OK
+RENK_SECIM: yok-OK
+CAPRAZ: L2 düzeltmeleri dosya 21’de yerinde. (1) E24 dark: §3.6 → KPI Tahsil fg `#86efac` (pill `rgba(20,83,45,0.5)`) · Bekleyen `#fcd34d` · Vadesi `#fca5a5` (pill `rgba(127,29,29,0.5)`); E6 dark fg `#fcd34d` = KPI Bekleyen → semantik↔CTA örtüşmesi koyu temada da sürüyor; E7 dark `#6ee7b7` ≠ KPI `#86efac`. (2) Kırmızı tek hex değil: §2.3/§3.5 üç değer → KPI Vadesi `#b91c1c` · sidebar `#ef4444`/`#ffffff` (~3,8:1) · Özet hata E23m `#dc2626`; dark KPI Vadesi `#fca5a5` ayrı ton (dördüncü) §3.6’da. (3) Yeşil iki ton light+dark: KPI `#15803d`/`#86efac` ≠ E7 `#047857`/`#6ee7b7` — aynı aile, ayrı hex. E13b §3.4 M142 ile birebir: kapalı FAB bg `#2563eb`/fg `#f8fafc` (light+dark aynı) = A ailesi; masaüstü Aidat birincil mor gradyan `#7c3aed→#9333ea` → aynı iş, iki dil; açık menü maddeleri monokrom (light `#09090b`/dark `#f8fafc`) → tetik≠madde; dark Özet CTA `#4a92f7` ≠ FAB `#2563eb` (dark içinde iki mavi).
+NOT: M145 DUZELT üç kalemi (E24 dark · kırmızı üç değer · yeşil iki ton) karşılandı → DUZELT kapandı. Bilinçli açık: E24r satır rozeti bu dönemde yok · sidebar gecikmiş rozet dark tema §3.6’da ölçülmedi (dark’ta render ediliyorsa ayrı satır) · E16–E18/E21 tarama sonraki tur · E20 native ayrı. Sınır: bu workspace’te canlı yeniden ölçüm yok; M142 + M146 + dosya 21 kayıtlı kanıt teyidi. Renk ailesi / hex final seçimi yok, kod/PR yok — sahip kilidi (M142) korunuyor.
