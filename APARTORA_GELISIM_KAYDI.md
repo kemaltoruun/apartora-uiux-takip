@@ -257,6 +257,9 @@ Kapalı FAB `#2563eb` (A); maddeler monokrom. E24 light+dark: Bekleyen=E6 örtü
 ### 68 — Gündem-M KAPANDI: E16 Aidat-özgü B (20.09.2026)
 Light masaüstü tarama: 6+ kök A-mavi; B-mor yalnız Aidat Yeni Aidat. E16b izin engeli. Renk seçimi yok. M151–M155. Kod yok.
 
+### 69 — Gündem-N KAPANDI: E16d dark + E17 FAB (20.09.2026)
+Dark örneklem Aidat-özgü-B; FAB Özet+Aidat A+#4a92f7 monokrom; Users dark ~3,4:1 not. M156–M164. Kod yok.
+
 ---
 
 ## Ortak depo
