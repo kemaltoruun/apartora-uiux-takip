@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayıtlar değiştirilmez; bir
 **Rolümüz:** Analiz ve tavsiye. Sistemsel değişiklik kararı sistem sahibindedir.
 **Takip kuralı:** Her kalıcı değişiklik (karar, rapor dosyası, dilim onayı, kapanış) yeni numarayla **sona** eklenir. Eski kayıt metni değiştirilmez; durum değişince yeni kayıt + eski numaraya atıf.
 **Klasör:** `C:\Users\Kemal\Desktop\APARTORA` — numaralı md raporlar burada; bu dosya tek gelişim günlüğüdür.
-**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 63
+**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 64
 
 ---
 
@@ -241,6 +241,9 @@ F2: 3× sentez-OK · K4_HEDEF OK (my-payments yasak + aday yüzey) · P1+P2 tek 
 
 ### 63 — E/H KAPANDI + Dilim2 renk light (20.09.2026)
 E-final KAPANDI · H ayir-listeler (ürün R≠repo md) · I light: aksan **karisik-RISK** (mor gradyan CTA; bgColor yanılgısı düzeltildi). Dosya 21. Koyu ölçüm sırada. M101–M124. Kod yok.
+
+### 64 — Gündem-J koyu tema KAPANDI (20.09.2026)
+`data-theme=dark` ölçüldü: L0 `#030712` · L1 `#12151c` · Tahsilat `#4a92f7`+fg `#0f172a` · Aidat mor gradyan aynı · karisik-RISK teyit · mor CTA ~3,2:1 AA riski. J2: mobil dark. M125–M130. Kod yok.
 
 ---
 
