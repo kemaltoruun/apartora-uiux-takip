@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayıtlar değiştirilmez; bir
 **Rolümüz:** Analiz ve tavsiye. Sistemsel değişiklik kararı sistem sahibindedir.
 **Takip kuralı:** Her kalıcı değişiklik (karar, rapor dosyası, dilim onayı, kapanış) yeni numarayla **sona** eklenir. Eski kayıt metni değiştirilmez; durum değişince yeni kayıt + eski numaraya atıf.
 **Klasör:** `C:\Users\Kemal\Desktop\APARTORA` — numaralı md raporlar burada; bu dosya tek gelişim günlüğüdür.
-**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 66
+**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 71
 
 ---
 
@@ -262,6 +262,9 @@ Dark örneklem Aidat-özgü-B; FAB Özet+Aidat A+#4a92f7 monokrom; Users dark ~3
 
 ### 70 — Gündem-O KAPANDI: E18 Favoriler A + E24r E6 örtüşme (20.09.2026)
 Favoriler #2563eb; sakin chip #b45309=E6 / #b91c1c gecikme; E24r-mgr veri yok. M165–M173. Kod yok.
+
+### 71 — Gündem-P KAPANDI: E18d/E18a/E19 (20.09.2026)
+Favoriler dark #4a92f7; dark Aidat aktif nötr+pin; Dikkat A/E3; E19p menekşe B-şüpheli açık; E19m açık. M174–M183. Kod yok.
 
 ---
 
