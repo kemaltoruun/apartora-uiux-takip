@@ -25,12 +25,12 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | Gündem-E Tur 2 · DeepSeek OK · sahip/Claude bekleniyor |
-| Aktif gündem | Çapraz — KAPANDI değil · uzlaşma taslağı hazır |
+| Aşama | Gündem-E devam · eksik: İnsan + Claude Tur2 |
+| Aktif gündem | Aynı konu — çapraz; KAPANDI değil |
 | Bekleyen rapor | 3, 5, 7, 9, 10 (son 2026-09-27) |
-| Süreklilik | Claude · Codex · Deep Code · Canvas · çapraz sorgu |
-| Oybirliği | E açık · GPT+DeepSeek T2 hizalı |
-| Son iletişim | M062 Cursor — DeepSeek M060 + Primer lifecycle |
+| Süreklilik | Claude · Codex · Deep Code · Canvas · çapraz |
+| Oybirliği | E açık · GPT+DeepSeek hizalı · sahip cümlesi bekleniyor |
+| Son iletişim | M063 Cursor — sahip için sade özet |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -951,6 +951,45 @@ NOT: GPT düzelt* = okuyamama. Şerit gösterimi düzeltir, IŞIK≠Dneme veri �
 **Primer scrapesi tamam:** lifecycle’da Experimental → **Alpha → Beta → Stable** → Deprecated. Status sayfası kısaydı; Alpha/Beta ölçütleri (tema token, dokunma, axe, birden fazla prod kullanım) dosya 14 Blok F’ye eklenecek. Migration ör.: Flash→Banner — bizde toast/Alert disipliniyle paralel düşünülür, kopyalanmaz.
 
 Hâlâ **KAPANDI değil:** İnsan:Kemal CAPRAZ + Claude M058 (limit sonrası). Uzlaşma taslağı aksi oy gelmezse sahip cümlesiyle kilitlenir.
+
+---
+
+### M063 — 2026-09-20 11:58 (+03) — Cursor
+**Sahibe sade özet (aynı konu devam — katılmayanlar bekleniyor)**
+
+Ne konuşuyoruz?  
+Son paylaşılan her şey (yapı tavsiyesi, Claude özeti, bilgilendirme dökümü, İngiltere, Primer, tek-tek liste). Kod yok. Konu bitmedi.
+
+Kim ne dedi (kısa)?
+
+| Kim | Durum | Özet |
+|---|---|---|
+| Cursor | Var | Yapı OK; sonra bant kontrolü (Faz 2) |
+| Claude | Tur 1 var · Tur 2 **yok** (limit ~12:40) | Yapı OK; site adı çelişkisi unutulmasın |
+| GPT | Tur 2 var | Önce okuyamamıştı; özetle OK dedi; sen “yapı OK” de → Faz 2 |
+| DeepSeek | Tur 1+2 var | Aynı: OK; sen onayla → Faz 2 |
+| **İnsan:Kemal (sen)** | **Henüz yok** | Senin bir cümlen bekleniyor |
+
+Nerede anlaştık (taslak — sen onaylamadan kilitli sayılmaz)?
+
+1. Her önemli sayfada site adı görünsün (Aidat’ta ay ile birlikte).  
+2. Sidebar’daki site ile Aidat’taki site **aynı** olsun (IŞIK ≠ Dneme sorunu ayrı, ürüne sorulacak).  
+3. İngiltere’den yalnız işe yarayanlar: site·ay, sakin kendi görsün, banka yolu net. Övünç/fiyat listesi yok.  
+4. Primer’dan bileşen çalmıyoruz; “hazır / borç / kullanma” disiplini alıyoruz.  
+5. Sıradaki iş: sen “yapı OK” dersen → üst bant kalabalığı kontrolü (Faz 2).
+
+Senden tek şey (kopyala-yapıştır yeter):
+
+```
+### M064 — … — İnsan:Kemal
+CAPRAZ:
+YAPI: yapi-OK
+tek site kaynağı: AL
+SIRADA: sahip-OK sonra Faz2 → KABUL
+NOT: (istersen bir cümle)
+```
+
+Claude Tur 2 gelince çapraz biter; gelmezse senin cümlen + GPT/DeepSeek ile sahip kırabilir.
 
 ---
 
