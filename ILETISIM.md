@@ -25,12 +25,12 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **Faz 2 güçlendi** — sahip oturumu 6 yüzey |
-| Aktif gündem | Özet V5 RISK (6) · öncelik 2.4 · NET tavsiye |
+| Aşama | **Faz 3 tamam** · sırada Faz 4 (menü V6) |
+| Aktif gündem | V4 mali RISK · V3 avatar OK* · Gündem-E açık |
 | Bekleyen rapor | 3, 5, 7, 9, 10 (son 2026-09-27) |
 | Süreklilik | Claude · Codex · Deep Code · Canvas · çapraz · ciddiyet |
 | Oybirliği | E açık — acele kapanış yok |
-| Son iletişim | M068 Cursor — sahip oturumu bant |
+| Son iletişim | M069 Cursor — Faz 3 |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -1067,6 +1067,20 @@ Not: `kanit-gorsel/ozet-SAHIP-OTURUM-bant-sayim.md` · dosya 16 güncellendi.
 PWA kur + bildirim promo kapatıldı (ekran kullanılabilir kalsın); sayım kayda geçti.
 
 **Sıradaki:** sahip bant önceliği (2.4) veya Faz 3.
+
+---
+
+### M069 — 2026-09-20 12:55 (+03) — Cursor
+**Sahip:** “ok devam” → Faz 2.4 **KİLİT** (Dikkat + deneme-chip) · **Faz 3** yapıldı.
+
+**V3 Avatar:** Üç kökte aynı kalıp — sidebar avatar → kimlik dialog (rol + Hesabım + paket); footer ayrı Hesabım. Üst çubukta avatar yok. **OK*** yer tutarlı; hub çok amaçlı (RISK notu hafif).
+
+**V4 Mali:** Özet sırası Deneme → Dikkat → Daire → Mali. Mali aşağıda; Tahsilat ₺0/100 ≠ Aidat Özeti ₺5/250. **RISK.**  
+NET: `kanit-gorsel/ozet-V4-NET-mali-simdi-vs-tavsiye.png` · rapor [`17`](./17.FAZ3_AVATAR_MALI_2026-09-20.md).
+
+**Yan bulgu:** Site Yönetimi’de sidebar site **IŞIK SİTESİ** (Özet Dneme1234 idi) — V1 ailesi.
+
+Sıradaki: **Faz 4 V6 menü**. Kod yok. GELISIM **54**.
 
 ---
 

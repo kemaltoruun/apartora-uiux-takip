@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Özet V4 — Mali blok şimdi vs tavsiye</title>
+  <style>
+    :root { --bg:#f8fafc; --fg:#0f172a; --muted:#64748b; --border:#e2e8f0; --blue:#2563eb; --green:#16a34a; --red:#dc2626; }
+    * { box-sizing: border-box; }
+    body { margin:0; font-family:"Segoe UI",system-ui,sans-serif; background:#0f172a; color:var(--fg); }
+    .board { display:grid; grid-template-columns:1fr 1fr; gap:12px; padding:12px; }
+    .panel { background:var(--bg); border-radius:12px; overflow:hidden; border:1px solid #334155; }
+    .tag { padding:10px 14px; font-weight:700; color:#fff; font-size:14px; }
+    .tag.now { background:var(--red); }
+    .tag.after { background:var(--green); }
+    .main { padding:14px; }
+    h1 { margin:0 0 4px; font-size:20px; }
+    .sub { color:var(--muted); font-size:13px; margin-bottom:10px; }
+    .band { background:#dbeafe; border:1px solid #93c5fd; border-radius:8px; padding:8px 10px; font-size:12px; font-weight:600; margin-bottom:8px; color:#1e3a8a; }
+    .chip { display:inline-block; background:#eff6ff; border:1px solid #93c5fd; border-radius:999px; padding:4px 10px; font-size:11px; font-weight:600; color:#1d4ed8; margin-bottom:8px; }
+    .att { background:#fff; border:1px solid var(--border); border-radius:10px; padding:10px; margin-bottom:8px; font-size:13px; }
+    .row { display:grid; grid-template-columns:1fr 1fr 1fr; gap:8px; margin-bottom:8px; }
+    .card { background:#fff; border:1px solid var(--border); border-radius:10px; padding:10px; }
+    .card .k { font-size:11px; color:var(--muted); }
+    .card .n { font-size:22px; font-weight:700; }
+    .mali { background:#ecfdf5; border:2px solid #86efac; border-radius:10px; padding:12px; margin-bottom:8px; }
+    .mali.warn { background:#fff1f2; border-color:#fda4af; }
+    .mali .t { font-weight:700; margin-bottom:6px; }
+    .clash { font-size:12px; color:#b91c1c; font-weight:600; }
+    .ok { font-size:12px; color:#15803d; font-weight:600; }
+    .note { padding:8px 12px; background:#1e293b; color:#cbd5e1; font-size:11px; }
+    .dim { opacity:.45; }
+  </style>
+</head>
+<body>
+  <div class="board">
+    <section class="panel">
+      <div class="tag now">ŞİMDİ — Özet sıra (canlı)</div>
+      <div class="main">
+        <h1>Ana Sayfa</h1>
+        <div class="sub">Dneme1234</div>
+        <div class="band">✨ Deneme · 7 gün · Paketleri Gör</div>
+        <div class="att">⚠ Dikkat · 14 boş daire</div>
+        <div class="row">
+          <div class="card"><div class="k">Daire</div><div class="n">20</div></div>
+          <div class="card"><div class="k">Kullanıcı</div><div class="n">2</div></div>
+          <div class="card"><div class="k">Tahsilat</div><div class="n">₺0</div><div class="clash">/ ₺100</div></div>
+        </div>
+        <div class="mali warn">
+          <div class="t">Bu Ay Mali Durum (aşağıda)</div>
+          <div class="clash">Aidat Özeti: ₺5 / ₺250 · %2 — başka gerçek</div>
+        </div>
+        <div class="card dim">Hızlı İşlemler…</div>
+      </div>
+      <div class="note">Sorun: mali blok dikkat+daire altında · iki para tutarı aynı ekranda</div>
+    </section>
+    <section class="panel">
+      <div class="tag after">TAVSİYE — mali yukarı + tek gerçek</div>
+      <div class="main">
+        <h1>Ana Sayfa</h1>
+        <div class="sub">Dneme1234</div>
+        <div class="chip">✨ Deneme · 7 gün</div>
+        <div class="att">⚠ Dikkat · 14 boş daire</div>
+        <div class="mali">
+          <div class="t">Mali özet (tek kaynak)</div>
+          <div class="ok">Tahsil / bekleyen / oran — Aidat ile aynı sayılar</div>
+        </div>
+        <div class="row">
+          <div class="card"><div class="k">Daire</div><div class="n">20</div></div>
+          <div class="card"><div class="k">Kullanıcı</div><div class="n">2</div></div>
+          <div class="card"><div class="k">Boş</div><div class="n">14</div></div>
+        </div>
+        <div class="card">Hızlı İşlemler…</div>
+      </div>
+      <div class="note">Fark: bant≤2 · mali hemen · daire ikincil · tek para gerçeği</div>
+    </section>
+  </div>
+</body>
+</html>
