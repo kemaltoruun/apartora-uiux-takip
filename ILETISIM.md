@@ -25,12 +25,12 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **Faz 2 V5 ölçümü yapıldı** · Gündem-E hâlâ açık |
-| Aktif gündem | Özet bant RISK · NET kanıt · sahip öncelik (2.4) |
+| Aşama | **Faz 2 güçlendi** — sahip oturumu 6 yüzey |
+| Aktif gündem | Özet V5 RISK (6) · öncelik 2.4 · NET tavsiye |
 | Bekleyen rapor | 3, 5, 7, 9, 10 (son 2026-09-27) |
 | Süreklilik | Claude · Codex · Deep Code · Canvas · çapraz · ciddiyet |
 | Oybirliği | E açık — acele kapanış yok |
-| Son iletişim | M067 Cursor — Faz 2 UI/UX |
+| Son iletişim | M068 Cursor — sahip oturumu bant |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -1054,6 +1054,19 @@ Dosya: [`16.FAZ2_V5_…`](./16.FAZ2_V5_BANT_SIMDI_TAVSIYE_2026-09-20.md) · gör
 GELISIM **52**. Kod yok.
 
 **Sıradaki (sahip):** (1) bant önceliği onayla / düzelt · (2) Faz 3’e geç veya Özet tavsiyesini ekibe ilet.
+
+---
+
+### M068 — 2026-09-20 12:48 (+03) — Cursor
+**Sahip:** “giriş yaptım” → Chrome oturumu bağlandı · Dneme1234 Site Yöneticisi · `/manager/dashboard`.
+
+**Yeni kanıt (evaluate):** Özet’te **6 dikkat yüzeyi** — deneme bandı · Deneme butonu · PWA/bildirim promo · PWA kur kartı · Dikkat · favori ipucu.  
+Headless turda PWA katmanları yoktu; sahip oturumu asıl kalabalığı gösterdi.  
+Not: `kanit-gorsel/ozet-SAHIP-OTURUM-bant-sayim.md` · dosya 16 güncellendi.
+
+PWA kur + bildirim promo kapatıldı (ekran kullanılabilir kalsın); sayım kayda geçti.
+
+**Sıradaki:** sahip bant önceliği (2.4) veya Faz 3.
 
 ---
 

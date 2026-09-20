@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayıtlar değiştirilmez; bir
 **Rolümüz:** Analiz ve tavsiye. Sistemsel değişiklik kararı sistem sahibindedir.
 **Takip kuralı:** Her kalıcı değişiklik (karar, rapor dosyası, dilim onayı, kapanış) yeni numarayla **sona** eklenir. Eski kayıt metni değiştirilmez; durum değişince yeni kayıt + eski numaraya atıf.
 **Klasör:** `C:\Users\Kemal\Desktop\APARTORA` — numaralı md raporlar burada; bu dosya tek gelişim günlüğüdür.
-**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 52
+**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 53
 
 ---
 
@@ -202,6 +202,9 @@ Sahip: çalışmayı çok ciddiye alın. `15.CIDDIYET_STANDARDI` + YONETIM §3.2
 
 ### 52 — Faz 2 V5 bant ölçümü + NET Özet (20.09.2026)
 Sahip: “ilk önce UI/UX çalışması”. Canlı Dneme1234: Özet **RISK** (deneme bandı + Deneme butonu + Dikkat); Aidat/Site **OK*** (sistem bandı yok). Dosya `16` + `kanit-gorsel/ozet-V5-NET-simdi-vs-tavsiye.png`. Kod yok. M067.
+
+### 53 — Sahip oturumu: Özet 6 yüzey (20.09.2026)
+Sahip Chrome giriş. Evaluate: deneme×2 + PWA bildirim + PWA kur + Dikkat + favori = **6**. V5 RISK güçlendi. `ozet-SAHIP-OTURUM-bant-sayim.md`. M068. Kod yok.
 
 ---
 
