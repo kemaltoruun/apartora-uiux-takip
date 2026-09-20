@@ -1,11 +1,11 @@
-﻿# APARTORA — Gelişim Kaydı
+# APARTORA — Gelişim Kaydı
 
 Her yenilik yeni bir numarayla sona eklenir. Eski kayıtlar değiştirilmez; bir kaydın durumu değişirse yeni bir kayıt açılır ve eskisine atıf yapılır.
 
 **Rolümüz:** Analiz ve tavsiye. Sistemsel değişiklik kararı sistem sahibindedir.
 **Takip kuralı:** Her kalıcı değişiklik (karar, rapor dosyası, dilim onayı, kapanış) yeni numarayla **sona** eklenir. Eski kayıt metni değiştirilmez; durum değişince yeni kayıt + eski numaraya atıf.
 **Klasör:** `C:\Users\Kemal\Desktop\APARTORA` — numaralı md raporlar burada; bu dosya tek gelişim günlüğüdür.
-**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 74
+**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 75
 
 ---
 
@@ -274,6 +274,9 @@ Ortak Giderler emerald-wash; ödenmemiş chip = E24r; Özet mali üç aile. M193
 
 ### 74 — Mobil kanıt = USB telefon; emülatör yasak (20.09.2026)
 Sahip: emülatör kullanılmaz. AVD + emulator paketi + AEHD kaldırıldı. Mobil ölçüm/APK yalnız PC’ye bağlı fiziksel cihaz (`adb`, bu turda RMX2170 `299923ee`). M209–M211. Kod yok.
+
+### 75 — Gündem-T KAPANDI: E20 native otopsi T0 (20.09.2026)
+Telefon Özet/Aidat/Menü + rol seçici. B02 native-sakin · B03 bar birincil · B04 sekme IA bilinçli fark · B05 liste-yukarı sıkıştır. Dosya 22. M210·M213·M214·M217. Kod yok. T1: web PC · IŞIK · sakin.
 
 ---
 
