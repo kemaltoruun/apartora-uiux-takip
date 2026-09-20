@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayıtlar değiştirilmez; bir
 **Rolümüz:** Analiz ve tavsiye. Sistemsel değişiklik kararı sistem sahibindedir.
 **Takip kuralı:** Her kalıcı değişiklik (karar, rapor dosyası, dilim onayı, kapanış) yeni numarayla **sona** eklenir. Eski kayıt metni değiştirilmez; durum değişince yeni kayıt + eski numaraya atıf.
 **Klasör:** `C:\Users\Kemal\Desktop\APARTORA` — numaralı md raporlar burada; bu dosya tek gelişim günlüğüdür.
-**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 38
+**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 39
 
 ---
 
@@ -160,6 +160,9 @@ ChatGPT login OK. `codex exec` ile M016 tanıtım/amaç alındı (`GPT_KOPRU.md`
 
 ### 38 — DeepSeek Deep Code CLI kuruldu (20.09.2026)
 `@vegamo/deepcode-cli` 0.4.1 + `~/.deepcode/settings.json` + vault şablonu `deepseek-api.env`. API key henüz yok. `DEEPSEEK_KOPRU.md`. M020.
+
+### 39 — DeepSeek köprü çalışıyor (20.09.2026)
+API key kasaya alındı; `deepcode -x -p` ile M021 tanıtım/amaç. Cursor↔DeepSeek OK. Sohbete yapıştırılan key için rotate tavsiyesi. M022.
 
 ---
 
