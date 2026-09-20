@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayıtlar değiştirilmez; bir
 **Rolümüz:** Analiz ve tavsiye. Sistemsel değişiklik kararı sistem sahibindedir.
 **Takip kuralı:** Her kalıcı değişiklik (karar, rapor dosyası, dilim onayı, kapanış) yeni numarayla **sona** eklenir. Eski kayıt metni değiştirilmez; durum değişince yeni kayıt + eski numaraya atıf.
 **Klasör:** `C:\Users\Kemal\Desktop\APARTORA` — numaralı md raporlar burada; bu dosya tek gelişim günlüğüdür.
-**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 26
+**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 27
 
 ---
 
@@ -125,16 +125,19 @@ Private repoya davet edilecek olan **GPT veya Claude değil, onları kullanan in
 
 **Bekleyen:** Davet listesi (GitHub kullanıcı adı veya e-posta) — sahip verecek; verilince davetler gönderilecek.
 
+### 27 — Takip deposu Public yapıldı (20.09.2026)
+GPT/Claude’un GitHub hesabı olmadığı için davet yolu çalışmaz. Karar: `apartora-uiux-takip` **Public** (içinde ürün kaynağı / .env / anahtar yok). Apartora ürün kodu ayrı private kalır. Public öncesi `CLAUDE.md` içinden yedek parola yolları, admin e-posta ve Supabase project_id çıkarıldı. AI’ler repoyu davetsiz okuyabilir; kalıcı yazım için hâlâ GitHub hesabı + push gerekir.
+
 ---
 
 ## Ortak depo
 | Alan | Değer |
 |---|---|
 | URL | https://github.com/kemaltoruun/apartora-uiux-takip |
-| Görünürlük | Private |
+| Görünürlük | **Public** (kayıt 27) |
 | Clone | `git clone https://github.com/kemaltoruun/apartora-uiux-takip.git` |
-| Kim davet edilir | İnsanlar (GPT / Claude / Cursor kullanıcıları) |
-| Davet durumu | Liste bekleniyor |
+| Kim kullanır | İnsanlar + GPT / Claude / Cursor (okuma herkese açık) |
+| Yazma | Push yetkisi olan GitHub hesapları |
 
 ## Bekleyen raporlar
 | Kayıt | Konu |

@@ -1,6 +1,6 @@
-# Apartora UI/UX takip (özel)
+# Apartora UI/UX takip
 
-Bu depo **yalnız yetkili ekip** içindir. Canlı ürün kodu değildir.
+Bu depo **Public** takip defteridir (ürün kaynağı değil). Apartora kod reposu ayrı ve private kalır.
 
 ## Tek doğru yer
 
@@ -9,12 +9,19 @@ Bu depo **yalnız yetkili ekip** içindir. Canlı ürün kodu değildir.
 | [`APARTORA_GELISIM_KAYDI.md`](./APARTORA_GELISIM_KAYDI.md) | Kronolojik günlük — her kalıcı adım yeni numarayla **sona** eklenir |
 | [`0.INDEX_TAKIP.md`](./0.INDEX_TAKIP.md) | Numaralı rapor indeksi |
 
-## Çalışma kuralı (3–4 kaynak)
+## GPT / Claude / Cursor
 
-1. İşe başlamadan önce `APARTORA_GELISIM_KAYDI.md` son kayıt numarasını oku.
-2. Kalıcı karar / rapor / kapanış → **yeni kayıt** ekle (eski metni silme / değiştirme).
-3. Detay rapor → `7.…`, `8.…` md + indekse satır.
-4. Ürün kodu / push / deploy bu depoda yapılmaz; Apartora ana repo ayrıdır.
+Davet gerekmez (public). Okuma: bu URL. Yazma: GitHub hesabıyla fork/PR veya collaborator push.
+
+```text
+https://github.com/kemaltoruun/apartora-uiux-takip
+```
+
+## Çalışma kuralı
+
+1. İşe başlamadan `APARTORA_GELISIM_KAYDI.md` son kayıt numarasını oku (`git pull`).
+2. Kalıcı karar / rapor → **yeni kayıt** ekle.
+3. `.env`, anahtar, parola **asla** buraya konmaz.
 
 ## Rol
 

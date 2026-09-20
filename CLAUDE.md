@@ -53,7 +53,7 @@
 > Versiyonlar `package.json`'dan okunur — bu listede yazılmaz, eskimemesi için.
 - **Frontend**: Next.js, React, Shadcn/ui, Tailwind CSS, TanStack Query, React Hook Form + Zod
 - **Backend**: Supabase (PostgreSQL, Auth, Realtime, Storage), Next.js API Routes
-- **Supabase MCP project_id**: `nlxrubesberdycjeaaxq`
+- **Supabase MCP project_id**: (ürün reposunda; bu takip deposunda tutulmaz)
 - **Next.js 16 özellikleri**: `use()` hook, async `cookies()`/`headers()`/`params`/`searchParams`, Turbopack, fetch cache `no-store`
 
 ## PROJE YAPISI & ROLLER
@@ -184,7 +184,7 @@ Prefix: `özellik:` (yeni) | `düzeltme:` (bug fix) | `güncelleme:` (update) | 
 ## ÖDEME TEST & ADMİN
 - **Primary provider**: PayTR (test kartları: `memory/reference_paytr_test_cards.md` — Visa/MC/Troy, CVV=000)
 - **iyzico (legacy)**: `5892830000000000` | SKT: `12/28` | CVV: `703`
-- **Admin email**: `apartora@apartora.com`
+- **Admin email**: ürün içi admin hesabı (bu takip deposunda yazılmaz)
 
 ## SKILLS
 `/mobile-review` `/i18n-check` `/pdf` `/xlsx` `/docx` `/pptx` `/frontend-design` `/webapp-testing`
