@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayıtlar değiştirilmez; bir
 **Rolümüz:** Analiz ve tavsiye. Sistemsel değişiklik kararı sistem sahibindedir.
 **Takip kuralı:** Her kalıcı değişiklik (karar, rapor dosyası, dilim onayı, kapanış) yeni numarayla **sona** eklenir. Eski kayıt metni değiştirilmez; durum değişince yeni kayıt + eski numaraya atıf.
 **Klasör:** `C:\Users\Kemal\Desktop\APARTORA` — numaralı md raporlar burada; bu dosya tek gelişim günlüğüdür.
-**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 23
+**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 24
 
 ---
 
@@ -102,7 +102,17 @@ Ayrı şema eksikti; `4.RENK_KATMANLARI_VE_MENU_DIZILIM_SEMASI_2026-09-20.md` ya
 ### 23 — Ortak özel GitHub deposu kararı (20.09.2026)
 3–4 farklı kaynağın aynı yeri görmesi için takip dosyaları **Apartora ürün reposundan bağımsız**, **private** bir GitHub deposunda tutulacak. Aday ad: `apartora-uiux-takip`. Yerel klasör: `C:\Users\Kemal\Desktop\APARTORA`. Mevcut fine-grained PAT ile repo **oluşturma** 403 verdi; depo sahibi GitHub’da private repo’yu elle oluşturup collaborator ekleyecek, ardından içerik push edilecek. Ürün kodu bu depoya konmaz.
 
+### 24 — Private depo açıldı ve bağlandı (20.09.2026)
+Tarayıcı oturumuyla `https://github.com/kemaltoruun/apartora-uiux-takip` **Private** oluşturuldu; yerel `main` push edildi. Tek doğru günlük: `APARTORA_GELISIM_KAYDI.md`. Diğer kaynaklar: Settings → Collaborators ile davet → kabul → clone/pull. Ürün reposundan bağımsız.
+
 ---
+
+## Ortak depo
+| Alan | Değer |
+|---|---|
+| URL | https://github.com/kemaltoruun/apartora-uiux-takip |
+| Görünürlük | Private |
+| Clone | `git clone https://github.com/kemaltoruun/apartora-uiux-takip.git` |
 
 ## Bekleyen raporlar
 | Kayıt | Konu |
