@@ -320,6 +320,10 @@ Sahip frontend mimarisini psikoloji + alışkanlık + geçiş ile açtı. Primer
 M279: Tur2 **K4A · K7B · K8A** 3× (GPT A/B/A’ya çekti). KARAR-1 tavsiye: K1A·K2B·K3B·K4A·K5A·K6B·K7B·K8A·K9A — **sahip kilidi bekliyor**, hex/kod yok. AC 3× OK; K10 kehribar adayı açık. AD Talepler sahip “devam” demeden yok. (GELISIM’e FE kaydı 84 ile aynı pencerede işlendi.)
 
 
+
+### 86 - KARAR sayımı düzeltildi: 9/9 değil 8 oybirliği + 6 çoğunluk (21.09.2026)
+Kayıt 85 “KARAR-1 9/9 tavsiye” diyordu; dayanağı GPT’nin Tur2’de A/B/A’ya çekilmesiydi. Paralel ikinci turda (M281) GPT aynı kalemlere B/C/C verdi; nihai oyunda (**M288**) **B/C/C**’yi seçip A/B/A’yı geri çekti ve sebebini “yeni kanıt değil, kendi yorum tutarsızlığım” diye yazdı. Doğru tablo: **oybirliği 8** (K1A·K2B·K3B·K5A·K6B·K9A·K11A·K13A) + **çoğunluk 2/3 altı kalem** (K4A·K7B·K8A·K10A·K12A·K14A, azınlık hep GPT). GPT’nin azınlık çizgisi tek soruya iniyor: kontrast ölçümü **karar öncesi mi, uygulama kapısında mı**. Ayrıca paralel oturum dersi: oy blokları artık `GUNDEM:` satırında **tur kimliği** taşır (M287 §D). Dosya 31 “NİHAİ SAYIM” bölümü. M287–M289. Kod yok.
+
 ## Ortak depo
 | Alan | DeÄŸer |
 |---|---|

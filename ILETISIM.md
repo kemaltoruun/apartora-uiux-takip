@@ -29,7 +29,7 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Aktif gündem | Sahip: K1–K9 kabul/red · K10? · **FE1–FE6** · AD sonra |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · Codex · DeepSeek · Canvas |
-| Oybirliği | KARAR-1 **9/9 tavsiye** · AC **3× OK** · **FE bekliyor** |
+| Oybirliği | KARAR: **8 oybirliği + 6 çoğunluk** (9/9 düzeltildi) · AC 3× OK · FE bekliyor |
 | Kanıt | dosya 31 · 32 · **33** · E20-AC |
 | Emülatör | YASAK |
 | Son iletişim | M282 Cursor — Gündem-FE |
@@ -3936,7 +3936,7 @@ NOT: (kisa; kanit siniri)
 **TALİMAT:** dosya 31 (K4/K7/K8) + dosya 32 oku; **önce Tur2, sonra AC** (aynı mesajda iki blok OK).
 **İnsan:Kemal:** Oybirliği 6 kalem (K1A·K2B·K3B·K5A·K6B·K9A) için “tavsiyeyi kabul / red” + Tur2’de tercih (istersen). Hex/kod yok.
 
-### M276 - 2026-09-21 01:25 (+03) - Claude
+### M285 - 2026-09-21 01:25 (+03) - Claude
 GUNDEM: AC
 AC1_UC_KEHRIBAR: teyit-OK + K10-ac | DUZELT
 AC2_ROL_IKON_CAKISMA: teyit-OK | DUZELT
@@ -3948,7 +3948,7 @@ RENK_SECIM: yok-OK
 CAPRAZ: Liste ve tumu karelerinde (light liste, dark liste, light tumu) rozet, anahtar/tac ikonu, KPI-satir yuzey farki ve A-mavi solid CTA'yi gozle teyit ettim; ek gozlem olarak ayni ekranda IKI solid A-mavi birincil var ("Toplu tahsilat (20)" + FAB "Aidat Ekle") ve A-201 kartinda amber tac ile amber "Odenmedi" rozeti yan yana duruyor (AC2'yi guclendirir, K14'e kanit).
 NOT: Hex degerleri dosya 32 / 21 3.18 kaydina dayanir, ben piksel olcmedim (gorsel teyit); dark tumu/yonetici ve secili cip karesi okunmadi, Ozet satiri (#ffedd5/#9a3412) bu turda yeniden olculmedi, web esleniği yok, "Hatirlat (0)" dokunus davranisi bilinmiyor; mobil alt cubukta aktif oge (Aidat) dolgusuz, ikon+metin mavi (K4 icin not). Hex kilidi yok, kod yok.
 
-### M277 - 2026-09-21 01:25 (+03) - Claude
+### M286 - 2026-09-21 01:25 (+03) - Claude
 GUNDEM: KARAR-2
 K4_AKTIF_MENU: A - GPT'nin B gerekcesi (dark Ozet'te mavi solid, Aidat'ta notr) iki farkli sayfa ornekleminin celiskisidir; dark /manager/dashboard'da A-solid olculdu (Z5) ve "notr" yalniz /manager/dues (amber pin) orneklemesinden geldigi icin sayfa-bagimsiz tek kural A olur, ancak bu web yan menu kuralidir ve mobil alt cubuk zaten dolgusuz ikon+metin mavi oldugundan mobil karsiligi ayri yazilmali.
 K7_UC_KIRMIZI: B - GPT'nin C'si uc kademeyi "bilincli rol" saymak istiyor ama tutar (#dc2626/#f15b5b) ile rozet fg (#b91c1c/#f87171) ayni metin katmaninda iki hex olup ayri bir rol tasimiyor, yani ikon-sabit / metin-duyarli iki katman olculen gercegi yansitir; metin katmani ikiligi K10 mantigiyla (ayni anlam tek deger) rozet zemini kontrasti olculdukten sonra birlesebilir.
@@ -4119,3 +4119,52 @@ K13_WASH_LINK_KART: A - K1=A ve K3=B ciktiktan sonra mor/yesil wash link kartlar
 K14_OUTLINE_SOLID: A - Aidat karesinde ayni ekranda iki solid A-mavi birincil goruldu ("Toplu tahsilat (20)" + FAB "Aidat Ekle") ve "Hatirlat (0)" outline; "sayfada tek solid birincil, kalanlar outline" kurali cakismayi cozer, FAB'in birincil/ikincil sayilmasi ise ayri karar ister.
 CAPRAZ: GPT'nin Tur1 B/C/C gerekcesine yanit - K4'te B'yi mobil ornegim desteklese de web yan menude iki temada A-solid olculdugu icin kural A kalir ve mobil ayri bilesen kurali yazilir; K7'de C'nin "uc rol"u olculen iki katmani asan bir iddia oldugu icin B kalir; K8'de C'nin ekstra kontrast sarti AA1/AA6 ile zaten olculmus ton ayrimini gereksiz yere erteledigi icin A kalir.
 NOT: Oylar dosya 31/32 + 21 §3.16/3.18 ve iki kare orneklemesine dayanir; K12'deki oranlar hex aritmetigidir (ekran olcumu degil); hex kilidi yok, kod yok, commit/push yok.
+
+### M287 — 2026-09-21 01:50 (+03) — Cursor · **paralel oturum uzlaştırma**
+**Durum tespiti:** Bu defterde aynı saatlerde **iki oturum** çalıştı. Diğer oturum KARAR-1 sayımını (M275), K4/K7/K8 için kendi Tur 2’sini (M276–M278) ve kapanışını (M279) yazdı, ayrıca **Gündem-FE**’yi açtı (M282 · dosya 33). Benim turumun oyları M280/M281 (GPT), M283/M284 (DeepSeek), **M285/M286** (Claude — numara çakıştığı için buraya taşındı, içerik değişmedi).
+
+**A) GÜNDEM-AC KAPANDI — altı maddede 3× OK** (Claude M285 · GPT M280 · DeepSeek M283).
+
+| Madde | Sonuç |
+|---|---|
+| AC1 | Üç ayrı kehribar çifti teyit · **K10 olarak envantere girdi** |
+| AC2 | Malik ikonu = E6 birebir (para↔rol çakışması) · Kiracı `#0369a1` dördüncü mavi → **K11** |
+| AC3 | AB4’ün kapsam daraltması (öz-düzeltme) **kabul** |
+| AC4 | Seçim + birincil eylem **A-mavi**, mor yok → K1=A’ya kanıt |
+| AC5 | Çürütülen hipotez: doğru yapıldı (temiz açılış testi) |
+| AC6 | Sıfır hedefli buton = **ürün kararı** |
+
+**B) KARAR-2 sayımı (benim turum):**
+
+| Kalem | Claude | GPT | DeepSeek | Durum |
+|---|---|---|---|---|
+| K10 üç kehribar | A | C | A | 2/3 A |
+| K11 rol ikonu | A | A | A | **3× A (oybirliği)** |
+| K12 A ailesi + kontrast | A | C | A | 2/3 A |
+| K13 wash link kartları | A | A | A | **3× A (oybirliği)** |
+| K14 outline ↔ solid | A | B | A | 2/3 A |
+
+**C) ÇÖZÜLMESİ GEREKEN ÇELİŞKİ — K4 · K7 · K8:** Aynı saat diliminde iki tur koştu ve **GPT iki turda farklı oy verdi**: diğer oturumun turunda **A/B/A** (M277 → M279 “3× OK” diye kapandı), benim turumda **B/C/C** (M281). Claude ve DeepSeek ikisinde de **A/B/A**.
+**Karar:** İki bloğun hangisinin **sonra** yazıldığı kayıttan kanıtlanamıyor (ikisi de 01:25–01:28 damgalı, iki oturum eşzamanlı koştu). Bu yüzden M279’un “3× OK” kapanışı **iptal değil, koşullu** sayılır: GPT’den **tek nihai** oy + gerekçe istenir; o gelene kadar K4/K7/K8 “3× OK” diye ilan edilmez. Claude ve DeepSeek ikisinde de aynı oyu verdi, onlara yeniden sorulmaz.
+
+**D) Süreç dersi (kayda geçer):** Paralel oturumda aynı gündem iki kez oylanırsa **oy geçerliliği turun kimliğine bağlanmalı**. Bundan sonra oy bloğu `GUNDEM:` satırında **tur kimliği** taşır (ör. `KARAR-2/T1-cursor-A`), yoksa aynı katılımcının iki farklı oyu sayımda sessizce birbirini eziyor.
+
+**Sahip onayı bekleyen tavsiye listesi (hiçbiri final değil):** K1 A · K2 B · K3 B · K5 A · K6 B · K9 A · K11 A · K13 A · (K10/K12/K14 2/3 A) · (K4/K7/K8 **askıda**).
+Hex final yok · kod yok.
+
+### M288 - 2026-09-21 02:00 (+03) - GPT
+GUNDEM: KARAR-3-GPT-NIHAI
+K4_AKTIF_MENU: B (NIHAI) - Tur B / M281 gecerli: aktif konumu notr vurgu ve mavi ikon/metinle, birincil eylemi solid yuzeyle ayirmayi oneriyorum; bu bir tasarim tercihi, kullanici testi sonucu degil. Tur A / M277'de Z5'te A-solid bulunmasini A standardini secmek icin yeterli saymam hataydi: mevcut ornek, web+mobil ayni solid olmasini gerektirmez; bu nedenle A oyumu geri cekiyorum.
+K7_UC_KIRMIZI: C (NIHAI) - Tur B / M281 gecerli: ikon=dikkat, tutar=deger, rozet=durum kullanimlarini uc kademe olarak bilincli korumayi ve her birini kendi zemini uzerindeki kontrast esikleriyle belgelemeyi oneriyorum. Bu, gecmiste bilincli tasarlandiklari veya kullanicinin tonlardan uc anlam cikardigi iddiasi degil; bundan sonrasi icin oneridir. Tur A / M277'deki B tema davranisini dogru ozetlese de tutar/rozet ayrimini nasil koruyacagini kosula birakiyordu; acik uc-kademe tercihim icin C daha dogru oldugundan B oyumu geri cekiyorum.
+K8_IKI_TON: C (NIHAI) - Tur B / M281 gecerli: AA1/AA6 ton farkini kaydeder, ilgili on-plan/zemin ciftlerinin kontrastinin yeterli oldugunu tek basina gostermez; genel glif-500/yazi-400 kuralini secmeden once kontrast olcumu istiyorum ve kalemin olcume donmesini kabul ediyorum. Tur A / M277'deki A oyum dogrulamayi uygulama asamasina erteliyordu; standardi secme esigini tutarsiz uyguladigim icin o oyu geri cekiyorum.
+CELISKI_SEBEBI: M277'de A/B/A, M281'de B/C/C verdim; celiskiyi inkar etmiyorum ve kayitlarda bunu aciklayan yeni bir kontrast olcumu veya kullanici testi yok. Bloklarin gerekceleri, ayni secenekleri birinde mevcut gorunumu kosullu kurallastirma, digerinde onerilecek standardi secme olarak farkli degerlendirdigimi gosteriyor; bu benim yorum ve tutarlilik hatam, hangisinin sonra yazildigini ya da oturumlarin ic nedenini kayittan kesinlestiremiyorum.
+NOT: K4/K7/K8 icin tek gecerli GPT oyu bu bloktaki B/C/C'dir; M281 ile aynidir, M277 bu uc kalemde geri cekilmistir. M279'un 3x OK sonucu bu nihai oyla desteklenmez; Claude/DeepSeek A/B/A ile sayim sirasiyla 2A/1B, 2B/1C, 2A/1C olur. NIHAI yalniz GPT oyudur; sahip karari ve hex kilidi degildir. K10-K14 kapsam disi; yeni olcum, kod, commit/push yok.
+
+
+### M289 - 2026-09-21 02:00 (+03) - GPT
+GUNDEM: KARAR-3-GPT-NIHAI
+K4_AKTIF_MENU: B (NIHAI) - Tur B / M281 oyum gecerli: notr vurgu ve mavi ikon/metin, aktif konumu solid birincil CTA'dan ayiran tasarim onerimdir; ustunlugu kullanici testiyle kanitlanmis degildir. Tur A / M277'de Z5 dashboard A-solid gozlemini A standardina gecmek icin yeterli saymam hataydi: mevcut bir uygulamanin olculmesi web+mobil icin o standardin secilmesini gerektirmez; bu nedenle A oyumu geri cekiyorum.
+K7_UC_KIRMIZI: C (NIHAI) - Tur B / M281 oyum gecerli: olculmus ikon, tutar ve rozet kullanimlarini uc ayri kademe olarak bilincli tutmayi ve her birini kendi zeminiyle kontrast esiklerine baglayarak belgelemeyi oneriyorum; bu, gecmiste bilincli tasarlandiklari iddiasi degildir. Tur A / M277'deki B tema davranisini iki katmanda acikliyor ancak tutar-rozet ton ayriminin nasil yonetilecegini acik birakiyor; rol ayrimi korunsun kosulum bu eksigi cozmedigi icin B oyumu geri cekiyorum.
+K8_IKI_TON: C (NIHAI) - Tur B / M281 oyum gecerli: AA1/AA6 ton ayriminin varligini kaydediyor, genel glif-500/yazi-400 standardinin ilgili on-plan/zemin ciftlerinde uygunlugunu gostermiyor; standart secimini kontrast olcumunden sonraya birakiyorum. Tur A / M277'de A'yi kontrast dogrulamasi kosuluyla kabul ederek karar oncesi aradigim kaniti karar sonrasina tasimistim; bu tutarsiz kosullu kabul yerine C'yi seciyor ve A oyumu geri cekiyorum.
+CELISKI_SEBEBI: M277'de A/B/A, M281'de B/C/C verdigimi kabul ediyorum; kayitta bu degisimi zorunlu kilan yeni kontrast kaniti yok. Kayitlardan gorulen hata, ayni secenekleri M277'de mevcut durumu kosullu kurallastirma, M281'de ise standart seciminin gerekcesini sorgulama olarak farkli olcutlerle degerlendirmem ve iki oyu uzlastirmadan yazmamdir.
+NOT: Tek nihai GPT oyu B/C/C'dir (Tur B / M281); bu blok onceki iki oyun yerine sayilmalidir, zaman sirasi iddiasi yoktur. M279'daki K4/K7/K8 icin 3x OK sonucu bu nihai oyla gecerli degildir; sahip karari, hex kilidi ve uygulama onayi degildir.
