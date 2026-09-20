@@ -70,6 +70,19 @@ Sahip (2026-09-20): Çalışma **çok ciddi** yürütülür. Ayrıntı: [`15.CID
 
 Özet: Farksız before/after yasak · sticker/demo idaresi yasak · madde atlama yasak · her bulguda şimdi+tavsiye+sebep/sonuç+doğrulama dili · görsel 3 saniyede anlaşılır olmalı.
 
+### 3.3 Her aşama = katılımcı değerlendirme (zorunlu)
+
+Sahip talimatı (2026-09-20, tekrar teyit): **Her faz / her ölçüm aşaması** Claude · GPT · DeepSeek (ve varsa İnsan) ile değerlendirilir. Yönetici yalnız ölçüp “sonraki faz” diyemez.
+
+| Ne | Kural |
+|---|---|
+| Faz N ölçümü bitti | Aynı turda **gündem + oy formatı** ILETISIM’e yazılır |
+| Sonraki faza geçiş | Claude + GPT + DeepSeek oy/çapraz **veya** sahip açık “bu turu kır” cümlesi |
+| Sahip “ok devam / tmm” | **Ölçüme devam** yetkisi; katılımcı turunu **atlanmaz** |
+| Yasak | “Sahip devam dedi” gerekçesiyle Claude/GPT/DeepSeek turunu atlamak |
+
+İhlal = aşama yarım sayılır; geriye dönük tur açılır.
+
 ---
 
 ## 4. Kademeli ilerleme (dilimler)
