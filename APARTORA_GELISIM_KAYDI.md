@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayıtlar değiştirilmez; bir
 **Rolümüz:** Analiz ve tavsiye. Sistemsel değişiklik kararı sistem sahibindedir.
 **Takip kuralı:** Her kalıcı değişiklik (karar, rapor dosyası, dilim onayı, kapanış) yeni numarayla **sona** eklenir. Eski kayıt metni değiştirilmez; durum değişince yeni kayıt + eski numaraya atıf.
 **Klasör:** `C:\Users\Kemal\Desktop\APARTORA` — numaralı md raporlar burada; bu dosya tek gelişim günlüğüdür.
-**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 61
+**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 62
 
 ---
 
@@ -235,6 +235,9 @@ G Tur1: 3× FAZ2 OK · 3× FAZ3/4/5 DUZELT. Tur2: G2a OK; G2b/c/d DUZELT → dil
 
 ### 61 — Gündem-G KAPANDI (20.09.2026)
 G2.2: Claude/GPT/DeepSeek 3× OK. Kanıt dili tutarlı (aday · koşullu RISK · tanım bekliyor). Açık talepler T-para-kart / T-saf-sakin. M088–M095. Kod yok.
+
+### 62 — Gündem-F KAPANDI (20.09.2026)
+F2: 3× sentez-OK · K4_HEDEF OK (my-payments yasak + aday yüzey) · P1+P2 tek dilim · EKIP beklet. Dosya 20 K4/P2. M096–M100. Kod yok.
 
 ---
 
