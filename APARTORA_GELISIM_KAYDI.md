@@ -299,6 +299,10 @@ E19p = A taşıyıcı + B-wash (`#eff6ff→#faf5ff`) · **E19pm** (deneme bandı
 ### 80 - Gündem-Y KAPANDI: mobil dark ölçümü (20.09.2026)
 Dark taban `#12151c` / kart `#1b1f27` (karar #5 hex’i ile birebir; L0/L1 adı açık) · E19pm dark A (`#182232`/`#4a92f7`) · E19m turuncu kaydı **kapsam daraltıldı** (dark Dikkat kartı nötr) · gösterge dark `#fbbf24`/`#34d399`/`#f15b5b`/`#4a92f7`. Dosya 27 + dosya 21 §3.14. M241-M245. Kod yok.
 
+
+### 81 - Gündem-Z KAPANDI: web dark tabanı = mobil (20.09.2026)
+Görünen L0 **`#12151c`** web+mobil birebir; `#030712` yalnız `html.dark` arka durağı (karede 0 px) → M125’in “L0 #030712” okuması düzeltildi, karar #5 katman adlandırmaya indi. Token 6/6 örtüşme → web↔mobil sapmalar bileşen düzeyinde. Deneme bandı moru yalnız web (sapma light+dark). E19m yeniden yazıldı: yüzey sapması (web A bant `#172554` ↔ mobil nötr kart), turuncu = başlık ikonu `#fb923c`. Dosya 28 + dosya 21 §3.15/md.21. M246-M250. Kod yok.
+
 ## Ortak depo
 | Alan | DeÄŸer |
 |---|---|

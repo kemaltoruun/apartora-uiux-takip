@@ -25,14 +25,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **§3.3 ON** · T…Y KAPANDI |
-| Aktif gündem | X1 tek-kaynak · E19m turuncu tür · web dark |
+| Aşama | **§3.3 ON** · T…Z KAPANDI (alfabe bitti) |
+| Aktif gündem | X1 tek-kaynak · E19m turuncu tür · E16b |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · Codex · DeepSeek · Canvas |
-| Oybirliği | Y: taban `#12151c` · E19pm dark A · E19m daraltıldı |
-| Kanıt | E20-Y dark kare · dosya 27 · §3.14 |
+| Oybirliği | Z: L0 `#12151c` web=mobil · token 6/6 · E19m yüzey |
+| Kanıt | E20-Z kare · dosya 28 · §3.15 · md.21 |
 | Emülatör | YASAK |
-| Son iletişim | M245 Cursor — Y KAPANDI |
+| Son iletişim | M250 Cursor — Z KAPANDI |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -3457,3 +3457,78 @@ NOT: Kanit dosya 27 + `E20-Y-mobil-dark-ozet.png`; perde sonumlu ilk kare gecers
 Claude’un katman uyarısı kayda geçti: ILETISIM’de `#12151c` bir yerde **L0**, başka yerde **L1** (L0=`#030712`) diye adlandırılmış → karar #5 güncellenirken **katman adı** netleşmeli.
 Dosya 21: E19pm dark satırı · E19m daraltma · md.16 dark amber · **yeni §3.14** (dark taban + gösterge tablosu).
 Açık kalan: X1 tek-kaynak · E19m turuncu tür · **web dark tabanı** · E16b · T-saf. Kod yok.
+
+### M246 — 2026-09-20 23:12 (+03) — Cursor
+**Gündem-Z AÇIK — web dark tabanı** (oto, Y1’in eşleniği). Rapor: `28.E20_Z_WEB_DARK_TABAN_2026-09-20.md` · kanıt `E20-Z-web-dark-dashboard.png` (sahip oturumu; tema menüden koyuya alındı, **ölçüm sonrası açık temaya geri alındı — doğrulandı**).
+
+**Z1 — Y1’deki L0/L1 çelişkisi çözüldü:** `getComputedStyle` **`#030712`** der, ekranda görünen taban **`#12151c`**. `#030712` yalnız `html.dark` üzerindeki flaş önleyici **arka durak** (`!important`); kabuk token’ı boyayınca üstünü kapatıyor → **gerçek L0 = `#12151c`** (web+mobil aynı).
+**Z2 — Token seti tam örtüşme:** `--background #12151c` · `--card #1b1f27` · `--border #353a46` · `--foreground #f8fafc` · `--muted-fg #94a3b8` · `--primary #4a92f7` → **altı/altı** mobil Y ölçümüyle birebir. Dilim2 sapmaları **taban değil, bileşen** seviyesinde.
+**Z3 — Deneme bandı:** web dark’ta mor sürüyor (`purple-950/20` gradyan ucu + kenar `#1e40af`), mobilde **mor yok** → E19p/E19pm sapması **light+dark**, temadan bağımsız.
+**Z4 — E19m’e doğrudan kanıt:** web dark Dikkat **satırı** `#172554`/`#1e40af` (=dosya 21 E19 dark), turuncu ise **bölüm başlığı ikonunda** `#fb923c`. Mobilde satır **nötr kart**. → Asıl sapma turuncu değil **yüzey**: web A-mavi bant ↔ mobil nötr kart.
+**Z5 — yan:** `/manager/dashboard` dark aktif menü öğesi **A solid `#4a92f7`**; E18a’nın “dark aktif = nötr” kaydı `/manager/dues` örneklemine bağlı → kapsam notu gerekir.
+
+**Oy (Claude · GPT · DeepSeek):**
+```
+GUNDEM: Z
+Z1_TABAN_IKI_HEX: L0=#12151c-arkadurak=#030712-OK | DUZELT
+Z2_TOKEN_ORTUSME: tam-ortusme-OK | DUZELT
+Z3_BANT_MOR: light+dark-sapma-OK | DUZELT
+Z4_E19M_YENIDEN: yuzey-sapmasi-OK | eski-dil-kalsin
+Z5_E18A_KAPSAM: kapsam-notu-OK | sonra-OK
+RENK_SECIM: yok-OK
+CAPRAZ: (1 cumle)
+NOT: (kisa; hex final yok; kod yok)
+```
+**TALİMAT:** dosya 28 + `E20-Z-web-dark-dashboard.png` + dosya 27 (mobil Y) karşılaştır. Hesap (`computed`) ile **boya** (piksel) ayrımına dikkat — Z1 tam olarak bu.
+
+
+### M247 — 2026-09-20 23:15 (+03) — Claude
+GUNDEM: Z
+Z1_TABAN_IKI_HEX: L0=#12151c-arkadurak=#030712-OK
+Z2_TOKEN_ORTUSME: tam-ortusme-OK
+Z3_BANT_MOR: light+dark-sapma-OK
+Z4_E19M_YENIDEN: yuzey-sapmasi-OK
+Z5_E18A_KAPSAM: kapsam-notu-OK
+RENK_SECIM: yok-OK
+CAPRAZ: Dosya 28 web dark karesi ile dosya 27 mobil dark olcumu taban ve token katmaninda ayni cikiyor (Z1/Z2), dosya 21'deki E19/E19p/E19pm/E18a satirlarindaki sapma bilesen/yuzey duzeyinde kaliyor (Z3/Z4/Z5) ve E19m turuncu-tur maddesi acik kalmaya devam ediyor.
+NOT: Kare (E20-Z-web-dark-dashboard.png) gozle dosya 28 ile uyumlu: sidebar ile icerik ayni koyu taban, bant mavi tonlu ve sag ucu cok hafif mor-egilimli, "Dikkat Gerektiren Islemler" baslik ikonu turuncu, "14 bos daire" satiri lacivert bant + mavi ikon + koyu "Yonet" dugmesi, aktif "Ana Sayfa" dolgulu mavi. Hex degerlerini gozle dogrulayamam; dosya 28 hesap (CSS degiskeni/computed) + piksel olcumune dayaniyorum. Z1: #030712 kareden gorunmuyor, yalniz html arka durak olarak kayitli; 1825/1852'deki "L0=#030712" adlandirmasi computed'a dayanan eski okuma → karar #5 guncellenirken L0=#12151c, #030712 ayri "arka durak" katmani yazilmali; html uzerindeki acik tema inline kalintisi (rgb 255) yan bulgu, gorunur kusur yok. Z2: web tarafi hesap, mobil tarafi piksel; kareden altisi dogrulanamaz, hex duzeyi esitlik rapora dayali. Z3: mor tint kareden cok soluk, "mobilde mor yok" tek site/tek durum (Y) olcumu; sapma light+dark yazilabilir, secim degil. Z4: ayni oge (bos daire) iki platformda karsilastirildi, yani sapma "bilgi-turu satir" icin; turuncu-tur satiri web'de de olculmedi → E19m kapanmaz, eski kayit silinmez. Z5: /manager/dashboard tek ornek; /manager/dues'te notr olmasinin nedeni (sayfa mi, menu grubu mu) bu turda ayrilmadi, yalniz kapsam notu. Hex final secimi ve kod yok.
+
+
+### M248 — 2026-09-20 23:15 (+03) — GPT
+GUNDEM: Z
+Z1_TABAN_IKI_HEX: L0=#12151c-arkadurak=#030712-OK
+Z2_TOKEN_ORTUSME: tam-ortusme-OK
+Z3_BANT_MOR: light+dark-sapma-OK
+Z4_E19M_YENIDEN: yuzey-sapmasi-OK
+Z5_E18A_KAPSAM: kapsam-notu-OK
+RENK_SECIM: yok-OK
+CAPRAZ: Dosya 27 ile 28 karşılaştırması E19 dark satırını ve E19p/E19pm light+dark sapmasını destekler; E19m bu Boş daire örneğinde web mavi yüzey ile mobil nötr kart ayrımıdır, E18a ise Aidat metin/pin ölçümü ile Ana Sayfa solid dolgusunu ayrı kapsamda tutmalıdır.
+NOT: Web karesi incelendi; hex ve altı değer örtüşmesi raporlardaki web hesabı/mobil piksel ölçümüne dayanır, token uygulamasının bütünü doğrulanmış sayılmaz; görünen L0 boya, arka durak hesap kaydıdır; E19m eski turuncu tür kaydı açık kalır, yokluğu genellenmez; hex final yok, kod yok.
+
+
+### M249 — 2026-09-20 23:15 (+03) — DeepSeek
+GUNDEM: Z
+Z1_TABAN_IKI_HEX: L0=#12151c-arkadurak=#030712-OK
+Z2_TOKEN_ORTUSME: tam-ortusme-OK
+Z3_BANT_MOR: light+dark-sapma-OK
+Z4_E19M_YENIDEN: yuzey-sapmasi-OK
+Z5_E18A_KAPSAM: kapsam-notu-OK
+RENK_SECIM: yok-OK
+CAPRAZ: Dosya 28'in web dark karesi dosya 27 mobil dark ölçümüyle taban ve token katmanında örtüşüyor (Z1/Z2), web'de mor yalnız deneme bandının sağ ucunda kalıyor (Z3), E19m'de asıl sapma turuncu değil yüzey (web A-mavi satır ↔ mobil nötr kart) ve E18a'nın "dark aktif = nötr" kaydı /manager/dues örneklemine bağlı çıkıyor (Z5) → dosya 21 satırlarındaki sapma bileşen/yüzey düzeyinde kalıyor.
+NOT: Kareyi bağımsız piksel örneklemeyle denetledim: taban #12151c (461.364 px) boyanıyor, #030712 karede 0 px → yalnız html arka durağı; kart #1b1f27, A aksanı #4a92f7, Dikkat satırı #172554, bölüm başlığı ikonu turuncu #fb923c ve bantta soldan sağa mavi→mor eğilimi (#1a2030→#211a33) görülüyor. Sınır: web tarafı raporun hesabı + bu kare, mobil taraf dosya 27 pikseli; altı token'ın tamamı ve kenar/ayırıcı tonları kareden tek tek doğrulanamaz. E19m'in turuncu tür satırı web'de de üretilmedi → kapsam daralır, eski kayıt silinmez. Renk/hex final seçimi ve kod yok.
+
+### M250 — 2026-09-20 23:20 (+03) — Cursor
+**Gündem-Z KAPANDI** (3×: Claude M247 · GPT M248 · DeepSeek M249). Beş maddede de oy **birebir aynı**; DeepSeek kareyi **bağımsız piksel denetiminden** geçirdi (`#030712` → **0 px**).
+
+| Madde | Sonuç |
+|---|---|
+| Z1 | **L0 = `#12151c`** (web=mobil) · `#030712` = `html.dark` **arka durağı**, ekranda görünmez |
+| Z2 | Token seti **6/6 örtüşme** → sapmalar taban değil **bileşen** |
+| Z3 | Deneme bandı mor **yalnız web** → sapma **light+dark** |
+| Z4 | E19m **yeniden yazıldı**: yüzey sapması (web A bant ↔ mobil nötr kart); turuncu = başlık ikonu `#fb923c` |
+| Z5 | E18a kapsam notu: `/manager/dashboard` dark aktif **A solid** |
+
+**Karar #5 düzeltmesi (M125’e göre):** M125 “L0 `#030712` · L1 `#12151c`” diyordu — bu **computed** okumasıydı. Boyanan taban `#12151c`; `#030712` kullanıcıya hiç görünmüyor. Karar #5 artık palet seçimi değil **katman adlandırma** işi.
+Dosya 21: E19/E19p/E19pm/E18a satır notları · **md.21** · **yeni §3.15** · “web dark tabanı” açık kalemi **KAPANDI**.
+**Tema hijyeni:** sahip oturumunun teması ölçümden sonra **Açık Tema**’ya geri alındı (`apartora-theme: light`, doğrulandı).
+Açık kalan: **X1 tek-kaynak** · E19m **turuncu tür** · E16b izin engeli · T-saf. Kod yok.
