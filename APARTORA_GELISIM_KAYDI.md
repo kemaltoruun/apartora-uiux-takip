@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayÄ±tlar deÄŸiÅŸtirilme
 **RolÃ¼mÃ¼z:** Analiz ve tavsiye. Sistemsel deÄŸiÅŸiklik kararÄ± sistem sahibindedir.
 **Takip kuralÄ±:** Her kalÄ±cÄ± deÄŸiÅŸiklik (karar, rapor dosyasÄ±, dilim onayÄ±, kapanÄ±ÅŸ) yeni numarayla **sona** eklenir. Eski kayÄ±t metni deÄŸiÅŸtirilmez; durum deÄŸiÅŸince yeni kayÄ±t + eski numaraya atÄ±f.
 **KlasÃ¶r:** `C:\Users\Kemal\Desktop\APARTORA` â€” numaralÄ± md raporlar burada; bu dosya tek geliÅŸim gÃ¼nlÃ¼ÄŸÃ¼dÃ¼r.
-**Son gÃ¼ncelleme:** 20 EylÃ¼l 2026 Â· Son kayıt no: 77
+**Son gÃ¼ncelleme:** 20 EylÃ¼l 2026 Â· Son kayıt no: 78
 
 ---
 
@@ -386,3 +386,10 @@ Gelince: yeni GELISIM no + dosya adÄ± `AdÄ±m-N-kapanÄ±ÅŸ-â€¦` (mevcu
 26. DÃ¼ÄŸme renk standardÄ± (eyleme gÃ¶re, temadan baÄŸÄ±msÄ±z)
 27. Premium palet (fildiÅŸi / mÃ¼rekkep)
 28. KÄ±rmÄ±zÄ±nÄ±n yalnÄ±z durum etiketinde kullanÄ±lmasÄ±
+
+### 78 — KARAR-1 oybirliği + Gündem-AC kapandı (21.09.2026)
+Dilim 2 renk ölçümü doğal sınırına ulaştıktan sonra sahip «ikisi paralel» dedi → karar envanteri (dosya 31, K1–K9) + Dilim 3 Aidat ölçümü (dosya 32, AC1–AC6) aynı anda açıldı.
+
+**KARAR-1:** Tur1’de K4/K7/K8 anlaşmazlığı → Tur2’de GPT A/B/A’ya çekildi → **9/9 tavsiye oybirliği**: K1A · K2B · K3B · K4A · K5A · K6B · K7B · K8A · K9A. Hex kilidi yok, kod yok; **sahip kilidi bekliyor**.
+**AC:** Üç kehribar (K10 adayı) · Malik=E6 çakışması · AB4 öz-düzeltme (KPI token-dışı) · CTA A-mavi kanıtı · filtre hipotezi düşürüldü · Hatırlat(0) ürün kararı. 3× OK.
+**Mesajlar:** M269–M279. Emülatör yasak. Sonraki aday ölçüm: AD Talepler (sahip onayıyla).
