@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayıtlar değiştirilmez; bir
 **Rolümüz:** Analiz ve tavsiye. Sistemsel değişiklik kararı sistem sahibindedir.
 **Takip kuralı:** Her kalıcı değişiklik (karar, rapor dosyası, dilim onayı, kapanış) yeni numarayla **sona** eklenir. Eski kayıt metni değiştirilmez; durum değişince yeni kayıt + eski numaraya atıf.
 **Klasör:** `C:\Users\Kemal\Desktop\APARTORA` — numaralı md raporlar burada; bu dosya tek gelişim günlüğüdür.
-**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 32
+**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 33
 
 ---
 
@@ -142,6 +142,9 @@ Kaynak gerçeklik sohbet değil: GitHub’daki ILETISIM + GELISIM. `OTO_TAKIP.md
 
 ### 32 — Ön test + katılımcı sohbet açılışı (20.09.2026)
 Kanal ön testleri geçti (yerel dosyalar, GitHub API, public raw YONETIM, M001–M005 zinciri). M006: Claude / GPT / İnsan:Kemal davet + yapıştır metinleri; Gündem-A Tur 1 oyları bekleniyor. Kod yok.
+
+### 33 — Son kontrol + iletişim testi (20.09.2026)
+M011: git/local/GitHub/raw/kural OK; GPT+Claude oyları kanalda; Claude masaüstü açık ama proje klasörü doğrulanmadı; uzaktan oto uyandırma yok; İnsan:Kemal oyu eksik. Altyapı hazır, Gündem-A kapanışı değil.
 
 ---
 
