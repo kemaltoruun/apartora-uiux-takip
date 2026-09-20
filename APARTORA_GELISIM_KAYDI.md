@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayıtlar değiştirilmez; bir
 **Rolümüz:** Analiz ve tavsiye. Sistemsel değişiklik kararı sistem sahibindedir.
 **Takip kuralı:** Her kalıcı değişiklik (karar, rapor dosyası, dilim onayı, kapanış) yeni numarayla **sona** eklenir. Eski kayıt metni değiştirilmez; durum değişince yeni kayıt + eski numaraya atıf.
 **Klasör:** `C:\Users\Kemal\Desktop\APARTORA` — numaralı md raporlar burada; bu dosya tek gelişim günlüğüdür.
-**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 62
+**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 63
 
 ---
 
@@ -239,6 +239,9 @@ G2.2: Claude/GPT/DeepSeek 3× OK. Kanıt dili tutarlı (aday · koşullu RISK ·
 ### 62 — Gündem-F KAPANDI (20.09.2026)
 F2: 3× sentez-OK · K4_HEDEF OK (my-payments yasak + aday yüzey) · P1+P2 tek dilim · EKIP beklet. Dosya 20 K4/P2. M096–M100. Kod yok.
 
+### 63 — E/H KAPANDI + Dilim2 renk light (20.09.2026)
+E-final KAPANDI · H ayir-listeler (ürün R≠repo md) · I light: aksan **karisik-RISK** (mor gradyan CTA; bgColor yanılgısı düzeltildi). Dosya 21. Koyu ölçüm sırada. M101–M124. Kod yok.
+
 ---
 
 ## Ortak depo
@@ -251,14 +254,29 @@ F2: 3× sentez-OK · K4_HEDEF OK (my-payments yasak + aday yüzey) · P1+P2 tek 
 | İletişim | `ILETISIM.md` |
 | Gelişim günlüğü | `APARTORA_GELISIM_KAYDI.md` |
 
-## Bekleyen raporlar
-| Kayıt | Konu |
+## Bekleyen raporlar — A) ürün Adım kapanışları (Claude Code / yazılım ekibi)
+
+> **Uyarı:** Aşağıdaki R3/R5/R7/R9/R10 numaraları, bu repodaki md dosya `3`/`5`/`7`/`9`/`10` ile **aynı şey değildir** (Gündem-H · M110).
+
+| ID | Konu | Durum | Son |
+|---|---|---|---|
+| R3 | Adım 1 kapanış raporu | ekip bekleniyor | 2026-09-27 |
+| R5 | Adım 2 Toplu Tahsilat karşılaştırması | ekip bekleniyor | 2026-09-27 |
+| R7 | Adım 4 tanıtım turu kök nedeni | ekip bekleniyor | 2026-09-27 |
+| R9 | UI/UX ilk paket (K6, Ö4, A1) | ekip bekleniyor | 2026-09-27 |
+| R10 | Gezinme paketi (gönderim teyidi dahil) | ekip bekleniyor | 2026-09-27 |
+
+Gelince: yeni GELISIM no + dosya adı `Adım-N-kapanış-…` (mevcut md 3/5/7/9/10’u ezme). Gelmezse: bilinçli ertelendi kaydı.
+
+## Takip repo md (B) — kapanış değil; mevcut arşiv
+
+| Dosya | Ne |
 |---|---|
-| 3 | Adım 1 kapanış raporu |
-| 5 | Adım 2 Toplu Tahsilat karşılaştırması |
-| 7 | Adım 4 tanıtım turu kök nedeni |
-| 9 | UI/UX ilk paket (K6, Ö4, A1) |
-| 10 | Gezinme paketi (gönderim teyidi dahil) |
+| `3.…MENU_BASLIK…` | Menü/başlık inceleme |
+| `5.…OLMASI_GEREKENLER…` | Olması gerekenler |
+| `7.…DILIM1_BASLANGIC…` | Dilim 1 değerlendirme |
+| `9.…PLAN_GORSEL…` | Görsel faz planı |
+| `10.…SIMDI_VS_TAVSIYE…` | Şimdi vs tavsiye iskelet |
 
 ## Karar bekleyen konular (sistem sahibi)
 1. İki Toplu Tahsilat: tek akış mı, ayrı mı? (öneri: Tahsilat Merkezi + FIFO)
