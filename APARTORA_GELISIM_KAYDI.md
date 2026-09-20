@@ -291,6 +291,10 @@ W1 teke · W3 RISK · native-sakin-koru. Dosya 23. M218–M222. Kod yok.
 ### 78 - Gündem-W KAPANDI: T3 sakin Malik + E24r-mgr (20.09.2026)
 Malik 4 sekme · Menü etiket RISK (Yönetici) · Bekliyor orange #9a3412/#ffedd5 ≠ E6 amber. Dosya 25. M230-M234. Kod yok.
 
+
+### 79 - Gündem-X KAPANDI: deneme bandı hex + rol kaynağı (20.09.2026)
+E19p = A taşıyıcı + B-wash (`#eff6ff→#faf5ff`) · **E19pm** (deneme bandı mobil `#e3ebfa`/`#2563eb`) hiza OK · **E19m (Dikkat dark) açık kaldı** (M240 ID düzeltmesi) · X1 RISK: rol/site üç yüzeyde farklı. Dosya 26. M235-M240. Kod yok.
+
 ## Ortak depo
 | Alan | DeÄŸer |
 |---|---|
