@@ -457,3 +457,12 @@ GPT dört kalemde (K7·K8·K10·K12) “önce kontrast ölç, sonra kuralı seç
 **KARAR-3 (M306·M313·M317):** açık altı kalemin hepsi 3× aynı → **K4=B · K7=C · K8=A · K10=B · K12=A · K14=B**. Dosya 31 “NIHAI KILIT — 16 kalem %100”. Çoğunlukla kapanan kalem yok (§3.1).
 **Gündem-AD mobil (dosya 35):** AD1 ekran “Talepler” ama varsayılan sekme **Bakım** (temiz açılışla iki kez) · AD2 varsayılan filtre tutarsızlığı (**K15**) · AD3 seçim dili renk ailesi ortak/şekil ayrı · AD4 sekmeye göre üç filtre şeması · AD5 ölçülen altı boş-durum katmanı hizalı (“tam hizalı ekran” iddiası **geri çekildi**) · AD6 rozetler **ölçülemedi** (iki sitede 0 kayıt) · AD7 **A-mavi üç işte, solid yalnız FAB** (FAB yazısı: light `#f5f8fb` · dark `#12151c`).
 **Dört öz-düzeltme** ölçümle yapıldı (sekme çerçevesi · “tam hizalı” iddiası · KR1 etiketi · AD7’nin genişliği). **Mesajlar:** M292–M325. Sıradaki ölçüm: **AE Duyurular**. Hex final yok · kod yok.
+
+### 98 — Gündem-AE (Duyurular) kapandı: rozet dili ilk kez veri üstünde ölçüldü (21.09.2026)
+AD’de dört sekme de boş olduğu için ölçülemeyen **rozet dili**, Duyurular ekranında **2 gerçek kayıt** üstünde ölçüldü (`38.E20_AE_DUYURULAR_EKRANI_OLCUM_2026-09-21.md` · dosya 21 §3.21 · 2 kare).
+
+**Ölçüm:** durum rozeti **dolgulu kapsül + metin** (light `#dbf5ec`/`#047857` 4,77:1 · dark `#193634`/`#34d399` 6,75:1 → **yeşil ilk kez rozet zemini**) · önem göstergesi **dolgulu daire + ünlem glifi** (light `#dc2626`/`#ffffff` · dark `#f15b5b`/`#1b1f27`, 4,83 · 5,02) → **glif de tema arası ters çevriliyor**, K12 kalıbının kırmızı ailedeki karşılığı · metinli FAB `#2563eb`/`#f8fafc` ↔ `#4a92f7`/`#0f172a` → A ailesi ters çevirme **dördüncü yüzeyde** · çip dili **üçüncü ekranda birebir aynı** (K16 kapsamı) · üst başlık bandı light `#f5f8fb` ↔ dark `#12151c` (**AD alt çubuğuyla aynı yönde ikinci gözlem**) · başlık yazısı `#0b1220` = **üçüncü koyu ton**.
+**Tutarsızlıklar:** tarih/kategori/“%50 okundu” **aynı ikincil ton** · kategori **çıplak metin** iken Aidat’ta **kapsüllü rozet**.
+
+**Üç öz-düzeltme (hepsi kanıt okuma hatası):** (1) dump’taki `Önemli` etiketini görsel sandım — gösterge **ikon**; bu yüzden K7’ye önerdiğim “dördüncü kademe: metin=önem” **3× reddedildi** ve K7=C listesi **değişmedi**; (2) AE7’de ekran-türü çıkarımı **çıkarıldı**; (3) AE8’de “çatı düzeyinde kalıp” **iki gözlemle sınırlandı** — kural için üçüncü bileşen doğrulaması gerekiyor.
+**Turlar:** T1 → T2 → T3, **tümü %100** (§3.4; çoğunlukla kapanan madde yok). **Mesajlar:** M333–M344. Sıradaki ölçüm: **AF Güvenlik portalı**. Hex final yok · kod yok.
