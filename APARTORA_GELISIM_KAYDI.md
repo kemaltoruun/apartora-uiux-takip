@@ -253,6 +253,10 @@ Sahip: renk belirleme yok. Dosya 21: bulgu + etki **E1–E24 / E13b / E23m**. As
 
 ### 67 — Gündem-L KAPANDI: E13b + E24 ölçüldü (20.09.2026)
 Kapalı FAB `#2563eb` (A); maddeler monokrom. E24 light+dark: Bekleyen=E6 örtüşme; kırmızı çoklu hex; yeşil iki ton. Renk seçimi yok. M142–M150. Kod yok.
+
+### 68 — Gündem-M KAPANDI: E16 Aidat-özgü B (20.09.2026)
+Light masaüstü tarama: 6+ kök A-mavi; B-mor yalnız Aidat Yeni Aidat. E16b izin engeli. Renk seçimi yok. M151–M155. Kod yok.
+
 ---
 
 ## Ortak depo
