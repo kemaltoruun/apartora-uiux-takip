@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayıtlar değiştirilmez; bir
 **Rolümüz:** Analiz ve tavsiye. Sistemsel değişiklik kararı sistem sahibindedir.
 **Takip kuralı:** Her kalıcı değişiklik (karar, rapor dosyası, dilim onayı, kapanış) yeni numarayla **sona** eklenir. Eski kayıt metni değiştirilmez; durum değişince yeni kayıt + eski numaraya atıf.
 **Klasör:** `C:\Users\Kemal\Desktop\APARTORA` — numaralı md raporlar burada; bu dosya tek gelişim günlüğüdür.
-**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 34
+**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 35
 
 ---
 
@@ -148,6 +148,9 @@ M011: git/local/GitHub/raw/kural OK; GPT+Claude oyları kanalda; Claude masaüst
 
 ### 34 — Claude Code köprü çalışıyor (20.09.2026)
 Claude Code kuruldu + `auth login` OK. Cursor `claude -p` ile ILETISIM okuttu; Claude `CLAUDE_KOPRU.md`’ye M012 yazdı. İki yönlü haberleşme (Cursor↔Claude Code) doğrulandı. M013. Gündem-A için İnsan:Kemal oyu hâlâ eksik.
+
+### 35 — Tanıtım / amaç iletişim turu (20.09.2026)
+M014 açıldı. Claude M015 ile tanıdı + amaç (YONETIM §1) teyit; köprü Claude Code. GPT OpenAI API 429. İnsan:Kemal tanıtımı bekleniyor. Gündem-A oyları duruyor.
 
 ---
 
