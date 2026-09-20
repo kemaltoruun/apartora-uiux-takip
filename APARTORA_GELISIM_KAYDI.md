@@ -307,6 +307,10 @@ Görünen L0 **`#12151c`** web+mobil birebir; `#030712` yalnız `html.dark` arka
 ### 82 - Gündem-AA KAPANDI: sakin dark semantik + bir iddia geri çekildi (20.09.2026)
 Tur 1’de AA2 (“tür rozeti tema arası anlam kaybı”) üç katılımcıdan da DUZELT aldı; aynı ekranın mobil **light** hâli ölçüldü ve iddia **geri çekildi** (rozet light’ta da nötr `#5c6a80`). Hata kaynağı: web `/resident/my-payments` amber chip’ini mobil tür rozetiyle aynı sanmak. Yerine **AA6**: ikon **glifi** tema-sabit (`#ef4444` · `#3b82f6` · `#10b981` · `#f59e0b`), metin/halka tema-duyarlı → **tema başına üç kırmızı**. Gecikme rozeti fg light `#b91c1c` / dark `#f87171` = E24r/E27 birebir (zemin ayrı). Sakin halkası yeşilsiz, “%0 ↔ tam dolu halka” B03’ün sakin eşleniği. E19m **üçüncü kez** üretilemedi. Dosya 29 + dosya 21 §3.16 / md.9-10-22. M251-M259. Kod yok.
 
+
+### 83 - Gündem-AB KAPANDI: E19m aday-yok + ipucu kartı (21.09.2026)
+E19m turuncusu (`#431407`/`#fdba74`) **4 kare / 3 bağlam / 2 rol / 2 site** tam-kare taramada **0 px** → turuncu ölçüm kalemi “**aday yok**” diye kapandı, kayıt tarihsel korunur (“eski sürüm” hipotez). IŞIK’ta 128 boş daire olmasına rağmen Dikkat kartı nötr → mobil yüzey dili veri hacminden bağımsız. “Biliyor muydun?” ipucu kartı ölçüldü: **E6 tüketicisi** (fg light `#b45309` ↔ dark `#fcd34d`) ve **token-dışı kart yüzeyi iki temada** (`#f7f5f0` ↔ `#1d1c1c`). AB3’teki rol-değişimi iddiası ölçümle **geri çekildi**. Dosya 30 + dosya 21 §3.17 / md.16. M260-M268. **Ölçüm fazında açık kalem kalmadı**; kalanlar karar/ürün işi. Kod yok.
+
 ## Ortak depo
 | Alan | DeÄŸer |
 |---|---|

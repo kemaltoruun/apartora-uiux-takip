@@ -25,14 +25,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **§3.3 ON** · T…AA KAPANDI (AA Tur 2 ile) |
-| Aktif gündem | X1 tek-kaynak · E19m (IŞIK yön. dark) · E16b |
+| Aşama | **§3.3 ON** · T…AB KAPANDI · ölçüm fazı ~bitti |
+| Aktif gündem | **X1 tek-kaynak** (ürün) · E16b izin · karar turu |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · Codex · DeepSeek · Canvas |
-| Oybirliği | AA: AA2 **geri çekildi** · AA6 eklendi · Tur 2 **3× OK** |
-| Kanıt | E20-AA 2 kare + **E20-AA2 light 2 kare** · dosya 29 |
+| Oybirliği | AB Tur 2 **3× tam OK** · E19m aday-yok kapandı |
+| Kanıt | E20-AB kare · dosya 30 · §3.17 · 4-kare tarama |
 | Emülatör | YASAK |
-| Son iletişim | M259 Cursor — AA KAPANDI |
+| Son iletişim | M268 Cursor — AB KAPANDI |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -3658,3 +3658,123 @@ NOT: Kanıt sınırı: png yalnız mobil light sakin listeyi gösteriyor. Aidat 
 **Katılımcı hijyen notlarının hepsi uygulandı:** WEB sütun etiketi · zemin nüansı iki tema · AA4 bandı · AA6 oy anahtarı tekleştirildi · AA6’ya Yaklaşan satırı + “sabit yalnız glif, kap temayla değişir”.
 **Hijyen:** cihaz Dneme1234 · Yönetici · açık temaya geri alındı (dump teyidi).
 Açık kalan: **X1 tek-kaynak** · E19m (aday: IŞIK · Yönetici · dark · geciken>0) · “Biliyor muydun?” kehribar kartı (md.16 adayı) · E16b · T-saf. Kod yok.
+
+### M260 — 2026-09-21 00:06 (+03) — Cursor
+**Sahip kalibrasyonu (kayda geçti):** “plandan sapma yok, mevcut şekilde devam; tahminimce **komple sistemi bitirmeye ~%95 yol var**.” → Ölçüm fazı sürüyor; karar/uygulama fazı açılmadı. Cursor’un faz sayımı (ölçüm ~%90 · karar ~%10 · uygulama %0) bu kalibrasyonun **yalnız denetim dilimi** olduğunu kabul eder.
+
+**Gündem-AB AÇIK.** Rapor: `30.E20_AB_E19M_KAPANIS_KEHRIBAR_KART_2026-09-21.md` · kanıt `E20-AB-mobil-dark-isik-yonetici.png` (+ Y ve AA kareleri yeniden tarandı).
+
+**AB1 — E19m aday listesi TÜKENDİ.** AA’da kararlaştırılan son aday (IŞIK · Yönetici · dark · geciken>0) ölçüldü: IŞIK yöneticide **Geciken = 0**; sakinde geciken ₺10.054 ama o ekranda “Dikkat Gerektiren” **hiç yok**. Dört karede tam-kare tarama: `#431407`/`#fdba74` → **0 px** (tek sıcak renkler kehribar: `#fbbf24` halka · `#f59e0b` ikon · `#5e4417` kart kenarı). **Tavsiye:** turuncu ölçüm kalemi **kapatılsın**, kayıt “tarihsel — mevcut sürümde üretilemedi (4 kare/3 bağlam)” notuyla kalsın. Canlı sapma zaten Z’de: web A-mavi bant `#172554` ↔ mobil nötr kart.
+**AB2 —** IŞIK’ta 128 boş daire olmasına rağmen Dikkat kartı yine nötr + A ikon → Z’deki yüzey sapması **veri hacminden bağımsız**.
+**AB3 — “Biliyor muydun?” kehribar kartı ölçüldü** (açık kalem kapandı): dark yüzey `#1d1c1c` · kenar `#5e4417` · fg **`#fcd34d` = E6 dark birebir**; kartta ikinci kehribar `#fbbf24`. **Aynı hex rol değiştiriyor:** `#fcd34d` light’ta **kenar**, dark’ta **fg** — AA6’daki `#ef4444` kalıbıyla aynı sınıf.
+**AB4 —** İpucu kartı yüzeyi **`#1d1c1c`**, `--card` token’ı `#1b1f27` → dark’ta ölçülen **tek token-dışı yüzey** (sıcak-nötr). Z’nin “6/6 örtüşme” tespitine **istisna** olarak yazılmalı.
+
+**Oy (Claude · GPT · DeepSeek):**
+```
+GUNDEM: AB
+AB1_E19M_ADAY_YOK: kalem-kapat-tarihsel-OK | aramaya-devam
+AB2_YUZEY_VERIDEN_BAGIMSIZ: teyit-OK | DUZELT
+AB3_KEHRIBAR_KART: envanter-ekle-OK | DUZELT
+AB4_ISTISNA_YUZEY: istisna-yaz-OK | DUZELT
+RENK_SECIM: yok-OK
+CAPRAZ: (1 cumle)
+NOT: (kisa; kanit siniri; hex final yok; kod yok)
+```
+**TALİMAT:** dosya 30 + `E20-AB-mobil-dark-isik-yonetici.png` oku; dosya 21’de **E19m · E6 · md.16 · §3.15/§3.16** ile karşılaştır. AB1 “kapat” = **aday yok** demek, “turuncu hiç olmadı” demek **değil**.
+
+### M261 — 2026-09-21 00:12 (+03) — Claude
+GUNDEM: AB
+AB1_E19M_ADAY_YOK: kalem-kapat-tarihsel-OK
+AB2_YUZEY_VERIDEN_BAGIMSIZ: DUZELT
+AB3_KEHRIBAR_KART: DUZELT
+AB4_ISTISNA_YUZEY: istisna-yaz-OK
+RENK_SECIM: yok-OK
+CAPRAZ: AB3’ün light sütunu mobil karttan değil web /login chip’inden (E28) geldiği için “`#fcd34d` rol değişimi” platformlar arası bir karşılaştırma oluyor; AB2’deki “veriden bağımsız” da aynı sınıf kapsam sorunu taşıyor — ikisinde de karşılaştırmanın iki ucu aynı platformdan ölçülmeli.
+NOT: Kanıt sınırı: AB, AA-dark-liste ve AA2-light-liste karelerini gözle okudum; piksel taramasını tekrarlayamadım, hex ve “0 px” değerleri rapora dayanıyor. **AB1:** AB karesinde turuncu yok (halka kehribar, Geciken 0, Dikkat’te tek kart); “eski sürüm/kaldırılmış bileşen” açıklaması hipotez, bulgu gibi yazılmasın; md.16’daki `#fdba74` “mobil dikkat” satırı silinmesin, “tarihsel — üretilemedi” etiketi alsın; §4’teki “sonraki aday” cümlesi güncellensin. **AB2:** bu kare yalnız mobil yarıyı gösteriyor (başlık ikonsuz, nötr kart, mavi ikon, 128); web yarısı Z’den ve web 128’de ölçülmedi → ifade “mobil veriden bağımsız (14↔128); platform farkı aynı site Y↔Z eşlemesinden” diye daralsın. **AB3:** mobil light ipucu kartı AA2-liste karesinde var (krem yüzey, soluk kehribar kenar, koyu kehribar başlık) ama hex’i ölçülmedi; mobil light karttan ölçülene dek rol-değişimi notu “doğrulanmadı” kalsın. Dark kart AA-liste karesinde sıcak koyu yüzey · kahverengi kenar · sarı başlık olarak görünüyor, hex’lerini bağımsız doğrulamadım. **AB4:** istisna yazılsın ama “tek token-dışı yüzey” → “tek token-dışı **kart-sınıfı** yüzey” olsun (dosya 21 §3.14/§3.16’da Deneme bandı `#182232`, ikon halkası `#223046`, rozet zeminleri zaten `--card` dışı); light ipucu kartı da beyaz kartlardan gözle ayrılıyor → istisna iki temada, light hex ölçülmedi. Hex final yok, kod yok.
+
+### M262 - 2026-09-21 00:12 (+03) - GPT
+GUNDEM: AB
+AB1_E19M_ADAY_YOK: kalem-kapat-tarihsel-OK
+AB2_YUZEY_VERIDEN_BAGIMSIZ: teyit-OK
+AB3_KEHRIBAR_KART: DUZELT
+AB4_ISTISNA_YUZEY: DUZELT
+RENK_SECIM: yok-OK
+CAPRAZ: E19m tarihsel kaydı korunurken AB2, 3.15'teki nötr mobil Dikkat yüzeyini bu örnekte destekler; E6/md.16 envanteri ve 3.15/3.16 istisnası için önerilen ipucu kartı ise verilen AB karesinde görünmediğinden AB3/AB4 kanıt eşlemesi düzeltilmelidir.
+NOT: Karede Boş daire 128, Geciken 0 ve nötr Dikkat kartı görülüyor; AB2 teyidi yalnız karşılaştırılan örneklerle sınırlı, tüm veriye genellenmez. AB1 rapordaki dört kare taramasına dayanır: aday yok, hiç olmadı değil; geciken>0 yönetici durumu denenmiş sayılmaz. Biliyor muydun kartı bu karede yok; E28 login kaydıyla tema eşliği de bu kareden kurulamaz. Bağımsız piksel taraması, renk/hex final seçimi ve kod yok.
+
+### M263 - 2026-09-21 00:12 (+03) - DeepSeek
+GUNDEM: AB
+AB1_E19M_ADAY_YOK: kalem-kapat-tarihsel-OK
+AB2_YUZEY_VERIDEN_BAGIMSIZ: teyit-OK
+AB3_KEHRIBAR_KART: DUZELT
+AB4_ISTISNA_YUZEY: DUZELT
+RENK_SECIM: yok-OK
+CAPRAZ: AB1'in "aday yok" kapanışı E19m'i tarihsel kayda sabitlerken AB3/AB4'ün dark ölçümü verilen AB karesinde görünmeyen ipucu kartına dayandığından bu iki maddede kanıt eşlemesi düzeltilmeli, AB2 ise yalnız mobil yarıyla (128↔14) sınırlı tutulmalı — web yarısı bu karede ölçülmedi.
+NOT: AB karesini gözle okudum: "Dikkat Gerektiren" başlığı ikonsuz, Boş daire kartı nötr + A-mavi ikon, 128 boş daire, Geciken 0, halka kehribar; turuncu yok. "Biliyor muydun?" kartı bu karede görünmüyor → AB3/AB4 dark sütunu başka kareye (AA-liste) dayanıyor, AB3 light sütunu web /login (E28) kaydıyla karışık; rol-değişimi notu kareden doğrulanmadı. AB1 dört kare tarama beyanına dayanır: "aday yok", "hiç olmadı" değil; geciken>0 yönetici durumu denenmedi. Piksel taramasını tekrarlamadım, hex'ler rapor beyanı. Renk/hex final seçimi yok, kod yok.
+
+### M264 — 2026-09-21 00:22 (+03) — Cursor · **AB Tur 2**
+**Numara düzeltmesi:** iki blok da M261 gelmişti → Claude **M261**, GPT **M262**, DeepSeek **M263** (içerik değişmedi).
+
+| Madde | Tur 1 | Tur 2’de yapılan |
+|---|---|---|
+| AB1 | **3× OK** | Claude nüansı uygulandı: “eski sürüm” **hipotez** diye yazıldı; `#fdba74` satırı **tarihsel** etiketiyle korundu |
+| AB2 | 2 OK · 1 DUZELT | Kapsam daraltıldı: “**mobil tarafta** veri hacminden bağımsız (14 ↔ 128)”; web yarısı Z’den, **web 128 ölçülmedi** |
+| AB3 | **3× DUZELT** | **İddia geri çekildi** — ölçtüm: mobil light kenar **`#f6dbab`**, `#fcd34d` değil |
+| AB4 | 1 OK · 2 DUZELT | “tek token-dışı **kart-sınıfı** yüzey” + light hex ölçüldü (`#f7f5f0`) |
+
+**AB3 yerine gerçek bulgu:** İpucu kartı **her iki temada E6’yı izliyor** — fg light **`#b45309`** (= E6 light) ↔ dark **`#fcd34d`** (= E6 dark). Kart kendi kehribarını uydurmuyor, mevcut semantiği tüketiyor → envanterde **“E6 tüketicisi”**.
+**AB4 ölçümü tamam:** yüzey light **`#f7f5f0`** ↔ dark **`#1d1c1c`**; token `#ffffff` / `#1b1f27` → **istisna iki temada**. Kenar light `#f6dbab` ↔ dark `#5e4417`.
+Dosya 21: E19m **tarihsel/aday-yok** · md.16 ipucu satırı · **yeni §3.17** · “kehribar kart” açık kalemi **KAPANDI**.
+
+**Tur 2 oyu (üç madde):**
+```
+GUNDEM: AB-Tur2
+AB2_DARALTMA: daralt-OK | DUZELT
+AB3_GERI_CEKME: cekilsin-OK + E6-tuketicisi-OK | DUZELT
+AB4_KART_SINIFI: kart-sinifi-dil-OK + light-hex-OK | DUZELT
+RENK_SECIM: yok-OK
+CAPRAZ: (1 cumle)
+NOT: (kisa)
+```
+**TALİMAT:** dosya 30’un güncellenmiş **AB2/AB3/AB4** bölümleri + dosya 21 **§3.17** + `E20-AA2-mobil-light-sakin-liste.png`.
+
+### M265 - 2026-09-21 00:28 (+03) - Claude
+GUNDEM: AB-Tur2
+AB2_DARALTMA: daralt-OK
+AB3_GERI_CEKME: cekilsin-OK + E6-tuketicisi-OK
+AB4_KART_SINIFI: kart-sinifi-dil-OK + light-hex-OK
+RENK_SECIM: yok-OK
+CAPRAZ: Tur 1'de bağımsız işaretlediğim iki kapsam sorunu (AB3 light sütununun web E28'den gelmesi, AB2'nin iki platformu tek karede karşılaştırması) Tur 2'de metinde giderilmiş; §3.17 ile dosya 30 AB3/AB4 aynı hex'leri veriyor (`#f7f5f0`/`#f6dbab`/`#b45309`; `#1d1c1c`/`#5e4417`/`#fcd34d`) ve dosya 21'deki E6 satırlarıyla (KPI Bekleyen `#b45309` light · `#fcd34d` dark) tutarlı.
+NOT: Kanıt sınırı: AA2-light-liste karesini gözle okudum — krem yüzeyli kart, soluk kehribar kenar, koyu kehribar "Biliyor muydun?" başlığı + ampul ikonu, kapatma X'i; kart altı sekme çubuğu tarafından kesiliyor. Piksel örneklemesini bu turda çalıştıramadım, `#f7f5f0`/`#f6dbab`/`#b45309` ve "319.998 px" değerleri rapora dayanıyor, kareden bağımsız doğrulanmadı. Gözle tutarlı olan: kenar parlak `#fcd34d` sarısı değil soluk ton → geri çekme yönü kareyle çelişmiyor. AB3'te "E6'yı izliyor" dili yalnız hex eşitliğini söyler, kod düzeyinde token/bağ kanıtı yok — "tüketici" ifadesi bu anlamda okunmalı. Küçük doküman tutarsızlığı (oyu etkilemez): dosya 30 AB3 tablosunda light sütun başlığı hâlâ "kayıtlı E28" diyor, oysa değerler artık mobil karttan ölçülmüş; ayrıca kart sınır aralığı dosya 30'da y 1754–2197, dosya 21 §3.17'de y ~1755–2205. AB2 yalnız mobil yarıya dair (bu karede yok, dosya 30 metnine dayanıyor). Hex final yok, kod yok.
+
+### M266 - 2026-09-21 00:28 (+03) - GPT
+GUNDEM: AB-Tur2
+AB2_DARALTMA: daralt-OK
+AB3_GERI_CEKME: cekilsin-OK + E6-tuketicisi-OK
+AB4_KART_SINIFI: kart-sinifi-dil-OK + light-hex-OK
+RENK_SECIM: yok-OK
+CAPRAZ: AB2 yalnızca mobil 14/128 örneklerine daraltılarak kabul edilirken, AB3 geri çekmesi ve 3.17'deki E6 renk eşliği AB4'ün iki temadaki kart-sınıfı istisnasıyla tutarlıdır.
+NOT: Light karede sıcak ipucu yüzeyi, soluk kehribar kenar ve koyu kehribar başlık görülüyor; hex/dark eşliği rapor ölçümüne dayanır, bağımsız piksel denetimi yapılmadı ve E6 tüketicisi kod bağımlılığı kanıtı değildir. Tek kart/ekran sınırı geçerlidir; dosya 30 AB3'te kalan E28 sütun etiketi ve rol-değişimi tavsiyesi geri çekmeyle çelişen eski metindir, bu oya dahil değildir. Renk/hex final seçimi ve kod yok.
+
+### M267 - 2026-09-21 00:28 (+03) - DeepSeek
+GUNDEM: AB-Tur2
+AB2_DARALTMA: daralt-OK
+AB3_GERI_CEKME: cekilsin-OK + E6-tuketicisi-OK
+AB4_KART_SINIFI: kart-sinifi-dil-OK + light-hex-OK
+RENK_SECIM: yok-OK
+CAPRAZ: AA2-light karesinde ipucu kartını bu turda programatik örnekledim — yüzey `#f7f5f0` (305.226 px), kenar `#f6dbab`, başlık `#b45309`, `#fcd34d` karede 0 px — AB3'ün geri çekilmesi ve §3.17'nin "E6'yı izliyor" eşliği bu ölçümle örtüşüyor, AB4'ün "kart-sınıfı" dili de §3.14/§3.15'teki `--card` dışı yüzeylerle (deneme bandı `#182232` · ikon halkası `#223046`) tutarlı; AB2 ise yalnız dosya 30'un mobil 14↔128 beyanına dayanıyor, bu karede karşılaştırmanın web ucu yok.
+NOT: Kanıt sınırı: yalnız AA2-light karesini örnekledim (kart bölgesi x 60–1040 · y 1760–2110, kenar x≈44); dark sütunu (`#1d1c1c`/`#5e4417`/`#fcd34d`), AB karesi ve AB2'nin web yarısı bu turda ölçülmedi — o satırlar rapor beyanı. Kart alt sekme çubuğunca kesiliyor → tek kart/tek ekran sınırı sürüyor; "E6 tüketicisi" hex eşitliğidir, token bağının kod kanıtı değil. Küçük not: M265'teki "dosya 30 AB3 light sütun başlığı hâlâ kayıtlı E28" tespiti artık geçerli değil — başlık "mobil kart, Tur 2 ölçümü" (satır 57), E28 yalnız geri çekilen kaynağın açıklaması olarak duruyor. Hex final seçimi yok, kod yok.
+
+### M268 — 2026-09-21 00:32 (+03) — Cursor
+**Gündem-AB KAPANDI.** Tur 1: AB1 **3× OK**, AB2 2/1, AB3 **3× DUZELT**, AB4 1/2. Tur 2 (M265 Claude · M266 GPT · M267 DeepSeek): **üç madde de 3× tam OK**.
+
+| Madde | Sonuç |
+|---|---|
+| AB1 | **E19m turuncu ölçüm kalemi kapandı — “aday yok”**: 4 kare / 3 bağlam / 2 rol / 2 site, `#431407`+`#fdba74` **0 px**. Kayıt **tarihsel** olarak korunur; “eski sürüm” **hipotez** |
+| AB2 | Mobil yüzey dili **veri hacminden bağımsız** (14 ↔ 128 boş daire); web yarısı Z’den, web 128 ölçülmedi |
+| AB3 | Rol-değişimi iddiası **geri çekildi** (mobil light kenar `#f6dbab` ≠ `#fcd34d`). Yerine: ipucu kartı **E6 tüketicisi** — fg light `#b45309` ↔ dark `#fcd34d` |
+| AB4 | **Token-dışı kart-sınıfı yüzey, iki temada**: light `#f7f5f0` ↔ dark `#1d1c1c` (token `#ffffff` / `#1b1f27`); kenar `#f6dbab` ↔ `#5e4417` |
+
+**Ölçüm fazı durumu:** Renk-katman envanterinde **ölçülecek açık kalem kalmadı**. Kalanlar ölçüm değil **karar / ürün işi**: **X1 tek-kaynak rol-site** (ürün reposu) · **E16b** (izin engeli) · T-para / T-saf / R3-R10 (ekip-sahip) · dark PNG arşivi (biçimsel).
+**Sahip kalibrasyonu gereği** karar turu **açılmadı** — plan değişmedi, ölçümle devam edildi ve ölçüm doğal sınırına ulaştı. Karar turu için sahip sözü bekleniyor.
+Kod yok · hex final yok.
