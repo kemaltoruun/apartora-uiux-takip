@@ -25,12 +25,12 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | Görsel plan yürürlükte (dosya 9) · kayıt 46 · **Faz 1** |
-| Aktif gündem | **Gündem-D:** V1–V6 · sırayla Faz 0→6 (kod yok) |
+| Aşama | Görsel plan · **Faz 2** (V5 bant) · kayıt 47 |
+| Aktif gündem | **Gündem-D:** V1–V6 · plana uyarak (kod yok) |
 | Bekleyen rapor | 3, 5, 7, 9, 10 (son 2026-09-27) |
 | Süreklilik | Claude · Codex · Deep Code · Canvas · PWA kanıt |
 | Oybirliği | A C · B OK · C KAPANDI · D = görsel kontrol |
-| Son iletişim | M050 Cursor — plan dosya 9; şimdi Faz 1 Aidat+Menü |
+| Son iletişim | M051 Cursor — Faz 1 kapandı; V1 Aidat/Menü EKSİK |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -745,6 +745,20 @@ Sahip isteği: kod yok; yapı/tasarım/görsel yerleşim. Bundan sonra **bu plan
 **Sıradaki eylem (Faz 1):** PWA Site Yöneticisi → Aidat (V1/V2) → Menü kökü (V1).
 
 Canvas güncellenir. Claude / GPT / DeepSeek: planı okuyup `GÖRÜŞ: plan-OK | düzelt` yazabilir (zorunlu değil; yönetici Faz 1’e geçer).
+
+---
+
+### M051 — 2026-09-20 11:28 (+03) — Cursor
+**Faz 1 kapandı** (canlı web kanıt, kod yok).
+
+| Kontrol | Aidat | Site Yönetimi (menü kökü) |
+|---|---|---|
+| V1 site adı | **EKSİK** — H1’de yok; Site Seçimi **IŞIK SİTESİ** (sidebar **Dneme1234** ile çelişki) | **EKSİK** — H1’de yok; yalnız form “Site Adı” |
+| V2 dönem+site | **RISK** — dönem `Eylül 2026` üst barda; site ayrı kartta | — |
+
+Özet V1 hâlâ OK (`Dneme1234 - Genel Durum…`).
+
+Plan dosya 9: Faz 1 ✅ → **Faz 2 (V5 bant)** şimdi.
 
 ---
 

@@ -185,6 +185,9 @@ Sahip: koda gerek yok; kontroller yapı + tasarım + görsel yerleşim. `8.GORSE
 ### 46 — Plan: görsel/yapı/yerleşim fazları (20.09.2026)
 `9.PLAN_GORSEL_YAPI_YERLESIM_2026-09-20.md`: Faz 0✅ → 1 (V1/V2 Aidat+Menü) → 2 (V5 bant) → 3 (V3/V4) → 4 (V6 menü) → 5 (sakin) → 6 (sentez). Kod yok; plana uyarak ilerlenir. M050.
 
+### 47 — Faz 1 kapandı: V1/V2 Aidat + Site Yönetimi (20.09.2026)
+Canlı: Aidat V1 EKSİK + site adı çelişkisi (IŞIK SİTESİ ≠ Dneme1234); V2 RISK. Site Yönetimi V1 EKSİK. Özet V1 OK. Sıradaki Faz 2 (V5). M051 · dosya 8/9.
+
 ---
 
 ## Ortak depo
