@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayıtlar değiştirilmez; bir
 **Rolümüz:** Analiz ve tavsiye. Sistemsel değişiklik kararı sistem sahibindedir.
 **Takip kuralı:** Her kalıcı değişiklik (karar, rapor dosyası, dilim onayı, kapanış) yeni numarayla **sona** eklenir. Eski kayıt metni değiştirilmez; durum değişince yeni kayıt + eski numaraya atıf.
 **Klasör:** `C:\Users\Kemal\Desktop\APARTORA` — numaralı md raporlar burada; bu dosya tek gelişim günlüğüdür.
-**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 25
+**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 26
 
 ---
 
@@ -120,6 +120,11 @@ Takip deposunu görecek AI kaynakları: **GPT**, **Claude**, **Cursor** (ve insa
 
 **Kural:** Her kaynak işe başlamadan günlüğü `git pull` ile alır; kalıcı adımda yeni kayıt numarası ekler; çakışmayı önlemek için kısa kayıt + hemen push.
 
+### 26 — Erişim modeli netleşti: insanlar GPT/Claude kullanır (20.09.2026)
+Private repoya davet edilecek olan **GPT veya Claude değil, onları kullanan insanlar**. Her kişi kendi GitHub hesabıyla Collaborators’a eklenir (Write). Sonra o kişi kendi makinesinde Claude Code / GPT / Cursor ile bu repoyu açar; AI aynı `APARTORA_GELISIM_KAYDI.md` dosyasını görür.
+
+**Bekleyen:** Davet listesi (GitHub kullanıcı adı veya e-posta) — sahip verecek; verilince davetler gönderilecek.
+
 ---
 
 ## Ortak depo
@@ -128,7 +133,8 @@ Takip deposunu görecek AI kaynakları: **GPT**, **Claude**, **Cursor** (ve insa
 | URL | https://github.com/kemaltoruun/apartora-uiux-takip |
 | Görünürlük | Private |
 | Clone | `git clone https://github.com/kemaltoruun/apartora-uiux-takip.git` |
-| Kaynaklar | GPT · Claude · Cursor · sahip |
+| Kim davet edilir | İnsanlar (GPT / Claude / Cursor kullanıcıları) |
+| Davet durumu | Liste bekleniyor |
 
 ## Bekleyen raporlar
 | Kayıt | Konu |
