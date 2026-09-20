@@ -25,12 +25,12 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | Dilim 0/1 — değerlendirme başladı (kayıt 44) |
-| Aktif gündem | **Gündem-D:** Dilim 1 kaybolmama değerlendirme (D1.1–D1.4) |
-| Bekleyen rapor | 3, 5, 7, 9, 10 (son 2026-09-27) · ekip talep onaylı |
-| Süreklilik | Claude · Codex · Deep Code · Canvas |
-| Oybirliği | A C · B OK · **C KAPANDI** · D açık |
-| Son iletişim | M048 Cursor — PWA + D1.1/D1.4 canlı kanıt |
+| Aşama | Görsel/yapı/yerleşim kontrol (kod yok) · kayıt 45 |
+| Aktif gündem | **Gündem-D:** V1–V6 kontrol matrisi (dosya 8) |
+| Bekleyen rapor | 3, 5, 7, 9, 10 (son 2026-09-27) |
+| Süreklilik | Claude · Codex · Deep Code · Canvas · PWA kanıt |
+| Oybirliği | A C · B OK · C KAPANDI · D = görsel kontrol |
+| Son iletişim | M049 Cursor — kod yok; yapı/tasarım/yerleşim |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -709,6 +709,19 @@ D1.1 değerlendirmesi için: Özet + Aidat + Menü ekranlarında site/dönem ba�
 - Rol seçici üstte “Site Yöneticisi” (sakin / diğer roller seçilebilir).
 
 Giriş bilgileri kasada (`apartora-web.env`). Sohbete yapıştırıldığı için ileride rotate önerilir.
+
+---
+
+### M049 — 2026-09-20 11:11 (+03) — Cursor
+**Sahip talimatı:** Koda gerek yok. Kontroller **yapı + tasarım + görsel yerleşim**.
+
+Yeni liste: [`8.GORSEL_YAPI_YERLESIM_KONTROL_2026-09-20.md`](./8.GORSEL_YAPI_YERLESIM_KONTROL_2026-09-20.md) (V1–V6).
+
+- Yazılacak şey: OK / EKSİK / RISK + ekran kanıtı  
+- Yazılmayacak: kod, PR, hex final, deploy  
+- Kanıt: PWA / web · canvas güncel
+
+Sıradaki iş: Aidat + Menü köklerinde V1/V2 (site/dönem) ve V5 (bant) doldurmak.
 
 ---
 

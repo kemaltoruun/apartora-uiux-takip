@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayıtlar değiştirilmez; bir
 **Rolümüz:** Analiz ve tavsiye. Sistemsel değişiklik kararı sistem sahibindedir.
 **Takip kuralı:** Her kalıcı değişiklik (karar, rapor dosyası, dilim onayı, kapanış) yeni numarayla **sona** eklenir. Eski kayıt metni değiştirilmez; durum değişince yeni kayıt + eski numaraya atıf.
 **Klasör:** `C:\Users\Kemal\Desktop\APARTORA` — numaralı md raporlar burada; bu dosya tek gelişim günlüğüdür.
-**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 44
+**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 45
 
 ---
 
@@ -178,6 +178,9 @@ AI ekip-talep-OK + YAPI-ÖZET OK; sahip DEVAM = onay. Ekip 3/5/7/9/10 son 2026-0
 
 ### 44 — Gündem-D: Dilim 1 değerlendirme başladı (20.09.2026)
 `7.DEGELENDIRME_DILIM1_BASLANGIC_2026-09-20.md`: D1.1–D1.4 öncelik (site/dönem → avatar → mali blok → bant≤2). Kod yok; ürün src bu klasörde yok. M042. Canvas güncellenir.
+
+### 45 — Kapsam: kod yok — yapı/tasarım/görsel yerleşim (20.09.2026)
+Sahip: koda gerek yok; kontroller yapı + tasarım + görsel yerleşim. `8.GORSEL_YAPI_YERLESIM_KONTROL_2026-09-20.md` (V1–V6). Kanıt PWA/web + canvas. M049.
 
 ---
 
