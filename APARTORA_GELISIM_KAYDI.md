@@ -303,6 +303,10 @@ Dark taban `#12151c` / kart `#1b1f27` (karar #5 hex’i ile birebir; L0/L1 adı 
 ### 81 - Gündem-Z KAPANDI: web dark tabanı = mobil (20.09.2026)
 Görünen L0 **`#12151c`** web+mobil birebir; `#030712` yalnız `html.dark` arka durağı (karede 0 px) → M125’in “L0 #030712” okuması düzeltildi, karar #5 katman adlandırmaya indi. Token 6/6 örtüşme → web↔mobil sapmalar bileşen düzeyinde. Deneme bandı moru yalnız web (sapma light+dark). E19m yeniden yazıldı: yüzey sapması (web A bant `#172554` ↔ mobil nötr kart), turuncu = başlık ikonu `#fb923c`. Dosya 28 + dosya 21 §3.15/md.21. M246-M250. Kod yok.
 
+
+### 82 - Gündem-AA KAPANDI: sakin dark semantik + bir iddia geri çekildi (20.09.2026)
+Tur 1’de AA2 (“tür rozeti tema arası anlam kaybı”) üç katılımcıdan da DUZELT aldı; aynı ekranın mobil **light** hâli ölçüldü ve iddia **geri çekildi** (rozet light’ta da nötr `#5c6a80`). Hata kaynağı: web `/resident/my-payments` amber chip’ini mobil tür rozetiyle aynı sanmak. Yerine **AA6**: ikon **glifi** tema-sabit (`#ef4444` · `#3b82f6` · `#10b981` · `#f59e0b`), metin/halka tema-duyarlı → **tema başına üç kırmızı**. Gecikme rozeti fg light `#b91c1c` / dark `#f87171` = E24r/E27 birebir (zemin ayrı). Sakin halkası yeşilsiz, “%0 ↔ tam dolu halka” B03’ün sakin eşleniği. E19m **üçüncü kez** üretilemedi. Dosya 29 + dosya 21 §3.16 / md.9-10-22. M251-M259. Kod yok.
+
 ## Ortak depo
 | Alan | DeÄŸer |
 |---|---|
