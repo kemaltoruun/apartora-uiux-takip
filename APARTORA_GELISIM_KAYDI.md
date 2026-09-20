@@ -295,6 +295,10 @@ Malik 4 sekme · Menü etiket RISK (Yönetici) · Bekliyor orange #9a3412/#ffedd
 ### 79 - Gündem-X KAPANDI: deneme bandı hex + rol kaynağı (20.09.2026)
 E19p = A taşıyıcı + B-wash (`#eff6ff→#faf5ff`) · **E19pm** (deneme bandı mobil `#e3ebfa`/`#2563eb`) hiza OK · **E19m (Dikkat dark) açık kaldı** (M240 ID düzeltmesi) · X1 RISK: rol/site üç yüzeyde farklı. Dosya 26. M235-M240. Kod yok.
 
+
+### 80 - Gündem-Y KAPANDI: mobil dark ölçümü (20.09.2026)
+Dark taban `#12151c` / kart `#1b1f27` (karar #5 hex’i ile birebir; L0/L1 adı açık) · E19pm dark A (`#182232`/`#4a92f7`) · E19m turuncu kaydı **kapsam daraltıldı** (dark Dikkat kartı nötr) · gösterge dark `#fbbf24`/`#34d399`/`#f15b5b`/`#4a92f7`. Dosya 27 + dosya 21 §3.14. M241-M245. Kod yok.
+
 ## Ortak depo
 | Alan | DeÄŸer |
 |---|---|
