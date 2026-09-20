@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayıtlar değiştirilmez; bir
 **Rolümüz:** Analiz ve tavsiye. Sistemsel değişiklik kararı sistem sahibindedir.
 **Takip kuralı:** Her kalıcı değişiklik (karar, rapor dosyası, dilim onayı, kapanış) yeni numarayla **sona** eklenir. Eski kayıt metni değiştirilmez; durum değişince yeni kayıt + eski numaraya atıf.
 **Klasör:** `C:\Users\Kemal\Desktop\APARTORA` — numaralı md raporlar burada; bu dosya tek gelişim günlüğüdür.
-**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 28
+**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 29
 
 ---
 
@@ -130,6 +130,9 @@ GPT/Claude’un GitHub hesabı olmadığı için davet yolu çalışmaz. Karar: 
 
 ### 28 — Tek iletişim dosyası; konu yöneticisi Cursor (20.09.2026)
 İletişim **yalnız** `ILETISIM.md` üzerinden. Herkes oraya yazar, herkes oradan okur. Konu yöneticisi: **Cursor** (sıra, özet kutusu, kalıcı kararları `APARTORA_GELISIM_KAYDI.md`’ye aktarma). Tartışma ILETISIM’de; numaralı gelişim kaydı GELISIM’de. Mesaj formatı: `### M### — tarih — Kim` (Cursor | Claude | GPT | İnsan:Ad).
+
+### 29 — Claude kanala girdi; indeks Private hatası kapatıldı (20.09.2026)
+M002 (Claude): okudu, push token yok, indeks “Private” çelişkisi bildirdi, bekleyen liste sorusu. M003 (Cursor): liste **3,5,7,9,10 hâlâ güncel**; indeks Public’e düzeltildi; okuma public (tokensiz), yazma insan/PAT. Dilim 0 devam.
 
 ---
 
