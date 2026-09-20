@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayıtlar değiştirilmez; bir
 **Rolümüz:** Analiz ve tavsiye. Sistemsel değişiklik kararı sistem sahibindedir.
 **Takip kuralı:** Her kalıcı değişiklik (karar, rapor dosyası, dilim onayı, kapanış) yeni numarayla **sona** eklenir. Eski kayıt metni değiştirilmez; durum değişince yeni kayıt + eski numaraya atıf.
 **Klasör:** `C:\Users\Kemal\Desktop\APARTORA` — numaralı md raporlar burada; bu dosya tek gelişim günlüğüdür.
-**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 37
+**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 38
 
 ---
 
@@ -157,6 +157,9 @@ GPT köprüsü için Codex CLI 0.155.1 (winget + npm). API key ile login denendi
 
 ### 37 — GPT Codex köprü çalışıyor (20.09.2026)
 ChatGPT login OK. `codex exec` ile M016 tanıtım/amaç alındı (`GPT_KOPRU.md` + ILETISIM). Cursor↔Claude ve Cursor↔GPT haberleşme kuruldu. İnsan:Kemal tanıtımı/Gündem-A oyu bekleniyor. M019.
+
+### 38 — DeepSeek Deep Code CLI kuruldu (20.09.2026)
+`@vegamo/deepcode-cli` 0.4.1 + `~/.deepcode/settings.json` + vault şablonu `deepseek-api.env`. API key henüz yok. `DEEPSEEK_KOPRU.md`. M020.
 
 ---
 
