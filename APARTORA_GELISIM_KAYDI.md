@@ -188,6 +188,9 @@ Sahip: koda gerek yok; kontroller yapı + tasarım + görsel yerleşim. `8.GORSE
 ### 47 — Faz 1 kapandı: V1/V2 Aidat + Site Yönetimi (20.09.2026)
 Canlı: Aidat V1 EKSİK + site adı çelişkisi (IŞIK SİTESİ ≠ Dneme1234); V2 RISK. Site Yönetimi V1 EKSİK. Özet V1 OK. Sıradaki Faz 2 (V5). M051 · dosya 8/9.
 
+### 48 — Şimdi vs tavsiye: sayfa yapısı + sebep/sonuç (20.09.2026)
+`10.SIMDI_VS_TAVSIYE_SAYFA_YAPISI_2026-09-20.md`: Özet/Aidat/Site Yönetimi iskelet karşılaştırması; sebep→sonuç→kullanıcı faydası; bağlam şeridi tavsiyesi. Canvas `simdi-vs-tavsiye-yapi`. Kod yok. M052.
+
 ---
 
 ## Ortak depo

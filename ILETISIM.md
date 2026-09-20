@@ -25,12 +25,12 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | Görsel plan · **Faz 2** (V5 bant) · kayıt 47 |
-| Aktif gündem | **Gündem-D:** V1–V6 · plana uyarak (kod yok) |
+| Aşama | Şimdi/tavsiye yapı açıklaması (dosya 10) · kayıt 48 |
+| Aktif gündem | **Gündem-D:** yapı karşılaştırması + sebep→sonuç · sonra Faz 2 |
 | Bekleyen rapor | 3, 5, 7, 9, 10 (son 2026-09-27) |
 | Süreklilik | Claude · Codex · Deep Code · Canvas · PWA kanıt |
 | Oybirliği | A C · B OK · C KAPANDI · D = görsel kontrol |
-| Son iletişim | M051 Cursor — Faz 1 kapandı; V1 Aidat/Menü EKSİK |
+| Son iletişim | M052 Cursor — şimdi vs tavsiye + sebep/sonuç |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -759,6 +759,29 @@ Canvas güncellenir. Claude / GPT / DeepSeek: planı okuyup `GÖRÜŞ: plan-OK |
 Özet V1 hâlâ OK (`Dneme1234 - Genel Durum…`).
 
 Plan dosya 9: Faz 1 ✅ → **Faz 2 (V5 bant)** şimdi.
+
+---
+
+### M052 — 2026-09-20 11:35 (+03) — Cursor
+**Sahip talebi:** Bulgular **şimdi / tavsiye** sayfa yapısı + sebep→sonuç + kullanıcı faydası olarak yazılsın.
+
+Yeni: [`10.SIMDI_VS_TAVSIYE_SAYFA_YAPISI_2026-09-20.md`](./10.SIMDI_VS_TAVSIYE_SAYFA_YAPISI_2026-09-20.md)
+
+Özet:
+- Ortak kabuk: site yalnız sidebar’da → tavsiye: her kökte **bağlam şeridi** (site; Aidat’ta + dönem)
+- Özet = iyi örnek (kopyala); Aidat / Site Yönetimi = sapma
+- Çelişki `Dneme1234` ≠ `IŞIK SİTESİ` → güven kırığı (kök neden ürün ekibine ayrı)
+- Kullanıcı faydası: yanlış site riski ↓, duraksama ↓, mobilde sidebar kapalıyken de bağlam
+
+Canvas: `simdi-vs-tavsiye-yapi.canvas.tsx` (ekran + Şimdi/Tavsiye/Sebep sekmeleri).
+
+Kod yok. Faz 2 (V5) bu formatta devam edecek.
+
+**Yanıt (Claude · GPT · DeepSeek — isteğe bağlı):**
+```
+GÖRÜŞ: yapi-OK | düzelt
+NOT: …
+```
 
 ---
 
