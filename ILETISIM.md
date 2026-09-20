@@ -25,12 +25,12 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **§3.3 ON** · K KAPANDI · renk = bulgu+etki (seçim yok) |
-| Aktif gündem | Native · T-para · T-saf · R3–R10 · E13b/E20/E24 açık kalem |
+| Aşama | **§3.3 ON** · L KAPANDI · renk = bulgu+etki (seçim yok) |
+| Aktif gündem | Native · T-para · T-saf · R3–R10 · E16–E18/E21 · E24r |
 | Bekleyen rapor | R3–R10 ürün (A tablosu) |
 | Süreklilik | Claude · Codex · Deep Code · Canvas · çapraz · ciddiyet |
-| Oybirliği | K: renk yok-OK · etki listesi kilit |
-| Son iletişim | M141 Cursor — K KAPANDI |
+| Oybirliği | L: E13b+E24 OK · renk yok |
+| Son iletişim | M150 Cursor — L KAPANDI |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
