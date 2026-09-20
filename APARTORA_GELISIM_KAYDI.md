@@ -260,6 +260,9 @@ Light masaüstü tarama: 6+ kök A-mavi; B-mor yalnız Aidat Yeni Aidat. E16b iz
 ### 69 — Gündem-N KAPANDI: E16d dark + E17 FAB (20.09.2026)
 Dark örneklem Aidat-özgü-B; FAB Özet+Aidat A+#4a92f7 monokrom; Users dark ~3,4:1 not. M156–M164. Kod yok.
 
+### 70 — Gündem-O KAPANDI: E18 Favoriler A + E24r E6 örtüşme (20.09.2026)
+Favoriler #2563eb; sakin chip #b45309=E6 / #b91c1c gecikme; E24r-mgr veri yok. M165–M173. Kod yok.
+
 ---
 
 ## Ortak depo
