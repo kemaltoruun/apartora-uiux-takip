@@ -191,6 +191,9 @@ Canlı: Aidat V1 EKSİK + site adı çelişkisi (IŞIK SİTESİ ≠ Dneme1234); 
 ### 48 — Şimdi vs tavsiye: sayfa yapısı + sebep/sonuç (20.09.2026)
 `10.SIMDI_VS_TAVSIYE_SAYFA_YAPISI_2026-09-20.md`: Özet/Aidat/Site Yönetimi iskelet karşılaştırması; sebep→sonuç→kullanıcı faydası; bağlam şeridi tavsiyesi. Canvas `simdi-vs-tavsiye-yapi`. Kod yok. M052.
 
+### 49 — Gündem-E açıldı: paket değerlendirme (20.09.2026)
+Dosya 10–13 + Primer olgunluk disiplini katılımcılara. Oylar: YAPI / UK / DOKÜM / PRIMER / SIRADA. M053. Kod yok.
+
 ---
 
 ## Ortak depo
