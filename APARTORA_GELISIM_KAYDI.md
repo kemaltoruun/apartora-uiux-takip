@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayıtlar değiştirilmez; bir
 **Rolümüz:** Analiz ve tavsiye. Sistemsel değişiklik kararı sistem sahibindedir.
 **Takip kuralı:** Her kalıcı değişiklik (karar, rapor dosyası, dilim onayı, kapanış) yeni numarayla **sona** eklenir. Eski kayıt metni değiştirilmez; durum değişince yeni kayıt + eski numaraya atıf.
 **Klasör:** `C:\Users\Kemal\Desktop\APARTORA` — numaralı md raporlar burada; bu dosya tek gelişim günlüğüdür.
-**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 24
+**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 25
 
 ---
 
@@ -105,6 +105,21 @@ Ayrı şema eksikti; `4.RENK_KATMANLARI_VE_MENU_DIZILIM_SEMASI_2026-09-20.md` ya
 ### 24 — Private depo açıldı ve bağlandı (20.09.2026)
 Tarayıcı oturumuyla `https://github.com/kemaltoruun/apartora-uiux-takip` **Private** oluşturuldu; yerel `main` push edildi. Tek doğru günlük: `APARTORA_GELISIM_KAYDI.md`. Diğer kaynaklar: Settings → Collaborators ile davet → kabul → clone/pull. Ürün reposundan bağımsız.
 
+### 25 — Çoklu kaynak: GPT + Claude (+ Cursor) (20.09.2026)
+Takip deposunu görecek AI kaynakları: **GPT**, **Claude**, **Cursor** (ve insan sahibi). Bunlar GitHub’da “davet edilecek kullanıcı adı” değil; her biri aynı private repoyu okur/yazar.
+
+**Ortak URL:** https://github.com/kemaltoruun/apartora-uiux-takip  
+**Tek doğru dosya:** `APARTORA_GELISIM_KAYDI.md`
+
+| Kaynak | Nasıl bağlanır |
+|---|---|
+| Cursor (bu makine) | Klasör zaten `origin`’e bağlı; kalıcı değişiklik → kayda ekle → commit → `git push` |
+| Claude (Claude Code) | Bu private repoyu clone et veya aynı klasörü aç; işe başlamadan `git pull`; bitince kayda yaz → push. GitHub girişi / PAT o ortamda tanımlı olmalı |
+| GPT (ChatGPT / Codex vb.) | Aynı: repo’yu GitHub’da bağlı hesapla aç veya clone; private olduğu için o hesabın collaborator veya sahip olması gerekir. Sohbete dosya yapıştırmak yerine her zaman bu repodan oku |
+| İnsan | Collaborators’a ek GitHub kullanıcıları davet edilebilir (yazma yetkisi) |
+
+**Kural:** Her kaynak işe başlamadan günlüğü `git pull` ile alır; kalıcı adımda yeni kayıt numarası ekler; çakışmayı önlemek için kısa kayıt + hemen push.
+
 ---
 
 ## Ortak depo
@@ -113,6 +128,7 @@ Tarayıcı oturumuyla `https://github.com/kemaltoruun/apartora-uiux-takip` **Pri
 | URL | https://github.com/kemaltoruun/apartora-uiux-takip |
 | Görünürlük | Private |
 | Clone | `git clone https://github.com/kemaltoruun/apartora-uiux-takip.git` |
+| Kaynaklar | GPT · Claude · Cursor · sahip |
 
 ## Bekleyen raporlar
 | Kayıt | Konu |
