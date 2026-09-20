@@ -182,6 +182,9 @@ AI ekip-talep-OK + YAPI-ÖZET OK; sahip DEVAM = onay. Ekip 3/5/7/9/10 son 2026-0
 ### 45 — Kapsam: kod yok — yapı/tasarım/görsel yerleşim (20.09.2026)
 Sahip: koda gerek yok; kontroller yapı + tasarım + görsel yerleşim. `8.GORSEL_YAPI_YERLESIM_KONTROL_2026-09-20.md` (V1–V6). Kanıt PWA/web + canvas. M049.
 
+### 46 — Plan: görsel/yapı/yerleşim fazları (20.09.2026)
+`9.PLAN_GORSEL_YAPI_YERLESIM_2026-09-20.md`: Faz 0✅ → 1 (V1/V2 Aidat+Menü) → 2 (V5 bant) → 3 (V3/V4) → 4 (V6 menü) → 5 (sakin) → 6 (sentez). Kod yok; plana uyarak ilerlenir. M050.
+
 ---
 
 ## Ortak depo
