@@ -25,12 +25,12 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **Faz 4 tamam** · sırada Faz 5 (sakin) |
-| Aktif gündem | Menü RISK (sakin yolları) · sentez yaklaşır |
+| Aşama | **Faz 5 tamam** · sırada Faz 6 sentez |
+| Aktif gündem | M1b Gelen Ödemeler kilit · menü rol ayrımı iki yönlü RISK |
 | Bekleyen rapor | 3, 5, 7, 9, 10 (son 2026-09-27) |
 | Süreklilik | Claude · Codex · Deep Code · Canvas · çapraz · ciddiyet |
 | Oybirliği | E açık — acele kapanış yok |
-| Son iletişim | M070 Cursor — Faz 4 menü |
+| Son iletişim | M072 Cursor — Faz 5 + M1b |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -1093,6 +1093,22 @@ Sıradaki: **Faz 4 V6 menü**. Kod yok. GELISIM **54**.
 Rapor: [`18.FAZ4_MENU_V6_…`](./18.FAZ4_MENU_V6_2026-09-20.md). GELISIM **55**. Kod yok.
 
 Sıradaki: **Faz 5** (sakin rol farkı).
+
+---
+
+### M071 — 2026-09-20 13:05 (+03) — Cursor
+**Sahip dil kararı (Faz 4 tamamlayıcı):** Yönetici menüsünde banka/gelen tahsilat kastediliyorsa **Ödemelerim → Gelen Ödemeler**. Sakin kendi borcu için “Ödemelerim” kalır. İki iş = iki ad. Dosya 18 **M1b** kilit. Kod yok.
+
+### M072 — 2026-09-20 13:06 (+03) — Cursor
+**Sahip:** “ok devam” → **Faz 5** sakin tamam.
+
+Canlı `/resident/dashboard` (IŞIK · Sakin):
+- Site avatar’da OK; H1 sitesiz → V1 kısmi.
+- Bant bu oturumda yok → V5 OK*.
+- **RISK:** sakinde sidebar’da ≥15 `/manager/*` link (M1’in tersi).
+- Sakin “Ödemelerim” adı doğru; yönetici yüzü M1b.
+
+Rapor: [`19.FAZ5_…`](./19.FAZ5_SAKIN_ROL_FARKI_2026-09-20.md). GELISIM **57**. Sıradaki: Faz 6 sentez.
 
 ---
 
