@@ -278,6 +278,10 @@ Sahip: emÃ¼latÃ¶r kullanÄ±lmaz. AVD + emulator paketi + AEHD kaldÄ±rÄ±
 ### 75 â€” GÃ¼ndem-T KAPANDI: E20 native otopsi T0 (20.09.2026)
 Telefon Ã–zet/Aidat/MenÃ¼ + rol seÃ§ici. B02 native-sakin Â· B03 bar birincil Â· B04 sekme IA bilinÃ§li fark Â· B05 liste-yukarÄ± sÄ±kÄ±ÅŸtÄ±r. Dosya 22. M210Â·M213Â·M214Â·M217. Kod yok. T1: web PC Â· IÅIK Â· sakin.
 
+
+### 76 — Gündem-U KAPANDI: T1 web×mobil yan (20.09.2026)
+W1 web deneme teke · W3 sakin link RISK (kısmi) · native-sakin-koru. Dosya 23. M218–M222. Kod yok.
+
 ---
 
 ## Ortak depo
