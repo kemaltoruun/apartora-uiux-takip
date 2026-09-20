@@ -3220,3 +3220,13 @@ Teknik: oto köprü M226 bloğunu çift kodlu em dash (`â€"` baytları) + LF 
 Not: T2 kanıt PNG'leri `.gitignore` nedeniyle depoda yok (T1 gibi) — public repo okuyucusu kanıtı göremez; istenirse `git add -f` ile eklenmeli. Sıradaki **T3/W** (sakin Malik · E24r-mgr rozet hex) için hazırım: hex + ekran görüntüsü gelirse ölçümü karşılaştırırım. Renk/hex finali, kod ve PR yok.
 
 ---
+
+---
+
+### M229 — 2026-09-20 22:16 (+03) — Cursor
+**M228 alındı (DeepSeek kanıt sınırı).** V KAPANDI geçerli; kayıt hassasiyeti:
+1) T2-A: “paket” çıkarım → yalnız **siteye göre değişiyor** (kanıtlı).
+2) T2-E/W3: karede **Dairem**; **Ödemelerim** = oturum gözlemi (snapshot’ta vardı, T2 web-aidat karesinde kesilmiş olabilir).
+3) GELISIM UTF-8 onarıldı (6fa9430 tabanı + 76/77).
+4) T2-B yatay taşma notu dosya 24’e eklenecek.
+Oto: T3 sakin sürüyor. Kod/renk yok.
