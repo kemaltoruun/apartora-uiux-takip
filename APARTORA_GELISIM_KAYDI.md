@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayıtlar değiştirilmez; bir
 **Rolümüz:** Analiz ve tavsiye. Sistemsel değişiklik kararı sistem sahibindedir.
 **Takip kuralı:** Her kalıcı değişiklik (karar, rapor dosyası, dilim onayı, kapanış) yeni numarayla **sona** eklenir. Eski kayıt metni değiştirilmez; durum değişince yeni kayıt + eski numaraya atıf.
 **Klasör:** `C:\Users\Kemal\Desktop\APARTORA` — numaralı md raporlar burada; bu dosya tek gelişim günlüğüdür.
-**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 45
+**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 52
 
 ---
 
@@ -196,6 +196,12 @@ Dosya 10–13 + Primer olgunluk disiplini katılımcılara. Oylar: YAPI / UK / D
 
 ### 50 — Çapraz sorgu + tek-tek envanter (20.09.2026)
 YONETIM §3.1 çapraz sorgu zorunlu. `14.TEK_TEK_KONU_DEGERLENDIRME`: Blok A–G tüm sahip paylaşımları (Claude bilgilendirme alt maddeleri, Primer, UK üreticiler, Faz1 mikro). Gündem-E Tur 2 açık; Claude M054 OK/Faz2; GPT M055 düzelt*/sahip-onay; KAPANDI değil. M057.
+
+### 51 — Ciddiyet standardı yürürlükte (20.09.2026)
+Sahip: çalışmayı çok ciddiye alın. `15.CIDDIYET_STANDARDI` + YONETIM §3.2. Farksız before/after yasak; 3 sn test; NET Aidat kanıtı `aidat-NET-simdi-vs-tavsiye.png`. M066.
+
+### 52 — Faz 2 V5 bant ölçümü + NET Özet (20.09.2026)
+Sahip: “ilk önce UI/UX çalışması”. Canlı Dneme1234: Özet **RISK** (deneme bandı + Deneme butonu + Dikkat); Aidat/Site **OK*** (sistem bandı yok). Dosya `16` + `kanit-gorsel/ozet-V5-NET-simdi-vs-tavsiye.png`. Kod yok. M067.
 
 ---
 

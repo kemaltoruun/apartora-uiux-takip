@@ -1,23 +1,27 @@
-# Birebir görsel kanıt — Aidat Şimdi / Tavsiye
+# Görsel kanıt — şimdi / tavsiye
 
 | Alan | Değer |
 |---|---|
 | Tarih | 2026-09-20 |
-| Kaynak | Canlı https://apartora.com/manager/dues |
-| Yöntem | Playwright ekran görüntüsü. Tavsiye = **aynı sayfa + aynı CSS token renkleri** ile yalnızca başlık altına bağlam şeridi eklendi (demo; ürün kodu yok). |
-| Not | Yeşil rozet “TAVSİYE (demo)” yalnız işaret içindir. |
+| Kural | Ciddiyet §3.2 — fark 3 sn’de okunmazsa red |
+| Kod | Yok — iskelet / canlı ekran |
 
-## Dosyalar
+## Faz 1 — Aidat (bağlam şeridi)
 
 | Dosya | Ne |
 |---|---|
-| `aidat-BIREBIR-simdi.png` | Canlı Aidat — olduğu gibi |
-| `aidat-BIREBIR-tavsiye.png` | Aynı UI renkleri + `Dneme1234 · Eylül 2026` şeridi |
-| `aidat-BIREBIR-yan-yana.png` | İkisi yan yana |
+| `aidat-NET-simdi-vs-tavsiye.png` | **Geçerli** NET yan yana |
+| `aidat-simdi-vs-tavsiye-NET.html` | Kaynak HTML |
+| `aidat-BIREBIR-*.png` | Erken deneme (zayıf bar — arşiv) |
 
-## Bakılacak fark (renk değil, yerleşim)
+## Faz 2 — Özet V5 (bant ≤2)
 
-- **Şimdi:** Başlık altında jenerik yazı; site `IŞIK SİTESİ` ayrı kutuda; ay ayrı barda.  
-- **Tavsiye:** Başlık altında site + ay birlikte; site adı Dneme1234 ile hizalı (demo).
+| Dosya | Ne |
+|---|---|
+| `ozet-SIMDI-canli.png` | Canlı Özet |
+| `aidat-SIMDI-canli-faz2.png` | Canlı Aidat |
+| `site-SIMDI-canli-faz2.png` | Canlı Site Yönetimi |
+| `ozet-V5-NET-simdi-vs-tavsiye.png` | **Geçerli** NET yan yana |
+| `ozet-V5-simdi-vs-tavsiye-NET.html` | Kaynak HTML |
 
-*Mor / mavi / turuncu / yeşil butonlar ve durum kartları canlı temadan — yeniden boyanmadı.*
+Rapor: `16.FAZ2_V5_BANT_SIMDI_TAVSIYE_2026-09-20.md`

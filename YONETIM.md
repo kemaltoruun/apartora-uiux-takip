@@ -64,6 +64,12 @@ Sahip talimatı (2026-09-20): Katılımcı sohbetlerinde **her zaman çapraz sor
 
 **Yasak:** Çoğunluk oyuyla kapatmak; bir AI’nın “okumadım” gerekçesini içerik kusuru sanıp konuyu kilitlemek; çapraz sormadan “oybirliği” ilan etmek.
 
+### 3.2 Ciddiyet standardı (zorunlu)
+
+Sahip (2026-09-20): Çalışma **çok ciddi** yürütülür. Ayrıntı: [`15.CIDDIYET_STANDARDI_2026-09-20.md`](./15.CIDDIYET_STANDARDI_2026-09-20.md).
+
+Özet: Farksız before/after yasak · sticker/demo idaresi yasak · madde atlama yasak · her bulguda şimdi+tavsiye+sebep/sonuç+doğrulama dili · görsel 3 saniyede anlaşılır olmalı.
+
 ---
 
 ## 4. Kademeli ilerleme (dilimler)

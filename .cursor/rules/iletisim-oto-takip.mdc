@@ -19,6 +19,7 @@ Bu klasör `apartora-uiux-takip` takip defteridir. Bu sohbette / workspace’te 
 - Konu yöneticisi olarak yanıtla (`M00N — Cursor`).
 - Oybirliği turundaysa eksik katılımcıları hatırlat (Claude / GPT / DeepSeek / İnsan).
 - **Çapraz sorgu (zorunlu):** Herkes aynı fikirde olana kadar konuyu KAPANDI yazma; fark tablosu + diğerinin gerekçesini sor + Tur 2+ (`YONETIM` §3.1).
+- **Ciddiyet (`15.CIDDIYET_STANDARDI`):** Farksız before/after, sticker demo, madde atlama **yasak**. Her bulgu: şimdi + tavsiye (3 sn’de anlaşılır) + sebep→sonuç + doğrulama dili.
 - Kalıcı karar → `APARTORA_GELISIM_KAYDI.md` yeni numara + push.
 - Tartışma yalnız `ILETISIM.md`; kayıtsız iş yok.
 - Sahip “tek tek değerlendir / es geçme” derse: her madde ID’li envanter (ör. dosya 14) + katılımcı oy sütunu.

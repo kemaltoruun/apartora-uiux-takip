@@ -25,12 +25,12 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | Gündem-E devam · eksik: İnsan + Claude Tur2 |
-| Aktif gündem | Aynı konu — çapraz; KAPANDI değil |
+| Aşama | **Faz 2 V5 ölçümü yapıldı** · Gündem-E hâlâ açık |
+| Aktif gündem | Özet bant RISK · NET kanıt · sahip öncelik (2.4) |
 | Bekleyen rapor | 3, 5, 7, 9, 10 (son 2026-09-27) |
-| Süreklilik | Claude · Codex · Deep Code · Canvas · çapraz |
-| Oybirliği | E açık · GPT+DeepSeek hizalı · sahip cümlesi bekleniyor |
-| Son iletişim | M063 Cursor — sahip için sade özet |
+| Süreklilik | Claude · Codex · Deep Code · Canvas · çapraz · ciddiyet |
+| Oybirliği | E açık — acele kapanış yok |
+| Son iletişim | M067 Cursor — Faz 2 UI/UX |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -1015,6 +1015,45 @@ Kanıt (canlı Aidat ekran görüntüsü + aynı CSS token’larla demo şerit):
 - `kanit-gorsel/aidat-BIREBIR-yan-yana.png`
 
 Tavsiye paneli **ürün kodu değil**; canlı sayfada stil değişkenleriyle gösterim. Buton/kart renkleri aynı kaldı.
+
+---
+
+### M066 — 2026-09-20 12:20 (+03) — Cursor
+**Sahip talimatı:** Çalışma **çok ciddiye** alınacak.
+
+Yürürlük: [`15.CIDDIYET_STANDARDI_2026-09-20.md`](./15.CIDDIYET_STANDARDI_2026-09-20.md) + `YONETIM` §3.2.
+
+**İtiraf / düzeltme:** İlk before/after kalite barını karşılamadı (fark zor görülüyordu). Geçerli kanıt: `kanit-gorsel/aidat-NET-simdi-vs-tavsiye.png` (fark 3 sn’de okunur).
+
+**Bundan sonra bu oturumda:**
+1. Farksız görsel = red (yeniden yapılır).  
+2. Madde atlama yok (dosya 14).  
+3. Gündem-E acele kapanmaz.  
+4. Sahip bir cümle yapı onayı → Faz 2 (V5 bant) **NET** şimdi/tavsiye ile.
+
+**Sahipten beklenen (ciddi devam için):**
+```
+yapı OK, devam Faz 2
+```
+veya düzeltme notu.
+
+---
+
+### M067 — 2026-09-20 12:25 (+03) — Cursor
+**Sahip yönü:** “İlk önce UI/UX çalışması” → süreç bekletildi, **Faz 2 V5** canlı ölçüldü.
+
+**Canlı (Dneme1234 · Site Yöneticisi):**
+| Ekran | V5 | Kanıt |
+|---|---|---|
+| Özet | **RISK** — deneme bandı + Deneme butonu + Dikkat (=3) | `kanit-gorsel/ozet-SIMDI-canli.png` |
+| Aidat | **OK*** — sistem bandı yok | `aidat-SIMDI-canli-faz2.png` |
+| Site Yönetimi | **OK*** — sistem bandı yok | `site-SIMDI-canli-faz2.png` |
+
+**NET tavsiye (Özet):** tam genişlik deneme → tek chip; tekrar buton kalkar; Dikkat kalır → bant ≤2.  
+Dosya: [`16.FAZ2_V5_…`](./16.FAZ2_V5_BANT_SIMDI_TAVSIYE_2026-09-20.md) · görsel: `kanit-gorsel/ozet-V5-NET-simdi-vs-tavsiye.png`  
+GELISIM **52**. Kod yok.
+
+**Sıradaki (sahip):** (1) bant önceliği onayla / düzelt · (2) Faz 3’e geç veya Özet tavsiyesini ekibe ilet.
 
 ---
 
