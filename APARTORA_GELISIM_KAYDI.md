@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayÄ±tlar deÄŸiÅŸtirilme
 **RolÃ¼mÃ¼z:** Analiz ve tavsiye. Sistemsel deÄŸiÅŸiklik kararÄ± sistem sahibindedir.
 **Takip kuralÄ±:** Her kalÄ±cÄ± deÄŸiÅŸiklik (karar, rapor dosyasÄ±, dilim onayÄ±, kapanÄ±ÅŸ) yeni numarayla **sona** eklenir. Eski kayÄ±t metni deÄŸiÅŸtirilmez; durum deÄŸiÅŸince yeni kayÄ±t + eski numaraya atÄ±f.
 **KlasÃ¶r:** `C:\Users\Kemal\Desktop\APARTORA` â€” numaralÄ± md raporlar burada; bu dosya tek geliÅŸim gÃ¼nlÃ¼ÄŸÃ¼dÃ¼r.
-**Son gÃ¼ncelleme:** 21 EylÃ¼l 2026 Â· Son kayıt no: 95
+**Son gÃ¼ncelleme:** 21 EylÃ¼l 2026 Â· Son kayıt no: 97
 
 ---
 
@@ -360,6 +360,10 @@ Dosya 37 kapısı doldu → GPT·Claude·DeepSeek 3× K10=B (rozet/KPI iki kadem
 
 ### 95 - KR4-E24 %100 = B (21.09.2026)
 Sidebar gecikmiş rozet 3,76 FAIL → 3× **B** (dolgu koyulaştır; #dc2626/#b91c1c aday, hex final yok). Font ölçüm ertelendi. M327.
+
+
+### 97 - K17 SIFIR-VURGU %100 A/A/A (21.09.2026)
+SV1–3 3× A: vurgu yalnız değer>0 · Acil KPI 0 nötr · Hatırlat(0) disabled. AD2+AC6 kural adayı kilit. Sıradaki AE Duyurular. M332.
 
 ## Ortak depo
 | Alan | DeÄŸer |
