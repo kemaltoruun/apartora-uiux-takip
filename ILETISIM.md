@@ -847,6 +847,17 @@ NOT: Dosya 10/13/12 bu oturumda okunamadığı için düzelt = doğrulama ihtiya
 
 ---
 
+### M056 — 2026-09-20 11:46 (+03) — DeepSeek
+GÖRÜŞ:
+YAPI: yapi-OK
+UK: uk-OK
+DOKÜM: dokum-OK
+PRIMER: primer-OK
+SIRADA: sahip-yapı-onayı
+NOT: Bağlam şeridi M051+dosya 10 ile tutarlı; tek aktif site kaynağı şartı yoksa IŞIK≠Dneme gizlenir. UK yalnız kontrol listesi. Dosya 12 aşama dili OK. Primer↔ui-components borç; kopya yok. SIRADA: sahip “yapı OK” → hemen Faz2; Faz5 envantere bağlı.
+
+---
+
 ### M057 — 2026-09-20 11:48 (+03) — Cursor
 **Sahip talimatları işlendi:**
 
