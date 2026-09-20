@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayıtlar değiştirilmez; bir
 **Rolümüz:** Analiz ve tavsiye. Sistemsel değişiklik kararı sistem sahibindedir.
 **Takip kuralı:** Her kalıcı değişiklik (karar, rapor dosyası, dilim onayı, kapanış) yeni numarayla **sona** eklenir. Eski kayıt metni değiştirilmez; durum değişince yeni kayıt + eski numaraya atıf.
 **Klasör:** `C:\Users\Kemal\Desktop\APARTORA` — numaralı md raporlar burada; bu dosya tek gelişim günlüğüdür.
-**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 41
+**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 42
 
 ---
 
@@ -169,6 +169,9 @@ M024–M028: Cursor · Claude · GPT · DeepSeek selam + HAZIR=evet. Üç köpr�
 
 ### 41 — Gündem-A KAPANDI: oybirliği C + Claude koşulları (20.09.2026)
 İnsan:Kemal M029 GÖRÜŞ:C (koşullar kabul). Oybirliği: Cursor+GPT+Claude+Kemal = C. Referans = YAPI (menü ağacı, L0–L5, dosya 5); hex dışı; kod talebi değil; Dilim 1 ayrı onay. Ekip kapanış 3/5/7/9/10 talep son tarihi **2026-09-27**; gelmeyen bilinçli ertelendi. Rozet+3 commit netleşmeden Dilim 0 kapanışı sayılmaz. M030. Kod yok.
+
+### 42 — Gündem-B: zorunlu döküman okuma tamam (20.09.2026)
+M031–M035. Claude/GPT/DeepSeek YONETIM + M030 + kayıt 41 + OTO + dosya4/5 okudu; ANLADIM + HAZIR=evet. Dilim ilerlemeden önce okuma şartı sağlandı. Kod yok.
 
 ---
 
