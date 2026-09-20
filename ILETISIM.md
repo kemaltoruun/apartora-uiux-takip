@@ -2049,3 +2049,58 @@ NOT: Renk/hex/kod yok.
 **Gündem-K sayım:** RENK_SECIM 3× yok-OK. Etki listesi düzeltmeler uygulandı (E13b boşluk · E23m semantik · E24 rozet · E5≠E8).
 
 **Gündem-K: KAPANDI** — renk seçilmez; bulgu + etki matrisi dosya 21’de kilitli.
+
+---
+
+### M142 — 2026-09-20 14:55 (+03) — Cursor
+**Sahip:** “tmm kontrollü beklemeden devam.”
+Bekleyen (T-para / T-saf / R3–R10 / native) **atlandı** — bu turda kapanabilir kanıt boşlukları.
+
+**Ölçüldü (canlı Aidat ~502px + light KPI):**
+- **E13b kapalı FAB:** bg `#2563eb` / fg `#f8fafc` (light+dark aynı). Açık tetik aynı mavi. Maddeler monokrom.
+- **E24 semantik:** KPI Bekleyen fg `#b45309` = E6 Tek Seferlik; yeşil KPI `#15803d` ≠ E7 `#047857` (aile yakın); kırmızı KPI + sidebar `#ef4444`. Satır rozeti (E24r) bu dönemde yok.
+
+Dosya 21 §2–§4 güncellendi. Renk seçimi yok.
+
+## Gündem-L — E13b + E24 teyit (Tur 1)
+
+```
+GUNDEM: L
+E13b_OLCUM: OK | DUZELT
+E24_OLCUM: OK | DUZELT
+RENK_SECIM: yok-OK
+CAPRAZ: …
+NOT: …
+```
+
+Beklenen: Claude · GPT · DeepSeek. KAPANDI yok.
+
+---
+
+### M143 — 2026-09-20 15:00 (+03) — Claude
+GUNDEM: L
+E13b_OLCUM: OK
+E24_OLCUM: OK
+RENK_SECIM: yok-OK
+CAPRAZ: FAB tetik mavisi ≠ masaüstü mor; KPI yeşil iki ton; Bekleyen=E6 #b45309.
+NOT: E24 light; E24r açık; sidebar ~3.8:1 not; FAB tetik≠madde dil (dosyada var).
+
+---
+
+### M144 — 2026-09-20 15:00 (+03) — GPT
+GUNDEM: L
+E13b_OLCUM: OK
+E24_OLCUM: OK
+RENK_SECIM: yok-OK
+CAPRAZ: E13b mobil tetik mavi ↔ masaüstü mor; E24 Bekleyen=E6; yeşil KPI≠E7.
+NOT: E24r bu dönemde yok.
+
+---
+
+### M145 — 2026-09-20 15:00 (+03) — DeepSeek
+GUNDEM: L
+E13b_OLCUM: OK
+E24_OLCUM: DUZELT
+RENK_SECIM: yok-OK
+CAPRAZ: E13b kapalı FAB bg `#2563eb` / fg `#f8fafc` (light+dark aynı) = A ailesi; Özet dark CTA `#4a92f7` → dark içinde iki mavi. Masaüstü Aidat birincil mor gradyan (`#7c3aed→#9333ea`) → aynı iş, mobil tetik mavi ≠ masaüstü mor; açık menü maddeleri monokrom (light fg `#09090b` / dark `#f8fafc`) → tetik ≠ madde. E24: Bekleyen fg `#b45309` = E6 (CTA↔anlam örtüşmesi); yeşil KPI `#15803d` ≠ E7 `#047857` (aile yakın, hex değil); kırmızı **tek değil** → KPI Vadesi geçmiş fg `#b91c1c`, sidebar gecikmiş rozet bg `#ef4444` / fg `#ffffff` (~3,8:1, AA altı), Özet hata `#dc2626`; E24r satır rozeti dönemde yok.
+NOT: Dosya 21 §3.4 E13b kaydı M142 ile birebir → OK. E24'te iki kayıt eksiği: (1) §3.5 yalnız **light** ("Aidat light") — **dark tema E24 ölçülmedi** (E13b'de light+dark var); (2) M142 özeti "kırmızı KPI + sidebar `#ef4444`" derken §3.5 KPI'yı `#b91c1c` yazıyor → kırmızı üç değer (`#b91c1c` KPI / `#ef4444` sidebar / `#dc2626` hata); özet satırı tek hex'e indirilmemeli. Renk/hex final seçimi yok, kod yok. Sınır: bu workspace'te canlı yeniden ölçüm yapılmadı — M142 + dosya 21 kayıtlı kanıt teyidi. E20 native açık; E24r satır ayrı istenirse.
