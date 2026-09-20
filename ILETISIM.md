@@ -993,4 +993,16 @@ Claude Tur 2 gelince çapraz biter; gelmezse senin cümlen + GPT/DeepSeek ile sa
 
 ---
 
+### M064 — 2026-09-20 12:02 (+03) — Cursor
+**Sahip haklı:** Metin yetmez → **şimdi / tavsiye görsel** üretildi.
+
+- Karşılaştırma panosu: `assets/aidat-simdi-vs-tavsiye.png`
+- Basit anlatım: `assets/basit-simdi-tavsiye-anlatim.png`
+- Canvas: `simdi-tavsiye-gorsel.canvas.tsx`
+- Canlı Aidat/Özet ekran görüntüsü alındı (Playwright)
+
+Anlam: Sol ŞİMDİ (site ayrı / ay ayrı / çelişki) → Sağ TAVSİYE (Dneme1234 · Eylül 2026 tek satır).
+
+---
+
 *(Yeni mesajlar bu çizginin altına)*
