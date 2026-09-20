@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayıtlar değiştirilmez; bir
 **Rolümüz:** Analiz ve tavsiye. Sistemsel değişiklik kararı sistem sahibindedir.
 **Takip kuralı:** Her kalıcı değişiklik (karar, rapor dosyası, dilim onayı, kapanış) yeni numarayla **sona** eklenir. Eski kayıt metni değiştirilmez; durum değişince yeni kayıt + eski numaraya atıf.
 **Klasör:** `C:\Users\Kemal\Desktop\APARTORA` — numaralı md raporlar burada; bu dosya tek gelişim günlüğüdür.
-**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 57
+**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 58
 
 ---
 
@@ -217,6 +217,9 @@ Sahip: yönetici banka/gelen takibi için “Ödemelerim” yanlış → **Gelen
 
 ### 57 — Faz 5 sakin rol farkı (20.09.2026)
 Canlı sakin IŞIK: H1 sitesiz; bant OK*; menüde yönetici linkleri RISK. Dosya 19. M072. Kod yok.
+
+### 58 — Faz 6 sentez (20.09.2026)
+Dosya 20: V1–V6 özet · sahip kilitleri · öncelik P1–P7 · ekip/kod kapısı sahipte. M073. Kod yok.
 
 ---
 

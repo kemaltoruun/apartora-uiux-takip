@@ -25,12 +25,12 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **Faz 5 tamam** · sırada Faz 6 sentez |
-| Aktif gündem | M1b Gelen Ödemeler kilit · menü rol ayrımı iki yönlü RISK |
+| Aşama | **Faz 0–6 sentez tamam** · ekip/kod kapısı sahipte |
+| Aktif gündem | P1 menü rol · P2 Gelen Ödemeler · V1/V4/V5 |
 | Bekleyen rapor | 3, 5, 7, 9, 10 (son 2026-09-27) |
 | Süreklilik | Claude · Codex · Deep Code · Canvas · çapraz · ciddiyet |
 | Oybirliği | E açık — acele kapanış yok |
-| Son iletişim | M072 Cursor — Faz 5 + M1b |
+| Son iletişim | M073 Cursor — Faz 6 sentez |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -1109,6 +1109,16 @@ Canlı `/resident/dashboard` (IŞIK · Sakin):
 - Sakin “Ödemelerim” adı doğru; yönetici yüzü M1b.
 
 Rapor: [`19.FAZ5_…`](./19.FAZ5_SAKIN_ROL_FARKI_2026-09-20.md). GELISIM **57**. Sıradaki: Faz 6 sentez.
+
+---
+
+### M073 — 2026-09-20 13:10 (+03) — Cursor
+**Sahip:** “tmm” → **Faz 6 sentez** yazıldı.
+
+Tek sayfa: [`20.FAZ6_SENTEZ_…`](./20.FAZ6_SENTEZ_2026-09-20.md).  
+Öncelik: **P1** rol menü (iki yön) · **P2** Gelen Ödemeler · P3 site/bağlam · P4 bant · P5 mali · P6 sakin H1 · P7 terim.
+
+Görsel fazlar **0–6 tamam**. Kod/ekip talebi **açılmadı** — sahip “aç” demeden ürün kodu yok. GELISIM **58**.
 
 ---
 
