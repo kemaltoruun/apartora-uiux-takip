@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayÄ±tlar deÄŸiÅŸtirilme
 **RolÃ¼mÃ¼z:** Analiz ve tavsiye. Sistemsel deÄŸiÅŸiklik kararÄ± sistem sahibindedir.
 **Takip kuralÄ±:** Her kalÄ±cÄ± deÄŸiÅŸiklik (karar, rapor dosyasÄ±, dilim onayÄ±, kapanÄ±ÅŸ) yeni numarayla **sona** eklenir. Eski kayÄ±t metni deÄŸiÅŸtirilmez; durum deÄŸiÅŸince yeni kayÄ±t + eski numaraya atÄ±f.
 **KlasÃ¶r:** `C:\Users\Kemal\Desktop\APARTORA` â€” numaralÄ± md raporlar burada; bu dosya tek geliÅŸim gÃ¼nlÃ¼ÄŸÃ¼dÃ¼r.
-**Son gÃ¼ncelleme:** 21 EylÃ¼l 2026 Â· Son kayıt no: 91
+**Son gÃ¼ncelleme:** 21 EylÃ¼l 2026 Â· Son kayıt no: 92
 
 ---
 
@@ -344,6 +344,10 @@ K4=B · K7=C · K8=C · K10=C · K12=C · K14=B (Tur2–3: GPT azınlık + DeepS
 
 ### 91 - K8=A Tur4 + AD web %100 (21.09.2026)
 Dosya 37 WCAG → K8 ölçüm kapısı doldu; Tur4 3× **A**. AD/W-m291 AD1–AD7 %100 (AD3 L0 düzeltmesi + AD5 #171b22). Dosya 34–36. M308.
+
+
+### 92 - FE %100 + Dilim 3 paket kapandı; sıradaki KR1 (21.09.2026)
+GPT FE M310 → FE1–FE6 %100. Dilim 3: AC+KARAR+FE+AD mobil/web kapalı. Sonraki: KR1-CTA (3,45:1 FAIL). M311.
 
 ## Ortak depo
 | Alan | DeÄŸer |
