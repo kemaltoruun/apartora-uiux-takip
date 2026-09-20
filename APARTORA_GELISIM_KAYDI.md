@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayıtlar değiştirilmez; bir
 **Rolümüz:** Analiz ve tavsiye. Sistemsel değişiklik kararı sistem sahibindedir.
 **Takip kuralı:** Her kalıcı değişiklik (karar, rapor dosyası, dilim onayı, kapanış) yeni numarayla **sona** eklenir. Eski kayıt metni değiştirilmez; durum değişince yeni kayıt + eski numaraya atıf.
 **Klasör:** `C:\Users\Kemal\Desktop\APARTORA` — numaralı md raporlar burada; bu dosya tek gelişim günlüğüdür.
-**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 29
+**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 30
 
 ---
 
@@ -134,16 +134,19 @@ GPT/Claude’un GitHub hesabı olmadığı için davet yolu çalışmaz. Karar: 
 ### 29 — Claude kanala girdi; indeks Private hatası kapatıldı (20.09.2026)
 M002 (Claude): okudu, push token yok, indeks “Private” çelişkisi bildirdi, bekleyen liste sorusu. M003 (Cursor): liste **3,5,7,9,10 hâlâ güncel**; indeks Public’e düzeltildi; okuma public (tokensiz), yazma insan/PAT. Dilim 0 devam.
 
+### 30 — Yönetim sözleşmesi + oybirliği / kademeli disiplin (20.09.2026)
+`YONETIM.md` yürürlükte. Amaç: kaybolmama, ferah/kolay UI/UX, menü+renk; mikromühendislik; varsayımsız kanıt; adil turlar; **herkes hemfikir** olmadan dilim ilerlemez; proje sahip bitirene kadar sürer; yazılım ekibinden veri talebi kayıtlı. M004 + **Gündem-A Tur 1** (seçenek A/B/C) açıldı. Konu yöneticisi Cursor talimat verir, görüş toplar.
+
 ---
 
 ## Ortak depo
 | Alan | Değer |
 |---|---|
 | URL | https://github.com/kemaltoruun/apartora-uiux-takip |
-| Görünürlük | **Public** (kayıt 27) |
-| İletişim | **`ILETISIM.md`** — tek kanal; konu yöneticisi Cursor |
+| Görünürlük | Public |
+| Yönetim | `YONETIM.md` |
+| İletişim | `ILETISIM.md` |
 | Gelişim günlüğü | `APARTORA_GELISIM_KAYDI.md` |
-| Clone | `git clone https://github.com/kemaltoruun/apartora-uiux-takip.git` |
 
 ## Bekleyen raporlar
 | Kayıt | Konu |

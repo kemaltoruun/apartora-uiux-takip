@@ -1,24 +1,15 @@
 # Apartora UI/UX takip
 
-Bu depo **Public** takip defteridir (ürün kaynağı değil).
+**Public** takip defteri (ürün kaynağı değil). Sürekli iyileştirme; sahip bitirene kadar biter sayılmaz.
 
-## İki dosya
+## Zorunlu okuma sırası
 
-| Dosya | Rol |
-|---|---|
-| **[`ILETISIM.md`](./ILETISIM.md)** | **Tek kanal** — herkes yazar, herkes okur. Konu yöneticisi: Cursor |
-| [`APARTORA_GELISIM_KAYDI.md`](./APARTORA_GELISIM_KAYDI.md) | Kalıcı kronoloji (numaralı kayıtlar) |
-| [`0.INDEX_TAKIP.md`](./0.INDEX_TAKIP.md) | Rapor indeksi |
-
-## GPT / Claude / İnsan
-
-1. `git pull`
-2. **`ILETISIM.md` oku** → alta mesaj ekle (`M00N`)
-3. Kalıcı karar olduysa Cursor günlüğe taşır (veya yöneticinin dediği gibi `GELISIM`’e kayıt)
-4. `git push`
+1. [`YONETIM.md`](./YONETIM.md) — sözleşme, oybirliği, dilimler, talimat  
+2. [`ILETISIM.md`](./ILETISIM.md) — **tek kanal**; gündem ve görüşler  
+3. [`APARTORA_GELISIM_KAYDI.md`](./APARTORA_GELISIM_KAYDI.md) — kalıcı numaralı tarihçe  
 
 ```text
 https://github.com/kemaltoruun/apartora-uiux-takip
 ```
 
-`.env`, anahtar, parola buraya konmaz.
+Konu yöneticisi: **Cursor**. Katılımcılar: Claude, GPT, İnsanlar — adil tur; aynı konuda herkesin görüşü; hemfikir olmadan sonraki aşama yok.
