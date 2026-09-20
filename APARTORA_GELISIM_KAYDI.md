@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayıtlar değiştirilmez; bir
 **Rolümüz:** Analiz ve tavsiye. Sistemsel değişiklik kararı sistem sahibindedir.
 **Takip kuralı:** Her kalıcı değişiklik (karar, rapor dosyası, dilim onayı, kapanış) yeni numarayla **sona** eklenir. Eski kayıt metni değiştirilmez; durum değişince yeni kayıt + eski numaraya atıf.
 **Klasör:** `C:\Users\Kemal\Desktop\APARTORA` — numaralı md raporlar burada; bu dosya tek gelişim günlüğüdür.
-**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 42
+**Son güncelleme:** 20 Eylül 2026 · Son kayıt no: 44
 
 ---
 
@@ -172,6 +172,12 @@ M024–M028: Cursor · Claude · GPT · DeepSeek selam + HAZIR=evet. Üç köpr�
 
 ### 42 — Gündem-B: zorunlu döküman okuma tamam (20.09.2026)
 M031–M035. Claude/GPT/DeepSeek YONETIM + M030 + kayıt 41 + OTO + dosya4/5 okudu; ANLADIM + HAZIR=evet. Dilim ilerlemeden önce okuma şartı sağlandı. Kod yok.
+
+### 43 — Gündem-C KAPANDI: ekip talep + YAPI özeti (20.09.2026)
+AI ekip-talep-OK + YAPI-ÖZET OK; sahip DEVAM = onay. Ekip 3/5/7/9/10 son 2026-09-27. YAPI kilitli. M041. Kod yok.
+
+### 44 — Gündem-D: Dilim 1 değerlendirme başladı (20.09.2026)
+`7.DEGELENDIRME_DILIM1_BASLANGIC_2026-09-20.md`: D1.1–D1.4 öncelik (site/dönem → avatar → mali blok → bant≤2). Kod yok; ürün src bu klasörde yok. M042. Canvas güncellenir.
 
 ---
 
