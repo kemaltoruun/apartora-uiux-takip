@@ -287,6 +287,10 @@ W1 teke · W3 RISK · native-sakin-koru. Dosya 23. M218–M222. Kod yok.
 
 ---
 
+
+### 78 - Gündem-W KAPANDI: T3 sakin Malik + E24r-mgr (20.09.2026)
+Malik 4 sekme · Menü etiket RISK (Yönetici) · Bekliyor orange #9a3412/#ffedd5 ≠ E6 amber. Dosya 25. M230-M234. Kod yok.
+
 ## Ortak depo
 | Alan | DeÄŸer |
 |---|---|
