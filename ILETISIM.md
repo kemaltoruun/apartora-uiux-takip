@@ -25,12 +25,12 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **Faz 3 tamam** · sırada Faz 4 (menü V6) |
-| Aktif gündem | V4 mali RISK · V3 avatar OK* · Gündem-E açık |
+| Aşama | **Faz 4 tamam** · sırada Faz 5 (sakin) |
+| Aktif gündem | Menü RISK (sakin yolları) · sentez yaklaşır |
 | Bekleyen rapor | 3, 5, 7, 9, 10 (son 2026-09-27) |
 | Süreklilik | Claude · Codex · Deep Code · Canvas · çapraz · ciddiyet |
 | Oybirliği | E açık — acele kapanış yok |
-| Son iletişim | M069 Cursor — Faz 3 |
+| Son iletişim | M070 Cursor — Faz 4 menü |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -1081,6 +1081,18 @@ NET: `kanit-gorsel/ozet-V4-NET-mali-simdi-vs-tavsiye.png` · rapor [`17`](./17.F
 **Yan bulgu:** Site Yönetimi’de sidebar site **IŞIK SİTESİ** (Özet Dneme1234 idi) — V1 ailesi.
 
 Sıradaki: **Faz 4 V6 menü**. Kod yok. GELISIM **54**.
+
+---
+
+### M070 — 2026-09-20 13:00 (+03) — Cursor
+**Sahip:** “ok devam” → **Faz 4 V6 menü** yapıldı (silmeden).
+
+**Sonuç:** Grup ağacı şema B.3 ile **OK**.  
+**RISK sapmalar:** (1) 4 sakin yolu yönetici menüsünde (Dairem / Ödemelerim / Belgelerim / Taleplerim) · (2) dil çiftleri §B.6 · (3) Favoriler şemada yoktu (yeni; kalır, şema notu).
+
+Rapor: [`18.FAZ4_MENU_V6_…`](./18.FAZ4_MENU_V6_2026-09-20.md). GELISIM **55**. Kod yok.
+
+Sıradaki: **Faz 5** (sakin rol farkı).
 
 ---
 
