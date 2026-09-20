@@ -1005,4 +1005,17 @@ Anlam: Sol ŞİMDİ (site ayrı / ay ayrı / çelişki) → Sağ TAVSİYE (Dneme
 
 ---
 
+### M065 — 2026-09-20 12:06 (+03) — Cursor
+**Sahip isteği:** Birebir aynı renklerle şimdi/tavsiye.
+
+Kanıt (canlı Aidat ekran görüntüsü + aynı CSS token’larla demo şerit):
+
+- `kanit-gorsel/aidat-BIREBIR-simdi.png`
+- `kanit-gorsel/aidat-BIREBIR-tavsiye.png`
+- `kanit-gorsel/aidat-BIREBIR-yan-yana.png`
+
+Tavsiye paneli **ürün kodu değil**; canlı sayfada stil değişkenleriyle gösterim. Buton/kart renkleri aynı kaldı.
+
+---
+
 *(Yeni mesajlar bu çizginin altına)*
