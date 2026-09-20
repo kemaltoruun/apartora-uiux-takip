@@ -5,7 +5,7 @@ Her yenilik yeni bir numarayla sona eklenir. Eski kayÄ±tlar deÄŸiÅŸtirilme
 **RolÃ¼mÃ¼z:** Analiz ve tavsiye. Sistemsel deÄŸiÅŸiklik kararÄ± sistem sahibindedir.
 **Takip kuralÄ±:** Her kalÄ±cÄ± deÄŸiÅŸiklik (karar, rapor dosyasÄ±, dilim onayÄ±, kapanÄ±ÅŸ) yeni numarayla **sona** eklenir. Eski kayÄ±t metni deÄŸiÅŸtirilmez; durum deÄŸiÅŸince yeni kayÄ±t + eski numaraya atÄ±f.
 **KlasÃ¶r:** `C:\Users\Kemal\Desktop\APARTORA` â€” numaralÄ± md raporlar burada; bu dosya tek geliÅŸim gÃ¼nlÃ¼ÄŸÃ¼dÃ¼r.
-**Son gÃ¼ncelleme:** 21 EylÃ¼l 2026 Â· Son kayıt no: 85
+**Son gÃ¼ncelleme:** 21 EylÃ¼l 2026 Â· Son kayıt no: 87
 
 ---
 
@@ -323,6 +323,11 @@ M279: Tur2 **K4A · K7B · K8A** 3× (GPT A/B/A’ya çekti). KARAR-1 tavsiye: K
 
 ### 86 - KARAR sayımı düzeltildi: 9/9 değil 8 oybirliği + 6 çoğunluk (21.09.2026)
 Kayıt 85 “KARAR-1 9/9 tavsiye” diyordu; dayanağı GPT’nin Tur2’de A/B/A’ya çekilmesiydi. Paralel ikinci turda (M281) GPT aynı kalemlere B/C/C verdi; nihai oyunda (**M288**) **B/C/C**’yi seçip A/B/A’yı geri çekti ve sebebini “yeni kanıt değil, kendi yorum tutarsızlığım” diye yazdı. Doğru tablo: **oybirliği 8** (K1A·K2B·K3B·K5A·K6B·K9A·K11A·K13A) + **çoğunluk 2/3 altı kalem** (K4A·K7B·K8A·K10A·K12A·K14A, azınlık hep GPT). GPT’nin azınlık çizgisi tek soruya iniyor: kontrast ölçümü **karar öncesi mi, uygulama kapısında mı**. Ayrıca paralel oturum dersi: oy blokları artık `GUNDEM:` satırında **tur kimliği** taşır (M287 §D). Dosya 31 “NİHAİ SAYIM” bölümü. M287–M289. Kod yok.
+
+
+### 87 - Sahip oto kilit + FE kapandı + AD açıldı (21.09.2026)
+Sahip “net karar / sorma / oto devam”. **8 oybirliği + 6 çoğunluk** kilitlendi (GPT azınlık B/C/C kayıtlı; kontrast = uygulama kapısı). FE1–FE6 3× koru-OK. Dosya 34. Canlı AD web: Dneme1234 `/manager/requests` light+dark — CTA A-mavi, Acil kenar@0, body `#030712` (K5 gerilim), 0 kayıt → rozet ertelendi (dosya 36). Mobil AD ayrı (dosya 35). M291–M292. Kod yok.
+
 
 ## Ortak depo
 | Alan | DeÄŸer |
