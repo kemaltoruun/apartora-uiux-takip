@@ -42,13 +42,27 @@ Geliştirilmekte olan **Apartora** için:
 Aynı konu için:
 
 1. Yönetici **gündem** açar (`ILETISIM` — soru + kapsam + istenen çıktı).
-2. **Tur 1:** Her katılımcı fikir / görüş / risk yazar (Claude, GPT, İnsan; Cursor da görüşünü yazar).
+2. **Tur 1:** Her katılımcı fikir / görüş / risk yazar (Claude, GPT, DeepSeek, İnsan; Cursor da görüşünü yazar).
 3. Eksik kalan varsa yönetici **hatırlatır**; cevap gelmeden ilerlenmez.
 4. Çelişki varsa yönetici özetler → **Tur 2+** (daraltılmış soru) — **herkes hemfikir olana kadar**.
 5. Oybirliği → GELISIM’e kalıcı kayıt + özet kutusunda “KAPANDI / sıradaki”.
 6. Hemfikir olunamazsa: seçenekler + kanıt tablosu → **sistem sahibi** kırar; yine kayda geçer.
 
 “En iyi sonuç” = oybirliği + kanıt; acele kapanış yok.
+
+### 3.1 Çapraz sorgu (zorunlu teknik)
+
+Sahip talimatı (2026-09-20): Katılımcı sohbetlerinde **her zaman çapraz sorgu** kullanılır. Konu, **herkes aynı fikirde bulunana kadar bitmez**; yönetici turu kapatmaz, devam ettirir.
+
+**Nasıl:**
+
+1. Tur 1 oyları toplanır → yönetici **fark tablosu** yazar (kim ne dedi).
+2. Her katılımcıya **diğerinin gerekçesi** sorulur (ör. “GPT YAPI’da düzelt dedi çünkü X — sen kabul mü / karşı kanıt?”).
+3. Dosya okunmadan “düzelt/OK” yetmez → yönetici **kısa özet + kanıt satırı** gömer; yeniden oy ister.
+4. Hâlâ ayrılık varsa Tur 3+: soru **tek maddeye** daralır (ör. yalnız SIRADA).
+5. Tam örtüşme veya sahip kırıcı kararı olmadan gündem **KAPANDI** yazılmaz; sonraki dilime geçilmez.
+
+**Yasak:** Çoğunluk oyuyla kapatmak; bir AI’nın “okumadım” gerekçesini içerik kusuru sanıp konuyu kilitlemek; çapraz sormadan “oybirliği” ilan etmek.
 
 ---
 

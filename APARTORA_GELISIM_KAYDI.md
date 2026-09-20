@@ -194,6 +194,9 @@ Canlı: Aidat V1 EKSİK + site adı çelişkisi (IŞIK SİTESİ ≠ Dneme1234); 
 ### 49 — Gündem-E açıldı: paket değerlendirme (20.09.2026)
 Dosya 10–13 + Primer olgunluk disiplini katılımcılara. Oylar: YAPI / UK / DOKÜM / PRIMER / SIRADA. M053. Kod yok.
 
+### 50 — Çapraz sorgu + tek-tek envanter (20.09.2026)
+YONETIM §3.1 çapraz sorgu zorunlu. `14.TEK_TEK_KONU_DEGERLENDIRME`: Blok A–G tüm sahip paylaşımları (Claude bilgilendirme alt maddeleri, Primer, UK üreticiler, Faz1 mikro). Gündem-E Tur 2 açık; Claude M054 OK/Faz2; GPT M055 düzelt*/sahip-onay; KAPANDI değil. M057.
+
 ---
 
 ## Ortak depo
