@@ -511,3 +511,9 @@ Malik menü Yönetici etiketi P1 kuyruğa alındı (M421–M425). Web sakin Öde
 
 ### 110 — Gündem-AI-W Ödemelerim kapandı: soft OK / hard 403 + KR1 Öde dark (22.09.2026)
 Canlı Sakin IŞIK · soft-nav `my-payments` light+dark (`52…` · M426–M430). **AW1:** hard URL 403, Aidat Öde soft OK. **AW6:** satır Öde dark `#2563eb`/`#ffffff` = KR1; sekme `#4a92f7` doğru. Gecikti E24r · Beklemede orange · KPI mor `%0` ilk. Breadcrumb EN. Hex final yok · kod yok.
+
+### 111 — ONARIM-AW: R-AW1/AW6 P1 + R-AW2 P3 (22.09.2026)
+M431–M435. Hard 403 + Öde dark KR1 P1; breadcrumb EN P3. Sıradaki: sakin Hesabım web.
+
+### 112 — AI-W-HES: Sakin Hesabım yöneticiye düşürüyor (22.09.2026)
+`53…` · M436–M440. Sidebar href `/manager/account` · rol Yönetici. Saf sakin Hesabım yüzeyi bu turda yok. R-AHES1 P1 aday.
