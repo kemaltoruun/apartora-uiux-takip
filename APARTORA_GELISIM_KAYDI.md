@@ -560,3 +560,6 @@ Hesab�m Rol=Site Y�neticisi (Aktif=Malik) P1 (M451�M455).
 
 ### 124 — AI Bildirim Tercihleri hata yüzeyi kapandı (22.09.2026)
 63… · M510–M514. Tercihler getirilemedi + Tekrar dene. Başarı yolu sonra. Kod yok.
+
+### 125 — AI Yönetim Kadrosu kapandı (22.09.2026)
+64… · M515–M523. Unvan≠AI16 · AI49 T2 layout. Bilgi&İçerik başladı. Kod yok.
