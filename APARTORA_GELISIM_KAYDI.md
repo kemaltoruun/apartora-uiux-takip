@@ -550,3 +550,7 @@ Hesab�m Rol=Site Y�neticisi (Aktif=Malik) P1 (M451�M455).
 
 ### 121 — AI Mali Durum (Malik) kapandı (22.09.2026)
 60… · M487–M495. Yıl chip K12 · uyarı kenar · KPI semantik T2 · çift gecikmiş not · R-AI37 P2 oran. Hex final yok · kod yok.
+
+
+### 122 — AI Ödeme Geçmişi (Malik) kapandı (22.09.2026)
+61… · M496–M504. Çift filtre · Yaklaşan=AI32 hex (T2) · R-AI40 P2 başlık sapması · dark yeniden. Hex final yok · kod yok.
