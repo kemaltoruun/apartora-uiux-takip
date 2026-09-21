@@ -505,3 +505,6 @@ Duyuru boş salt (49) · Talep boş+FAB (50) · M406–M415. Hex final yok · ko
 
 ### 108 — AI Menü kapandı; Dilim 4 paket1 tamam (22.09.2026)
 Malik menü (51…): AI16 yanlış Yönetici etiketi · AI18 Yönetim Kadrosu kapsam sorusu. M416–M420. R-AI16 onarım adayı. Hex final yok · kod yok.
+
+### 109 — R-AI16 P1 ONAR kilit (22.09.2026)
+Malik menü Yönetici etiketi P1 kuyruğa alındı (M421–M425). Web sakin Ödemelerim: rol yeniden seçilmeden 403 yüzeyi — sonraki turda rol→ölçüm.
