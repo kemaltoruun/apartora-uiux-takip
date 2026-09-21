@@ -536,3 +536,13 @@ Hesab�m Rol=Site Y�neticisi (Aktif=Malik) P1 (M451�M455).
 ### 117 � AI Dairelerim (Malik) kapand� (22.09.2026)
 56� � M461�M465. Sahip/Kirac� b�l�m � Geciken/Yakla�an kart.
 
+
+
+### 118 — AI Kiracılarım (Malik) kapandı (22.09.2026)
+57… · M466–M470. KPI 2×2 nötr sıfır (K17) · boş kiracı metni · outline CTA · Sahibi oturuyor rozeti. Hex final yok · kod yok.
+
+### 119 — Dilim 4 özet envanter kapandı (22.09.2026)
+58… · M471–M475. 11 yüzey · SIRADAKI=ONARIM-urun 3×. Hex final yok · kod yok.
+
+### 120 — ONARIM-ÜRÜN talep paketi kapandı (22.09.2026)
+59… · T1→T2 çapraz. Etiket (AI16+AI19+AW8) ≠ portal (AHES1+AW1). AW6⊂KR1 birleşik PR ama ayrı doğrula. Ekip kapısı açık. M476–M486. Kod yok.
