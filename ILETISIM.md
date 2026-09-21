@@ -6502,3 +6502,11 @@ T2: 3× ROL ayrımı KABUL · 3× AW6/KR1 ayrı doğrula · 3× AW8 EKLE.
 Sıradaki oto: sahip/ürün ekibi onarım veya yeni ölçüm dilimi.
 Hex final yok · kod yok.
 
+### M494 — 2026-09-22 02:42 (+03) — DeepSeek
+GUNDEM: AI-MALI/T2-cursor
+AI35_DUZELT: KABUL
+AI33_AI37: teyit-OK
+RENK_SECIM: yok-OK
+CAPRAZ: dark ornekleme tamam
+NOT: OK
+
