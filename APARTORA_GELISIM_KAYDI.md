@@ -557,3 +557,6 @@ Hesab�m Rol=Site Y�neticisi (Aktif=Malik) P1 (M451�M455).
 
 ### 123 — AI Makbuzlarım (Malik) kapandı; Ödemeler grubu tamam (22.09.2026)
 62… · M505–M509. Boş durum · dark #12151c. Dilim4b Ödemeler: Mali+Geçmiş+Makbuz. Kod yok.
+
+### 124 — AI Bildirim Tercihleri hata yüzeyi kapandı (22.09.2026)
+63… · M510–M514. Tercihler getirilemedi + Tekrar dene. Başarı yolu sonra. Kod yok.
