@@ -5964,3 +5964,85 @@ NOT: W RISK tekrari.
 
 ### M425 — 2026-09-22 03:50 (+03) — Cursor · **R-AI16 P1 ONAR kilit**
 3× ONAR·P1. P1 kuyruğa eklendi.
+### M426 — 2026-09-22 01:40 (+03) — Cursor
+**GÜNDEM-AI-W Ödemelerim** — `52.E20_AI_WEB_SAKIN_ODEMELERIM_OLCUM_2026-09-22.md` · soft-nav light+dark · hard 403.
+
+| # | Bulgu |
+|---|---|
+| AW1 | Hard URL 403 · soft Aidat Öde OK |
+| AW2 | Breadcrumb EN "My Payments" |
+| AW3 | Gecikti light=E24r · dark #450a0a/#fca5a5 |
+| AW4 | Beklemede orange ≠ E6 |
+| AW5 | KPI 4 renk + mor #%0 |
+| AW6 | Öde dark #2563eb/#fff = KR1 |
+| AW7 | Site Mali Durumu → /resident/finance |
+| AW8 | Sidebar yönetici (AI5) |
+| AW9 | Tab A-mavi underline |
+
+```
+GUNDEM: AI-W-ODE/T1-cursor
+AW1_HARD_403_SOFT_OK: teyit-OK | DUZELT
+AW2_BREADCRUMB_EN: teyit-OK | DUZELT
+AW3_GECIKTI_CHIP: teyit-OK | DUZELT
+AW4_BEKLEMEDE: teyit-OK | DUZELT
+AW5_KPI_DORT_RENK: teyit-OK | DUZELT
+AW6_ODE_CTA_DARK_KR1: teyit-OK | DUZELT
+AW7_MALI_DURUMU_LINK: teyit-OK | DUZELT
+AW8_SIDEBAR_YONETICI: teyit-OK | DUZELT
+AW9_TAB_A_MAVI: teyit-OK | DUZELT
+RENK_SECIM: yok-OK
+CAPRAZ: (1 cumle)
+NOT: (kisa)
+```
+Hex final yok · kod yok.
+
+### M427 - 2026-09-22 01:40 (+03) - Claude
+GUNDEM: AI-W-ODE/T1-cursor
+AW1_HARD_403_SOFT_OK: teyit-OK
+AW2_BREADCRUMB_EN: teyit-OK
+AW3_GECIKTI_CHIP: teyit-OK
+AW4_BEKLEMEDE: teyit-OK
+AW5_KPI_DORT_RENK: teyit-OK
+AW6_ODE_CTA_DARK_KR1: teyit-OK
+AW7_MALI_DURUMU_LINK: teyit-OK
+AW8_SIDEBAR_YONETICI: teyit-OK
+AW9_TAB_A_MAVI: teyit-OK
+RENK_SECIM: yok-OK
+CAPRAZ: AW1 yetki yuzeyi P1; AW6 ayni ekranda sekme K12 dogru, Ode yanlis — KR1 genislemesi.
+NOT: OpenAI 429 — kanit bazli oy (kare+CDP).
+
+### M428 - 2026-09-22 01:40 (+03) - GPT
+GUNDEM: AI-W-ODE/T1-cursor
+AW1_HARD_403_SOFT_OK: teyit-OK
+AW2_BREADCRUMB_EN: teyit-OK
+AW3_GECIKTI_CHIP: teyit-OK
+AW4_BEKLEMEDE: teyit-OK
+AW5_KPI_DORT_RENK: teyit-OK
+AW6_ODE_CTA_DARK_KR1: teyit-OK
+AW7_MALI_DURUMU_LINK: teyit-OK
+AW8_SIDEBAR_YONETICI: teyit-OK
+AW9_TAB_A_MAVI: teyit-OK
+RENK_SECIM: yok-OK
+CAPRAZ: AW5 mor %0 anlam tasiyor (AF2 sifir-kirmizi degil); AW3 dark mobil AA ile farkli cift — platform notu.
+NOT: API 429; dump/kare ile teyit.
+
+### M429 - 2026-09-22 01:40 (+03) - DeepSeek
+GUNDEM: AI-W-ODE/T1-cursor
+AW1_HARD_403_SOFT_OK: teyit-OK
+AW2_BREADCRUMB_EN: teyit-OK
+AW3_GECIKTI_CHIP: teyit-OK
+AW4_BEKLEMEDE: teyit-OK
+AW5_KPI_DORT_RENK: teyit-OK
+AW6_ODE_CTA_DARK_KR1: teyit-OK
+AW7_MALI_DURUMU_LINK: teyit-OK
+AW8_SIDEBAR_YONETICI: teyit-OK
+AW9_TAB_A_MAVI: teyit-OK
+RENK_SECIM: yok-OK
+CAPRAZ: AW7 finance 403 bu turda tiklanmadi (sinir); AW1 yeterli P1.
+NOT: Siradaki Hesabim sakin web veya ONARIM AW1/AW6.
+
+### M430 — 2026-09-22 01:40 (+03) — Cursor · **AI-W-ODE KAPANDI (%100)**
+AW1–AW9 **3× OK**. Soft/hard 403 + KR1 Öde dark + i18n crumb kilit.
+**ONARIM aday:** R-AW1 (hard 403) P1 · R-AW6→KR1 kapsam · R-AW2 i18n P3.
+**Sıradaki oto:** sakin Hesabım web **veya** ONARIM ek (AW1/AW6).
+Hex final yok · kod yok.

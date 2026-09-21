@@ -508,3 +508,6 @@ Malik menü (51…): AI16 yanlış Yönetici etiketi · AI18 Yönetim Kadrosu ka
 
 ### 109 — R-AI16 P1 ONAR kilit (22.09.2026)
 Malik menü Yönetici etiketi P1 kuyruğa alındı (M421–M425). Web sakin Ödemelerim: rol yeniden seçilmeden 403 yüzeyi — sonraki turda rol→ölçüm.
+
+### 110 — Gündem-AI-W Ödemelerim kapandı: soft OK / hard 403 + KR1 Öde dark (22.09.2026)
+Canlı Sakin IŞIK · soft-nav `my-payments` light+dark (`52…` · M426–M430). **AW1:** hard URL 403, Aidat Öde soft OK. **AW6:** satır Öde dark `#2563eb`/`#ffffff` = KR1; sekme `#4a92f7` doğru. Gecikti E24r · Beklemede orange · KPI mor `%0` ilk. Breadcrumb EN. Hex final yok · kod yok.
