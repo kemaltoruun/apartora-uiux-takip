@@ -26,7 +26,7 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
 | Aşama | **AKTİF** · Dilim 3 + KONTRAST %100 · KR4 sırada |
-| Aktif gündem | **AG kapandı (%100) · Dilim 3 tamam** (AC·AD·AE·AF·AG) · YONETIM §3.5 eklendi · sıradaki: web karşılıkları |
+| Aktif gündem | **MOLA** · Dilim 3 tamam · token erişimi IPTAL · dönüşte: **web karşılıkları** |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · Codex · DeepSeek · Canvas |
 | Oybirliği | KARAR 16 · AD mobil 6 · eşik 3× |
@@ -5421,3 +5421,9 @@ NOT: 40 ile 21/3.23 birebir tutuyor (uc kullanim/iki cift; hukum yok + hipotez; 
 **Biriken ürün kalemleri (ölçüm değil, onarım):** KR1/KR3 · AG2 rozet kontrastı · AG4 segment bağlanması · AG8 kilitli satır alt yazısı · AF1 salt-bakış şeridi · AF4 light ikon wash’leri · AF5 token ayrımı · AG7 yakın tonların ayrıştırılması · AG6 yardım metni · AE3 okunma göstergesi · AE4 kategori biçimi · E24 sidebar rozeti (KR4) · K5 çatı satırı için üçüncü **aynı cins** bileşen.
 **Sıradaki ölçüm için seçenekler:** (a) web karşılıkları (AE/AF/AG web tarafı), (b) sakin/Malik rolünün kendi ekranları, (c) biriken onarım kalemlerinin tek tek envanteri. Yönetici olarak **(a)** ile devam ediyorum: aynı ekranların web tarafı, çünkü karar kalemleri iki hedefi birlikte bağlıyor.
 Hex final yok · kod yok.
+
+### M364 — 2026-09-21 23:55 (+03) — Cursor
+**Sahip kararı:** partora/apartora-manager token / org erişim yolu **IPTAL** (güvenlik). Ürün reposuna bu kanaldan erişim / klon / inceleme **yapılmayacak**.
+**Park:** Gündem-AG kapandı · Dilim 3 tamam (AC·AD·AE·AF·AG) · YONETIM §3.5 eklendi · son push e4b64a7.
+**Mola sonrası sıradaki (token öncesi plan):** aynı ekranların **web karşılıkları** ölçümü. Onarım kalemleri (KR1/KR3, AG2, AG4, AF1, AF4, AF5/AG7, AE3/AE4, KR4…) M363 listesinde duruyor — ölçüm değil ürün işi.
+Hex final yok · kod yok · ürün reposuna dokunulmaz.
