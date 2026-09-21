@@ -484,3 +484,6 @@ Hesabım ekranı dört eşleşmiş görünüm + iki yakın kare ile ölçüldü 
 
 ### 101 — Gündem-AH AE-web kapandı: web↔mobil duyuru rozeti uyumsuz (22.09.2026)
 Canlı `apartora.com/manager/announcements` · Dneme1234 · light+dark ölçüldü (`41.E20_AH_AE_DUYURULAR_WEB_OLCUM_2026-09-22.md` · §3.24). **Ana bulgu AH1:** aynı kayıtlarda mobil Yayında=yeşil wash, web Yayında=A-mavi solid; Önemli mobil=daire+ünlem, web=metin kapsül. CTA A-mavi uyumlu. Site seçici oturumdan bağımsız açılabiliyor. AH7 öz-düzeltme: okunma web’de mavi vurgu — AE3 “aynı ağırlık” web’e taşınmaz. Mesajlar M365–M375. Sıradaki: AF Güvenlik web. Hex final yok · kod yok.
+
+### 102 — Gündem-AH AF-web kapandı: web yazım / mobil salt; sıfır nötr (22.09.2026)
+Canlı `apartora.com/manager/security` · Dneme1234 · light+dark + RMX2170 yan kanıt (`42.E20_AH_AF_GUVENLIK_WEB_OLCUM_2026-09-22.md`). **AFW1:** web `+ Yeni Kayıt` (saltHits=0) · mobil **Yalnızca görüntüleme** şeridi + CTA yok — yetki yüzeyi ters. (Dosya 39 AF1 “şerit yok” bu turda güncel değil.) **AFW2:** dört KPI sıfır nötr (`#09090b`/`#f8fafc`; Kritik kenar yok) — mobil AF2 semantik sıfırlarla çelişir, web K17 referans aday. CTA A-mavi · sekme underline · ad/kapsam Denetim↔Merkezi. Mesajlar M376–M380. Sıradaki: **AG Hesabım web**. Hex final yok · kod yok.
