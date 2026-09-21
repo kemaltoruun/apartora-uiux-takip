@@ -517,3 +517,7 @@ M431–M435. Hard 403 + Öde dark KR1 P1; breadcrumb EN P3. Sıradaki: sakin Hes
 
 ### 112 — AI-W-HES: Sakin Hesabım yöneticiye düşürüyor (22.09.2026)
 `53…` · M436–M440. Sidebar href `/manager/account` · rol Yönetici. Saf sakin Hesabım yüzeyi bu turda yok. R-AHES1 P1 aday.
+
+### 113 � R-AHES1 P1 ONAR kilit (22.09.2026)
+Sakin Hesab�m�y�netici portal P1 (M441�M445).
+
