@@ -563,3 +563,6 @@ Hesab�m Rol=Site Y�neticisi (Aktif=Malik) P1 (M451�M455).
 
 ### 125 — AI Yönetim Kadrosu kapandı (22.09.2026)
 64… · M515–M523. Unvan≠AI16 · AI49 T2 layout. Bilgi&İçerik başladı. Kod yok.
+
+### 126 — AI Genel Kurul Kararları boş durum kapandı (22.09.2026)
+65… · M524–M528. AI42 empty cinsi. Kod yok.
