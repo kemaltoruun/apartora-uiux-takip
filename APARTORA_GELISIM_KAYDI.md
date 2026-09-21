@@ -528,3 +528,7 @@ Sakin Hesabým›yönetici portal P1 (M441–M445).
 ### 115 — R-AI19 P1 ONAR kilit (22.09.2026)
 Hesabým Rol=Site Yöneticisi (Aktif=Malik) P1 (M451–M455).
 
+
+### 116 — AI Baþlangýç (Malik) kapandý (22.09.2026)
+55… · M456–M460. Onboarding 4 kart · outline CTA · alt nav yok.
+
