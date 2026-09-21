@@ -521,3 +521,6 @@ M431–M435. Hard 403 + Öde dark KR1 P1; breadcrumb EN P3. Sıradaki: sakin Hes
 ### 113 � R-AHES1 P1 ONAR kilit (22.09.2026)
 Sakin Hesab�m�y�netici portal P1 (M441�M445).
 
+
+### 114 — AI Hesabım (Malik) kapandı: Rol=Site Yöneticisi çelişkisi (22.09.2026)
+`54…` · M446–M450. Aktif rol Malik doğru · form Rol Site Yöneticisi. R-AI19 P1. Dilim 4 paket2.
