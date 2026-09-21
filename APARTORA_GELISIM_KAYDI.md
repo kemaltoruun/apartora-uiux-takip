@@ -532,3 +532,7 @@ Hesabým Rol=Site Yöneticisi (Aktif=Malik) P1 (M451–M455).
 ### 116 — AI Baþlangýç (Malik) kapandý (22.09.2026)
 55… · M456–M460. Onboarding 4 kart · outline CTA · alt nav yok.
 
+
+### 117 — AI Dairelerim (Malik) kapandý (22.09.2026)
+56… · M461–M465. Sahip/Kiracý bölüm · Geciken/Yaklaþan kart.
+
