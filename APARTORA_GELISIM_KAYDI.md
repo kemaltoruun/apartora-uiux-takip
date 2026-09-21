@@ -524,3 +524,7 @@ Sakin Hesabım›yönetici portal P1 (M441–M445).
 
 ### 114 â€” AI HesabÄ±m (Malik) kapandÄ±: Rol=Site YÃ¶neticisi Ã§eliÅŸkisi (22.09.2026)
 `54â€¦` Â· M446â€“M450. Aktif rol Malik doÄŸru Â· form Rol Site YÃ¶neticisi. R-AI19 P1. Dilim 4 paket2.
+
+### 115 — R-AI19 P1 ONAR kilit (22.09.2026)
+Hesabım Rol=Site Yöneticisi (Aktif=Malik) P1 (M451–M455).
+
