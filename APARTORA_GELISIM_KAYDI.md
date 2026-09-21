@@ -566,3 +566,6 @@ Hesab�m Rol=Site Y�neticisi (Aktif=Malik) P1 (M451�M455).
 
 ### 126 — AI Genel Kurul Kararları boş durum kapandı (22.09.2026)
 65… · M524–M528. AI42 empty cinsi. Kod yok.
+
+### 127 — AI Site Kuralları boş durum kapandı (22.09.2026)
+66… · M529–M533. AI42 empty cinsi. Kod yok.
