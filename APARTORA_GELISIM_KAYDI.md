@@ -572,3 +572,6 @@ Hesab�m Rol=Site Y�neticisi (Aktif=Malik) P1 (M451�M455).
 
 ### 128 — AI Belgelerim + Bilgi5 boş paket kapandı; Dilim4c Malik menü tamam (22.09.2026)
 67–68… · M534–M543. Hatırlatmalar FAB · Apartora platform empty. Malik mobil menü ölçüldü. ONARIM-ürün (59) açık. Kod yok.
+
+### 129 — Bildirim retry hâlâ hata; Dilim4 Malik mobil menü paket notu (22.09.2026)
+69… · M544–M548. Tekrar dene → aynı hata. Başarı yolu kapalı. Kod yok.
