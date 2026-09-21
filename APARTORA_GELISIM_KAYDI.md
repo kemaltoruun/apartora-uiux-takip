@@ -493,3 +493,6 @@ Canlı `apartora.com/manager/security` · Dneme1234 · light+dark + RMX2170 yan 
 
 ### 104 — Gündem-ONARIM kapandı: P1–P3 kuyruk + sıradaki sakin ölçüm (22.09.2026)
 Biriken kalemler oylandı (`45…` · M386–M390). **P1 ONAR:** KR1 · AH1 · AF2 · AFW1 · AG2 · AG8. **P2:** KR3 · AH3 · AH7 · AE3 · AF4 · AF5 · AG4 · AGW1. **P3 ONAR:** AE4. **KAYIT:** AF1 (şerit var). **ERTELE:** KR4 · AG6 · AG7 · K5. Sıradaki ölçüm **3× sakin/Malik**. Hex final yok · kod yok.
+
+### 105 — Gündem-AI Özet (Malik) kapandı: Borç Durumu + web sidebar RISK (22.09.2026)
+IŞIK Malik mobil Özet=`Borç Durumu` · alt nav 4 · Geciken `#dc2626` · Toplu Öde · web `/resident/dashboard` sidebar yönetici yolları + site sapma (`47…` · M391–M395). Sıradaki: Malik ödemeler. Hex final yok · kod yok.
