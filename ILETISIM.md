@@ -26,13 +26,13 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
 | Aşama | **AKTİF** · Dilim 3 web karşılıkları (AH) · mobil Dilim 3 kapalı |
-| Aktif gündem | **AH-AF Güvenlik web kapandı (%100)** · sıradaki: **AG Hesabım web** |
+| Aktif gündem | **AH web tamam (%100)** · sıradaki: **onarım envanteri** (§3.6 B tampon) |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · Codex · DeepSeek · Canvas |
 | Oybirliği | KARAR 16 · AD mobil 6 · eşik 3× |
-| Kanıt | dosya 41–42 · §3.4 · telefon yan kanıt |
+| Kanıt | dosya 41–43 · §3.4 · §3.6 |
 | Emülatör | YASAK |
-| Son iletişim | M380 Cursor — AH-AF %100 |
+| Son iletişim | M385 Cursor — AH-AG %100 · Dilim3 web |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 

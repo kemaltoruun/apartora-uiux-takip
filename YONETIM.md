@@ -108,6 +108,21 @@ Kalıp / kural iddiası için gözlem **sayısı yetmez**; gözlemlerin **aynı 
 - **Kaynak olay:** AG9’da üç tema-sabit gözlem (AF3 ikon **glifi** · AG1 avatar **dolgusu** · AG9 anahtar **tutamağı**) sayı eşiğini geçtiği hâlde cins birliği olmadığı için kural adayı **geri çekildi**; üstelik aynı ekranda AG4’te yazı tema ile dönüyordu (karşı örnek).
 - **AE8 ile ilişki:** AE8 “iki gözlemden genelleme yapma” diyordu (sayı eşiği). 3.5 onu tamamlar: **sayı + cins**.
 
+### 3.6 Çift kavramalı hat (bekleme kısma · 2026-09-22)
+
+Sahip: *ölçüm beklerken önden giden iş paralel hazırlansın; konu oraya gelince hazır bilgiyle hızlı hareket.*
+
+| Debriyaj | Ne çalışır | Ne **yasak** |
+|---|---|---|
+| **A — aktif ölçüm** | Canlı sayfa / telefon / getComputedStyle / kare | Raporu varsayımla kilitlemek |
+| **B — önden kavrama** | Sıradaki ekranın URL + mobil referans özeti · rapor iskeleti (madde ID’leri) · oy formatı şablonu · canvas taslak · önceki kilit maddelerinin çapraz listesi | Hex final · ürün kodu · oy turunu atlamak (§3.3) |
+
+**Kurallar:**
+1. A beklerken B **yazılır** (iskelet / hazır kanıt listesi); A bitince B doldurulur → ILETISIM + oy **aynı turda**.
+2. B’de yazılan “beklenen bulgu” **hipotez** etiketli kalır; A kanıtı gelmeden teyit-OK sayılmaz.
+3. Telefon + web + oy metni **paralel** toplanabilir; kapanış yine §3.4 (%100) ister.
+4. OpenAI/ajan gecikirse yönetici kanıtla oy yazar; API gelince teyit — boş bekleme yok.
+
 ## 4. Kademeli ilerleme (dilimler)
 
 | Dilim | İçerik | Geçiş şartı |

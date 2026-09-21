@@ -487,3 +487,6 @@ Canlı `apartora.com/manager/announcements` · Dneme1234 · light+dark ölçüld
 
 ### 102 — Gündem-AH AF-web kapandı: web yazım / mobil salt; sıfır nötr (22.09.2026)
 Canlı `apartora.com/manager/security` · Dneme1234 · light+dark + RMX2170 yan kanıt (`42.E20_AH_AF_GUVENLIK_WEB_OLCUM_2026-09-22.md`). **AFW1:** web `+ Yeni Kayıt` (saltHits=0) · mobil **Yalnızca görüntüleme** şeridi + CTA yok — yetki yüzeyi ters. (Dosya 39 AF1 “şerit yok” bu turda güncel değil.) **AFW2:** dört KPI sıfır nötr (`#09090b`/`#f8fafc`; Kritik kenar yok) — mobil AF2 semantik sıfırlarla çelişir, web K17 referans aday. CTA A-mavi · sekme underline · ad/kapsam Denetim↔Merkezi. Mesajlar M376–M380. Sıradaki: **AG Hesabım web**. Hex final yok · kod yok.
+
+### 103 — Gündem-AH AG-web kapandı + Dilim 3 web tamam; YONETIM §3.6 çift kavramalı hat (22.09.2026)
+`/manager/account` ölçüldü (`43…`). Avatar web `#f06310` ≠ mobil `#0ea5e9` · tema segmenti web K12 uyumlu (mobil AG4 tersi) · Hesabımı Sil dark koyu yazı 4,95 · Doğrulandı web’de yok. **§3.6:** ölçüm beklerken sıradaki iskelet/oy şablonu paralel (hipotez kilitsiz). AH AE+AF+AG web %100. Mesajlar M381–M385. Sıradaki: onarım envanteri. Hex final yok · kod yok.
