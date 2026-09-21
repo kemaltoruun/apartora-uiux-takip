@@ -546,3 +546,7 @@ Hesab�m Rol=Site Y�neticisi (Aktif=Malik) P1 (M451�M455).
 
 ### 120 — ONARIM-ÜRÜN talep paketi kapandı (22.09.2026)
 59… · T1→T2 çapraz. Etiket (AI16+AI19+AW8) ≠ portal (AHES1+AW1). AW6⊂KR1 birleşik PR ama ayrı doğrula. Ekip kapısı açık. M476–M486. Kod yok.
+
+
+### 121 — AI Mali Durum (Malik) kapandı (22.09.2026)
+60… · M487–M495. Yıl chip K12 · uyarı kenar · KPI semantik T2 · çift gecikmiş not · R-AI37 P2 oran. Hex final yok · kod yok.
