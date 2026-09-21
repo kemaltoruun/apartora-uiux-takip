@@ -569,3 +569,6 @@ Hesab�m Rol=Site Y�neticisi (Aktif=Malik) P1 (M451�M455).
 
 ### 127 — AI Site Kuralları boş durum kapandı (22.09.2026)
 66… · M529–M533. AI42 empty cinsi. Kod yok.
+
+### 128 — AI Belgelerim + Bilgi5 boş paket kapandı; Dilim4c Malik menü tamam (22.09.2026)
+67–68… · M534–M543. Hatırlatmalar FAB · Apartora platform empty. Malik mobil menü ölçüldü. ONARIM-ürün (59) açık. Kod yok.
