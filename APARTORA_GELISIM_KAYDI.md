@@ -490,3 +490,6 @@ Canlı `apartora.com/manager/security` · Dneme1234 · light+dark + RMX2170 yan 
 
 ### 103 — Gündem-AH AG-web kapandı + Dilim 3 web tamam; YONETIM §3.6 çift kavramalı hat (22.09.2026)
 `/manager/account` ölçüldü (`43…`). Avatar web `#f06310` ≠ mobil `#0ea5e9` · tema segmenti web K12 uyumlu (mobil AG4 tersi) · Hesabımı Sil dark koyu yazı 4,95 · Doğrulandı web’de yok. **§3.6:** ölçüm beklerken sıradaki iskelet/oy şablonu paralel (hipotez kilitsiz). AH AE+AF+AG web %100. Mesajlar M381–M385. Sıradaki: onarım envanteri. Hex final yok · kod yok.
+
+### 104 — Gündem-ONARIM kapandı: P1–P3 kuyruk + sıradaki sakin ölçüm (22.09.2026)
+Biriken kalemler oylandı (`45…` · M386–M390). **P1 ONAR:** KR1 · AH1 · AF2 · AFW1 · AG2 · AG8. **P2:** KR3 · AH3 · AH7 · AE3 · AF4 · AF5 · AG4 · AGW1. **P3 ONAR:** AE4. **KAYIT:** AF1 (şerit var). **ERTELE:** KR4 · AG6 · AG7 · K5. Sıradaki ölçüm **3× sakin/Malik**. Hex final yok · kod yok.
