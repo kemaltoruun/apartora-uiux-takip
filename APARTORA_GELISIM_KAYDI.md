@@ -502,3 +502,6 @@ Malik Toplu Öde seçim modu (48… · M396–M405): Vazgeç · 85 kalem · seç
 
 ### 107 — AI Duyurular+Talepler (Malik boş) kapandı (22.09.2026)
 Duyuru boş salt (49) · Talep boş+FAB (50) · M406–M415. Hex final yok · kod yok.
+
+### 108 — AI Menü kapandı; Dilim 4 paket1 tamam (22.09.2026)
+Malik menü (51…): AI16 yanlış Yönetici etiketi · AI18 Yönetim Kadrosu kapsam sorusu. M416–M420. R-AI16 onarım adayı. Hex final yok · kod yok.
