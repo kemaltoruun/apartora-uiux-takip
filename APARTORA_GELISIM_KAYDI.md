@@ -496,3 +496,6 @@ Biriken kalemler oylandı (`45…` · M386–M390). **P1 ONAR:** KR1 · AH1 · A
 
 ### 105 — Gündem-AI Özet (Malik) kapandı: Borç Durumu + web sidebar RISK (22.09.2026)
 IŞIK Malik mobil Özet=`Borç Durumu` · alt nav 4 · Geciken `#dc2626` · Toplu Öde · web `/resident/dashboard` sidebar yönetici yolları + site sapma (`47…` · M391–M395). Sıradaki: Malik ödemeler. Hex final yok · kod yok.
+
+### 106 — Gündem-AI Toplu Öde kapandı: seçim→Öde CTA (22.09.2026)
+Malik Toplu Öde seçim modu (48… · M396–M405): Vazgeç · 85 kalem · seçimsiz Öde yok · seçili `1 aidatı öde · ₺400`. Hex final yok · kod yok.
