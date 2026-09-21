@@ -499,3 +499,6 @@ IŞIK Malik mobil Özet=`Borç Durumu` · alt nav 4 · Geciken `#dc2626` · Topl
 
 ### 106 — Gündem-AI Toplu Öde kapandı: seçim→Öde CTA (22.09.2026)
 Malik Toplu Öde seçim modu (48… · M396–M405): Vazgeç · 85 kalem · seçimsiz Öde yok · seçili `1 aidatı öde · ₺400`. Hex final yok · kod yok.
+
+### 107 — AI Duyurular+Talepler (Malik boş) kapandı (22.09.2026)
+Duyuru boş salt (49) · Talep boş+FAB (50) · M406–M415. Hex final yok · kod yok.
