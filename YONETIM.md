@@ -99,6 +99,15 @@ Sahip talimatı: **“Onay vermemi veya devam et dememi bekleme; oylamada %100 y
 
 ---
 
+### 3.5 Cins birliği eşiği (2026-09-21 · 3× kabul)
+
+Kalıp / kural iddiası için gözlem **sayısı yetmez**; gözlemlerin **aynı cinsten** olması gerekir.
+
+- **glif ≠ dolgu ≠ tutamak ≠ yazı ≠ kenar** — farklı cins parçalardan tek kural cümlesi kurulamaz.
+- Kural yazmadan önce: *aynı cins kaç bağımsız bileşende ölçüldü?* ve *aynı ekranda karşı örnek var mı?*
+- **Kaynak olay:** AG9’da üç tema-sabit gözlem (AF3 ikon **glifi** · AG1 avatar **dolgusu** · AG9 anahtar **tutamağı**) sayı eşiğini geçtiği hâlde cins birliği olmadığı için kural adayı **geri çekildi**; üstelik aynı ekranda AG4’te yazı tema ile dönüyordu (karşı örnek).
+- **AE8 ile ilişki:** AE8 “iki gözlemden genelleme yapma” diyordu (sayı eşiği). 3.5 onu tamamlar: **sayı + cins**.
+
 ## 4. Kademeli ilerleme (dilimler)
 
 | Dilim | İçerik | Geçiş şartı |
