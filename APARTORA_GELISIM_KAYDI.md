@@ -673,3 +673,6 @@ M704–M708 · dosya 83. Dört slot YEDEK→Grok teyit-OK: paket ürün ekibine 
 
 ### 159 — KT4-ANKET açıldı · soft sakin cevap · D12/D13 (23.09.2026)
 M709. Soft Sakin ÖRNEK anket Evet gönderildi (Tamamladığım 1). Soft SiteYön dashboard ACCESS_DENIED (D12). Yönetici anket Cevaplar=0 iken sakin tamamladı (D13). USB anket pair yok. AIDAT ürün beklerken paralel yüzey. Kod yok.
+
+### 160 — KT4-ANKET USB pair · D13 daraldı · D14/D15 · T1 (23.09.2026)
+M710 · dosya 85. Yönetici Sonuçlar: Özet=0/Taslak · Analitik=1/Evet%100 (D13/D14). USB Anketler kart Yanıtladınız; menü badge 1 bekleyen (D15). T1 4× oy YEDEK slotlarla açık. Kod yok.
