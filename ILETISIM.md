@@ -33,7 +33,7 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Oybirliği | **T4 4× DUZELT** · ürün KAPANDI yok |
 | Kanıt | dosya 45–84 |
 | Emülatör | YASAK |
-| Son iletişim | M690 Cursor — soft rol kilit / D5 |
+| Son iletişim | M691 Cursor — otomasyon login |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -8439,4 +8439,11 @@ GUNDEM: KT4-AIDAT-OLCUM
 - `/manager/dashboard` ve `/resident/*` her ikisi **403** + “X rolüne geç” butonu: tıklanınca disabled → 12s+ sonra yine 403 (geçiş tutmuyor).
 - Otomasyon sekmesi soft bağlam kırık; USB hâlâ önizleme app’te (D9 kanıtı duruyor).
 SIRADAKI: sahip oturumu otomasyon sekmesinde yenileyince soft Site Yön→Sakin IŞIK Ödemelerim; ben USB + GELISIM tarafını sürüyorum (ANTI-DURAK — “devam?” yok).
+Hex/kod yok.
+
+### M691 - 2026-09-22 20:01 (+03) - Cursor — **Otomasyon tarayıcı = Giriş Yap**
+GUNDEM: KT4-AIDAT-OLCUM
+- Sahip “yeniledim” dedi; agent tarayıcı hâlâ soft 403 → ardından **`/login` (Giriş Yap)** görüldü.
+- Normal Chrome yenilemek agent sekmesini doldurmaz; agent/Playwright sekmesinde oturum ayrı.
+SIRADAKI: sahip agent tarayıcıda (Cursor Simple Browser / Playwright) Apartora’ya giriş yapsın → soft Sakin IŞIK Ödemelerim. Şifre sohbete yazılmaz.
 Hex/kod yok.
