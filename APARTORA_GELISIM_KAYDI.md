@@ -615,3 +615,6 @@ Hesab�m Rol=Site Y�neticisi (Aktif=Malik) P1 (M451�M455).
 ### 140 — Telefon backfill 75–78 pair (koşullu) (22.09.2026)
 `80…` · M602–M606. P75–77 empty uyum; P78 mobil empty ≠ web 1 — aday kök rol; saf Sakin mobil T2. Kod yok.
 
+### 141 — YONETIM §3.7 kesin talimat KT1–KT3 (22.09.2026)
+M607–M611. Sahip: telefon+web · çapraz · görüş+tavsiye hemfikiri. 3× KABUL %100. Oto kural güncellendi. Kod yok.
+

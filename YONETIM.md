@@ -123,6 +123,18 @@ Sahip: *ölçüm beklerken önden giden iş paralel hazırlansın; konu oraya ge
 3. Telefon + web + oy metni **paralel** toplanabilir; kapanış yine §3.4 (%100) ister.
 4. OpenAI/ajan gecikirse yönetici kanıtla oy yazar; API gelince teyit — boş bekleme yok.
 
+### 3.7 Kesin talimatlar (sahip · 2026-09-22) — **yürürlükte**
+
+Sahip (açık cümle): aşağıdaki üç madde **kesin talimat**tır; §3.1 / §3.3 / §3.4 / §3.6 ile birlikte okunur. İhlal = aşama yarım; geriye dönük tur açılır.
+
+| # | Madde | Zorunlu davranış | Yasak |
+|---|---|---|---|
+| **KT1** | **Telefon + web ikisi** | Her ölçüm / her kontrol / her “şimdi vs tavsiye” paketi **USB gerçek telefonda** ve **canlı web’de** ayrı kanıtlanır (kare / snapshot / metrik). Pair yoksa gündem **KAPANDI** yazılmaz. | Yalnız web veya yalnız telefon ile kapanış; emülatör; “mobil sonra bakarız” |
+| **KT2** | **Çapraz sorgulama** | Her oy turunda §3.1 uygulanır: fark tablosu → diğerinin gerekçesi → Tur 2+ | Çapraz sormadan oybirliği ilanı; çoğunlukla kapatma |
+| **KT3** | **Görüş + tavsiye hemfikiri** | Konu, katılımcıların **görüşleri ve tavsiyeleri** aynı çizgide olana kadar **devam eder**. Yalnız “OK/teyit” yetmez; tavsiye cümlesi de örtüşmeli (§3.4 %100). | Görüş uyuşur tavsiye ayrılırken KAPANDI; tek taraflı tavsiye ile ilerleme |
+
+**Not:** KT1, §3.6 madde 3’ü **zorunlu** kılar (paralel toplanabilir; kapanış için ikisi de dolu olmalı). KT3, §3.1 “herkes aynı fikirde”yi **tavsiye örtüşmesi**ne genişletir.
+
 ## 4. Kademeli ilerleme (dilimler)
 
 | Dilim | İçerik | Geçiş şartı |
