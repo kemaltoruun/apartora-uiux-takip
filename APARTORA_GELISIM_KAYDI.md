@@ -644,8 +644,8 @@ M637–M643. Dolan katılımcı bekler; oto B devam; süre dolunca otomatik yeni
 M644. IŞIK tel+web: oluştur 409 (Eyl/Eki/Kas) · sakin A1 Eylül ₺400 · mobil Borç Durumu pair. D1–D7 REF. 4× oy bekliyor. Kod yok.
 
 ### 150 — §3.9 YEDEK-SLOT (4× DOLU) (22.09.2026)
-M651. Kota/Composer dolunca boş ajanla slot doldur; 4× her tur dolu; asıl dönünce OTO-KATILIM. Kod yok.
+M651–M661. Kota/Composer dolunca boş ajanla slot doldur; 4× her tur dolu; asıl dönünce OTO-KATILIM. 4× KABUL. Kod yok.
 
-
-M661: YEDEK-SLOT %100 (M652–M655). KT4-AIDAT Tur 2 açık (3×DUZELT · Claude OK).
+### 151 — KT4-AIDAT T2 hemfikir DUZELT → ÖRNEK (22.09.2026)
+M657–M658 · M662. Claude+DeepSeek T2’de DUZELT’e döndü; 4× aynı çizgi: boş dönem + ÖRNEK-KT4 oluştur→gör. KT4 KAPANDI değil. Kod yok.
 

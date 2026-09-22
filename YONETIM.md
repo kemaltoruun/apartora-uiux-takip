@@ -141,9 +141,10 @@ Sahip (açık cümle): aşağıdaki maddeler **kesin talimat**tır; §3.1 / §3.
 - **Asgari:** Aktif ölçülen yüzey (ör. anket) uçtan uca zorunlu; aynı dilimde sıradaki benzerler (aidat, gider…) empty ile **atlanmaz** — sırayla KT4, hepsi aynı anda değil.
 - **Örnek veri:** Canlı deneme kaydı; raporlarda `ÖRNEK-KT4` etiketi. Ölçüm sonrası silme **zorunlu değil** (sahip isterse temizlenir); kapanış şartı değil.
 
-### 3.8 UX referans seti REF-01…16 (sahip · 2026-09-22) — **yürürlükte**
+### 3.8 UX referans seti REF-01…20 (sahip · 2026-09-22) — **yürürlükte**
 
-Kaynak envanter: [`82.UX_REFERANS_TALIMAT_ENVANTERI_2026-09-22.md`](./82.UX_REFERANS_TALIMAT_ENVANTERI_2026-09-22.md) (Userspots 12 · mobil PDF · UI kitap B4 + K4 kapıları). Oy: GELISIM **145** · **4× KABUL** (E-rev).
+Kaynak envanter: [`82.UX_REFERANS_TALIMAT_ENVANTERI_2026-09-22.md`](./82.UX_REFERANS_TALIMAT_ENVANTERI_2026-09-22.md).  
+Oy: GELISIM **145/147** (01…16) · **149** (17…20 REF-EK %100).
 
 | Ne | Kural |
 |---|---|
@@ -152,9 +153,10 @@ Kaynak envanter: [`82.UX_REFERANS_TALIMAT_ENVANTERI_2026-09-22.md`](./82.UX_REFE
 | Üstünlük | **K4 (§3.7 KT1–KT4 + ciddiyet + §3.5) kazanır** — REF ile çelişirse K4 |
 | İşaretçiler | REF-14=KT1 · REF-15=KT4 · REF-16=ciddiyet (çift birincil yok) |
 | Sınırlar (E-rev) | 09=yanıt gecikmesi · 10=süregelen durum · 11=eylem-sonrası doğrulama · 06=öncelik · 07=grup/aynı-rol |
+| **REF-EK (17…20)** | 17=mikro+reduced-motion (≠09/13) · 18/19 **koşullu** (N/A+gerekçe) · 20=Security+Clean saha (offline sahte başarı yasak) · estetik maskeleme=06/16 not |
 | Yasak | REF’siz “genel UX kötü” iddiası; telif uzun alıntı; hex final |
 
-**Uygunluk (yönetici özeti):** Set Apartora takip için **uygun** — denetçi kontrol listesi (kullanıcıya 16 madde dayatılmaz). İçerik REF-01…13; 14–16 mevcut kapı köprüsü. Parkinson/ardışık yerleştirme 01/03’e gömülü (bilinçli).
+**Uygunluk (yönetici özeti):** Set Apartora takip için **uygun** — denetçi kontrol listesi. 01…13 içerik; 14–16 kapı köprüsü; 17–20 ek (18/19 koşullu, 20 portal sınırlı).
 
 ### 3.9 Token / kota BEKLEME + OTO-KATILIM-YENILE + YEDEK-SLOT (sahip · 2026-09-22) — **yürürlükte**
 
@@ -261,7 +263,8 @@ Sonra: ILETISIM’e bulgu + görüş
 | `0.INDEX_TAKIP.md` | Rapor indeksi |
 | `.cursor/rules/iletisim-oto-takip.mdc` | Cursor her turda pull+ILETISIM |
 | `GEMINI_KOPRU.md` | Cursor ↔ Gemini API köprüsü |
-| `82.UX_REFERANS_…` | REF-01…16 zorunlu inceleme seti (§3.8) |
+| `82.UX_REFERANS_…` | REF-01…20 zorunlu inceleme seti (§3.8) |
+| `84.APARTORA_TASARIM_SIRLARI_…` | Tasarım sırları inceleme + REF-EK kaynağı |
 | `15.CIDDIYET_…` | Ciddiyet standardı |
 | `1.`…`n.` md | Derin raporlar |
 
