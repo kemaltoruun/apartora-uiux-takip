@@ -591,3 +591,7 @@ Hesab�m Rol=Site Y�neticisi (Aktif=Malik) P1 (M451�M455).
 ### 134 — Dilim5 kapı: SECURITY rol switcher’da yok (22.09.2026)
 74… · M568–M572. AFW1 bekler. Kod yok.
 
+
+### 135 — Web Sakin Duyurular soft/hard + menü bleed kapandı (22.09.2026)
+`75…` · M573–M577. Soft Son Duyurular→OK; hard 403 = R-AW1+announcements; sidebar Duyurular→manager bleed (R-AW25 aday). Kod yok.
+
