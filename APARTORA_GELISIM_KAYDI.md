@@ -603,3 +603,7 @@ Hesab�m Rol=Site Y�neticisi (Aktif=Malik) P1 (M451�M455).
 ### 137 — Web Sakin Etkinlikler soft/hard kapandı (22.09.2026)
 `77…` · M583–M587. Soft events OK (0); hard 403 = R-AW1+events. Kod yok.
 
+
+### 138 — Web Sakin Anketler soft + menü bleed; hard 403 yok (22.09.2026)
+`78…` · M588–M596 (T2). Soft surveys OK; manager bleed; varsayılan Sakin’de hard 403 yok. Kod yok.
+
