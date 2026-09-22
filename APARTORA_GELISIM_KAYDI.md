@@ -658,3 +658,6 @@ M664–M687 · dosya 83. ÖRNEK Tek Seferlik A1 not OK (yönetici). Soft IŞIK �
 
 ### 154 — ANTI-DURAK (oto sürüş) (22.09.2026)
 Sahip: alt ajan bitince tur kesilmesin. YONETIM §3.6 mad.5 + `iletisim-oto-takip.mdc` ANTI-DURAK + `OTO_TAKIP.md` kök neden. `SIRADAKI:` zorunlu. Kod yok.
+
+### 155 — KT4-AIDAT T5 4× DUZELT · web ÖRNEK OK · USB D9 (22.09.2026)
+M692–M699 · dosya 83. Sahip Chrome soft Sakin·IŞIK Ödemelerim: A1 + not `ÖRNEK-KT4 tek seferlik A1` (D6/D8 bu yolda web OK). USB Ödeme Geçmişi Bu ay boş / ÖRNEK yok; Mali Durum KPI 141/₺56.400 pair (D9 güçlendi). T5 4× DUZELT YEDEK→Grok (OpenAI 429). KAPANDI yok — USB sakin satır+not şart. Kod yok.

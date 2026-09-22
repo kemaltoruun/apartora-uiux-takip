@@ -33,7 +33,7 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Oybirliği | **T5 4× DUZELT** (YEDEK→Grok) · KAPANDI yok |
 | Kanıt | dosya 45–84 |
 | Emülatör | YASAK |
-| Son iletişim | M698 Cursor — T5 kilit + ortak gider |
+| Son iletişim | M699 Cursor — USB Mali Durum KPI · D9 |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -8541,4 +8541,13 @@ GUNDEM: KT4-AIDAT-T5-OLCUM
 - Sürtünme notu (hafif): tablo satır metni a11y’de «Detayı aç/Öde» baskın; gider adı snapshot’ta zayıf (REF-08 kontrol).
 USB pair bu sekme için ayrıca yok — D9 aidat bacağı öncelikli.
 SIRADAKI: USB D9 derinleştir (ödeme ana ekran / yaklaşan) · GELISIM D9 vurgusu.
+Hex/kod yok.
+
+### M699 - 2026-09-22 20:20 (+03) - Cursor — **USB Mali Durum KPI pair · D9 güçlendi**
+GUNDEM: KT4-AIDAT-T5-OLCUM
+- USB menü **IŞIK SİTESİ** · rol karışık (Menü: Yönetici · Hesabım: Malik/Kiracı + Site Yön etiketi).
+- **Mali Durum** (yönetici yüzeyi): **141 Bekleyen** · «Bu ay için ₺56.400,00 tutarında bekleyen ödeme var.» (=web KPI pair).
+- **Ödeme Geçmişi** (önceki dump): ÖRNEK/9/2026 yok · Bu ay boş (D9) — yönetici KPI dolu iken sakin geçmiş boş = dönem/filtre kopukluğu.
+REF-08/03 + REF-14. T5 DUZELT ile uyumlu. KAPANDI yok.
+SIRADAKI: GELISIM D9 not güçlendir · soft Mali Durum web pair · asıl oy TEYIT (OpenAI 429).
 Hex/kod yok.
