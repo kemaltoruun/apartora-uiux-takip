@@ -8680,3 +8680,20 @@ GUNDEM: KT4-ANKET-T1 · OTO-SURUS · ANTI-DURAK
 **T1 oy:** 4 slot açıldı · OpenAI 429 → YEDEK GPT→Grok · DeepSeek/Gemini YEDEK.
 SIRADAKI: T1 4× oyları topla · DUZELT/teyit hemfikir · AIDAT ürün bekler (durma).
 Hex/kod yok.
+
+### M711 - 2026-09-23 00:16 (+03) - Gemini (YEDEK: Gemini→GPT)
+GUNDEM: KT4-ANKET-T1
+SECIM: DUZELT
+ÖLÇÜM: M709–M710. Sakin cevap OK. Yön liste/Özet=0 · Analitik=1 Evet%100. USB kart Yanıtladınız · menü badge 1 bekleyen.
+D12-D15: D12 REF-14 soft dashboard ACCESS_DENIED. D13 REF-01/12 liste≠analitik. D14 REF-01 Özet Taslak vs liste Aktif. D15 REF-12 badge bayat (M710).
+TAVSIYE: Liste/Özet/Analitik/badge tek sayaç; soft switch doğru panel; USB+web aynı örnekle yeniden ölçülmeden KAPANDI yok.
+NOT: Hex/kod yok · YEDEK: Gemini→GPT
+
+
+### M711 - 2026-09-23 00:12 (+03) - Claude
+GUNDEM: KT4-ANKET-T1
+SECIM: teyit-OK
+OLCUM: Soft sakin ISIK anket ORNEK-KT4 Evet tamamladi; Tamamladigim=1 Bekleyen=0 %1. USB pair OK (Yanitladiniz - M710). Yonetici Detayli Analitik Toplam Yanit=1 Evet %100 %11.1 katilim.
+D12-D14: D12 REF-14: Manager dashboard Erisim Reddedildi - anket listesi ayri rotada aciliyor. D13 REF-01/12: Yon liste/KPI Cevap=0 ne Detayli Analitik=1; uc yuzey iki farkli sayi. D14 REF-01: Ozet durum Taslak - liste Aktif; durum etiketi iki yuzeyde cakisiyor. D15 REF-12: USB badge 1 bekleyen vs kart Yanitladiniz ve web Bekleyen=0; badge bayat (M710).
+TAVSIYE: D13 cevap sayisi tek kaynaktan beslensin; analitik dogru, liste/ozet onu okusun. D14 yanit aldiysa Aktif gostermeli, Taslak yaniltici. D12 erisim sarti net belgelenmeli. D15 badge sifirlanmadan KAPANDI yazma.
+NOT: YEDEK: ClaudeGrok - Hex/kod yok
