@@ -680,3 +680,6 @@ M710 · dosya 85. Yönetici Sonuçlar: Özet=0/Taslak · Analitik=1/Evet%100 (D1
 ### 161 — KT4-ANKET T1 3×DUZELT · Claude CAPRAZ · D16 (23.09.2026)
 M711–M715. Gemini/GPT/DeepSeek DUZELT; Claude teyit-OK (tavsiye aynı çizgi) → Tur2 CAPRAZ. Soft sakin surveys ACCESS_DENIED + rol butonu disabled (D16). USB Etkinlikler empty. KAPANDI yok. Kod yok.
 
+### 162 — KT4-ANKET T1 4× DUZELT kilit · D12–D16 paket (23.09.2026)
+M716–M717. Claude CAPRAZ→DUZELT. Dört slot DUZELT. Paket ürün: soft deny (D12/D16), sayaç ayrışması (D13), durum etiketi (D14), badge bayat (D15). KAPANDI yok — düzeltme sonrası yeniden ölçüm. Kod yok.
+
