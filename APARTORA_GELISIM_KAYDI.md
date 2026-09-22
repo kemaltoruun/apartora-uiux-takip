@@ -689,3 +689,6 @@ M724–M728. Dört slot YEDEK→Grok teyit-OK: paket ürün ekibine aktarılır.
 ### 164 — AIDAT D17/D18 sekme bulguları (23.09.2026)
 M729–M731 · dosya 83. Olağanüstü tab özet sızıntısı (D17). Bildirimlerim tab→dashboard (D18). İşlem Geçmişi 2 kayıt OK. AIDAT ürün paketi D5–D18. Kod yok.
 
+### 165 — KT4-AIDAT T7 4× DUZELT · D17/D18 pakete girmez (23.09.2026)
+M734–M738 · [T7 paket](4ecd7358-d057-4b31-81e8-ead5b300fb1e). Dört slot DUZELT: D17/D18 USB pair olmadan T6’ya eklenmez. D18 slug: UI=`reports` · deep-link=`notifications` (M733). T6 D5–D11 aktarım + T5 DUZELT durur. Kod yok.
+
