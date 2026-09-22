@@ -122,7 +122,7 @@ Sahip: *ölçüm beklerken önden giden iş paralel hazırlansın; konu oraya ge
 1. A beklerken B **yazılır** (iskelet / hazır kanıt listesi); A bitince B doldurulur → ILETISIM + oy **aynı turda**.
 2. B’de yazılan “beklenen bulgu” **hipotez** etiketli kalır; A kanıtı gelmeden teyit-OK sayılmaz.
 3. Telefon + web + oy metni **paralel** toplanabilir; kapanış yine §3.4 (%100) ister.
-4. OpenAI/Gemini/ajan gecikirse yönetici kanıtla oy yazar; API gelince teyit — boş bekleme yok.
+4. OpenAI/Gemini/ajan gecikirse veya kota dolarsa → **§3.9 BEKLEME-TOKEN** (katılımcı bekler; oto B devam; `YONETICI-GECICI` mümkün; 4× gelmeden KAPANDI yok).
 
 ### 3.7 Kesin talimatlar (sahip · 2026-09-22) — **yürürlükte**
 
@@ -140,6 +140,41 @@ Sahip (açık cümle): aşağıdaki maddeler **kesin talimat**tır; §3.1 / §3.
 **KT4 uygulama (oy turu netliği · 2026-09-22):**
 - **Asgari:** Aktif ölçülen yüzey (ör. anket) uçtan uca zorunlu; aynı dilimde sıradaki benzerler (aidat, gider…) empty ile **atlanmaz** — sırayla KT4, hepsi aynı anda değil.
 - **Örnek veri:** Canlı deneme kaydı; raporlarda `ÖRNEK-KT4` etiketi. Ölçüm sonrası silme **zorunlu değil** (sahip isterse temizlenir); kapanış şartı değil.
+
+### 3.8 UX referans seti REF-01…16 (sahip · 2026-09-22) — **yürürlükte**
+
+Kaynak envanter: [`82.UX_REFERANS_TALIMAT_ENVANTERI_2026-09-22.md`](./82.UX_REFERANS_TALIMAT_ENVANTERI_2026-09-22.md) (Userspots 12 · mobil PDF · UI kitap B4 + K4 kapıları). Oy: GELISIM **145** · **4× KABUL** (E-rev).
+
+| Ne | Kural |
+|---|---|
+| Zorunluluk | Her mobil+web UI/UX / görsel / menü / renk / akış ölçümünde REF kontrol listesi uygulanır |
+| Bulgu formatı | Birincil `REF-xx` · kanıt · şimdi · tavsiye · kabul ölçütü (1 cümle). Aynı bulguya **tek birincil** REF |
+| Üstünlük | **K4 (§3.7 KT1–KT4 + ciddiyet + §3.5) kazanır** — REF ile çelişirse K4 |
+| İşaretçiler | REF-14=KT1 · REF-15=KT4 · REF-16=ciddiyet (çift birincil yok) |
+| Sınırlar (E-rev) | 09=yanıt gecikmesi · 10=süregelen durum · 11=eylem-sonrası doğrulama · 06=öncelik · 07=grup/aynı-rol |
+| Yasak | REF’siz “genel UX kötü” iddiası; telif uzun alıntı; hex final |
+
+**Uygunluk (yönetici özeti):** Set Apartora takip için **uygun** — denetçi kontrol listesi (kullanıcıya 16 madde dayatılmaz). İçerik REF-01…13; 14–16 mevcut kapı köprüsü. Parkinson/ardışık yerleştirme 01/03’e gömülü (bilinçli).
+
+### 3.9 Token / kota BEKLEME + OTO-KATILIM-YENILE (sahip · 2026-09-22) — **yürürlükte**
+
+**Değerlendirme (yönetici):** Evet — **dolan katılımcı** bekletilir; hayır — **tüm oto hattı** bekletilmez. **Süre / kota dönünce oto yeniden katılım zorunlu** (sahip teyit 2026-09-22).
+
+| Durum | Zorunlu | Yasak |
+|---|---|---|
+| API 429 / kota / token bitti | O katılımcı **BEKLEME-TOKEN**; ILETISIM özet + gündemde kim · neden · `yeniden=` tahmini pencere | Sessizce atlamak; 3× ile KAPANDI |
+| Diğer 3 oy hazır | Kanıtlı gündem sürer; fark tablosunda slot = `BEKLEME-TOKEN` | “Çoğunluk yeter” |
+| Oto (beklemede) | §3.6 **B** devam (iskelet · ölçüm · sıradaki yüzey · REF etiket) | Boş spin / idle “token bekleniyor” |
+| Geçici oy | Yönetici kanıtla `YONETICI-GECICI` yazabilir; gerçek oy gelince **TEYIT** veya **DUZELT** | Geçiciyi nihai saymak |
+| **OTO-KATILIM-YENILE** | Kota/süre dolunca yönetici **aynı turda otomatik** o katılımcıya yeniden sorar (Claude→GPT→DeepSeek→Gemini sırası); yanıt → çapraz → 4× kilit. Bekleyen slot ILETISIM’de kapanana kadar **her kullanıcı mesajı / oto turunda** yeniden dener | Unutmak; “sonra bakarız”; BEKLEME’yi kalıcı düşürmek; süre dolunca sormadan KAPANDI |
+
+**Oto bağ (zorunlu sıra):**
+1. Kota düştü → özet kutusuna `BEKLEME-TOKEN: Kim · neden · yeniden=…`
+2. Ölçüm/B işi sürer (hattı dondurma).
+3. Pencere geldi / sonraki oto tur → **aynı gündemde** o kimlik için oy isteği **otomatik** (sahip “devam” beklemez).
+4. Oy gelince `BEKLEME-TOKEN` kalkar · çapraz · 4× → KAPANDI veya Tur 2+.
+
+**§3.6 madde 4 ile ilişki:** “API gecikirse yönetici oy yazar” = `YONETICI-GECICI`; §3.9 onu **BEKLEME-TOKEN** + **OTO-KATILIM-YENILE** ile sıkılaştırır. Kilit yine §3.4 **4×**.
 
 ## 4. Kademeli ilerleme (dilimler)
 
@@ -223,6 +258,8 @@ Sonra: ILETISIM’e bulgu + görüş
 | `0.INDEX_TAKIP.md` | Rapor indeksi |
 | `.cursor/rules/iletisim-oto-takip.mdc` | Cursor her turda pull+ILETISIM |
 | `GEMINI_KOPRU.md` | Cursor ↔ Gemini API köprüsü |
+| `82.UX_REFERANS_…` | REF-01…16 zorunlu inceleme seti (§3.8) |
+| `15.CIDDIYET_…` | Ciddiyet standardı |
 | `1.`…`n.` md | Derin raporlar |
 
 ---

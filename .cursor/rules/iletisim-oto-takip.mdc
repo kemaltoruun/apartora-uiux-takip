@@ -21,7 +21,9 @@ Bu klasör `apartora-uiux-takip` takip defteridir. Bu sohbette / workspace’te 
 - **Çapraz sorgu (zorunlu — `YONETIM` §3.1 + §3.7 KT2):** Herkes aynı fikirde olana kadar konuyu KAPANDI yazma; fark tablosu + diğerinin gerekçesini sor + Tur 2+.
 - **Telefon + web ikisi (zorunlu — `YONETIM` §3.7 KT1):** Her ölçüm/kontrol USB gerçek telefon **ve** canlı web kanıtı ister. Pair yoksa KAPANDI yazma. Emülatör yasak.
 - **Görüş + tavsiye hemfikiri (zorunlu — `YONETIM` §3.7 KT3):** Konu, katılımcıların **görüş ve tavsiyeleri** örtüşene kadar devam eder. Yalnız “OK” yetmez; tavsiye cümlesi de aynı çizgide olmalı.
-- **Örnek veri + uçtan uca kullanım (zorunlu — `YONETIM` §3.7 KT4):** Empty yetmez. Anket/aidat/gider vb. için canlı UI’da örnek oluştur; **yönetici + sakin** + telefon+web adım adım; sürtünme notu. Benzer yüzeylerin hepsini dene. Ürün kodu yazma.
+- **Örnek veri + uçtan uca kullanım (zorunlu — `YONETIM` §3.7 KT4 / REF-15):** Empty yetmez. Anket/aidat/gider vb. için canlı UI’da örnek oluştur; **yönetici + sakin** + telefon+web adım adım; sürtünme notu. Benzer yüzeylerin hepsini dene. Ürün kodu yazma.
+- **REF-01…16 (zorunlu — `YONETIM` §3.8 · dosya 82):** Her ölçüm bulgusunda birincil REF etiketi + kanıt + şimdi/tavsiye. K4 üstün. 14=KT1 · 15=KT4 · 16=ciddiyet.
+- **Token BEKLEME + OTO-KATILIM-YENILE (zorunlu — `YONETIM` §3.9):** Kota/429 → **BEKLEME-TOKEN** (slot açık). Oto **durmaz** (§3.6 B). `YONETICI-GECICI` nihai değil. **Süre/kota dolunca aynı turda otomatik yeniden oy iste** (sahip “devam” yok); yanıt → çapraz → 4×. Unutmak / idle bekletmek yasak.
 - **Her aşama katılımcı (zorunlu — `YONETIM` §3.3):** Faz N ölçümü bitince **Claude · GPT · DeepSeek · Gemini** oy turu **aynı turda**. Sahip “ok devam / tmm” = ölçüme devam; katılımcı turunu **ATLAMAZ**. Atladıysan aşama yarım → geriye dönük tur aç.
 - **Ciddiyet (`15.CIDDIYET_STANDARDI`):** Farksız before/after, sticker demo, madde atlama **yasak**. Her bulgu: şimdi + tavsiye (3 sn’de anlaşılır) + sebep→sonuç + doğrulama dili.
 - Kalıcı karar → `APARTORA_GELISIM_KAYDI.md` yeni numara + push.
@@ -37,6 +39,9 @@ Bu klasör `apartora-uiux-takip` takip defteridir. Bu sohbette / workspace’te 
 - Yalnız web veya yalnız telefon ile ölçüm kapatmak (`YONETIM` §3.7 KT1).
 - Çapraz sormadan / tavsiye ayrıyken KAPANDI yazmak (`YONETIM` §3.7 KT2–KT3).
 - Yalnız empty-state ile akış kapatmak; örnek oluşturmadan “zorluk yok” demek (`YONETIM` §3.7 KT4).
+- REF etiketsiz genel UX iddiası / K4’ü REF ile ezmek (`YONETIM` §3.8).
+- Token dolanı atlayıp KAPANDI / tüm otoyu idle bekletmek (`YONETIM` §3.9).
+- Kota dönünce yeniden oy **istememek** / BEKLEME’yi unutmak (`YONETIM` §3.9 OTO-KATILIM-YENILE).
 
 ## Süreklilik
 

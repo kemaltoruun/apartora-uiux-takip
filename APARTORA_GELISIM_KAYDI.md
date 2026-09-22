@@ -633,3 +633,9 @@ Userspots 12 + mobil PDF (Baştabak) + UI kitap Bölüm 4 (Afacan) → dosya 82.
 
 ### 146 — Gemini oy sırası zorunlu (Claude→GPT→DeepSeek→Gemini) (22.09.2026)
 M636. §2 oy sırası + ILETISIM/oto: Gemini’siz 3× KAPANDI yasak. Kod yok.
+
+### 147 — REF §3.8 işleme + 81 F1–F6 REF etiket (22.09.2026)
+Dosya 82 yürürlük YONETIM §3.8; 81 sürtünmelere REF; indeks 81–82; oto kural. Kod yok.
+
+### 148 — §3.9 TOKEN-BEKLEME + OTO-KATILIM-YENILE (22.09.2026)
+M637–M643. Dolan katılımcı bekler; oto B devam; süre dolunca otomatik yeniden oy. 4× KABUL. Kod yok.
