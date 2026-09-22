@@ -627,3 +627,6 @@ Sahip: Gemini eklendi. AI Studio key kasada; köprü `GEMINI_KOPRU.md` + `script
 
 ### 144 — KT4-ANKET uçtan uca + F1–F6 + P78 kök (22.09.2026)
 Dosya 81 · M619–M624. ÖRNEK-KT4 IŞIK; 4× teyit-OK. P78=site/aktif. F6 Başla diyalogda soru yok. Kod yok.
+
+### 145 — UX REF-01…16 zorunlu referans seti (22.09.2026)
+Userspots 12 + mobil PDF (Baştabak) + UI kitap Bölüm 4 (Afacan) → dosya 82. T1 DUZELT→E-rev; T2 DeepSeek REF-14=KT1; T3 4×KABUL. M625–M635. Kod yok.
