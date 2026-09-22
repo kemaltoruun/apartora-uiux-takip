@@ -582,3 +582,6 @@ Hesab�m Rol=Site Y�neticisi (Aktif=Malik) P1 (M451�M455).
 ### 131 — Web Sakin Dairem soft/hard kapandı (22.09.2026)
 71… · M554–M557. Soft apartments OK; hard 403 = R-AW1 kapsam+ (apartments). Daire Sicili P2 etiket notu. Kod yok.
 
+### 132 — Web Sakin Taleplerim soft/hard kapandı (22.09.2026)
+72… · M558–M562. Soft empty OK; hard 403 = R-AW1+requests. Kod yok.
+
