@@ -33,7 +33,7 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Oybirliği | T6 AIDAT OK · T1 ANKET DUZELT · **T2 ANKET 4× teyit-OK** |
 | Kanıt | dosya 45–85 · M701–M728 |
 | Emülatör | YASAK |
-| Son iletişim | M728 Cursor — T2 paket kilit |
+| Son iletişim | M729 Cursor — Olağanüstü sekme D17 aday |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -8837,6 +8837,14 @@ GUNDEM: KT4-ANKET-T2-PAKET · ANTI-DURAK
 **Paralel AIDAT:** T6 paket + D11 M721 + D9 M720 — ürün bekler.
 SIRADAKI: GELISIM 163 · soft/USB ürün sonrası yeniden ölç — durma.
 Hex/kod yok.
+
+### M729 - 2026-09-23 00:36 (+03) - Cursor — **Olağanüstü sekme · özet sızıntısı (D17 aday)**
+GUNDEM: KT4-AIDAT benzer · ANTI-DURAK
+Soft `?tab=extraordinary`: URL Olağanüstü · a11y’de Özet+Aidat+ÖRNEK blokları hâlâ görünür (sekme özel liste boş/yanlış karışık). D11 ailesi: sekme ≠ içerik.
+USB menüde ayrı «Ortak Giderler» yok (Ödeme Geçmişi/Makbuz). Soft Ortak Giderler örnek OK (M723).
+SIRADAKI: ürün D5–D17 · yeniden ölçüm — durma.
+Hex/kod yok.
+
 
 
 
