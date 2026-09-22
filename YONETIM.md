@@ -123,6 +123,7 @@ Sahip: *ölçüm beklerken önden giden iş paralel hazırlansın; konu oraya ge
 2. B’de yazılan “beklenen bulgu” **hipotez** etiketli kalır; A kanıtı gelmeden teyit-OK sayılmaz.
 3. Telefon + web + oy metni **paralel** toplanabilir; kapanış yine §3.4 (%100) ister.
 4. OpenAI/Gemini/ajan gecikirse veya kota dolarsa → **§3.9 BEKLEME-TOKEN** (katılımcı bekler; oto B devam; `YONETICI-GECICI` mümkün; 4× gelmeden KAPANDI yok).
+5. **ANTI-DURAK (sahip · 2026-09-22):** Subagent/shell/oy bildirimi veya `git push` **tur sonu değildir**. Gündem KAPANDI / sahip `PAUSE` değilse yönetici aynı uyanışta `SIRADAKI:` adımını yürütür. “devam?” sormak yasak. Ayrıntı: `.cursor/rules/iletisim-oto-takip.mdc` · `OTO_TAKIP.md`.
 
 ### 3.7 Kesin talimatlar (sahip · 2026-09-22) — **yürürlükte**
 

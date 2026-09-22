@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · KT4-AIDAT T4 4×DUZELT kilit · sakin görür açık |
-| Aktif gündem | **KT4-AIDAT** · D8/D9 · sakin IŞIK satır+not · KAPANDI yok |
+| Aşama | **AKTİF** · ANTI-DURAK · KT4-AIDAT sakin görür açık |
+| Aktif gündem | **KT4-AIDAT** · D8/D9 · soft Sakin IŞIK satır+not · KAPANDI yok |
 | Bekleyen rapor | R3–R10 · S (GPT) |
-| Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas |
-| Oybirliği | **T4 4× DUZELT** (M685 GPT Tur2) · ürün KAPANDI yok |
+| Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
+| Oybirliği | **T4 4× DUZELT** · ürün KAPANDI yok |
 | Kanıt | dosya 45–84 |
 | Emülatör | YASAK |
-| Son iletişim | M686 Cursor — T4 4×DUZELT kilit |
+| Son iletişim | M688 Cursor — ANTI-DURAK |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 

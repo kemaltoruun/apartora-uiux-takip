@@ -652,3 +652,9 @@ M657–M658 · M662. Claude+DeepSeek T2’de DUZELT’e döndü; 4× aynı çizg
 
 ### 152 — REF-EK 17…20 zorunlu sete eklendi (22.09.2026)
 4 URL + dosya 84. T1 ayrılık → v1.1 (18/19 koşullu N/A · 20 Security+Clean · offline sahte başarı yasak) → T3 4×KABUL. YONETIM §3.8 = REF-01…20. M663. Kod yok.
+
+### 153 — KT4-AIDAT T4 4× DUZELT + D5–D9 paketi (22.09.2026)
+M664–M687 · dosya 83. ÖRNEK Tek Seferlik A1 not OK (yönetici). Soft IŞIK Ödemelerim=Dneme (D8). USB Ödeme Geçmişi 9/2026+ÖRNEK yok (D9). T4 4× DUZELT. Ürün KAPANDI değil — sakin IŞIK satır+not şart. Kod yok.
+
+### 154 — ANTI-DURAK (oto sürüş) (22.09.2026)
+Sahip: alt ajan bitince tur kesilmesin. YONETIM §3.6 mad.5 + `iletisim-oto-takip.mdc` ANTI-DURAK + `OTO_TAKIP.md` kök neden. `SIRADAKI:` zorunlu. Kod yok.

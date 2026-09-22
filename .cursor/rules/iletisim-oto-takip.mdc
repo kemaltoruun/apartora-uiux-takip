@@ -44,9 +44,25 @@ Bu klasör `apartora-uiux-takip` takip defteridir. Bu sohbette / workspace’te 
 - Kota dönünce yeniden oy **istememek** / BEKLEME’yi unutmak (`YONETIM` §3.9 OTO-KATILIM-YENILE).
 - Yedek ajan varken slotu boş bırakmak / 3× ile ilerlemek (`YONETIM` §3.9 YEDEK-SLOT).
 
+## ANTI-DURAK (sahip · 2026-09-22 — zorunlu)
+
+**Kök neden:** Workspace kuralı “oto durmaz” der; Cursor platformu arka plan subagent/shell bitince *“follow-up yoksa işlem gerekmez / turu bitir”* der. Kısa durum özeti + push sonrası tur kapanınca sahip “neden durdun?” der. Bu **kural boşluğu + platform çatışmasıdır**; sahip “devam?” demek zorunda kalmamalı.
+
+| Yasak (durak) | Zorunlu (sürüş) |
+|---|---|
+| Yalnız oy/ölçüm özeti yazıp turu bitirmek | Aynı turda **SIRADAKI** adımı başlat (ölçüm · USB · GELISIM · sonraki yüzey) |
+| Subagent/shell bildiriminde “bilgi verildi, bitti” | Bildirimi işle → ILETISIM yaz → **hemen** sonraki B/A işi |
+| “devam?” / “onay?” sormak (§3.4) | Sessiz sür; yalnız `PAUSE` durdurur |
+| Push’u tur sonu saymak | Push = ara kayıt; gündem KAPANDI değilse **sür** |
+| Arka plan ajanı için turu boş bırakmak | Ajan beklerken §3.6 **B** yaz (iskelet · canvas · GELISIM taslak) |
+
+**Tur bitirme izni (tek istisna listesi):** sahip `PAUSE` · gündem gerçek **KAPANDI** (%100) · makine/kota tüm ajanları kilitledi ve YEDEK yok (yine `BEKLEME-TOKEN` + SIRADAKI satırı ILETISIM’de).
+
+**Her yanıt sonu (zorunlu satır, chat veya ILETISIM):** `SIRADAKI: <tek somut adım>` — boş bırakma.
+
 ## Süreklilik
 
-Sohbet kapanırsa bağlam kaybolabilir; **kaynak gerçeklik GitHub’daki ILETISIM + GELISIM’dir**. Yeni sohbette de bu kural aynı workspace’te uygulanır.
+Sohbet kapanırsa bağlam kaybolabilir; **kaynak gerçeklik GitHub’daki ILETISIM + GELISIM’dir**. Yeni sohbette de bu kural aynı workspace’te uygulanır. Uyanınca: özet + son 5 M + **SIRADAKI** satırını oku; soru sormadan oradan sür.
 
 ## Canvas (zorunlu — görsel durum)
 

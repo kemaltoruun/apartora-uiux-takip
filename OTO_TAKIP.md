@@ -10,6 +10,12 @@ Apartora UI/UX takip çalışması sohbet kutusuna bağlı değildir.
 Cursor sohbeti kapanınca / yeni sohbet açılınca önceki mesajlar agent’ın aklında kalmayabilir.  
 Claude / GPT başka yerde yazarsa buradaki agent **otomatik uyanmaz** (GitHub webhook’u yoksa).
 
+### Duraklama (sahip şikâyeti · 2026-09-22) — kök neden
+
+Takip kuralı “oto / §3.6 B devam” diyor. Cursor agent runtime ise arka plan **subagent/shell bitince** çoğu zaman *kısa durum özeti + tur sonu* üretir (“follow-up yoksa gerekmez”). Sonuç: oy yazıldı / push oldu sandığı anda sürüş kesilir; sahip “devam?” demek zorunda kalır.
+
+**Bu takip kuralı kusuru değil + platform çatışmasıdır.** Çözüm: `.cursor/rules/iletisim-oto-takip.mdc` → **ANTI-DURAK** (bildirim ≠ tur sonu; her yanıtta `SIRADAKI:`; push ara kayıttır).
+
 ---
 
 ## Çözüm — 3 katman
