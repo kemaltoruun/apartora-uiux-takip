@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · ANTI-DURAK · ETKINLIK T1 · AIDAT/ANKET ürün |
-| Aktif gündem | **KT4-ETKINLIK-T1** (D19–D21 · CAPRAZ) · AIDAT T6 · ANKET D12–D16 |
+| Aşama | **AKTİF** · ANTI-DURAK · ETKINLIK T1 3× · D17/D18 soft-only |
+| Aktif gündem | **ETKINLIK DeepSeek BEKLEME** · D17/D18 soft slug · AIDAT T6 · ANKET |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
-| Oybirliği | DUYURU T1 KAPANDI · ETKINLIK Claude+GPT teyit-OK · DeepSeek/Gemini bekler |
-| Kanıt | dosya 45–87 · M701–M752 |
+| Oybirliği | DUYURU KAPANDI · ETKINLIK 3× (DeepSeek abort) · T7 DUZELT |
+| Kanıt | dosya 45–87 · M701–M755 |
 | Emülatör | YASAK |
-| Son iletişim | M752 Cursor — D21 USB Katıl ≠ soft |
+| Son iletişim | M755 Cursor — D17/D18 soft slug |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
