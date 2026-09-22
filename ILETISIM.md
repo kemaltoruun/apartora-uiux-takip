@@ -8773,5 +8773,15 @@ USB Mali Durum KPI: Bekleyen 140 / ₺56.000 · Tahsilat **%30** (önceki D10 %0
 SIRADAKI: D5–D16 ürün paketleri · soft/USB pair ürün sonrası yeniden ölç — oto durmaz (PAUSE yok).
 Hex/kod yok.
 
+### M721 - 2026-09-23 00:30 (+03) - Cursor — **D11 teyit: Aidat Ödemeleri sekmesinde ÖRNEK yok**
+GUNDEM: KT4-AIDAT · D11 · ANTI-DURAK
+Soft IŞIK Ödemelerim:
+- **Ödeme Özeti** (M719): Bu Ay A1 + «ÖRNEK-KT4 tek seferlik A1» OK.
+- **Aidat Ödemeleri** (`?tab=dues`): sayfada `ÖRNEK` / `22.09` **yok** (evaluate); liste Nisan 2026 gecikmişlerle açılıyor.
+→ **D11 REF-01** teyit: aynı sakin yüzeyde özet vs aidat sekmesi ayrışıyor.
+SIRADAKI: D5–D16 ürün · yeniden ölçüm ürün sonrası — durma.
+Hex/kod yok.
+
+
 
 
