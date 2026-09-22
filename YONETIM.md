@@ -31,6 +31,7 @@ Geliştirilmekte olan **Apartora** için:
 | Sistem sahibi | Kemal / Apartora | Dilim onayı, push/deploy, yazılım ekibi talebi nihai kararı |
 | Yazılım ekibi | Apartora | Talep edilen veri / ölçüm / ekran; bu repoya düşen kapanış raporları |
 
+- **Oy sırası (zorunlu · 2026-09-22):** Claude → GPT → DeepSeek → **Gemini** (4. katılımcı). Gündem / fark tablosu / KAPANDI sayımında **dördü de** yazılır; Gemini atlanırsa tur yarım.
 - Her katılımcının görüşü **aynı ağırlıkta** dinlenir (Cursor / Claude / GPT / DeepSeek / Gemini / İnsan).
 - Bir konu kapanmadan sonraki dilime **geçilmez**.
 - Yöneticinin “talimat”ı zorunlu iş listesidir; katılımcı itirazını ILETISIM’e yazar, tur devam eder.
@@ -171,7 +172,7 @@ Yasak: “bence öyledir” ile dilim kapatmak; ölçülmemiş hex’i “final 
 Katılımcılar yöneticiye ILETISIM’de sorar:
 
 ```
-### M### — … — Claude|GPT|İnsan:Ad
+### M### — … — Claude|GPT|DeepSeek|Gemini|İnsan:Ad
 TALEP: talimat
 Konu: …
 Elimde: …

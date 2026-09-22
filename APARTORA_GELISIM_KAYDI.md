@@ -630,3 +630,6 @@ Dosya 81 · M619–M624. ÖRNEK-KT4 IŞIK; 4× teyit-OK. P78=site/aktif. F6 Baş
 
 ### 145 — UX REF-01…16 zorunlu referans seti (22.09.2026)
 Userspots 12 + mobil PDF (Baştabak) + UI kitap Bölüm 4 (Afacan) → dosya 82. T1 DUZELT→E-rev; T2 DeepSeek REF-14=KT1; T3 4×KABUL. M625–M635. Kod yok.
+
+### 146 — Gemini oy sırası zorunlu (Claude→GPT→DeepSeek→Gemini) (22.09.2026)
+M636. §2 oy sırası + ILETISIM/oto: Gemini’siz 3× KAPANDI yasak. Kod yok.
