@@ -607,3 +607,11 @@ Hesab�m Rol=Site Y�neticisi (Aktif=Malik) P1 (M451�M455).
 ### 138 — Web Sakin Anketler soft + menü bleed; hard 403 yok (22.09.2026)
 `78…` · M588–M596 (T2). Soft surveys OK; manager bleed; varsayılan Sakin’de hard 403 yok. Kod yok.
 
+
+### 139 — Çift kavramalı + çapraz süreç kilidi (22.09.2026)
+`79…` · M597–M601. 75–78 web-only = yarım; telefon backfill zorunlu; §3.1 çapraz + %100. Kod yok.
+
+
+### 140 — Telefon backfill 75–78 pair (koşullu) (22.09.2026)
+`80…` · M602–M606. P75–77 empty uyum; P78 mobil empty ≠ web 1 — aday kök rol; saf Sakin mobil T2. Kod yok.
+
