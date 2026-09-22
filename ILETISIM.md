@@ -33,7 +33,7 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Oybirliği | **4×** · **REF-01…20** · YEDEK-SLOT · TOKEN · KT4-AIDAT T2 |
 | Kanıt | dosya 45–84 |
 | Emülatör | YASAK |
-| Son iletişim | M662 Cursor — REF-EK %100 |
+| Son iletişim | M663 Cursor — REF-EK %100 |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
