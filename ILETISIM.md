@@ -8757,3 +8757,12 @@ Header soft switch diyalog: Etkin rol **Site Yöneticisi** · «Sakin rolüne ge
 SIRADAKI: soft Sakin Anketler teyit · AIDAT ürün / D12–D16 paket — durma.
 Hex/kod yok.
 
+### M719 - 2026-09-23 00:26 (+03) - Cursor — **soft IŞIK Ödemelerim A1+ÖRNEK teyit · oto sürer**
+GUNDEM: KT4-AIDAT (bekleme ölçümü) · ANTI-DURAK
+Soft Sakin·IŞIK `/resident/my-payments`: Bu Ay Ödenecekler içinde **A Blok-1** · ₺400 · 22 Eyl · not **«ÖRNEK-KT4 tek seferlik A1»** görünür (M692 çizgisi duruyor).
+USB tarafı (M701): satır var not yok — D6 ürün bekler. Soft web OK.
+ANKET: T1 4× DUZELT D12–D16 paket ayrı.
+SIRADAKI: USB Mali Durum/Ödeme Geçmişi D6/D9 yeniden bak (ürün yoksa not aynı) · AIDAT+ANKET ürün — durma.
+Hex/kod yok.
+
+
