@@ -33,7 +33,7 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Oybirliği | T6 AIDAT OK · T1 ANKET DUZELT · **T2 ANKET 4× teyit-OK** |
 | Kanıt | dosya 45–85 · M701–M728 |
 | Emülatör | YASAK |
-| Son iletişim | M729 Cursor — Olağanüstü sekme D17 aday |
+| Son iletişim | M730 Cursor — T2 yutuldu · İşlem Geçmişi 2 kayıt |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -8844,6 +8844,15 @@ Soft `?tab=extraordinary`: URL Olağanüstü · a11y’de Özet+Aidat+ÖRNEK blo
 USB menüde ayrı «Ortak Giderler» yok (Ödeme Geçmişi/Makbuz). Soft Ortak Giderler örnek OK (M723).
 SIRADAKI: ürün D5–D17 · yeniden ölçüm — durma.
 Hex/kod yok.
+
+### M730 - 2026-09-23 00:38 (+03) - Cursor — **T2 bildirim yutuldu · İşlem Geçmişi · D17 dosya**
+GUNDEM: ANTI-DURAK · B
+[T2 paket](3af27539-afd4-4a62-969e-14dcc6291a30) bildirimi **zaten** M724–M728 — mükerrer yok.
+Soft `?tab=history` **İşlem Geçmişi**: başlık OK · **2 kayıt** (empty değil — KT4 örnek).
+D17 → dosya 83’e eklendi. Dosya 85 T2 durum güncellendi.
+SIRADAKI: ürün D5–D17 · soft Bildirimlerim / USB pair ürün sonrası — durma.
+Hex/kod yok.
+
 
 
 
