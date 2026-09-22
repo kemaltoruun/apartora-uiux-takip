@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · ANTI-DURAK · ANKET paket + AIDAT ürün · soft Sakin OK |
-| Aktif gündem | **KT4-ANKET** D12–D16 paket · **AIDAT** D5–D11 ürün |
+| Aşama | **AKTİF** · ANTI-DURAK · iki paket ürün · soft/USB teyit |
+| Aktif gündem | **AIDAT D5–D11** + **ANKET D12–D16** ürün · KAPANDI yok |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
-| Oybirliği | T6 AIDAT OK · **ANKET T1 4× DUZELT** · KAPANDI yok |
-| Kanıt | dosya 45–85 · M701–M718 |
+| Oybirliği | T6 AIDAT OK · ANKET T1 4× DUZELT · KAPANDI yok |
+| Kanıt | dosya 45–85 · M701–M720 |
 | Emülatör | YASAK |
-| Son iletişim | M718 Cursor — soft recover · D16 daraldı |
+| Son iletişim | M720 Cursor — USB D9 teyit · soft ÖRNEK OK |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
