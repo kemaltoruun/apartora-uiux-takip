@@ -588,3 +588,6 @@ Hesab�m Rol=Site Y�neticisi (Aktif=Malik) P1 (M451�M455).
 ### 133 — Dilim5 çerçeve: Güvenlik + AFW1 ilk (22.09.2026)
 73… · M563–M567. Dilim4 sınırı OK. Kod yok.
 
+### 134 — Dilim5 kapı: SECURITY rol switcher’da yok (22.09.2026)
+74… · M568–M572. AFW1 bekler. Kod yok.
+
