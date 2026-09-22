@@ -8577,3 +8577,13 @@ GUNDEM: KT4-AIDAT-T5-OLCUM
 BEKLEME-TOKEN: OpenAI hâlâ 429 · yeniden=kota-reset.
 KAPANDI yok (not+geçmiş filtre). SIRADAKI: D6/D9 ürün notu güncelle · Aidat Ödemeleri web sekmesi.
 Hex/kod yok.
+
+### M702 - 2026-09-22 21:02 (+03) - Cursor — **Aidat Ödemeleri sekmesi: ÖRNEK yok (D11)**
+GUNDEM: KT4-AIDAT-T5-OLCUM
+- Soft Sakin·IŞIK `/resident/my-payments?tab=dues` (**Aidat Ödemeleri**).
+- Liste: Ödenmemiş Aidatlar · görünen satırlar IŞIK · çoğunluk **28.04.2026 gecikmiş** (~11 satır a11y).
+- Sayfa metninde **ÖRNEK / 22 Eyl / Eylül 2026 yok** (JS `innerText` tarama).
+- Aynı oturumda **Ödeme Özeti** Bu Ay’da A1+ÖRNEK var (M692) — sekmeler tutarsız.
+**D11 REF-01/12:** Özet’te görünen bekleyen Eyl/ÖRNEK, Aidat Ödemeleri listesinde yok.
+KAPANDI yok. SIRADAKI: D11’i 83’e yaz · ürün paketi D5–D11.
+Hex/kod yok.
