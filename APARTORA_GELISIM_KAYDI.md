@@ -621,3 +621,6 @@ M607–M611. Sahip: telefon+web · çapraz · görüş+tavsiye hemfikiri. 3× KA
 ### 142 — YONETIM §3.7 KT4 örnek veri + uçtan uca (22.09.2026)
 M612–M616. Empty yetmez; anket/aidat/gider yönetici+sakin tel+web; asgari=aktif yüzey sırayla. 3× KABUL %100. Kod yok.
 
+
+### 143 — Gemini 4. oy katılımcısı (22.09.2026)
+Sahip: Gemini eklendi. AI Studio key kasada; köprü `GEMINI_KOPRU.md` + `scripts/gemini-kopru.ps1`. YONETIM kilit eşiği 3×→**4×** (Claude·GPT·DeepSeek·Gemini). M617–M618. Sohbete yapıştırılan key için rotate tavsiyesi. Kod yok.

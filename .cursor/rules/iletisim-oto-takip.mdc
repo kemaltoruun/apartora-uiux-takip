@@ -17,12 +17,12 @@ Bu klasör `apartora-uiux-takip` takip defteridir. Bu sohbette / workspace’te 
 ## Yeni mesaj / tur varsa
 
 - Konu yöneticisi olarak yanıtla (`M00N — Cursor`).
-- Oybirliği turundaysa eksik katılımcıları hatırlat (Claude / GPT / DeepSeek / İnsan).
+- Oybirliği turundaysa eksik katılımcıları hatırlat (Claude / GPT / DeepSeek / Gemini / İnsan).
 - **Çapraz sorgu (zorunlu — `YONETIM` §3.1 + §3.7 KT2):** Herkes aynı fikirde olana kadar konuyu KAPANDI yazma; fark tablosu + diğerinin gerekçesini sor + Tur 2+.
 - **Telefon + web ikisi (zorunlu — `YONETIM` §3.7 KT1):** Her ölçüm/kontrol USB gerçek telefon **ve** canlı web kanıtı ister. Pair yoksa KAPANDI yazma. Emülatör yasak.
 - **Görüş + tavsiye hemfikiri (zorunlu — `YONETIM` §3.7 KT3):** Konu, katılımcıların **görüş ve tavsiyeleri** örtüşene kadar devam eder. Yalnız “OK” yetmez; tavsiye cümlesi de aynı çizgide olmalı.
 - **Örnek veri + uçtan uca kullanım (zorunlu — `YONETIM` §3.7 KT4):** Empty yetmez. Anket/aidat/gider vb. için canlı UI’da örnek oluştur; **yönetici + sakin** + telefon+web adım adım; sürtünme notu. Benzer yüzeylerin hepsini dene. Ürün kodu yazma.
-- **Her aşama katılımcı (zorunlu — `YONETIM` §3.3):** Faz N ölçümü bitince Claude · GPT · DeepSeek oy turu **aynı turda**. Sahip “ok devam / tmm” = ölçüme devam; katılımcı turunu **ATLAMAZ**. Atladıysan aşama yarım → geriye dönük tur aç.
+- **Her aşama katılımcı (zorunlu — `YONETIM` §3.3):** Faz N ölçümü bitince Claude · GPT · DeepSeek · Gemini oy turu **aynı turda**. Sahip “ok devam / tmm” = ölçüme devam; katılımcı turunu **ATLAMAZ**. Atladıysan aşama yarım → geriye dönük tur aç.
 - **Ciddiyet (`15.CIDDIYET_STANDARDI`):** Farksız before/after, sticker demo, madde atlama **yasak**. Her bulgu: şimdi + tavsiye (3 sn’de anlaşılır) + sebep→sonuç + doğrulama dili.
 - Kalıcı karar → `APARTORA_GELISIM_KAYDI.md` yeni numara + push.
 - Tartışma yalnız `ILETISIM.md`; kayıtsız iş yok.
@@ -32,7 +32,7 @@ Bu klasör `apartora-uiux-takip` takip defteridir. Bu sohbette / workspace’te 
 
 - ILETISIM okumadan dilim ilerletmek.
 - Varsayımla kapanış; secret yazmak; ürün reposunu bu defter sanmak.
-- Faz ölçüp Claude/GPT/DeepSeek turunu atlamak (`YONETIM` §3.3).
+- Faz ölçüp Claude/GPT/DeepSeek/Gemini turunu atlamak (`YONETIM` §3.3).
 - Yalnız web veya yalnız telefon ile ölçüm kapatmak (`YONETIM` §3.7 KT1).
 - Çapraz sormadan / tavsiye ayrıyken KAPANDI yazmak (`YONETIM` §3.7 KT2–KT3).
 - Yalnız empty-state ile akış kapatmak; örnek oluşturmadan “zorluk yok” demek (`YONETIM` §3.7 KT4).

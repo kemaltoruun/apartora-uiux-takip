@@ -27,11 +27,11 @@ Geliştirilmekte olan **Apartora** için:
 | Rol | Kim | Hak / yükümlülük |
 |---|---|---|
 | Konu yöneticisi | Cursor | Talimat verir; gündem açar; turları sayar; oybirliğini ilan eder; GELISIM’e aktarır; kimseyi susturmaz |
-| Katılımcı | Claude, GPT, İnsan:Ad | Aynı konuda fikir verir; kanıt/şüphe belirtir; talimat ister; ILETISIM’e yazar |
+| Katılımcı | Claude, GPT, DeepSeek, Gemini, İnsan:Ad | Aynı konuda fikir verir; kanıt/şüphe belirtir; talimat ister; ILETISIM’e yazar |
 | Sistem sahibi | Kemal / Apartora | Dilim onayı, push/deploy, yazılım ekibi talebi nihai kararı |
 | Yazılım ekibi | Apartora | Talep edilen veri / ölçüm / ekran; bu repoya düşen kapanış raporları |
 
-- Her katılımcının görüşü **aynı ağırlıkta** dinlenir (Cursor / Claude / GPT / İnsan).
+- Her katılımcının görüşü **aynı ağırlıkta** dinlenir (Cursor / Claude / GPT / DeepSeek / Gemini / İnsan).
 - Bir konu kapanmadan sonraki dilime **geçilmez**.
 - Yöneticinin “talimat”ı zorunlu iş listesidir; katılımcı itirazını ILETISIM’e yazar, tur devam eder.
 
@@ -42,7 +42,7 @@ Geliştirilmekte olan **Apartora** için:
 Aynı konu için:
 
 1. Yönetici **gündem** açar (`ILETISIM` — soru + kapsam + istenen çıktı).
-2. **Tur 1:** Her katılımcı fikir / görüş / risk yazar (Claude, GPT, DeepSeek, İnsan; Cursor da görüşünü yazar).
+2. **Tur 1:** Her katılımcı fikir / görüş / risk yazar (Claude, GPT, DeepSeek, Gemini, İnsan; Cursor da görüşünü yazar).
 3. Eksik kalan varsa yönetici **hatırlatır**; cevap gelmeden ilerlenmez.
 4. Çelişki varsa yönetici özetler → **Tur 2+** (daraltılmış soru) — **herkes hemfikir olana kadar**.
 5. Oybirliği → GELISIM’e kalıcı kayıt + özet kutusunda “KAPANDI / sıradaki”.
@@ -72,14 +72,14 @@ Sahip (2026-09-20): Çalışma **çok ciddi** yürütülür. Ayrıntı: [`15.CID
 
 ### 3.3 Her aşama = katılımcı değerlendirme (zorunlu)
 
-Sahip talimatı (2026-09-20, tekrar teyit): **Her faz / her ölçüm aşaması** Claude · GPT · DeepSeek (ve varsa İnsan) ile değerlendirilir. Yönetici yalnız ölçüp “sonraki faz” diyemez.
+Sahip talimatı (2026-09-20, tekrar teyit; Gemini eklendi 2026-09-22): **Her faz / her ölçüm aşaması** Claude · GPT · DeepSeek · Gemini (ve varsa İnsan) ile değerlendirilir. Yönetici yalnız ölçüp “sonraki faz” diyemez.
 
 | Ne | Kural |
 |---|---|
 | Faz N ölçümü bitti | Aynı turda **gündem + oy formatı** ILETISIM’e yazılır |
-| Sonraki faza geçiş | Claude + GPT + DeepSeek oy/çapraz **veya** sahip açık “bu turu kır” cümlesi |
+| Sonraki faza geçiş | Claude + GPT + DeepSeek + Gemini oy/çapraz **veya** sahip açık “bu turu kır” cümlesi |
 | Sahip “ok devam / tmm” | **Ölçüme devam** yetkisi; katılımcı turunu **atlanmaz** |
-| Yasak | “Sahip devam dedi” gerekçesiyle Claude/GPT/DeepSeek turunu atlamak |
+| Yasak | “Sahip devam dedi” gerekçesiyle Claude/GPT/DeepSeek/Gemini turunu atlamak |
 
 İhlal = aşama yarım sayılır; geriye dönük tur açılır.
 
@@ -89,7 +89,7 @@ Sahip talimatı: **“Onay vermemi veya devam et dememi bekleme; oylamada %100 y
 
 | Ne | Kural |
 |---|---|
-| Kilit eşiği | Claude · GPT · DeepSeek **aynı seçenek (3×)** = **%100 oybirliği** → gündem **KAPANDI**, sonraki işe geçilir |
+| Kilit eşiği | Claude · GPT · DeepSeek · Gemini **aynı seçenek (4×)** = **%100 oybirliği** → gündem **KAPANDI**, sonraki işe geçilir |
 | Sahip “ok / devam / tmm” | **Gerekmez** (bu madde yürürlükteyken) |
 | %100 yoksa | Tur 2+ / çapraz (§3.1) sürer; çoğunlukla kapatılmaz (§3.1 yasak durur) |
 | Sahip “PAUSE” | Yeni iş açılmaz; açık turlar durur |
@@ -121,7 +121,7 @@ Sahip: *ölçüm beklerken önden giden iş paralel hazırlansın; konu oraya ge
 1. A beklerken B **yazılır** (iskelet / hazır kanıt listesi); A bitince B doldurulur → ILETISIM + oy **aynı turda**.
 2. B’de yazılan “beklenen bulgu” **hipotez** etiketli kalır; A kanıtı gelmeden teyit-OK sayılmaz.
 3. Telefon + web + oy metni **paralel** toplanabilir; kapanış yine §3.4 (%100) ister.
-4. OpenAI/ajan gecikirse yönetici kanıtla oy yazar; API gelince teyit — boş bekleme yok.
+4. OpenAI/Gemini/ajan gecikirse yönetici kanıtla oy yazar; API gelince teyit — boş bekleme yok.
 
 ### 3.7 Kesin talimatlar (sahip · 2026-09-22) — **yürürlükte**
 
@@ -221,6 +221,7 @@ Sonra: ILETISIM’e bulgu + görüş
 | `APARTORA_GELISIM_KAYDI.md` | Kalıcı numaralı tarihçe |
 | `0.INDEX_TAKIP.md` | Rapor indeksi |
 | `.cursor/rules/iletisim-oto-takip.mdc` | Cursor her turda pull+ILETISIM |
+| `GEMINI_KOPRU.md` | Cursor ↔ Gemini API köprüsü |
 | `1.`…`n.` md | Derin raporlar |
 
 ---
@@ -235,4 +236,4 @@ Sohbet kapanabilir; **ILETISIM + GELISIM** kapanmaz. Ayrıntı: [`OTO_TAKIP.md`]
 
 ---
 
-*Sözleşme yürürlük: kayıt 30 · süreklilik: kayıt 31 · 2026-09-20*
+*Sözleşme yürürlük: kayıt 30 · süreklilik: kayıt 31 · Gemini 4. katılımcı: kayıt 143 · 2026-09-22*
