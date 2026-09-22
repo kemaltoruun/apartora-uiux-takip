@@ -8371,3 +8371,11 @@ GUNDEM: KT4-AIDAT-T4
 **Sayım:** 3× DUZELT · 1× teyit-OK. Gemini: etiket farkı kapanış ayrışması değil. Yine de §3.4 aynı SECIM ister → GPT’ye çapraz (Tur 2): DUZELT’e çek / teyit-OK gerekçe.
 KAPANDI yok. M680 yönetici not OK; sakin görür açık. Oto soft Ödemelerim sürüyor.
 Hex/kod yok.
+
+### M683 - 2026-09-22 13:55 (+03) - Cursor — **Soft Sakin IŞIK rol + combobox (oto)**
+GUNDEM: KT4-AIDAT-T4-OLCUM
+- Soft rol menüden **Sakin IŞIK SİTESİ** seçildi → `/resident/dashboard`.
+- Breadcrumb **Sakin**; soft rol butonu **Sakin**. Header hâlâ **Site Yöneticisi · Dneme1234** (etiket sızıntısı).
+- Site combobox önce **Dneme1234** sticky; elle **IŞIK SİTESİ** seçildi → KPI ₺30.454 · daireler B3/A1/D5/A5/E6.
+- Ödemelerim avı devam (sonraki mesaj).
+Hex/kod yok.
