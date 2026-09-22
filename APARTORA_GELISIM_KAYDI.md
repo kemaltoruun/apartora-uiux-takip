@@ -661,3 +661,6 @@ Sahip: alt ajan bitince tur kesilmesin. YONETIM §3.6 mad.5 + `iletisim-oto-taki
 
 ### 155 — KT4-AIDAT T5 4× DUZELT · web ÖRNEK OK · USB D9 (22.09.2026)
 M692–M699 · dosya 83. Sahip Chrome soft Sakin·IŞIK Ödemelerim: A1 + not `ÖRNEK-KT4 tek seferlik A1` (D6/D8 bu yolda web OK). USB Ödeme Geçmişi Bu ay boş / ÖRNEK yok; Mali Durum KPI 141/₺56.400 pair (D9 güçlendi). T5 4× DUZELT YEDEK→Grok (OpenAI 429). KAPANDI yok — USB sakin satır+not şart. Kod yok.
+
+### 156 — KT4 M701–M702: USB 9/2026 satır + D11 sekme (22.09.2026)
+USB Borç Durumu: 9/2026 A1 vade 22 Eyl **görünür**, ÖRNEK metni yok (D6 mobil). Ödeme Geçmişi Bu ay boş (D9). Web Aidat Ödemeleri sekmesinde ÖRNEK/Eyl yok iken Özet’te var (**D11**). D10 tahsilat %0.3≠%30. T5 DUZELT sürer. Kod yok.

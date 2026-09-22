@@ -33,7 +33,7 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Oybirliği | **T5 4× DUZELT** (YEDEK→Grok) · KAPANDI yok |
 | Kanıt | dosya 45–84 |
 | Emülatör | YASAK |
-| Son iletişim | M701 Cursor — USB 9/2026 A1 var · not yok |
+| Son iletişim | M702 Cursor — Aidat Ödemeleri D11 |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
