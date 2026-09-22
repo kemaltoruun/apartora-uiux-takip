@@ -8747,3 +8747,12 @@ GUNDEM: KT4-ANKET-T1 · ANTI-DURAK
 **AIDAT:** T6 paket ayrı durur (D5–D11).
 SIRADAKI: GELISIM paket satırı · soft oturum toparla · benzer yüzey · AIDAT ürün bekler — durma.
 Hex/kod yok.
+
+### M718 - 2026-09-23 00:22 (+03) - Cursor — **soft rol butonları disabled · D16 sert**
+GUNDEM: KT4-ANKET · D16 · OTO-SURUS
+Soft `/manager/dashboard` → Erişim Yetkiniz Yok · «Site Yöneticisi rolüne geç» tık → **disabled** kaldı (önce sakin surveys’te «Sakin rolüne geç» de disabled — M715).
+Doğrudan `/manager/surveys` → **açıldı** (Cevaplar hâlâ 0 · D13 teyit). USB menü Anketler hâlâ «1 bekleyen» (D15 teyit).
+Header soft switch diyalog: Etkin rol **Site Yöneticisi** · «Sakin rolüne geç» / «Güvenlik…» aktif; deny sayfasındaki rol butonları disabled (D16 ayrışması: header switch OK, deny-page switch kırık).
+SIRADAKI: soft Sakin geç · D12–D16 paket durur · AIDAT ürün — durma.
+Hex/kod yok.
+
