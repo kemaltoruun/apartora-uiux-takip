@@ -676,3 +676,7 @@ M709. Soft Sakin ÖRNEK anket Evet gönderildi (Tamamladığım 1). Soft SiteYö
 
 ### 160 — KT4-ANKET USB pair · D13 daraldı · D14/D15 · T1 (23.09.2026)
 M710 · dosya 85. Yönetici Sonuçlar: Özet=0/Taslak · Analitik=1/Evet%100 (D13/D14). USB Anketler kart Yanıtladınız; menü badge 1 bekleyen (D15). T1 4× oy YEDEK slotlarla açık. Kod yok.
+
+### 161 — KT4-ANKET T1 3×DUZELT · Claude CAPRAZ · D16 (23.09.2026)
+M711–M715. Gemini/GPT/DeepSeek DUZELT; Claude teyit-OK (tavsiye aynı çizgi) → Tur2 CAPRAZ. Soft sakin surveys ACCESS_DENIED + rol butonu disabled (D16). USB Etkinlikler empty. KAPANDI yok. Kod yok.
+
