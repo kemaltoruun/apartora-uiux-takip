@@ -8290,3 +8290,10 @@ NOT: Hex/kod yok
 Slot: Claude · GPT · DeepSeek · Gemini (4×). YEDEK-SLOT aktif.
 Hex/kod yok.
 
+
+### M674 - 2026-09-22 13:44 (+03) - Cursor - **Yönetici IŞIK Aidat KPI teyit (oto)**
+GUNDEM: KT4-AIDAT-T4-OLCUM
+- Soft Site Yöneticisi: soft header **· Dneme1234** etiketi yanlış; dues combobox **IŞIK SİTESİ Bursa**.
+- KPI **Bekleyen 141 / ₺56.400** (ÖRNEK oluştur sonrası aynı) - yönetici tarafında kayıt duruyor.
+- Soft Sakin IŞIK Ödemelerim → Dneme listesi (M672) - D8 çift yüzey.
+Hex/kod yok.
