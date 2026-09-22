@@ -518,23 +518,23 @@ M431â€“M435. Hard 403 + Ã–de dark KR1 P1; breadcrumb EN P3. SÄ±radaki: sakin Hes
 ### 112 â€” AI-W-HES: Sakin HesabÄ±m yÃ¶neticiye dÃ¼ÅŸÃ¼rÃ¼yor (22.09.2026)
 `53â€¦` Â· M436â€“M440. Sidebar href `/manager/account` Â· rol YÃ¶netici. Saf sakin HesabÄ±m yÃ¼zeyi bu turda yok. R-AHES1 P1 aday.
 
-### 113 — R-AHES1 P1 ONAR kilit (22.09.2026)
-Sakin Hesabým›yönetici portal P1 (M441–M445).
+### 113 ï¿½ R-AHES1 P1 ONAR kilit (22.09.2026)
+Sakin Hesabï¿½mï¿½yï¿½netici portal P1 (M441ï¿½M445).
 
 
 ### 114 â€” AI HesabÄ±m (Malik) kapandÄ±: Rol=Site YÃ¶neticisi Ã§eliÅŸkisi (22.09.2026)
 `54â€¦` Â· M446â€“M450. Aktif rol Malik doÄŸru Â· form Rol Site YÃ¶neticisi. R-AI19 P1. Dilim 4 paket2.
 
-### 115 — R-AI19 P1 ONAR kilit (22.09.2026)
-Hesabým Rol=Site Yöneticisi (Aktif=Malik) P1 (M451–M455).
+### 115 ï¿½ R-AI19 P1 ONAR kilit (22.09.2026)
+Hesabï¿½m Rol=Site Yï¿½neticisi (Aktif=Malik) P1 (M451ï¿½M455).
 
 
-### 116 — AI Baþlangýç (Malik) kapandý (22.09.2026)
-55… · M456–M460. Onboarding 4 kart · outline CTA · alt nav yok.
+### 116 ï¿½ AI Baï¿½langï¿½ï¿½ (Malik) kapandï¿½ (22.09.2026)
+55ï¿½ ï¿½ M456ï¿½M460. Onboarding 4 kart ï¿½ outline CTA ï¿½ alt nav yok.
 
 
-### 117 — AI Dairelerim (Malik) kapandý (22.09.2026)
-56… · M461–M465. Sahip/Kiracý bölüm · Geciken/Yaklaþan kart.
+### 117 ï¿½ AI Dairelerim (Malik) kapandï¿½ (22.09.2026)
+56ï¿½ ï¿½ M461ï¿½M465. Sahip/Kiracï¿½ bï¿½lï¿½m ï¿½ Geciken/Yaklaï¿½an kart.
 
 
 
@@ -575,3 +575,7 @@ Hesabým Rol=Site Yöneticisi (Aktif=Malik) P1 (M451–M455).
 
 ### 129 â€” Bildirim retry hÃ¢lÃ¢ hata; Dilim4 Malik mobil menÃ¼ paket notu (22.09.2026)
 69â€¦ Â· M544â€“M548. Tekrar dene â†’ aynÄ± hata. BaÅŸarÄ± yolu kapalÄ±. Kod yok.
+
+### 130 â€” Web Sakin Site Mali Durumu soft/hard kapandÄ± (22.09.2026)
+70â€¦ Â· M549â€“M553. Soft finance OK; hard 403 = R-AW1 kapsam+ (my-payments+finance). Kod yok.
+
