@@ -701,3 +701,6 @@ M741–M748. Dört slot YEDEK→Grok teyit-OK (DeepSeek CAPRAZ). Örnek pair yet
 ### 168 — KT4-ETKINLIK ÖRNEK pair · D19/D20 · T1 (23.09.2026)
 M749 · dosya 87. Soft SiteYön ÖRNEK-KT4 etkinlik · soft sakin+USB pair OK. D19: Yeni Etkinlik Tüm Siteler’de disabled. D20: saat 18→21 kayma. T1 4× açık. Kod yok.
 
+### 169 — D17/D18 slug soft-only · ETKINLIK T1 3× (23.09.2026)
+M754–M755. D17: UI special-charges empty · extraordinary→Özet sızıntı. D18: UI reports empty · notifications→Özet. USB’de sekmeler yok. ETKINLIK DeepSeek abort → 3× (Claude/GPT/Gemini); KAPANDI yok. Kod yok.
+
