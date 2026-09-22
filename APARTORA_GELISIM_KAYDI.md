@@ -698,3 +698,6 @@ M739–M740 · dosya 86. Soft SiteYön ÖRNEK-KT4 duyuru Yayında. Soft Sakin + 
 ### 167 — KT4-DUYURU T1 4× teyit-OK · ölçüm KAPANDI (23.09.2026)
 M741–M748. Dört slot YEDEK→Grok teyit-OK (DeepSeek CAPRAZ). Örnek pair yeterli; D16 ANKET paketinde kalır; duyuru ayrı ürün yok. USB+soft Etkinlikler empty pair. Kod yok.
 
+### 168 — KT4-ETKINLIK ÖRNEK pair · D19/D20 · T1 (23.09.2026)
+M749 · dosya 87. Soft SiteYön ÖRNEK-KT4 etkinlik · soft sakin+USB pair OK. D19: Yeni Etkinlik Tüm Siteler’de disabled. D20: saat 18→21 kayma. T1 4× açık. Kod yok.
+

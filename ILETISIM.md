@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · ANTI-DURAK · DUYURU ölçüm KAPANDI · AIDAT/ANKET ürün · KAPANDI yok (ürün) |
-| Aktif gündem | **KT4-ETKINLIK ÖRNEK** · AIDAT T6 D5–D11 ürün · ANKET D12–D16 |
+| Aşama | **AKTİF** · ANTI-DURAK · ETKINLIK T1 · AIDAT/ANKET ürün |
+| Aktif gündem | **KT4-ETKINLIK-T1** · AIDAT T6 D5–D11 · ANKET D12–D16 |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
-| Oybirliği | T6 AIDAT OK · T7 DUZELT · T2 ANKET OK · **DUYURU T1 4× teyit-OK** |
-| Kanıt | dosya 45–86 · M701–M748 |
+| Oybirliği | DUYURU T1 KAPANDI · **ETKINLIK T1 açık** · T6 AIDAT OK |
+| Kanıt | dosya 45–87 · M701–M749 |
 | Emülatör | YASAK |
-| Son iletişim | M748 Cursor — DUYURU T1 KAPANDI · Etkinlik empty |
+| Son iletişim | M749 Cursor — ETKINLIK ÖRNEK pair + T1 |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9007,6 +9007,17 @@ GUNDEM: KT4-DUYURU-T1 · ANTI-DURAK
 **KT4-DUYURU ölçüm KAPANDI** (ürün paketi yok). ANKET/AIDAT ürün sürer.
 USB Etkinlikler: «Henüz etkinlik yok» · soft empty pair (KT1 dürüst empty).
 SIRADAKI: GELISIM 167 · push · soft SiteYön ÖRNEK etkinlik (KT4-ETKINLIK) — durma.
+Hex/kod yok.
+
+### M749 - 2026-09-23 01:05 (+03) - Cursor — **KT4-ETKINLIK ÖRNEK pair OK · D19/D20 · T1 açık**
+GUNDEM: KT4-ETKINLIK-T1 · ANTI-DURAK · REF-14 · REF-15 · REF-01
+**Ölçüm:**
+1. Soft SiteYön `/manager/events` IŞIK: **ÖRNEK-KT4 UX takip etkinliği** · Toplam 1 · Yaklaşan · 25 Eyl.
+2. Soft Sakin `/resident/events`: Yaklaşan **1** · aynı satır · 21:00–23:00 · IŞIK ortak alan.
+3. USB Etkinlikler: ÖRNEK kart · «Katıl» · konum OK — **KT1 pair**.
+4. **D19:** «Yeni Etkinlik» `Tüm Siteler` seçiliyken **disabled**; site seçince açılır.
+5. **D20:** forma 18:00–20:00 yazıldı → UI **21:00–23:00** (saat kayması adayı).
+SIRADAKI: T1 4× (YEDEK→Grok) · dosya 87 · AIDAT T6 ürün — durma.
 Hex/kod yok.
 
 
