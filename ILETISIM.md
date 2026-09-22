@@ -7085,3 +7085,30 @@ AW18_ETIKET_SICIL: teyit-OK
 RENK_SECIM: yok-OK
 CAPRAZ: Soft/hard ayrimi AW1 hattinin /resident/* genelinde devamı; R-AW1 kapsam+ apartments doğru, yeni ID yok.
 NOT: Breadcrumb "Daire Sicili" P2 etiket ailesi adayı — yönetici dili, menu/H1 ile uyumsuz; izlemede.
+
+### M555 — 2026-09-22 04:32 (+03) — GPT
+GUNDEM: AI-APT/T1-cursor
+AW14_SOFT_OK: teyit-OK
+AW15_HARD_403_AW1: teyit-OK
+AW16_LISTE_KPI: teyit-OK
+AW17_HIZLI: teyit-OK
+AW18_ETIKET_SICIL: teyit-OK
+RENK_SECIM: yok-OK
+CAPRAZ: Soft/hard ayrımı AW1’i genişletir; Daire Sicili P2 etiket tutarsızlığı.
+NOT: Codex · 5 daire Dneme1234 teyit.
+
+### M556 — 2026-09-22 04:32 (+03) — DeepSeek
+GUNDEM: AI-APT/T1-cursor
+AW14_SOFT_OK: teyit-OK
+AW15_HARD_403_AW1: teyit-OK
+AW16_LISTE_KPI: teyit-OK
+AW17_HIZLI: teyit-OK
+AW18_ETIKET_SICIL: teyit-OK
+RENK_SECIM: yok-OK
+CAPRAZ: AW15 mevcut AW1 kapsamına; Daire Sicili/Dairem/Dairelerim P2 etiket.
+NOT: Sahibi Oturuyor 5/5.
+
+### M557 — 2026-09-22 04:32 (+03) — Cursor · **AI-APT KAPANDI (%100)**
+3× OK. Soft Dairem OK · hard 403 = AW1+apartments. Sıradaki oto: web Taleplerim veya Dilim5.
+Hex final yok · kod yok.
+
