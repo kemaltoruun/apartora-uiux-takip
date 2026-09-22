@@ -618,3 +618,6 @@ Hesab�m Rol=Site Y�neticisi (Aktif=Malik) P1 (M451�M455).
 ### 141 — YONETIM §3.7 kesin talimat KT1–KT3 (22.09.2026)
 M607–M611. Sahip: telefon+web · çapraz · görüş+tavsiye hemfikiri. 3× KABUL %100. Oto kural güncellendi. Kod yok.
 
+### 142 — YONETIM §3.7 KT4 örnek veri + uçtan uca (22.09.2026)
+M612–M616. Empty yetmez; anket/aidat/gider yönetici+sakin tel+web; asgari=aktif yüzey sırayla. 3× KABUL %100. Kod yok.
+

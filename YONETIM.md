@@ -125,15 +125,20 @@ Sahip: *ölçüm beklerken önden giden iş paralel hazırlansın; konu oraya ge
 
 ### 3.7 Kesin talimatlar (sahip · 2026-09-22) — **yürürlükte**
 
-Sahip (açık cümle): aşağıdaki üç madde **kesin talimat**tır; §3.1 / §3.3 / §3.4 / §3.6 ile birlikte okunur. İhlal = aşama yarım; geriye dönük tur açılır.
+Sahip (açık cümle): aşağıdaki maddeler **kesin talimat**tır; §3.1 / §3.3 / §3.4 / §3.6 ile birlikte okunur. İhlal = aşama yarım; geriye dönük tur açılır.
 
 | # | Madde | Zorunlu davranış | Yasak |
 |---|---|---|---|
 | **KT1** | **Telefon + web ikisi** | Her ölçüm / her kontrol / her “şimdi vs tavsiye” paketi **USB gerçek telefonda** ve **canlı web’de** ayrı kanıtlanır (kare / snapshot / metrik). Pair yoksa gündem **KAPANDI** yazılmaz. | Yalnız web veya yalnız telefon ile kapanış; emülatör; “mobil sonra bakarız” |
 | **KT2** | **Çapraz sorgulama** | Her oy turunda §3.1 uygulanır: fark tablosu → diğerinin gerekçesi → Tur 2+ | Çapraz sormadan oybirliği ilanı; çoğunlukla kapatma |
 | **KT3** | **Görüş + tavsiye hemfikiri** | Konu, katılımcıların **görüşleri ve tavsiyeleri** aynı çizgide olana kadar **devam eder**. Yalnız “OK/teyit” yetmez; tavsiye cümlesi de örtüşmeli (§3.4 %100). | Görüş uyuşur tavsiye ayrılırken KAPANDI; tek taraflı tavsiye ile ilerleme |
+| **KT4** | **Örnek veri + uçtan uca kullanım** (sahip 2026-09-22 ek) | Boş durum / tek ekran yetmez. Anket, aidat, gider vb. için **canlı UI’da örnek kayıt oluşturulur**; akış **yönetici + sakin** (ve ilgili diğer roller) tarafında, **telefon + web** ile adım adım incelenir: oluştur → gör → işle/cevapla → zorluk/sürtünme notu. Aynı kalıp **tüm benzer yüzeylere** uygulanır (hepsini dene). | Yalnız empty-state ile kapanış; “örnek yoktu” gerekçesiyle akış atlama; tek rol / tek cihaz; ürün kodu yazarak veri uydurma (UI akışı dışında) |
 
-**Not:** KT1, §3.6 madde 3’ü **zorunlu** kılar (paralel toplanabilir; kapanış için ikisi de dolu olmalı). KT3, §3.1 “herkes aynı fikirde”yi **tavsiye örtüşmesi**ne genişletir.
+**Not:** KT1, §3.6 madde 3’ü **zorunlu** kılar (paralel toplanabilir; kapanış için ikisi de dolu olmalı). KT3, §3.1 “herkes aynı fikirde”yi **tavsiye örtüşmesi**ne genişletir. KT4 = kullanım zorluğu tespiti; hex final / ürün repo kodu yok — canlı panel UI’si.
+
+**KT4 uygulama (oy turu netliği · 2026-09-22):**
+- **Asgari:** Aktif ölçülen yüzey (ör. anket) uçtan uca zorunlu; aynı dilimde sıradaki benzerler (aidat, gider…) empty ile **atlanmaz** — sırayla KT4, hepsi aynı anda değil.
+- **Örnek veri:** Canlı deneme kaydı; raporlarda `ÖRNEK-KT4` etiketi. Ölçüm sonrası silme **zorunlu değil** (sahip isterse temizlenir); kapanış şartı değil.
 
 ## 4. Kademeli ilerleme (dilimler)
 
