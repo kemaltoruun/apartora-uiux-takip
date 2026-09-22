@@ -599,3 +599,7 @@ Hesab�m Rol=Site Y�neticisi (Aktif=Malik) P1 (M451�M455).
 ### 136 — Web Sakin Belgelerim soft/hard kapandı (22.09.2026)
 `76…` · M578–M582. Soft empty OK; hard 403 = R-AW1+my-documents. Kod yok.
 
+
+### 137 — Web Sakin Etkinlikler soft/hard kapandı (22.09.2026)
+`77…` · M583–M587. Soft events OK (0); hard 403 = R-AW1+events. Kod yok.
+
