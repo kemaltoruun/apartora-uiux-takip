@@ -8252,3 +8252,13 @@ NOT: Hex/kod yok · ajan=[Gemini](b43eb78e-3a6d-41f3-be99-63ae01639946)
 **Hemfikir:** oluştur+KPI+toplam pair OK; sakin IŞIK satır+ÖRNEK notu olmadan KAPANDI yok. Sıradaki ölçüm: soft/hard sakin IŞIK Ödemelerim + telefon satır (D6/D8); D9 ayrı.
 Hex/kod yok.
 
+
+### M671 - 2026-09-22 13:03 (+03) - Cursor — **T3 sonrası sakin IŞIK ölçüm (D6/D8 teyit)**
+GUNDEM: KT4-AIDAT-T3-OLCUM
+- Soft Sakin + site **IŞIK**: dashboard ödenmemiş **₺30.454,29** (pair OK).
+- Soft menüden `/resident/my-payments` daha önce Dneme birimleri listeliyordu (D8).
+- Hard navigate aynı URL → yine **Erişim Yetkiniz Yok** (D5 ara sıra).
+- Telefon Ödeme Geçmişi listesinde **9/2026 / ÖRNEK notu satırı bulunamadı** (toplam +400 var; satır filtresi D9).
+T3 4× DUZELT (M666–M670) doğrulandı: KAPANDI yok. Sıradaki: soft menü tıklamasıyla Ödemelerim (hard URL değil) + A1 satır/not avı.
+Hex/kod yok.
+
