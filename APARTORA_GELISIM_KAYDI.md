@@ -686,3 +686,6 @@ M716–M717. Claude CAPRAZ→DUZELT. Dört slot DUZELT. Paket ürün: soft deny 
 ### 163 — KT4-ANKET T2 4× teyit-OK · D12–D16 aktarım (23.09.2026)
 M724–M728. Dört slot YEDEK→Grok teyit-OK: paket ürün ekibine aktarılır. T1 DUZELT durur. KAPANDI yok. Soft Ortak Giderler örnek veri OK (M723). AIDAT D5–D11 paralel. Kod yok.
 
+### 164 — AIDAT D17/D18 sekme bulguları (23.09.2026)
+M729–M731 · dosya 83. Olağanüstü tab özet sızıntısı (D17). Bildirimlerim tab→dashboard (D18). İşlem Geçmişi 2 kayıt OK. AIDAT ürün paketi D5–D18. Kod yok.
+

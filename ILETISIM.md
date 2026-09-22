@@ -27,13 +27,13 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
 | Aşama | **AKTİF** · ANTI-DURAK · iki paket ürün aktarım · KAPANDI yok |
-| Aktif gündem | **AIDAT D5–D11** + **ANKET D12–D16** ürün · yeniden ölçüm bekle |
+| Aktif gündem | **AIDAT D5–D18** + **ANKET D12–D16** ürün · yeniden ölçüm bekle |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | T6 AIDAT OK · T1 ANKET DUZELT · **T2 ANKET 4× teyit-OK** |
-| Kanıt | dosya 45–85 · M701–M728 |
+| Kanıt | dosya 45–85 · M701–M731 |
 | Emülatör | YASAK |
-| Son iletişim | M730 Cursor — T2 yutuldu · İşlem Geçmişi 2 kayıt |
+| Son iletişim | M731 Cursor — Bildirimlerim→dashboard D18 |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
