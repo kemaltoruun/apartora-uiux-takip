@@ -585,3 +585,6 @@ Hesab�m Rol=Site Y�neticisi (Aktif=Malik) P1 (M451�M455).
 ### 132 — Web Sakin Taleplerim soft/hard kapandı (22.09.2026)
 72… · M558–M562. Soft empty OK; hard 403 = R-AW1+requests. Kod yok.
 
+### 133 — Dilim5 çerçeve: Güvenlik + AFW1 ilk (22.09.2026)
+73… · M563–M567. Dilim4 sınırı OK. Kod yok.
+
