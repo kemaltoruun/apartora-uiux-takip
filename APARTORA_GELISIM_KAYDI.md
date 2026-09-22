@@ -683,3 +683,6 @@ M711–M715. Gemini/GPT/DeepSeek DUZELT; Claude teyit-OK (tavsiye aynı çizgi) 
 ### 162 — KT4-ANKET T1 4× DUZELT kilit · D12–D16 paket (23.09.2026)
 M716–M717. Claude CAPRAZ→DUZELT. Dört slot DUZELT. Paket ürün: soft deny (D12/D16), sayaç ayrışması (D13), durum etiketi (D14), badge bayat (D15). KAPANDI yok — düzeltme sonrası yeniden ölçüm. Kod yok.
 
+### 163 — KT4-ANKET T2 4× teyit-OK · D12–D16 aktarım (23.09.2026)
+M724–M728. Dört slot YEDEK→Grok teyit-OK: paket ürün ekibine aktarılır. T1 DUZELT durur. KAPANDI yok. Soft Ortak Giderler örnek veri OK (M723). AIDAT D5–D11 paralel. Kod yok.
+
