@@ -144,7 +144,7 @@ Sahip (açık cümle): aşağıdaki maddeler **kesin talimat**tır; §3.1 / §3.
 ### 3.8 UX referans seti REF-01…20 (sahip · 2026-09-22) — **yürürlükte**
 
 Kaynak envanter: [`82.UX_REFERANS_TALIMAT_ENVANTERI_2026-09-22.md`](./82.UX_REFERANS_TALIMAT_ENVANTERI_2026-09-22.md).  
-Oy: GELISIM **145/147** (01…16) · **149** (17…20 REF-EK %100).
+Oy: GELISIM **145/147** (01…16) · **152** (17…20 REF-EK %100).
 
 | Ne | Kural |
 |---|---|

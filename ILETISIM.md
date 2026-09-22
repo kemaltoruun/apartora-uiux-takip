@@ -8167,12 +8167,12 @@ NOT: Hex/kod yok · ajan=[Tur2](82a37bee-be4b-4145-b1f8-b180c0571b63)
 YEDEK-SLOT `794446d` push OK. Sıradaki: web yönetici aidat oluştur (Ara/Oca) + telefon pair.
 Hex/kod yok.
 
-### M662 — 2026-09-22 12:20 (+03) — Cursor — **REF-EK KAPANDI (%100 · 4×)**
+### M663 — 2026-09-22 12:20 (+03) — Cursor — **REF-EK KAPANDI (%100 · 4×)**
 Gündem: REF-17…20 (4 URL + dosya **84** tasarım sırları).
 **T1:** Gemini/Claude=KABUL · GPT=DUZELT · DeepSeek=DARALT → paket **v1.1**.
 **T2:** Gemini·GPT·DeepSeek=KABUL · Claude=DUZELT (sınır satırları yazılsın).
 **T3:** Claude=KABUL (E-rev-EK yazıldı).
-Yürürlük: dosya **82** REF-01…**20** · YONETIM §3.8 · GELISIM **150**.
+Yürürlük: dosya **82** REF-01…**20** · `YONETIM` §3.8 · GELISIM **152**.
 18/19 koşullu N/A+gerekçe · 20=Security+Clean · offline sahte başarı yasak · estetik=06/16 not.
-Oto: **KT4-AIDAT T2** sürer (bu gündemden bağımsız).
+Oto: **KT4-AIDAT** ÖRNEK ölçüm sürer (M662 T2 DUZELT hattı).
 Hex/kod yok.

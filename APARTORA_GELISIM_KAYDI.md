@@ -649,3 +649,6 @@ M651–M661. Kota/Composer dolunca boş ajanla slot doldur; 4× her tur dolu; as
 ### 151 — KT4-AIDAT T2 hemfikir DUZELT → ÖRNEK (22.09.2026)
 M657–M658 · M662. Claude+DeepSeek T2’de DUZELT’e döndü; 4× aynı çizgi: boş dönem + ÖRNEK-KT4 oluştur→gör. KT4 KAPANDI değil. Kod yok.
 
+
+### 152 — REF-EK 17…20 zorunlu sete eklendi (22.09.2026)
+4 URL + dosya 84. T1 ayrılık → v1.1 (18/19 koşullu N/A · 20 Security+Clean · offline sahte başarı yasak) → T3 4×KABUL. YONETIM §3.8 = REF-01…20. M663. Kod yok.
