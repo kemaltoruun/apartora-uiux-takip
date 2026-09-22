@@ -8416,3 +8416,20 @@ GUNDEM: KT4-AIDAT-T4-OLCUM
 - Görünen kalemler: 1/2026 · 4/2026 (E6/A1/B3/A5 ₺1–₺400) — **9/2026 yok** · **ÖRNEK metni yok** (`HAS_ORNEK=false`).
 - **D9** teyit (REF-08/03). T4 4× DUZELT ile uyumlu. KAPANDI yok.
 Hex/kod yok.
+
+### M688 - 2026-09-22 19:53 (+03) - Cursor — **ANTI-DURAK (sahip)**
+GUNDEM: OTO-SURUS
+Sahip: “sürekli devam et demek zorunda mıyım?” → **Hayır.**
+Kök: takip kuralı sür der; Cursor runtime subagent/shell bitince tur keser.
+Çözüm yürürlükte: `YONETIM` §3.6 mad.5 · `.cursor/rules/iletisim-oto-takip.mdc` ANTI-DURAK · `OTO_TAKIP.md` · GELISIM **154**.
+Zorunlu: bildirim≠tur sonu · push=ara kayıt · her uyanışta `SIRADAKI:` · “devam?” yasak · yalnız `PAUSE`/KAPANDI durur.
+SIRADAKI: soft Sakin IŞIK Ödemelerim + USB D9 canlı teyit; D5–D9 paketi ürün aktarımı.
+Hex/kod yok.
+
+### M689 - 2026-09-22 19:54 (+03) - Cursor — **Hard my-payments 403 (D5 yeniden)**
+GUNDEM: KT4-AIDAT-OLCUM
+- Saat ~19:54: `/resident/my-payments` → **Erişim Yetkiniz Yok** (oturum soft Sakin düşmüş).
+- CTA: **Sakin rolüne geç** (tıklandı; geçiş bekleniyor) — D5/REF-14: hard URL soft bağlam ister.
+- USB (aynı oturum öncesi dump): ÖRNEK/9/2026 yok duruyor.
+SIRADAKI: soft Sakin oturumu tutunca IŞIK Ödemelerim satır avı.
+Hex/kod yok.
