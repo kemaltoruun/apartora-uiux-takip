@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · ANTI-DURAK · ANKET T1 4× DUZELT paket · AIDAT ürün |
-| Aktif gündem | **KT4-ANKET** D12–D16 paket aktarım · AIDAT D5–D11 |
+| Aşama | **AKTİF** · ANTI-DURAK · ANKET paket + AIDAT ürün · soft Sakin OK |
+| Aktif gündem | **KT4-ANKET** D12–D16 paket · **AIDAT** D5–D11 ürün |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | T6 AIDAT OK · **ANKET T1 4× DUZELT** · KAPANDI yok |
-| Kanıt | dosya 45–85 · M701–M717 |
+| Kanıt | dosya 45–85 · M701–M718 |
 | Emülatör | YASAK |
-| Son iletişim | M717 Cursor — T1 4× DUZELT kilit |
+| Son iletişim | M718 Cursor — soft recover · D16 daraldı |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -8753,6 +8753,7 @@ GUNDEM: KT4-ANKET · D16 · OTO-SURUS
 Soft `/manager/dashboard` → Erişim Yetkiniz Yok · «Site Yöneticisi rolüne geç» tık → **disabled** kaldı (önce sakin surveys’te «Sakin rolüne geç» de disabled — M715).
 Doğrudan `/manager/surveys` → **açıldı** (Cevaplar hâlâ 0 · D13 teyit). USB menü Anketler hâlâ «1 bekleyen» (D15 teyit).
 Header soft switch diyalog: Etkin rol **Site Yöneticisi** · «Sakin rolüne geç» / «Güvenlik…» aktif; deny sayfasındaki rol butonları disabled (D16 ayrışması: header switch OK, deny-page switch kırık).
-SIRADAKI: soft Sakin geç · D12–D16 paket durur · AIDAT ürün — durma.
+**Sonra:** header «Sakin rolüne geç» → `/resident/dashboard` IŞIK OK (₺30.454 · soft Sakin toparlandı). Deny-page butonları hâlâ kırık (D16 daraldı: yol-bağımlı).
+SIRADAKI: soft Sakin Anketler teyit · AIDAT ürün / D12–D16 paket — durma.
 Hex/kod yok.
 
