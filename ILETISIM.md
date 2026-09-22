@@ -8920,6 +8920,15 @@ USB Makbuz empty · Genel Kurul empty (dürüst empty).
 SIRADAKI: USB’de ödeme sekmeleri yoksa soft-only not + D17/D18 ayrı gündem · AIDAT T6 ürün — durma.
 Hex/kod yok.
 
+### M739 - 2026-09-23 00:46 (+03) - Cursor — **Duyurular empty pair web+USB · KT4-DUYURU adayı**
+GUNDEM: benzer yüzey · ANTI-DURAK
+Soft `/resident/announcements`: Toplam 0 · «Sonuç bulunamadı.»
+USB Duyurular sekmesi: «Henüz duyuru yok» — **KT1 empty pair OK** (dürüst empty).
+KT4-DUYURU için ÖRNEK duyuru oluşturma sırada (empty yetmez).
+SIRADAKI: soft SiteYön ÖRNEK duyuru oluştur · T6 ürün — durma.
+Hex/kod yok.
+
+
 
 
 
