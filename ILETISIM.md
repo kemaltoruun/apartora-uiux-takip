@@ -8433,3 +8433,10 @@ GUNDEM: KT4-AIDAT-OLCUM
 - USB (aynı oturum öncesi dump): ÖRNEK/9/2026 yok duruyor.
 SIRADAKI: soft Sakin oturumu tutunca IŞIK Ödemelerim satır avı.
 Hex/kod yok.
+
+### M690 - 2026-09-22 19:56 (+03) - Cursor — **Soft rol geçiş kilitlendi (D5)**
+GUNDEM: KT4-AIDAT-OLCUM
+- `/manager/dashboard` ve `/resident/*` her ikisi **403** + “X rolüne geç” butonu: tıklanınca disabled → 12s+ sonra yine 403 (geçiş tutmuyor).
+- Otomasyon sekmesi soft bağlam kırık; USB hâlâ önizleme app’te (D9 kanıtı duruyor).
+SIRADAKI: sahip oturumu otomasyon sekmesinde yenileyince soft Site Yön→Sakin IŞIK Ödemelerim; ben USB + GELISIM tarafını sürüyorum (ANTI-DURAK — “devam?” yok).
+Hex/kod yok.
