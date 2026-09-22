@@ -8408,3 +8408,11 @@ GUNDEM: KT4-AIDAT-T4
 Kanıt özeti: yönetici A1 not OK (M680) · soft IŞIK Ödemelerim=Dneme (M684 D8) · USB 9/2026+ÖRNEK yok (D9).
 Sıradaki oto: USB pair teyit + benzer yüzey; GELISIM aktarımı DUZELT paketi (D5–D9) ürün tarafına.
 Hex/kod yok.
+
+### M687 - 2026-09-22 13:59 (+03) - Cursor — **USB D9 teyit (299923ee)**
+GUNDEM: KT4-AIDAT-T4-OLCUM
+- Cihaz **299923ee** · paket `com.apartora.mobile.preview` · ekran **Ödeme Geçmişi**.
+- Filtreler: Tümü/Ödendi/Bekleyen/Geciken · Son7/Son30/Bu ay görünür.
+- Görünen kalemler: 1/2026 · 4/2026 (E6/A1/B3/A5 ₺1–₺400) — **9/2026 yok** · **ÖRNEK metni yok** (`HAS_ORNEK=false`).
+- **D9** teyit (REF-08/03). T4 4× DUZELT ile uyumlu. KAPANDI yok.
+Hex/kod yok.
