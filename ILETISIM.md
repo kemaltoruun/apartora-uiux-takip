@@ -8765,4 +8765,13 @@ ANKET: T1 4× DUZELT D12–D16 paket ayrı.
 SIRADAKI: USB Mali Durum/Ödeme Geçmişi D6/D9 yeniden bak (ürün yoksa not aynı) · AIDAT+ANKET ürün — durma.
 Hex/kod yok.
 
+### M720 - 2026-09-23 00:28 (+03) - Cursor — **USB Ödeme Geçmişi D9 teyit · soft ÖRNEK OK**
+GUNDEM: KT4-AIDAT · ANTI-DURAK
+Soft (M719): IŞIK Ödemelerim A1+ÖRNEK not OK.
+USB Ödeme Geçmişi: Tümü → 6/2027 yaklaşıyor satırları; **Bu ay** tık → hâlâ 6/2027 (9/2026 / ÖRNEK yok) → **D9** ürün bekler, değişmedi.
+USB Mali Durum KPI: Bekleyen 140 / ₺56.000 · Tahsilat **%30** (önceki D10 %0.3 etiketi — bu ekranda %30 yazıyor; formül/etiket paketi durur).
+SIRADAKI: D5–D16 ürün paketleri · soft/USB pair ürün sonrası yeniden ölç — oto durmaz (PAUSE yok).
+Hex/kod yok.
+
+
 
