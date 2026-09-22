@@ -8176,3 +8176,79 @@ Yürürlük: dosya **82** REF-01…**20** · `YONETIM` §3.8 · GELISIM **152**.
 18/19 koşullu N/A+gerekçe · 20=Security+Clean · offline sahte başarı yasak · estetik=06/16 not.
 Oto: **KT4-AIDAT** ÖRNEK ölçüm sürer (M662 T2 DUZELT hattı).
 Hex/kod yok.
+
+### M664 - 2026-09-22 12:54 (+03) - Cursor — **ÖRNEK-KT4 oluşturuldu (Tek Seferlik) · pair**
+GUNDEM: KT4-AIDAT-ÖRNEK
+**Oluştur (yönetici web · IŞIK):** Tek Seferlik Borç · A Blok · 1 · ₺400 · vade 2026-09-22 · not `ÖRNEK-KT4 tek seferlik A1` · diyalog kapandı.
+**Kanıt KPI:** Bekleyen **140→141** · **₺56.000→₺56.400** (+400). Aylık Yeni Aidat Eyl/Eki/Kas/Ara/Oca **409** (D3) ayrı; dönem bağımsız yol çalıştı.
+**Sakin soft web:** Dashboard (IŞIK bağlamında) ödenmemiş **₺30.454,29** (= önceki 30.054+400). Soft `/resident/my-payments` birim listesi **yalnız Dneme** A-201…301; IŞIK A1 satırı/notu bu yüzeyde yok (D6 sürer + **D8** site/daire sızıntısı). Hard my-payments ara sıra **403** (D5).
+**Telefon USB 299923ee · IŞIK · pull-refresh:** Geciken ₺10.054,29 · Yaklaşan **₺20.000→₺20.400** · Bu ay **₺2.000→₺2.400** · Toplam **₺30.054→₺30.454** (=web KPI). Ödeme Geçmişi: **Bu ay / Son 7 gün / Bekleyen** filtreleri yanıltıcı (2027 veya boş) — **D9** REF-08/03.
+**KT1:** tel+web toplam +400 örtüşür. **KT4 zincir:** oluştur✓ · sakin kartında ÖRNEK notu hâlâ yok · KAPANDI yazılmaz — T3 oy.
+Oy şablonu:
+```
+GUNDEM: KT4-AIDAT-T3
+SECIM: teyit-OK | DUZELT | SOR
+ÖRNEK: Tek Seferlik A1 ₺400 oluştu mu? Pair toplam yeterli mi? Not yok → KAPANDI?
+D8-D9: …
+CAPRAZ: …
+TAVSIYE: …
+NOT: Hex/kod yok
+```
+Hex/kod yok.
+
+
+### M665 - 2026-09-22 12:55 (+03) - Cursor — **T3 oy açıldı · YEDEK GPT**
+GUNDEM: KT4-AIDAT-T3
+OpenAI asıl GPT **429** → `BEKLEME-TOKEN: GPT` + **YEDEK: GPT→Grok** (Task) aynı turda.
+Slotlar: Claude Task · GPT-yedek Grok · DeepSeek Grok · Gemini GPT-5.6 Task — **4× dolu**.
+Kanıt özeti M664 (Tek Seferlik +₺400 · tel=web toplam). KAPANDI oylara bağlı.
+Hex/kod yok.
+
+
+### M666 - 2026-09-22 12:57 (+03) - Claude
+GUNDEM: KT4-AIDAT-T3
+SECIM: DUZELT
+ÖRNEK: Tek Seferlik A1 ₺400 oluştu · KPI +400 · tel=web +400 pair — oluştur bacağı kapandı. Soft Ödemelerim'de IŞIK A1+ÖRNEK notu yok (D6+D8) → sakin görür kapanmadı. Toplam pair borç değişimini doğrular; satır+not görünürlüğünü doğrulamaz. Not şart; KAPANDI yok.
+D8-D9: D8 soft IŞIK bağlamında Dneme birimleri; D9 mobil filtre 2027/boş. Ayrı bulgu.
+CAPRAZ: T2 yönetici+sakin+tel+web zinciri; sakin bacağı eksik.
+TAVSIYE: IŞIK A1 satırı + ÖRNEK notu sakin web/mobilde görünene kadar KAPANDI yazma.
+NOT: Hex/kod yok · ajan=[Claude](4d45f172-3b20-4f24-8459-55117bfb2a4a)
+
+### M667 - 2026-09-22 12:57 (+03) - GPT
+GUNDEM: KT4-AIDAT-T3
+SECIM: DUZELT
+ÖRNEK: Tek Seferlik A1 ₺400 + KPI/tel pair OK; KAPANDI için yetmez. Sakin kartında ÖRNEK notu ve IŞIK A1 satırı yok. Not kartta şart.
+D8-D9: D8 kabul — IŞIK oturumunda Dneme listesi. D9 kabul — filtreler yanıltıcı.
+CAPRAZ: T2 4× DUZELT çizgisi; oluşturma itirazı kapandı (Tek Seferlik geçerli). Toplam pair teyit-OK'a yetmez.
+TAVSIYE: KAPANDI yok. Sıradaki: sakin IŞIK Ödemelerim A1+not + telefon aynı satır.
+NOT: Hex/kod yok · YEDEK: GPT→Grok · ajan=[GPT-yedek](b9fa99ae-bbbf-4047-a764-ff9bbc295599)
+
+### M668 - 2026-09-22 12:57 (+03) - DeepSeek
+GUNDEM: KT4-AIDAT-T3
+SECIM: DUZELT
+ÖRNEK: Oluştu + tel=web toplam pair OK (KT1). Sakin kartında not/satır yok → gör yarım. Not görünmeden KAPANDI yazılmaz.
+D8-D9: D8 + D9 kabul.
+CAPRAZ: T2 DUZELT duruyor; tutar örtüşmesi gör yerine geçmez. D6 yeni satırda tekrar.
+TAVSIYE: KAPANDI yok. IŞIK A1 + ÖRNEK notu web+tel; D9 filtre eşlensin.
+NOT: Hex/kod yok · ajan=[DeepSeek](4aee9fcb-d423-4d9d-83a4-99fffc215888)
+
+### M669 - 2026-09-22 12:57 (+03) - Gemini
+GUNDEM: KT4-AIDAT-T3
+SECIM: DUZELT
+ÖRNEK: A1 ₺400 oluştu; KPI+pair yeterli değil — kayıt/not sakin IŞIK yüzeyinde görünmedi, zincir kapanmadı.
+D8-D9: İkisi sürüyor; yanlış site bağlamı ve yanıltıcı filtreler kapanışı engeller.
+CAPRAZ: T1/T2 yeni kayıt şartı karşılandı; yalnız toplam artışı gör şartının yerine geçmez.
+TAVSIYE: IŞIK A1+not doğru sakin web/mobilde; filtreler doğru dönem/durum; sonra pair + KAPANDI.
+NOT: Hex/kod yok · ajan=[Gemini](b43eb78e-3a6d-41f3-be99-63ae01639946)
+
+### M670 - 2026-09-22 12:57 (+03) - Cursor — **KT4-AIDAT T3 4× DUZELT**
+| Kim | SECIM |
+|---|---|
+| Claude | DUZELT (M666) |
+| GPT (YEDEK Grok) | DUZELT (M667) |
+| DeepSeek | DUZELT (M668) |
+| Gemini | DUZELT (M669) |
+
+**Hemfikir:** oluştur+KPI+toplam pair OK; sakin IŞIK satır+ÖRNEK notu olmadan KAPANDI yok. Sıradaki ölçüm: soft/hard sakin IŞIK Ödemelerim + telefon satır (D6/D8); D9 ayrı.
+Hex/kod yok.
+
