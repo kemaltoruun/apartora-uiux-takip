@@ -156,25 +156,28 @@ Kaynak envanter: [`82.UX_REFERANS_TALIMAT_ENVANTERI_2026-09-22.md`](./82.UX_REFE
 
 **Uygunluk (yönetici özeti):** Set Apartora takip için **uygun** — denetçi kontrol listesi (kullanıcıya 16 madde dayatılmaz). İçerik REF-01…13; 14–16 mevcut kapı köprüsü. Parkinson/ardışık yerleştirme 01/03’e gömülü (bilinçli).
 
-### 3.9 Token / kota BEKLEME + OTO-KATILIM-YENILE (sahip · 2026-09-22) — **yürürlükte**
+### 3.9 Token / kota BEKLEME + OTO-KATILIM-YENILE + YEDEK-SLOT (sahip · 2026-09-22) — **yürürlükte**
 
-**Değerlendirme (yönetici):** Evet — **dolan katılımcı** bekletilir; hayır — **tüm oto hattı** bekletilmez. **Süre / kota dönünce oto yeniden katılım zorunlu** (sahip teyit 2026-09-22).
+**Değerlendirme (yönetici):** Evet — **dolan katılımcı** bekletilir; hayır — **tüm oto hattı** bekletilmez. **Süre / kota dönünce oto yeniden katılım zorunlu**. **Katılımcı sayısı her turda 4× dolu tutulur** (sahip · 2026-09-22): kota dolanı beklemeye alınca **boştaki ajan/model varsa hemen yedek** — slot boş bırakılmaz.
 
 | Durum | Zorunlu | Yasak |
 |---|---|---|
-| API 429 / kota / token bitti | O katılımcı **BEKLEME-TOKEN**; ILETISIM özet + gündemde kim · neden · `yeniden=` tahmini pencere | Sessizce atlamak; 3× ile KAPANDI |
-| Diğer 3 oy hazır | Kanıtlı gündem sürer; fark tablosunda slot = `BEKLEME-TOKEN` | “Çoğunluk yeter” |
-| Oto (beklemede) | §3.6 **B** devam (iskelet · ölçüm · sıradaki yüzey · REF etiket) | Boş spin / idle “token bekleniyor” |
-| Geçici oy | Yönetici kanıtla `YONETICI-GECICI` yazabilir; gerçek oy gelince **TEYIT** veya **DUZELT** | Geçiciyi nihai saymak |
-| **OTO-KATILIM-YENILE** | Kota/süre dolunca yönetici **aynı turda otomatik** o katılımcıya yeniden sorar (Claude→GPT→DeepSeek→Gemini sırası); yanıt → çapraz → 4× kilit. Bekleyen slot ILETISIM’de kapanana kadar **her kullanıcı mesajı / oto turunda** yeniden dener | Unutmak; “sonra bakarız”; BEKLEME’yi kalıcı düşürmek; süre dolunca sormadan KAPANDI |
+| API 429 / kota / token / Composer-dolu | O kimlik **BEKLEME-TOKEN** + özet: kim · neden · `yeniden=` | Sessiz atlama; 3× KAPANDI |
+| **YEDEK-SLOT (4× DOLU)** | Aynı turda **boşta ajan varsa** o slotu doldur: etiket `YEDEK: Asıl→YedekModel` (ör. `YEDEK: GPT→Grok`). Oy ILETISIM’de **asıl kimlik satırında** yazılır, NOT’ta yedek belirtilir. **Hedef her zaman 4 oy** | Boş slot ile turu ilerletmek; “3 yeter”; yedek varken beklemek |
+| Yedek havuz (öncelik) | Kota/context’i **açık** olan: Grok · Claude Task · GPT Task · OpenAI MCP · diğer boş model — **Composer doluysa Composer’a yeni tur verme** | Aynı dolu modele tekrar basmak |
+| Diğer oy hazır | Gündem sürer; BEKLEME + YEDEK paralel | “Çoğunluk yeter” |
+| Oto (beklemede) | §3.6 **B** devam | Idle “token bekleniyor” |
+| Geçici oy | `YONETICI-GECICI` mümkün; asıl/yedek gelince **TEYIT/DUZELT** | Geçiciyi nihai saymak |
+| **OTO-KATILIM-YENILE** | `yeniden=` / kota reset → **asıl kimliğe** otomatik yeniden sor; asıl oy gelince yedek **TEYIT** veya **DUZELT** ile kapanır | Unutmak; süre dolunca sormadan KAPANDI |
 
 **Oto bağ (zorunlu sıra):**
-1. Kota düştü → özet kutusuna `BEKLEME-TOKEN: Kim · neden · yeniden=…`
-2. Ölçüm/B işi sürer (hattı dondurma).
-3. Pencere geldi / sonraki oto tur → **aynı gündemde** o kimlik için oy isteği **otomatik** (sahip “devam” beklemez).
-4. Oy gelince `BEKLEME-TOKEN` kalkar · çapraz · 4× → KAPANDI veya Tur 2+.
+1. Kota düştü → `BEKLEME-TOKEN: Kim · neden · yeniden=…`
+2. **Hemen** boş ajan tara → varsa `YEDEK-SLOT` ile 4. oy iste (sahip “devam” yok).
+3. Ölçüm/B işi sürer (hattı dondurma).
+4. `yeniden=` doldu → **asıl** kimliğe otomatik yeniden sor.
+5. 4× (asıl veya yedek dolu) → çapraz → KAPANDI veya Tur 2+.
 
-**§3.6 madde 4 ile ilişki:** “API gecikirse yönetici oy yazar” = `YONETICI-GECICI`; §3.9 onu **BEKLEME-TOKEN** + **OTO-KATILIM-YENILE** ile sıkılaştırır. Kilit yine §3.4 **4×**.
+**§3.6 madde 4 ile ilişki:** `YONETICI-GECICI` acil kaçış; §3.9 = BEKLEME + YEDEK-SLOT + OTO-KATILIM-YENILE. Kilit yine §3.4 **4×**.
 
 ## 4. Kademeli ilerleme (dilimler)
 

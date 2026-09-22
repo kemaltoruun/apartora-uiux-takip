@@ -639,3 +639,13 @@ Dosya 82 yürürlük YONETIM §3.8; 81 sürtünmelere REF; indeks 81–82; oto k
 
 ### 148 — §3.9 TOKEN-BEKLEME + OTO-KATILIM-YENILE (22.09.2026)
 M637–M643. Dolan katılımcı bekler; oto B devam; süre dolunca otomatik yeniden oy. 4× KABUL. Kod yok.
+
+### 149 — KT4-AIDAT ölçüm (dosya 83) — oy açık (22.09.2026)
+M644. IŞIK tel+web: oluştur 409 (Eyl/Eki/Kas) · sakin A1 Eylül ₺400 · mobil Borç Durumu pair. D1–D7 REF. 4× oy bekliyor. Kod yok.
+
+### 150 — §3.9 YEDEK-SLOT (4× DOLU) (22.09.2026)
+M651. Kota/Composer dolunca boş ajanla slot doldur; 4× her tur dolu; asıl dönünce OTO-KATILIM. Kod yok.
+
+
+M661: YEDEK-SLOT %100 (M652–M655). KT4-AIDAT Tur 2 açık (3×DUZELT · Claude OK).
+
