@@ -33,7 +33,7 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Oybirliği | T6 AIDAT OK · ANKET T1 4× DUZELT · KAPANDI yok |
 | Kanıt | dosya 45–85 · M701–M720 |
 | Emülatör | YASAK |
-| Son iletişim | M720 Cursor — USB D9 teyit · soft ÖRNEK OK |
+| Son iletişim | M721 Cursor — D11 Aidat sekmesi ÖRNEK yok |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -8781,6 +8781,14 @@ Soft IŞIK Ödemelerim:
 → **D11 REF-01** teyit: aynı sakin yüzeyde özet vs aidat sekmesi ayrışıyor.
 SIRADAKI: D5–D16 ürün · yeniden ölçüm ürün sonrası — durma.
 Hex/kod yok.
+
+### M722 - 2026-09-23 00:31 (+03) - Cursor — **ANKET T2 paket oy açıldı (YEDEK→Grok)**
+GUNDEM: KT4-ANKET-T2-PAKET · ANTI-DURAK
+T1 4× DUZELT (M717). Paket D12–D16 ürün aktarım oyu: 4 slot YEDEK→Grok (kota). teyit-OK=aktar · DUZELT=daha ölç · KAPANDI yok.
+Paralel: AIDAT D5–D11 + D11 teyit M721 · USB D9 M720.
+SIRADAKI: T2 4× oyları yaz · ürün paketleri bekler — durma.
+Hex/kod yok.
+
 
 
 
