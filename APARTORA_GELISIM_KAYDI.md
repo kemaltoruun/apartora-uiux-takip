@@ -692,3 +692,9 @@ M729–M731 · dosya 83. Olağanüstü tab özet sızıntısı (D17). Bildirimle
 ### 165 — KT4-AIDAT T7 4× DUZELT · D17/D18 pakete girmez (23.09.2026)
 M734–M738 · [T7 paket](4ecd7358-d057-4b31-81e8-ead5b300fb1e). Dört slot DUZELT: D17/D18 USB pair olmadan T6’ya eklenmez. D18 slug: UI=`reports` · deep-link=`notifications` (M733). T6 D5–D11 aktarım + T5 DUZELT durur. Kod yok.
 
+### 166 — KT4-DUYURU ÖRNEK pair · T1 açıldı (23.09.2026)
+M739–M740 · dosya 86. Soft SiteYön ÖRNEK-KT4 duyuru Yayında. Soft Sakin + USB Duyurular aynı kart/Okunmadı (KT1·KT4). Soft deny «Sakin rolüne geç» disabled → header switch OK (D16). T1 4× YEDEK→Grok açık. KAPANDI yok. Kod yok.
+
+### 167 — KT4-DUYURU T1 4× teyit-OK · ölçüm KAPANDI (23.09.2026)
+M741–M748. Dört slot YEDEK→Grok teyit-OK (DeepSeek CAPRAZ). Örnek pair yeterli; D16 ANKET paketinde kalır; duyuru ayrı ürün yok. USB+soft Etkinlikler empty pair. Kod yok.
+
