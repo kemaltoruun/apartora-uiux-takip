@@ -8666,3 +8666,17 @@ Sahip: «neden oto devam etmiyorsun» → tur kesimi yasak; AIDAT ürün beklerk
 **USB:** Borç Durumu hâlâ; Anket menü a11y bounds 0 — pair henüz yok (KT1 açık).
 SIRADAKI: USB Anket avı · yönetici cevap detay · T1 ANKET oy · AIDAT ürün bekler.
 Hex/kod yok.
+
+### M710 - 2026-09-23 00:12 (+03) - Cursor — **USB Anket KT1 pair · D13 daraldı · D14/D15 · T1 oy**
+GUNDEM: KT4-ANKET-T1 · OTO-SURUS · ANTI-DURAK
+**Yönetici Sonuçlar (soft):**
+- Özet sekmesi: Toplam Cevap **0** · «0 kişi» · durum metni **Taslak** (liste **Aktif** → **D14 REF-01**).
+- Detaylı Analitik: Toplam Yanıt **1** · katılım **%11.1** · Tamamlama **%100** · Soru Analizi **Evet %100**.
+- → **D13** daraldı: liste/Özet=0 ama Analitik=1 (aynı anket, aynı oturum).
+**USB 299923ee IŞIK sakin:**
+- Menü sekmesi (bounds OK) → scroll → **Anketler, 1 bekleyen** badge.
+- Açılış: başlık Anketler · kart **ÖRNEK-KT4** · rozet **Yanıtladınız** · 1 soru.
+- → KT1 pair **OK**. Badge «1 bekleyen» vs kart «Yanıtladınız» + web Bekleyen=0 → **D15 REF-12** (badge bayat).
+**T1 oy:** 4 slot açıldı · OpenAI 429 → YEDEK GPT→Grok · DeepSeek/Gemini YEDEK.
+SIRADAKI: T1 4× oyları topla · DUZELT/teyit hemfikir · AIDAT ürün bekler (durma).
+Hex/kod yok.
