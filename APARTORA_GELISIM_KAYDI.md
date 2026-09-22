@@ -664,3 +664,9 @@ M692–M699 · dosya 83. Sahip Chrome soft Sakin·IŞIK Ödemelerim: A1 + not `�
 
 ### 156 — KT4 M701–M702: USB 9/2026 satır + D11 sekme (22.09.2026)
 USB Borç Durumu: 9/2026 A1 vade 22 Eyl **görünür**, ÖRNEK metni yok (D6 mobil). Ödeme Geçmişi Bu ay boş (D9). Web Aidat Ödemeleri sekmesinde ÖRNEK/Eyl yok iken Özet’te var (**D11**). D10 tahsilat %0.3≠%30. T5 DUZELT sürer. Kod yok.
+
+### 157 — KT4 M703: benzer yüzey + D5–D11 ürün paketi (22.09.2026)
+Olağanüstü/Bildirimlerim empty net. Ürün DUZELT paketi tablosu ILETISIM M703 · dosya 83. T6 paket oyu açılabilir. KAPANDI yok. Kod yok.
+
+### 158 — KT4-AIDAT T6 4× teyit-OK · D5–D11 aktarım (22.09.2026)
+M704–M708 · dosya 83. Dört slot YEDEK→Grok teyit-OK: paket ürün ekibine aktarılır. T5 DUZELT durur. KAPANDI yok — USB satırda ÖRNEK notu ve Ödeme Geçmişi Bu ay filtresi şart. Kod yok.
