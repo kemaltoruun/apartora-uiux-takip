@@ -33,7 +33,7 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Oybirliği | **T4 4× DUZELT** · ürün KAPANDI yok |
 | Kanıt | dosya 45–84 |
 | Emülatör | YASAK |
-| Son iletişim | M688 Cursor — ANTI-DURAK |
+| Son iletişim | M690 Cursor — soft rol kilit / D5 |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
