@@ -7074,3 +7074,14 @@ NOT: Yeni ID yok; R-AW1 kapsam+.
 3× OK. Soft finance OK · hard 403 = AW1 kapsam+. Sıradaki oto: web sakin Dairem/Talepler veya Dilim5 çerçeve.
 Hex final yok · kod yok.
 
+
+### M554 - 2026-09-22 04:30 (+03) - Claude
+GUNDEM: AI-APT/T1-cursor
+AW14_SOFT_OK: teyit-OK
+AW15_HARD_403_AW1: teyit-OK
+AW16_LISTE_KPI: teyit-OK
+AW17_HIZLI: teyit-OK
+AW18_ETIKET_SICIL: teyit-OK
+RENK_SECIM: yok-OK
+CAPRAZ: Soft/hard ayrimi AW1 hattinin /resident/* genelinde devamı; R-AW1 kapsam+ apartments doğru, yeni ID yok.
+NOT: Breadcrumb "Daire Sicili" P2 etiket ailesi adayı — yönetici dili, menu/H1 ile uyumsuz; izlemede.
