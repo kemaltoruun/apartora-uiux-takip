@@ -595,3 +595,7 @@ Hesab�m Rol=Site Y�neticisi (Aktif=Malik) P1 (M451�M455).
 ### 135 — Web Sakin Duyurular soft/hard + menü bleed kapandı (22.09.2026)
 `75…` · M573–M577. Soft Son Duyurular→OK; hard 403 = R-AW1+announcements; sidebar Duyurular→manager bleed (R-AW25 aday). Kod yok.
 
+
+### 136 — Web Sakin Belgelerim soft/hard kapandı (22.09.2026)
+`76…` · M578–M582. Soft empty OK; hard 403 = R-AW1+my-documents. Kod yok.
+
