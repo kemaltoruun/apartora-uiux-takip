@@ -33,7 +33,7 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Oybirliği | T6 AIDAT OK · ANKET T1 4× DUZELT · KAPANDI yok |
 | Kanıt | dosya 45–85 · M701–M720 |
 | Emülatör | YASAK |
-| Son iletişim | M721 Cursor — D11 Aidat sekmesi ÖRNEK yok |
+| Son iletişim | M723 Cursor — Ortak Giderler soft · T2 bekler |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -8788,6 +8788,15 @@ T1 4× DUZELT (M717). Paket D12–D16 ürün aktarım oyu: 4 slot YEDEK→Grok (
 Paralel: AIDAT D5–D11 + D11 teyit M721 · USB D9 M720.
 SIRADAKI: T2 4× oyları yaz · ürün paketleri bekler — durma.
 Hex/kod yok.
+
+### M723 - 2026-09-23 00:33 (+03) - Cursor — **benzer yüzey soft Ortak Giderler · T1 gecikmeli bildirim yutuldu**
+GUNDEM: KT4-AIDAT benzer · ANTI-DURAK · B (T2 ajan bekler)
+T1 slot bildirimleri (Claude/GPT/DeepSeek/Gemini + CAPRAZ) **zaten** M711–M717’de işlendi — mükerrer yazılmadı.
+Soft Sakin·IŞIK `/resident/my-payments?tab=shared`: 5 daire × ~₺9,85–9,86 ortak gider · Gecikmiş 1 · tablo satır+Öde (örnek veri var — KT4 empty değil).
+T2 paket oyu hâlâ toplanıyor ([T2 paket](3af27539-afd4-4a62-969e-14dcc6291a30)).
+SIRADAKI: T2 4× → deftere · AIDAT+ANKET ürün — durma.
+Hex/kod yok.
+
 
 
 
