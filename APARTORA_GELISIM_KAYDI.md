@@ -624,3 +624,6 @@ M612–M616. Empty yetmez; anket/aidat/gider yönetici+sakin tel+web; asgari=akt
 
 ### 143 — Gemini 4. oy katılımcısı (22.09.2026)
 Sahip: Gemini eklendi. AI Studio key kasada; köprü `GEMINI_KOPRU.md` + `scripts/gemini-kopru.ps1`. YONETIM kilit eşiği 3×→**4×** (Claude·GPT·DeepSeek·Gemini). M617–M618. Sohbete yapıştırılan key için rotate tavsiyesi. Kod yok.
+
+### 144 — KT4-ANKET uçtan uca + F1–F6 + P78 kök (22.09.2026)
+Dosya 81 · M619–M624. ÖRNEK-KT4 IŞIK; 4× teyit-OK. P78=site/aktif. F6 Başla diyalogda soru yok. Kod yok.
