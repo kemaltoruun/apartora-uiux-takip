@@ -33,7 +33,7 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Oybirliği | **T4 4/4 doldu** · SECIM hemfikir değil · GPT çapraz açık |
 | Kanıt | dosya 45–84 |
 | Emülatör | YASAK |
-| Son iletişim | M682 Cursor — T4 4/4 + çapraz |
+| Son iletişim | M684 Cursor — D8 Ödemelerim Dneme |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -8378,4 +8378,12 @@ GUNDEM: KT4-AIDAT-T4-OLCUM
 - Breadcrumb **Sakin**; soft rol butonu **Sakin**. Header hâlâ **Site Yöneticisi · Dneme1234** (etiket sızıntısı).
 - Site combobox önce **Dneme1234** sticky; elle **IŞIK SİTESİ** seçildi → KPI ₺30.454 · daireler B3/A1/D5/A5/E6.
 - Ödemelerim avı devam (sonraki mesaj).
+Hex/kod yok.
+
+### M684 - 2026-09-22 13:56 (+03) - Cursor — **Soft IŞIK Ödemelerim = Dneme (D8 teyit)**
+GUNDEM: KT4-AIDAT-T4-OLCUM
+- Soft Sakin + dashboard combobox **IŞIK SİTESİ** (₺30.454) sonrası `/resident/my-payments`.
+- Ödemelerim tüm satırlar **Dneme1234** (A-201..A-304, ₺5 Eyl) — **IŞIK A1 / ÖRNEK-KT4 yok**.
+- Sayfa combobox: **Tüm Dairelerim 5** (site seçimi yok). Header hâlâ Site Yön·Dneme.
+- **D8** güçlendi: rol+site IŞIK seçiliyken Ödemelerim Dneme listeler. KAPANDI yok.
 Hex/kod yok.
