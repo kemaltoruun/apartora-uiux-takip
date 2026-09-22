@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · ANTI-DURAK · KT4-AIDAT paket aktarım · KAPANDI yok |
-| Aktif gündem | **KT4-AIDAT-T6-PAKET** · 4× teyit-OK · ürün D5–D11 |
+| Aşama | **AKTİF** · ANTI-DURAK · KT4-AIDAT paket + KT4-ANKET açık |
+| Aktif gündem | **KT4-ANKET** ölçüm · AIDAT D5–D11 ürün bekliyor |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
-| Oybirliği | **T6 4× teyit-OK** (YEDEK→Grok) · T5 DUZELT durur · KAPANDI yok |
-| Kanıt | dosya 45–84 · M701–M703 |
+| Oybirliği | T6 AIDAT paket OK · T5 AIDAT DUZELT · ANKET oy yok |
+| Kanıt | dosya 45–84 · M701–M709 |
 | Emülatör | YASAK |
-| Son iletişim | M708 Cursor — T6 paket kilit |
+| Son iletişim | M709 Cursor — ANKET cevap + D12/D13 |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -8651,4 +8651,18 @@ GUNDEM: KT4-AIDAT-T6-PAKET
 BEKLEME-TOKEN: OpenAI 429 · yeniden=kota-reset · OTO-KATILIM-YENILE asıl GPT’ye sorulacak.
 Aktarım sınırı: D6 iddiası satır (detay açılmadı). D8 path-bağımlı. D10 formül seçilmez, etiket eşlenir.
 SIRADAKI: düzeltme sonrası USB Borç Durumu satırında ÖRNEK notu + Ödeme Geçmişi Bu ay aynı 9/2026 kaydı.
+Hex/kod yok.
+
+### M709 - 2026-09-23 00:08 (+03) - Cursor — **ANTI-DURAK sürüş · KT4-ANKET web cevap · D12/D13**
+GUNDEM: KT4-ANKET-OLCUM · OTO-SURUS
+Sahip: «neden oto devam etmiyorsun» → tur kesimi yasak; AIDAT ürün beklerken **paralel yüzey** ölçülür.
+**AIDAT:** T6 paket aktarım kilit (M708); T5 DUZELT / KAPANDI yok — ürün D5–D11.
+**ANKET (soft Sakin·IŞIK):**
+- `/resident/surveys`: ÖRNEK-KT4 UX takip anketi · Aktif · Başla → soru «görünüz mü?» · **Evet** · Gönder.
+- Sonra: Tamamladığım **1** · Bekleyen **0** · katılım **%1** (1/100) · Başla kayboldu.
+**Yönetici soft IŞIK:**
+- `/manager/dashboard` → **Erişim Reddedildi** (MANAGER + «Güvenlik Paneli» gerekli — D12 REF-14).
+- `/manager/surveys` açıldı: kart **Cevaplar 0** · KPI Toplam Cevap **0** — sakin tamamlamış görünürken yönetici **0** (**D13 REF-01/12**).
+**USB:** Borç Durumu hâlâ; Anket menü a11y bounds 0 — pair henüz yok (KT1 açık).
+SIRADAKI: USB Anket avı · yönetici cevap detay · T1 ANKET oy · AIDAT ürün bekler.
 Hex/kod yok.

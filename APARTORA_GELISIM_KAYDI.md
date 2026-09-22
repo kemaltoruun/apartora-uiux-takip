@@ -670,3 +670,6 @@ Olağanüstü/Bildirimlerim empty net. Ürün DUZELT paketi tablosu ILETISIM M70
 
 ### 158 — KT4-AIDAT T6 4× teyit-OK · D5–D11 aktarım (22.09.2026)
 M704–M708 · dosya 83. Dört slot YEDEK→Grok teyit-OK: paket ürün ekibine aktarılır. T5 DUZELT durur. KAPANDI yok — USB satırda ÖRNEK notu ve Ödeme Geçmişi Bu ay filtresi şart. Kod yok.
+
+### 159 — KT4-ANKET açıldı · soft sakin cevap · D12/D13 (23.09.2026)
+M709. Soft Sakin ÖRNEK anket Evet gönderildi (Tamamladığım 1). Soft SiteYön dashboard ACCESS_DENIED (D12). Yönetici anket Cevaplar=0 iken sakin tamamladı (D13). USB anket pair yok. AIDAT ürün beklerken paralel yüzey. Kod yok.
