@@ -8853,6 +8853,14 @@ D17 → dosya 83’e eklendi. Dosya 85 T2 durum güncellendi.
 SIRADAKI: ürün D5–D17 · soft Bildirimlerim / USB pair ürün sonrası — durma.
 Hex/kod yok.
 
+### M731 - 2026-09-23 00:39 (+03) - Cursor — **Bildirimlerim tab → dashboard (D18 aday)**
+GUNDEM: KT4-AIDAT benzer · ANTI-DURAK
+Soft `?tab=notifications` navigasyon sonrası **`/resident/dashboard`** (IŞIK OK) — Bildirimlerim sekmesi açılmadı / yönlendirdi.
+İşlem Geçmişi (M730) 2 kayıt OK. Olağanüstü D17. Aidat D11.
+SIRADAKI: ürün D5–D18 · yeniden ölçüm — durma.
+Hex/kod yok.
+
+
 
 
 
