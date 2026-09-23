@@ -722,3 +722,6 @@ M763 · dosya 89. Sakin detay Bekleyen/Normal/Şikayet. Yönetici detay Gönderi
 ### 175 — D22–D25 tek söz paketi (23.09.2026)
 M764 · dosya 89. Durum, öncelik, kategori için yüzeyler tek söz kullanacak. KPI satırla, sayaç kartla aynı. Kod yok. KAPANDI yok.
 
+### 176 — Destek Talepleri boş · D25 daraldı (23.09.2026)
+M765 · dosya 89. Yönetici Destek Talepleri kayıt/daire kuyruğu, toplam 0. ÖRNEK yok. USB «Destek 1» bu sayfa değil. Kod yok.
+
