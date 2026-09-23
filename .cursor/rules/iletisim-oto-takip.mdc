@@ -60,6 +60,18 @@ Bu klasör `apartora-uiux-takip` takip defteridir. Bu sohbette / workspace’te 
 
 **Her yanıt sonu (zorunlu satır, chat veya ILETISIM):** `SIRADAKI: <tek somut adım>` — boş bırakma.
 
+## HIZ (sahip · 2026-09-23 — tıkanma yasak)
+
+Kök: aynı git sorgusu, PowerShell’de kırılan `python -c`, kanıt alınıp kayıt yazılmaması, 4× eksik diye ölçümün beklemesi.
+
+| Tıkanma | Tedbir |
+|---|---|
+| Boş `git diff` / hash eşit dosya | İkinci turda bırak. Ölçüme dön |
+| `python -c` + regex | `.py` dosyası yaz, onu çalıştır |
+| Kanıt alındı, ILETISIM yok | Aynı turda M + GELISIM + push |
+| 4× eksik | Oy yarım kalır. Ölçüm sürer. Abort slot yeniden açılmaz |
+| ILETISIM baştan | Özet kutu + son 5 mesaj yeter |
+
 ## Süreklilik
 
 Sohbet kapanırsa bağlam kaybolabilir; **kaynak gerçeklik GitHub’daki ILETISIM + GELISIM’dir**. Yeni sohbette de bu kural aynı workspace’te uygulanır. Uyanınca: özet + son 5 M + **SIRADAKI** satırını oku; soru sormadan oradan sür.

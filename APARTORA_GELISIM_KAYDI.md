@@ -713,3 +713,6 @@ M758–M760. Claude+GPT teyit-OK. DeepSeek/Gemini durduruldu, yeniden açılmad�
 ### 172 — Platform empty · TALEP ÖRNEK · D22/D23 (23.09.2026)
 M761 · dosya 89. Apartora duyurusu soft+USB boş. Talep ÖRNEK üç yüzeyde. Sakin liste Normal/Bekleyen; USB+yönetici Orta/Gönderildi. Kod yok.
 
+### 173 — Talep detay pair · D24/D25 (23.09.2026)
+M762 · dosya 89. Yönetici detay menüden: Gönderildi/Orta/Şikayet. KPI Bekleyen ≠ satır Gönderildi (D24). USB şerit Destek 1 ≠ Şikayet (D25). USB detayda öncelik yok. Kod yok.
+

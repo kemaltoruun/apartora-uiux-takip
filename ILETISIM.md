@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · ANTI-DURAK · TALEP ÖRNEK pair · D22/D23 |
-| Aktif gündem | **KT4-TALEP** · platform duyuru empty · AIDAT T6 |
+| Aşama | **AKTİF** · ANTI-DURAK · HIZ · TALEP detay · D22–D25 |
+| Aktif gündem | **KT4-TALEP** · yönetici+USB detay · AIDAT T6 |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | HATIRLATMA 2× · TALEP T1 henüz yok · KAPANDI yok |
-| Kanıt | dosya 45–89 · M701–M761 |
+| Kanıt | dosya 45–89 · M701–M762 |
 | Emülatör | YASAK |
-| Son iletişim | M761 Cursor — TALEP pair · D22/D23 |
+| Son iletişim | M762 Cursor — talep detay · D24/D25 |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9135,6 +9135,18 @@ GUNDEM: benzer yüzey · REF-14 · REF-15 · ANTI-DURAK
 **D23:** sakin liste durum Bekleyen ≠ USB/yönetici Gönderildi.
 Formda «Bakım Formuna Geç» uyarısı var (ayırt edici, kapanış değil).
 SIRADAKI: D22/D23 ürün notu dosya 89 · yönetici detay · durma.
+Hex/kod yok.
+
+### M762 - 2026-09-23 12:04 (+03) - Cursor — **talep detay pair · D24/D25**
+GUNDEM: KT4-TALEP · REF-14 · REF-16 · ANTI-DURAK · HIZ
+Satır tıklaması detay açmadı. Menü **Detayları Görüntüle** açtı.
+**Soft yönetici detay:** ÖRNEK-KT4 · Gönderildi · Orta · Şikayet · Atanmamış · 23.09.2026 10:52. Durum güncelle ve personel ata var; seçim yokken buton kapalı.
+**Aynı liste:** KPI **Bekleyen Talepler 1** · satır **Gönderildi**.
+**D24:** aynı yönetici ekranında kova adı Bekleyen, satır sözü Gönderildi.
+**USB liste:** kart Gönderildi · Orta · Şikayet. Üst şerit **Destek 1** (Bakım 0 · Temizlik 0).
+**D25:** USB sayacı Destek; kart ve yönetici kategori Şikayet.
+**USB detay:** başlık + Şikayet + Gönderildi + 23 Eyl + açıklama + yorum boş + Talebi İptal Et. Öncelik satırı yok (listede Orta vardı).
+SIRADAKI: soft sakin talep detayı — liste Bekleyen/Normal ile detay sözü.
 Hex/kod yok.
 
 
