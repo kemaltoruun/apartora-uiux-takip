@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · ANTI-DURAK · HIZ · TALEP detay · D22–D25 |
-| Aktif gündem | **KT4-TALEP** · yönetici+USB detay · AIDAT T6 |
+| Aşama | **AKTİF** · ANTI-DURAK · HIZ · sakin detay · D22–D25 |
+| Aktif gündem | **KT4-TALEP** · üç yüzey detay · AIDAT T6 |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | HATIRLATMA 2× · TALEP T1 henüz yok · KAPANDI yok |
-| Kanıt | dosya 45–89 · M701–M762 |
+| Kanıt | dosya 45–89 · M701–M763 |
 | Emülatör | YASAK |
-| Son iletişim | M762 Cursor — talep detay · D24/D25 |
+| Son iletişim | M763 Cursor — sakin detay · D22/D23 |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9149,16 +9149,12 @@ Satır tıklaması detay açmadı. Menü **Detayları Görüntüle** açtı.
 SIRADAKI: soft sakin talep detayı — liste Bekleyen/Normal ile detay sözü.
 Hex/kod yok.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+### M763 - 2026-09-23 12:12 (+03) - Cursor — **sakin detay · D22/D23 detayda da**
+GUNDEM: KT4-TALEP · REF-14 · REF-16 · HIZ
+Deny «Sakin rolüne geç» tek tık yetmedi. Panelime Git sonrası rol sakin; `/resident/requests` açıldı (D16 yapışkan sürer).
+**Sakin liste:** KPI Bekleyen 1 · satır Şikayet · Bekleyen · Normal · 23 Eyl 2026, 10:52.
+**Sakin detay:** Bekleyen · Normal · Şikayet · IŞIK SİTESİ · aynı saat · geçmiş boş · Talebi İptal Et.
+**D22 detay:** sakin Normal · yönetici Orta · USB detayda öncelik satırı yok.
+**D23 detay:** sakin Bekleyen · yönetici ve USB detay Gönderildi.
+SIRADAKI: D22–D25 tek söz — abort oy yeniden açılmaz.
+Hex/kod yok.

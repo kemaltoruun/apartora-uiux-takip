@@ -716,3 +716,6 @@ M761 · dosya 89. Apartora duyurusu soft+USB boş. Talep ÖRNEK üç yüzeyde. S
 ### 173 — Talep detay pair · D24/D25 (23.09.2026)
 M762 · dosya 89. Yönetici detay menüden: Gönderildi/Orta/Şikayet. KPI Bekleyen ≠ satır Gönderildi (D24). USB şerit Destek 1 ≠ Şikayet (D25). USB detayda öncelik yok. Kod yok.
 
+### 174 — Sakin talep detay · D22/D23 detayda (23.09.2026)
+M763 · dosya 89. Sakin detay Bekleyen/Normal/Şikayet. Yönetici detay Gönderildi/Orta. USB detay Gönderildi, öncelik yok. Kod yok.
+
