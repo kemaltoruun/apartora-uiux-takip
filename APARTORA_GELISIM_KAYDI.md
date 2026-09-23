@@ -704,3 +704,6 @@ M749 · dosya 87. Soft SiteYön ÖRNEK-KT4 etkinlik · soft sakin+USB pair OK. D
 ### 169 — D17/D18 slug soft-only · ETKINLIK T1 3× (23.09.2026)
 M754–M755. D17: UI special-charges empty · extraordinary→Özet sızıntı. D18: UI reports empty · notifications→Özet. USB’de sekmeler yok. ETKINLIK DeepSeek abort → 3× (Claude/GPT/Gemini); KAPANDI yok. Kod yok.
 
+### 170 — KT4-HATIRLATMA ÖRNEK pair (23.09.2026)
+M757 · dosya 88. Soft Sakin ÖRNEK-KT4 hatırlatıcı · USB aynı kart/vade. Empty aşıldı. T1 açık. Kod yok.
+

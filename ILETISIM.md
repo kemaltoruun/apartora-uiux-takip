@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · ANTI-DURAK · ETKINLIK T1 3× · D17/D18 soft-only |
-| Aktif gündem | **ETKINLIK DeepSeek BEKLEME** · D17/D18 soft slug · AIDAT T6 · ANKET |
+| Aşama | **AKTİF** · ANTI-DURAK · HATIRLATMA ÖRNEK pair · ETKINLIK 3× |
+| Aktif gündem | **KT4-HATIRLATMA-T1** · ETKINLIK DeepSeek BEKLEME · AIDAT T6 |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
-| Oybirliği | DUYURU KAPANDI · ETKINLIK 3× (DeepSeek abort) · T7 DUZELT |
-| Kanıt | dosya 45–87 · M701–M755 |
+| Oybirliği | DUYURU KAPANDI · ETKINLIK 3× · HATIRLATMA T1 açık |
+| Kanıt | dosya 45–88 · M701–M757 |
 | Emülatör | YASAK |
-| Son iletişim | M755 Cursor — D17/D18 soft slug |
+| Son iletişim | M757 Cursor — HATIRLATMA ÖRNEK pair |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9083,16 +9083,14 @@ ETKINLIK T1: 3× teyit-OK · DeepSeek BEKLEME · KAPANDI yok.
 SIRADAKI: USB Hatırlatmalar empty/ÖRNEK aday · AIDAT T6 ürün — durma.
 Hex/kod yok.
 
-### M754 - 2026-09-23 01:16 (+03) - Cursor — **ETKINLIK T1 3× · DeepSeek abort · T7 stale OK · USB D17/D18**
-GUNDEM: ANTI-DURAK · YEDEK-SLOT
-| Slot | SECIM |
-|---|---|
-| Claude | teyit-OK M750 |
-| GPT | teyit-OK M751 |
-| DeepSeek | **abort** — yeniden basılmadı |
-| Gemini | teyit-OK M753 |
-**4× yok → KAPANDI yok.** T7 paket bildirimi zaten M734–M738 kilitli (mükerrer yok).
-SIRADAKI: USB Ödemelerim Olağanüstü/Bildirimlerim pair (D17/D18) · DeepSeek slot BEKLEME — durma.
+### M757 - 2026-09-23 09:25 (+03) - Cursor — **KT4-HATIRLATMA ÖRNEK pair OK**
+GUNDEM: benzer yüzey · REF-14 · REF-15 · ANTI-DURAK
+USB empty: «Henüz hatırlatma yok» · «Yeni».
+Soft `/resident/reminders`: Toplam 0 · «Henüz hatırlatıcı yok».
+Soft Sakin **Hatırlatıcı Ekle** → **ÖRNEK-KT4 UX takip hatırlatıcı** · Kişisel · Orta · 25 Eyl 2026 · Toplam 1.
+USB yeniden: aynı başlık + metin + «Vade: 25 Eyl 2026» + «Tamamlandı işaretle» — **KT1 pair OK**.
+Kuyrukta mükerrer M754 gövdesi silindi (asıl M754 duruyor).
+SIRADAKI: dosya 88 · GELISIM 170 · T1 4× (DeepSeek slot BEKLEME notu) — durma.
 Hex/kod yok.
 
 
