@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · ANTI-DURAK · HIZ · sakin kategori |
-| Aktif gündem | **KT4-TALEP** · sakin web Şikayet sütun · D25 telefon |
+| Aşama | **AKTİF** · ANTI-DURAK · HIZ · yönetici sözlük |
+| Aktif gündem | **KT4-TALEP** · sözlük Normal/Bekleyen yok |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | HATIRLATMA 2× · TALEP T1 henüz yok · KAPANDI yok |
-| Kanıt | dosya 45–89 · M701–M767 |
+| Kanıt | dosya 45–89 · M701–M768 |
 | Emülatör | YASAK |
-| Son iletişim | M767 Cursor — sakin web kategori kovası yok |
+| Son iletişim | M768 Cursor — yönetici sözlük |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9196,4 +9196,14 @@ Filtre: Aktif 1 · Çözülmüş · Tüm Talepler 1. Kategori sütun başlığı
 Destek, Bakım, Temizlik, Şikayet sayaç şeridi yok.
 D25 telefon şeridine özel. Sakin web’de Şikayet ayrı kova değil, sütun değeri.
 SIRADAKI: yönetici «Tüm Kategoriler» listesi — Şikayet ve Destek ayrı seçenek mi.
+Hex/kod yok.
+
+### M768 - 2026-09-23 20:35 (+03) - Cursor — **yönetici sözlük · Şikayet ayrı, Destek yok**
+GUNDEM: KT4-TALEP · REF-16 · HIZ
+Rol menüden Site Yöneticisi IŞIK. `/manager/requests` Talep Yönetimi. Toplam 1.
+**Kategori:** Bakım Onarım · Şikayet · Bilgi Talebi · Öneri · Diğer. Destek yok. Temizlik yok.
+**Öncelik:** Düşük · Orta · Yüksek · Acil. Normal yok. Yeni talep formu varsayılan Orta.
+**Durum:** Gönderildi · İşlemde · Beklemede · Çözüldü · Kapatıldı · Reddedildi. Bekleyen yok.
+KPI «Bekleyen Talepler» duruyor. Satır Gönderildi. Form kaydedilmedi.
+SIRADAKI: sakin yeni talep formunda öncelik listesi Normal mı.
 Hex/kod yok.

@@ -731,3 +731,6 @@ M766 · dosya 89. Telefon Talepler: Destek 1, Bakım 0, Temizlik 0. Şikayet kov
 ### 178 — Sakin web kategori kovası yok (23.09.2026)
 M767 · dosya 89. Sakin Taleplerim: Şikayet sütun değeri. Destek/Bakım/Temizlik şeridi yok. D25 telefonda. Kod yok.
 
+### 179 — Yönetici sözlük · Normal ve Bekleyen yok (23.09.2026)
+M768 · dosya 89. Kategori: Şikayet var, Destek yok. Öncelik: Orta var, Normal yok. Durum: Gönderildi ve Beklemede var, Bekleyen yok. Kod yok.
+
