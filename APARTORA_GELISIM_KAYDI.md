@@ -707,3 +707,6 @@ M754–M755. D17: UI special-charges empty · extraordinary→Özet sızıntı. 
 ### 170 — KT4-HATIRLATMA ÖRNEK pair (23.09.2026)
 M757 · dosya 88. Soft Sakin ÖRNEK-KT4 hatırlatıcı · USB aynı kart/vade. Empty aşıldı. T1 açık. Kod yok.
 
+### 171 — HATIRLATMA tamamla pair · T1 2× (23.09.2026)
+M758–M760. Claude+GPT teyit-OK. DeepSeek/Gemini durduruldu, yeniden açılmadı. USB Tamamlandı → soft Tamamlanan 1. KAPANDI yok. Kod yok.
+
