@@ -728,3 +728,6 @@ M765 · dosya 89. Yönetici Destek Talepleri kayıt/daire kuyruğu, toplam 0. Ö
 ### 177 — USB şeritte Şikayet kovası yok (23.09.2026)
 M766 · dosya 89. Telefon Talepler: Destek 1, Bakım 0, Temizlik 0. Şikayet kovası yok. Kart Şikayet. Kod yok.
 
+### 178 — Sakin web kategori kovası yok (23.09.2026)
+M767 · dosya 89. Sakin Taleplerim: Şikayet sütun değeri. Destek/Bakım/Temizlik şeridi yok. D25 telefonda. Kod yok.
+

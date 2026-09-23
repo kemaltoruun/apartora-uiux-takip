@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · ANTI-DURAK · HIZ · tek söz paketi |
-| Aktif gündem | **KT4-TALEP** · D22–D25 paket · Destek sayacı |
+| Aşama | **AKTİF** · ANTI-DURAK · HIZ · sakin kategori |
+| Aktif gündem | **KT4-TALEP** · sakin web Şikayet sütun · D25 telefon |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | HATIRLATMA 2× · TALEP T1 henüz yok · KAPANDI yok |
-| Kanıt | dosya 45–89 · M701–M766 |
+| Kanıt | dosya 45–89 · M701–M767 |
 | Emülatör | YASAK |
-| Son iletişim | M766 Cursor — USB şerit Destek 1 |
+| Son iletişim | M767 Cursor — sakin web kategori kovası yok |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9186,4 +9186,14 @@ USB Talepler listesi. Şerit: Tümü 1 · Açık 1 · Tamamlanan 0 · Bakım 0 �
 Şikayet adında kova yok. Kart: Şikayet · Orta · Gönderildi.
 D25: kategori sayacı Destek, kart Şikayet. Destek Talepleri sayfası değil.
 SIRADAKI: sakin web kategori filtresinde Şikayet ayrı mı.
+Hex/kod yok.
+
+### M767 - 2026-09-23 16:40 (+03) - Cursor — **sakin web kategori kovası yok**
+GUNDEM: KT4-TALEP · REF-14 · HIZ
+`/resident/requests` Taleplerim. Rol yapışkan; Panelime Git sonrası sakin.
+Satır: Şikayet · Bekleyen · Normal.
+Filtre: Aktif 1 · Çözülmüş · Tüm Talepler 1. Kategori sütun başlığı var, menü açmadı.
+Destek, Bakım, Temizlik, Şikayet sayaç şeridi yok.
+D25 telefon şeridine özel. Sakin web’de Şikayet ayrı kova değil, sütun değeri.
+SIRADAKI: yönetici «Tüm Kategoriler» listesi — Şikayet ve Destek ayrı seçenek mi.
 Hex/kod yok.
