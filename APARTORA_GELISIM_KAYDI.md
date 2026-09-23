@@ -725,3 +725,6 @@ M764 · dosya 89. Durum, öncelik, kategori için yüzeyler tek söz kullanacak.
 ### 176 — Destek Talepleri boş · D25 daraldı (23.09.2026)
 M765 · dosya 89. Yönetici Destek Talepleri kayıt/daire kuyruğu, toplam 0. ÖRNEK yok. USB «Destek 1» bu sayfa değil. Kod yok.
 
+### 177 — USB şeritte Şikayet kovası yok (23.09.2026)
+M766 · dosya 89. Telefon Talepler: Destek 1, Bakım 0, Temizlik 0. Şikayet kovası yok. Kart Şikayet. Kod yok.
+

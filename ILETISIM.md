@@ -31,9 +31,9 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | HATIRLATMA 2× · TALEP T1 henüz yok · KAPANDI yok |
-| Kanıt | dosya 45–89 · M701–M765 |
+| Kanıt | dosya 45–89 · M701–M766 |
 | Emülatör | YASAK |
-| Son iletişim | M765 Cursor — Destek Talepleri boş |
+| Son iletişim | M766 Cursor — USB şerit Destek 1 |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9178,4 +9178,12 @@ Başlık Destek Talepleri. Metin: kayıt sırasında blok/daire bulunamayan kull
 Toplam 0 · Beklemede 0 · Çözüldü 0 · «Henüz destek talebi yok».
 ÖRNEK-KT4 bu listede yok. USB şerit «Destek 1» bu sayfa değil; Talepler içindeki kategori sayacı.
 SIRADAKI: USB Talepler şeridinde Şikayet kovası var mı — Destek ile aynı kart mı.
+Hex/kod yok.
+
+### M766 - 2026-09-23 14:16 (+03) - Cursor — **USB şeritte Şikayet kovası yok**
+GUNDEM: KT4-TALEP · REF-14 · HIZ
+USB Talepler listesi. Şerit: Tümü 1 · Açık 1 · Tamamlanan 0 · Bakım 0 · Temizlik 0 · Destek 1.
+Şikayet adında kova yok. Kart: Şikayet · Orta · Gönderildi.
+D25: kategori sayacı Destek, kart Şikayet. Destek Talepleri sayfası değil.
+SIRADAKI: sakin web kategori filtresinde Şikayet ayrı mı.
 Hex/kod yok.
