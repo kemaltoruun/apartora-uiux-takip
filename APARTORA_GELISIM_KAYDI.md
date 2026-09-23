@@ -737,3 +737,6 @@ M768 · dosya 89. Kategori: Şikayet var, Destek yok. Öncelik: Orta var, Normal
 ### 180 — Sakin form Normal · telefon Orta (23.09.2026)
 M769 · dosya 89. Sakin form öncelik Düşük/Normal/Yüksek, açılış Normal. Telefon Destek formu Düşük/Orta/Yüksek, açılış Düşük. Tür seçimi Bakım/Arıza, Temizlik, Destek Talebi. Kod yok.
 
+### 181 — Telefon Bakım/Arıza ayrı sözlük (24.09.2026)
+M770 · dosya 89. 19 bakım kategorisi, açılış Sıhhi Tesisat. Aciliyet Düşük/Orta/Yüksek/Acil. Web talep formu bu listeyi kullanmıyor. Kod yok.
+

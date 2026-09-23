@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · ANTI-DURAK · HIZ · form sözlüğü |
-| Aktif gündem | **KT4-TALEP** · sakin Normal · telefon Orta |
+| Aşama | **AKTİF** · ANTI-DURAK · HIZ · Bakım/Arıza sözlük |
+| Aktif gündem | **KT4-TALEP** · D26 telefon bakım formu |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | HATIRLATMA 2× · TALEP T1 henüz yok · KAPANDI yok |
-| Kanıt | dosya 45–89 · M701–M769 |
+| Kanıt | dosya 45–89 · M701–M770 |
 | Emülatör | YASAK |
-| Son iletişim | M769 Cursor — sakin form Normal |
+| Son iletişim | M770 Cursor — telefon Bakım/Arıza |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9216,4 +9216,13 @@ Telefon Yeni Talep önce tür: Bakım/Arıza · Temizlik · Destek Talebi.
 Destek Talebi formu (kaydedilmedi). Kategori: Şikayet · Bilgi · Öneri · Diğer. Açılış Şikayet.
 Öncelik: Düşük · Orta · Yüksek. Açılış Düşük. Normal yok.
 SIRADAKI: telefon Bakım/Arıza formu kategori listesi.
+Hex/kod yok.
+
+### M770 - 2026-09-24 01:25 (+03) - Cursor — **telefon Bakım/Arıza kategori listesi**
+GUNDEM: KT4-TALEP · REF-14 · REF-16 · HIZ
+Form kaydedilmedi. Başlık Talep Oluştur. Bildirilecek: Site Yöneticisi (1).
+Kategori açılış Sıhhi Tesisat. Liste: Sıhhi Tesisat, Elektrik, Klima & Havalandırma, Isıtma/Soğutma, İnternet/TV, Yapısal/İnşaat, Çatı & İzolasyon, Çilingir/Kilit, Asansör, Jeneratör, Havuz, Bahçe, Yangın Sistemi, Temizlik, Peyzaj, İlaçlama & Haşere, Güvenlik, Genel Bakım, Diğer.
+Aciliyet: Düşük · Orta · Yüksek · Acil. Açılış Düşük. Sözcük Öncelik değil.
+**D26:** bu form web’deki 5’li talep kategorisinden ayrı. Temizlik hem tür hem bu listenin maddesi.
+SIRADAKI: telefon Temizlik formu aynı liste mi.
 Hex/kod yok.
