@@ -734,3 +734,6 @@ M767 · dosya 89. Sakin Taleplerim: Şikayet sütun değeri. Destek/Bakım/Temiz
 ### 179 — Yönetici sözlük · Normal ve Bekleyen yok (23.09.2026)
 M768 · dosya 89. Kategori: Şikayet var, Destek yok. Öncelik: Orta var, Normal yok. Durum: Gönderildi ve Beklemede var, Bekleyen yok. Kod yok.
 
+### 180 — Sakin form Normal · telefon Orta (23.09.2026)
+M769 · dosya 89. Sakin form öncelik Düşük/Normal/Yüksek, açılış Normal. Telefon Destek formu Düşük/Orta/Yüksek, açılış Düşük. Tür seçimi Bakım/Arıza, Temizlik, Destek Talebi. Kod yok.
+
