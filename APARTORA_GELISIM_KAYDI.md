@@ -719,3 +719,6 @@ M762 · dosya 89. Yönetici detay menüden: Gönderildi/Orta/Şikayet. KPI Bekle
 ### 174 — Sakin talep detay · D22/D23 detayda (23.09.2026)
 M763 · dosya 89. Sakin detay Bekleyen/Normal/Şikayet. Yönetici detay Gönderildi/Orta. USB detay Gönderildi, öncelik yok. Kod yok.
 
+### 175 — D22–D25 tek söz paketi (23.09.2026)
+M764 · dosya 89. Durum, öncelik, kategori için yüzeyler tek söz kullanacak. KPI satırla, sayaç kartla aynı. Kod yok. KAPANDI yok.
+
