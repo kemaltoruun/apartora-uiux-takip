@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · ANTI-DURAK · HATIRLATMA T1 2× · tamamla pair |
-| Aktif gündem | **AIDAT T6 ürün** · HATIRLATMA 2 slot BEKLEME · ETKINLIK 3× |
+| Aşama | **AKTİF** · ANTI-DURAK · TALEP ÖRNEK pair · D22/D23 |
+| Aktif gündem | **KT4-TALEP** · platform duyuru empty · AIDAT T6 |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
-| Oybirliği | DUYURU KAPANDI · HATIRLATMA Claude+GPT teyit-OK · 2 slot durdu |
-| Kanıt | dosya 45–88 · M701–M760 |
+| Oybirliği | HATIRLATMA 2× · TALEP T1 henüz yok · KAPANDI yok |
+| Kanıt | dosya 45–89 · M701–M761 |
 | Emülatör | YASAK |
-| Son iletişim | M760 Cursor — tamamla pair · 2 slot durdu |
+| Son iletişim | M761 Cursor — TALEP pair · D22/D23 |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9120,6 +9120,21 @@ GUNDEM: KT4-HATIRLATMA-T1 · ANTI-DURAK
 **4× yok → KAPANDI yok.**
 USB «Tamamlandı işaretle» → rozet **Tamamlandı**. Soft: Bekleyen 0 · Tamamlanan 1 · buton disabled — **KT1 tamamla pair OK**.
 SIRADAKI: AIDAT T6 ürün · eksik slotlar sahip açarsa — durma.
+Hex/kod yok.
+
+### M761 - 2026-09-23 10:52 (+03) - Cursor — **platform empty pair · TALEP ÖRNEK · D22/D23**
+GUNDEM: benzer yüzey · REF-14 · REF-15 · ANTI-DURAK
+**Apartora Duyuruları:** soft «Henüz duyuru yok» · USB «Henüz platform duyurusu yok» — dürüst empty. Sakin oluşturamaz (platform).
+**Talepler:** empty → soft Sakin **ÖRNEK-KT4 UX takip talebi** · Şikayet.
+| Yüzey | Durum | Öncelik |
+|---|---|---|
+| Soft sakin liste | Bekleyen | Normal |
+| USB | Gönderildi | Orta |
+| Soft yönetici | Gönderildi | Orta |
+**D22:** sakin liste öncelik Normal ≠ USB/yönetici Orta.
+**D23:** sakin liste durum Bekleyen ≠ USB/yönetici Gönderildi.
+Formda «Bakım Formuna Geç» uyarısı var (ayırt edici, kapanış değil).
+SIRADAKI: D22/D23 ürün notu dosya 89 · yönetici detay · durma.
 Hex/kod yok.
 
 

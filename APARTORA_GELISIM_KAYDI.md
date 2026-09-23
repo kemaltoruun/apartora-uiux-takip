@@ -710,3 +710,6 @@ M757 · dosya 88. Soft Sakin ÖRNEK-KT4 hatırlatıcı · USB aynı kart/vade. E
 ### 171 — HATIRLATMA tamamla pair · T1 2× (23.09.2026)
 M758–M760. Claude+GPT teyit-OK. DeepSeek/Gemini durduruldu, yeniden açılmadı. USB Tamamlandı → soft Tamamlanan 1. KAPANDI yok. Kod yok.
 
+### 172 — Platform empty · TALEP ÖRNEK · D22/D23 (23.09.2026)
+M761 · dosya 89. Apartora duyurusu soft+USB boş. Talep ÖRNEK üç yüzeyde. Sakin liste Normal/Bekleyen; USB+yönetici Orta/Gönderildi. Kod yok.
+
