@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · HIZ · dosya 93 genel kurul |
-| Aktif gündem | **KT4-GENEL-KURUL** · G1 menü adı |
+| Aşama | **AKTİF** · HIZ · dosya 94 site kuralları |
+| Aktif gündem | **KT4-SITE-KURALLARI** · SK3 kayıt · SK4 telefon boş |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | HATIRLATMA 2× · TALEP T1 henüz yok · KAPANDI yok |
-| Kanıt | dosya 45–93 · M701–M776 |
+| Kanıt | dosya 45–94 · M701–M777 |
 | Emülatör | YASAK |
-| Son iletişim | M776 Cursor — dosya 93 genel kurul |
+| Son iletişim | M777 Cursor — dosya 94 site kuralları |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9281,4 +9281,12 @@ Karar Defteri: Aidat tutar guncellemesi · Mali · Orta · 24.09.2026 · Yayıml
 Telefon Genel Kurul Kararları: aynı başlık · Mali · 24 Eyl 2026.
 **G1:** menü genel kurul kararı diyor; toplantı listesi boş; kayıt karar defterinde.
 SIRADAKI: dosya 94 site kuralları.
+Hex/kod yok.
+
+### M777 - 2026-09-24 13:55 (+03) - Cursor — **dosya 94 site kurallari**
+GUNDEM: KT4-SITE-KURALLARI · REF-14 · REF-15 · REF-16 · HIZ
+Web menü Site Yaşam Kuralları. Sayfa başlığı Site Kuralları. IŞIK seçilince örnek satır: Diğer, Aktif, Orta.
+Gürültü ve Huzur kategorisiyle Ekle: Geçersiz veri.
+Telefon Site Kuralları, çıkıp girince hâlâ kural eklenmemiş.
+SIRADAKI: dosya 95 belgeler.
 Hex/kod yok.
