@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · HIZ · dosya 104–107 güvenlik altı |
-| Aktif gündem | **KT4-GECE** · kalan menü dörtlü |
+| Aşama | **AKTİF** · HIZ · dosya 108–115 |
+| Aktif gündem | **KT4-GECE** · finans hata · depolama iki sayı |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | HATIRLATMA 2× · TALEP T1 henüz yok · KAPANDI yok |
-| Kanıt | dosya 45–107 · M701–M783 |
+| Kanıt | dosya 45–115 · M701–M784 |
 | Emülatör | YASAK |
-| Son iletişim | M783 Cursor — dosya 104–107 |
+| Son iletişim | M784 Cursor — dosya 108–115 |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9334,4 +9334,12 @@ GUNDEM: KT4-GECE · REF-14 · REF-16 · HIZ
 QR bos, kirinti Qr Checkpoints. Nobet cizelgesi 0. Nobet defteri 0. Olay listesi Yukleniyor'da kaldi.
 Telefon sakin menusunde yok.
 SIRADAKI: dosya 108 ajanda, ortak gider, duzenli gider, finans.
+Hex/kod yok.
+
+### M784 - 2026-09-24 18:40 (+03) - Cursor — **dosya 108-115**
+GUNDEM: KT4-GECE · REF-14 · REF-16 · HIZ
+Ajanda Eylul 2026. Ortak gider 1 kayit, kirinti Shared Expenses. Duzenli gider 0, Recurring Expenses.
+Finans yonetimi hata, tekrar da ayni. Bakiye depolama 1 GB, belgeler 5 GB.
+Raporlarda {month} {year}. Odeme hesabi onayli, Payment Account. Gelen kutu 1 talep.
+SIRADAKI: dosya 116 site yonetimi, bakim, temizlik, apartora duyurulari.
 Hex/kod yok.

@@ -800,3 +800,27 @@ M783 · dosya 106. Kayıt 0. Çizelgeden ayrı boş sayfa. Kod yok.
 ### 201 — KT4 olay raporları dosya 107 (24.09.2026)
 M783 · dosya 107. Sayı 0. Liste Yükleniyor'da kaldı. Kod yok.
 
+### 202 — KT4 ajanda dosya 108 (24.09.2026)
+M784 · dosya 108. Eylül 2026 ızgara. Etkinlik başlığı yok. Kod yok.
+
+### 203 — KT4 ortak gider dosya 109 (24.09.2026)
+M784 · dosya 109. 1 kayıt ₺1.380. Kırıntı Shared Expenses. Tahsilat ₺9,86. Kod yok.
+
+### 204 — KT4 düzenli gider dosya 110 (24.09.2026)
+M784 · dosya 110. 0 gider. Kırıntı Recurring Expenses. Kod yok.
+
+### 205 — KT4 finans yönetimi dosya 111 (24.09.2026)
+M784 · dosya 111. Sayfa hata. Tekrar da aynı. React 185. Kod yok.
+
+### 206 — KT4 bakiye dosya 112 (24.09.2026)
+M784 · dosya 112. SMS 150, e-posta 500. Depolama 0 B / 1 GB; belgeler 5 GB. Kod yok.
+
+### 207 — KT4 raporlar dosya 113 (24.09.2026)
+M784 · dosya 113. Net -₺4.870. Başlıkta {month} {year}. Kod yok.
+
+### 208 — KT4 ödeme hesabı dosya 114 (24.09.2026)
+M784 · dosya 114. Onaylı. Kırıntı Payment Account. IBAN yazılmadı. Kod yok.
+
+### 209 — KT4 gelen kutusu dosya 115 (24.09.2026)
+M784 · dosya 115. Açılış 1 talep. Beş sekme. Kod yok.
+
