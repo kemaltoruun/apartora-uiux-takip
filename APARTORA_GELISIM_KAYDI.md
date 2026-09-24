@@ -740,3 +740,6 @@ M769 · dosya 89. Sakin form öncelik Düşük/Normal/Yüksek, açılış Normal
 ### 181 — Telefon Bakım/Arıza ayrı sözlük (24.09.2026)
 M770 · dosya 89. 19 bakım kategorisi, açılış Sıhhi Tesisat. Aciliyet Düşük/Orta/Yüksek/Acil. Web talep formu bu listeyi kullanmıyor. Kod yok.
 
+### 182 — Telefon Temizlik ayrı kısa form (24.09.2026)
+M771 · dosya 89. Kategori yok. Aciliyet Normal/Acil, açılış Normal. Bakım listesiyle aynı değil. Kod yok.
+

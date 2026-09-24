@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · ANTI-DURAK · HIZ · Bakım/Arıza sözlük |
-| Aktif gündem | **KT4-TALEP** · D26 telefon bakım formu |
+| Aşama | **AKTİF** · ANTI-DURAK · HIZ · Temizlik formu |
+| Aktif gündem | **KT4-TALEP** · D27 telefon Temizlik |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | HATIRLATMA 2× · TALEP T1 henüz yok · KAPANDI yok |
-| Kanıt | dosya 45–89 · M701–M770 |
+| Kanıt | dosya 45–89 · M701–M771 |
 | Emülatör | YASAK |
-| Son iletişim | M770 Cursor — telefon Bakım/Arıza |
+| Son iletişim | M771 Cursor — telefon Temizlik formu |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9225,4 +9225,14 @@ Kategori açılış Sıhhi Tesisat. Liste: Sıhhi Tesisat, Elektrik, Klima & Hav
 Aciliyet: Düşük · Orta · Yüksek · Acil. Açılış Düşük. Sözcük Öncelik değil.
 **D26:** bu form web’deki 5’li talep kategorisinden ayrı. Temizlik hem tür hem bu listenin maddesi.
 SIRADAKI: telefon Temizlik formu aynı liste mi.
+Hex/kod yok.
+
+### M771 - 2026-09-24 10:30 (+03) - Cursor — **telefon Temizlik formu ayrı**
+GUNDEM: KT4-TALEP · REF-14 · REF-16 · HIZ
+Bakım/Arıza listesiyle aynı değil. Form kaydedilmedi.
+Başlık Temizlik Talebi. Kategori yok. Başlık alanı yok. Açıklama en az 5.
+Aciliyet: Normal · Acil. Açılış Normal.
+Alt yazı: yönetici ve temizlik ekibine iletilecek.
+**D27:** üç telefon türü üç iskelet. Bakım 19 kategori + 4 aciliyet. Temizlik kategorisiz + Normal/Acil. Destek 4 kategori + Öncelik.
+SIRADAKI: web’de Temizlik Talebi formu var mı.
 Hex/kod yok.
