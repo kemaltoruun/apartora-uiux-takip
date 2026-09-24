@@ -70,6 +70,7 @@ Kök: aynı git sorgusu, PowerShell’de kırılan `python -c`, kanıt alınıp 
 | `python -c` + regex | `.py` dosyası yaz, onu çalıştır |
 | Kanıt alındı, ILETISIM yok | Aynı turda M + GELISIM + push |
 | 4× eksik | Oy yarım kalır. Ölçüm sürer. Abort slot yeniden açılmaz |
+| Tek yüzey / uzun tur | Aynı turda 2–3 yüzey oku, tek kısa M yaz, hemen push |
 | ILETISIM baştan | Özet kutu + son 5 mesaj yeter |
 
 ## Süreklilik

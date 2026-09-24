@@ -743,3 +743,6 @@ M770 · dosya 89. 19 bakım kategorisi, açılış Sıhhi Tesisat. Aciliyet Dü�
 ### 182 — Telefon Temizlik ayrı kısa form (24.09.2026)
 M771 · dosya 89. Kategori yok. Aciliyet Normal/Acil, açılış Normal. Bakım listesiyle aynı değil. Kod yok.
 
+### 183 — Web temizlik gelen kutu · bakım 19 kategori (24.09.2026)
+M772 · dosya 89. Temizlik Talepleri boş, oluşturma yok. Bakım formu web+yönetici 19 madde, telefonda 3 yazım farkı. Kod yok.
+
