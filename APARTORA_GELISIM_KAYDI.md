@@ -764,3 +764,9 @@ M777 · dosya 94. Web’de ÖRNEK aktif. Gürültü kategorisi Geçersiz veri. T
 ### 189 — KT4 site belgeleri dosya 95 (24.09.2026)
 M778 · dosya 95. 37 bayt reddedildi. 2.9 KB yüklendi, tüm sakinler. Telefon Belgelerim boş. Kod yok.
 
+### 190 — KT4 denetim kayıtları dosya 96 (24.09.2026)
+M779 · dosya 96. Sayfa Audit Logları. 848 kayıt. Bir satır Bilinmeyen Kullanıcı. Telefon menüsünde yok. Kod yok.
+
+### 191 — KT4 denetim raporları dosya 97 (24.09.2026)
+M779 · dosya 97. Rapor listesi boş. Kayıt sayfasından ayrı. Telefon menüsünde yok. Kod yok.
+

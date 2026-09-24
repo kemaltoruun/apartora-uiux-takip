@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · HIZ · dosya 95 site belgeleri |
-| Aktif gündem | **KT4-SITE-BELGELERI** · BL2 boyut · BL3 telefon boş |
+| Aşama | **AKTİF** · HIZ · dosya 96–97 denetim |
+| Aktif gündem | **KT4-DENETIM** · DK1 Audit Logları · DR1 rapor boş |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | HATIRLATMA 2× · TALEP T1 henüz yok · KAPANDI yok |
-| Kanıt | dosya 45–95 · M701–M778 |
+| Kanıt | dosya 45–97 · M701–M779 |
 | Emülatör | YASAK |
-| Son iletişim | M778 Cursor — dosya 95 site belgeleri |
+| Son iletişim | M779 Cursor — dosya 96–97 denetim |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9297,4 +9297,11 @@ Web Site Belgeleri. Kırıntı Documents.
 37 bayt: Dosya çok küçük veya boş. 2.9 KB yüklendi: ÖRNEK-KT4 site belgesi, Diğer, Tüm sakinler.
 Telefon Belgelerim, çıkıp girince hâlâ belge bulunamadı.
 SIRADAKI: dosya 96 denetim kayıtları.
+Hex/kod yok.
+
+### M779 - 2026-09-24 17:30 (+03) - Cursor — **dosya 96-97 denetim**
+GUNDEM: KT4-DENETIM · REF-14 · REF-16 · HIZ
+Kayit sayfasi Audit Loglari. 848 kayit. Bir aidat satiri Bilinmeyen Kullanici.
+Rapor sayfasi ayri ve bos. Telefon menusunde ikisi de yok.
+SIRADAKI: dosya 98 hukuki belgeler.
 Hex/kod yok.
