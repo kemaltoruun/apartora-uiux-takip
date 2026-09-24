@@ -824,3 +824,21 @@ M784 · dosya 114. Onaylı. Kırıntı Payment Account. IBAN yazılmadı. Kod yo
 ### 209 — KT4 gelen kutusu dosya 115 (24.09.2026)
 M784 · dosya 115. Açılış 1 talep. Beş sekme. Kod yok.
 
+### 210 — KT4 site yönetimi dosya 116 (24.09.2026)
+M785 · dosya 116. 140 daire, 10 malik, 2 kiracı. Kullanıcı listesi 6+1. Adres harf tekrarı. Kod yok.
+
+### 211 — KT4 bakım dosya 117 (24.09.2026)
+M785 · dosya 117. Arıza 0. Sayfa Bakım Yönetimi, menü Bakım ve Onarım. Kod yok.
+
+### 212 — KT4 temizlik dosya 118 (24.09.2026)
+M785 · dosya 118. Alan 0. Checkpoint sözü. QR’ye bağ. Kod yok.
+
+### 213 — KT4 Apartora duyuru dosya 119 (24.09.2026)
+M785 · dosya 119. Web ve telefon boş. Boş cümle farklı. Kod yok.
+
+### 214 — KT4 panel yetki dosya 120 (24.09.2026)
+M785 · dosya 120. MANAGER iken ana sayfa Güvenlik Paneli izni istiyor. Kod yok.
+
+### 215 — KT4 banka kilit dosya 121 (24.09.2026)
+M785 · dosya 121. Banka entegrasyonu kilitli. financial / Addon. Kod yok.
+
