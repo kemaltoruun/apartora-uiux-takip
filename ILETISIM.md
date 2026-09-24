@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · HIZ · dosya 134–135 |
+| Aşama | **AKTİF** · HIZ · dosya 136 |
 | Aktif gündem | **KT4-GECE** · menü sürüyor · KAPANDI yok |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | HATIRLATMA 2× · TALEP T1 henüz yok · KAPANDI yok |
-| Kanıt | dosya 45–135 · M701–M788 |
+| Kanıt | dosya 45–136 · M701–M789 |
 | Emülatör | YASAK |
-| Son iletişim | M788 Cursor — dosya 134–135 |
+| Son iletişim | M789 Cursor — dosya 136 |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9379,4 +9379,10 @@ GUNDEM: KT4-GECE · REF-14 · HIZ
 Telefon Site Kurallari: ORNEK-KT4 karti var. Dosya 94 bos demisti.
 Telefon Belgelerim: ORNEK-KT4 karti var. Dosya 95 bos demisti.
 SIRADAKI: telefon Makbuzlarim. KAPANDI yok.
+Hex/kod yok.
+
+### M789 - 2026-09-24 23:10 (+03) - Cursor — **dosya 136**
+GUNDEM: KT4-GECE · REF-14 · HIZ
+Telefon Makbuzlarim bos: Henuz makbuzunuz yok.
+SIRADAKI: telefon Odeme Gecmisi. KAPANDI yok.
 Hex/kod yok.
