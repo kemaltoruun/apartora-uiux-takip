@@ -70,7 +70,10 @@ Kök: aynı git sorgusu, PowerShell’de kırılan `python -c`, kanıt alınıp 
 | `python -c` + regex | `.py` dosyası yaz, onu çalıştır |
 | Kanıt alındı, ILETISIM yok | Aynı turda M + GELISIM + push |
 | 4× eksik | Oy yarım kalır. Ölçüm sürer. Abort slot yeniden açılmaz |
-| Tek yüzey / uzun tur | Aynı turda 2–3 yüzey oku, tek kısa M yaz, hemen push |
+| Tek yüzey / uzun tur | Aynı turda **4 web sekmesi** aç, tek kısa M, hemen push. Sonra durma: sonraki 4’ü aç |
+| Aynı sakin menü tekrar dump | Bu oturumda menü döküldüyse ve madde yoksa yeniden adb yok. Kanıt: son döküm |
+| Her sayfada form tıkla | Ad/KPI/boş yeter. Açılır liste yalnız kayıt denemesinde |
+| Sayfa başı commit | 4 dosya = 1 M + 1 push |
 | ILETISIM baştan | Özet kutu + son 5 mesaj yeter |
 
 ## Süreklilik

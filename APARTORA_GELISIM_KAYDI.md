@@ -788,3 +788,15 @@ M781 · dosya 102. Ödeme bildirimi yok. Kayıt ayrı menüde. Kırıntı Onay K
 ### 197 — KT4 güvenlik dosya 103 (24.09.2026)
 M782 · dosya 103. Üç ad. Ziyaretçi listesi boş. Telefon menüsünde yok. Kod yok.
 
+### 198 — KT4 QR dosya 104 (24.09.2026)
+M783 · dosya 104. Boş. Kırıntı Qr Checkpoints. Telefon menüsünde yok. Kod yok.
+
+### 199 — KT4 nöbet çizelgesi dosya 105 (24.09.2026)
+M783 · dosya 105. Bugün 0, hafta 0. Telefon menüsünde yok. Kod yok.
+
+### 200 — KT4 nöbet defteri dosya 106 (24.09.2026)
+M783 · dosya 106. Kayıt 0. Çizelgeden ayrı boş sayfa. Kod yok.
+
+### 201 — KT4 olay raporları dosya 107 (24.09.2026)
+M783 · dosya 107. Sayı 0. Liste Yükleniyor'da kaldı. Kod yok.
+

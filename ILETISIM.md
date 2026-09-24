@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · HIZ · dosya 103 güvenlik |
-| Aktif gündem | **KT4-GUVENLIK** · GV1 üç ad |
+| Aşama | **AKTİF** · HIZ · dosya 104–107 güvenlik altı |
+| Aktif gündem | **KT4-GECE** · kalan menü dörtlü |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | HATIRLATMA 2× · TALEP T1 henüz yok · KAPANDI yok |
-| Kanıt | dosya 45–103 · M701–M782 |
+| Kanıt | dosya 45–107 · M701–M783 |
 | Emülatör | YASAK |
-| Son iletişim | M782 Cursor — dosya 103 güvenlik |
+| Son iletişim | M783 Cursor — dosya 104–107 |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9327,4 +9327,11 @@ Menu Guvenlik ve Ziyaretci. Sayfa Guvenlik Merkezi. Kirinti Guvenlik Gorevlisi.
 KPI 0. Ziyaretci listesi sonuc yok.
 Telefon menusunde yok.
 SIRADAKI: dosya 104 QR noktalari.
+Hex/kod yok.
+
+### M783 - 2026-09-24 18:32 (+03) - Cursor — **dosya 104-107**
+GUNDEM: KT4-GECE · REF-14 · REF-16 · HIZ
+QR bos, kirinti Qr Checkpoints. Nobet cizelgesi 0. Nobet defteri 0. Olay listesi Yukleniyor'da kaldi.
+Telefon sakin menusunde yok.
+SIRADAKI: dosya 108 ajanda, ortak gider, duzenli gider, finans.
 Hex/kod yok.
