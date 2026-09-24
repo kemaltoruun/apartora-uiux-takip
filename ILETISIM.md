@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · HIZ · dosya 91 hizmet rehberi |
-| Aktif gündem | **KT4-HIZMET** · web+telefon boş |
+| Aşama | **AKTİF** · HIZ · dosya 92 kadro |
+| Aktif gündem | **KT4-KADRO** · K1 rol ve tarih |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | HATIRLATMA 2× · TALEP T1 henüz yok · KAPANDI yok |
-| Kanıt | dosya 45–91 · M701–M774 |
+| Kanıt | dosya 45–92 · M701–M775 |
 | Emülatör | YASAK |
-| Son iletişim | M774 Cursor — dosya 91 hizmet rehberi |
+| Son iletişim | M775 Cursor — dosya 92 kadro |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9264,4 +9264,12 @@ Telefon menü (kaydırıldı): Envanter yok. Hizmet Rehberi var.
 Web hizmet 0. Form kaydedilmedi. Kategori açılış Konut Hizmetleri.
 Telefon: «Henüz hizmet kaydı yok». Oluşturma yok.
 SIRADAKI: dosya 92 yönetim kadrosu web+telefon.
+Hex/kod yok.
+
+### M775 - 2026-09-24 12:08 (+03) - Cursor — **dosya 92 yönetim kadrosu · K1**
+GUNDEM: KT4-YONETIM-KADROSU · REF-14 · REF-16 · HIZ
+Web Kadro & Yetkiler: 1 üye, Site Yöneticisi, 21 Eyl, Tam yetki.
+Telefon Yönetim Kadrosu: Yönetici, 9 Nis 2026 tarihinden beri görevde.
+**K1:** rol sözü ve tarih farklı. Numara dosyaya yazılmadı.
+SIRADAKI: dosya 93 genel kurul.
 Hex/kod yok.

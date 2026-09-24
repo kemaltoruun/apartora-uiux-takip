@@ -752,3 +752,6 @@ M773 · dosya 90. Yeni konu ayrı dosya. Envanter 0. Miktar 1 iken number hatas�
 ### 185 — KT4 hizmet rehberi dosya 91 (24.09.2026)
 M774 · dosya 91. Web ve telefon boş. Telefonda oluşturma yok. Envanter telefon menüsünde yok. Kod yok.
 
+### 186 — KT4 yönetim kadrosu dosya 92 (24.09.2026)
+M775 · dosya 92. Aynı kişi. Web Site Yöneticisi / 21 Eyl. Telefon Yönetici / 9 Nis 2026. Kod yok.
+
