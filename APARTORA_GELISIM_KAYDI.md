@@ -878,3 +878,9 @@ M787 · dosya 132. ÖRNEK kart telefonda. Yönetici menü linki yok. Kod yok.
 ### 227 — KT4 ajanda hatırlatma dosya 133 (24.09.2026)
 M787 · dosya 133. Aynı kart ajandada. Tür PERSONAL. Kod yok.
 
+
+### 228 — KT4 kural telefon dosya 134 (24.09.2026)
+M788 · dosya 134. ÖRNEK kural telefonda. Kod yok.
+
+### 229 — KT4 belge telefon dosya 135 (24.09.2026)
+M788 · dosya 135. ÖRNEK belge telefonda. Kod yok.

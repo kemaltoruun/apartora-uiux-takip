@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · HIZ · dosya 129–133 |
+| Aşama | **AKTİF** · HIZ · dosya 134–135 |
 | Aktif gündem | **KT4-GECE** · menü sürüyor · KAPANDI yok |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | HATIRLATMA 2× · TALEP T1 henüz yok · KAPANDI yok |
-| Kanıt | dosya 45–133 · M701–M787 |
+| Kanıt | dosya 45–135 · M701–M788 |
 | Emülatör | YASAK |
-| Son iletişim | M787 Cursor — dosya 129–133 |
+| Son iletişim | M788 Cursor — dosya 134–135 |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9372,4 +9372,11 @@ Telefon hizmet: bos. Web de bos.
 Telefon hatirlatma: ORNEK kart, tamamlandi, vade 25 Eyl.
 Ajanda Hatirlatmalar: ayni kart. Tur PERSONAL. Telefon Kisisel.
 SIRADAKI: sakin telefon Site Kurallari — webdeki ornek kural gorunuyor mu. KAPANDI yok.
+Hex/kod yok.
+
+### M788 - 2026-09-24 23:05 (+03) - Cursor — **dosya 134-135**
+GUNDEM: KT4-GECE · REF-14 · HIZ
+Telefon Site Kurallari: ORNEK-KT4 karti var. Dosya 94 bos demisti.
+Telefon Belgelerim: ORNEK-KT4 karti var. Dosya 95 bos demisti.
+SIRADAKI: telefon Makbuzlarim. KAPANDI yok.
 Hex/kod yok.
