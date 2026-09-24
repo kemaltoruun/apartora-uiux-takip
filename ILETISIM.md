@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · HIZ · dosya 116–121 |
-| Aktif gündem | **KT4-GECE** · menü tarandı · KAPANDI yok |
+| Aşama | **AKTİF** · HIZ · dosya 122–128 |
+| Aktif gündem | **KT4-GECE** · menü sürüyor · KAPANDI yok |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | HATIRLATMA 2× · TALEP T1 henüz yok · KAPANDI yok |
-| Kanıt | dosya 45–121 · M701–M785 |
+| Kanıt | dosya 45–128 · M701–M786 |
 | Emülatör | YASAK |
-| Son iletişim | M785 Cursor — dosya 116–121 |
+| Son iletişim | M786 Cursor — dosya 122–128 |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9351,4 +9351,15 @@ Bakim 0. Temizlik alan 0, checkpoint. Apartora duyurusu web ve telefon bos, cuml
 MANAGER ana sayfa Guvenlik Paneli izni istiyor.
 Banka entegrasyonu kilitli: financial / Addon.
 SIRADAKI: yonetici menu taramasi 90-121. KAPANDI yok.
+Hex/kod yok.
+
+### M786 - 2026-09-24 22:40 (+03) - Cursor — **dosya 122-128**
+GUNDEM: KT4-GECE · REF-14 · REF-16 · HIZ
+Kadro: 1 site yoneticisi. Kullanici sayfasi yonetici 0. Iletisim yazilmadi.
+Destek 0. Hizmet 0. Genel kurul toplanti 0.
+Karar defteri: 1 yayim, toplantı ve sorumlu bos.
+Hesabim profil %75. E-posta ve telefon yazilmadi.
+Yonetici menusunde Hatirlatmalar yok. Sakin menude var.
+Finans sayfasi hata suruyor (dosya 111).
+SIRADAKI: telefon Genel Kurul Kararlari — bugunku yayim gorunuyor mu. KAPANDI yok.
 Hex/kod yok.

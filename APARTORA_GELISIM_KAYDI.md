@@ -842,3 +842,24 @@ M785 · dosya 120. MANAGER iken ana sayfa Güvenlik Paneli izni istiyor. Kod yok
 ### 215 — KT4 banka kilit dosya 121 (24.09.2026)
 M785 · dosya 121. Banka entegrasyonu kilitli. financial / Addon. Kod yok.
 
+### 216 — KT4 kadro dosya 122 (24.09.2026)
+M786 · dosya 122. 1 site yöneticisi. Kullanıcı sayfası yönetici 0. İletişim yazılmadı. Kod yok.
+
+### 217 — KT4 destek dosya 123 (24.09.2026)
+M786 · dosya 123. 0 talep. Alt yazı yalnız kayıt kaçağı. Kod yok.
+
+### 218 — KT4 hizmet dosya 124 (24.09.2026)
+M786 · dosya 124. Hizmet 0. Kod yok.
+
+### 219 — KT4 genel kurul dosya 125 (24.09.2026)
+M786 · dosya 125. Toplantı 0. Kod yok.
+
+### 220 — KT4 karar defteri dosya 126 (24.09.2026)
+M786 · dosya 126. 1 yayımlı karar, toplantı ve sorumlu boş. Kod yok.
+
+### 221 — KT4 hesabım dosya 127 (24.09.2026)
+M786 · dosya 127. Profil %75. E-posta ve telefon yazılmadı. Kod yok.
+
+### 222 — KT4 hatırlatma menü dosya 128 (24.09.2026)
+M786 · dosya 128. Yönetici menüsünde Hatırlatmalar yok. Sakin menüde var. Kod yok.
+
