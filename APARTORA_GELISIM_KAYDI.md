@@ -746,3 +746,6 @@ M771 · dosya 89. Kategori yok. Aciliyet Normal/Acil, açılış Normal. Bakım 
 ### 183 — Web temizlik gelen kutu · bakım 19 kategori (24.09.2026)
 M772 · dosya 89. Temizlik Talepleri boş, oluşturma yok. Bakım formu web+yönetici 19 madde, telefonda 3 yazım farkı. Kod yok.
 
+### 184 — KT4 envanter yeni dosya 90 (24.09.2026)
+M773 · dosya 90. Yeni konu ayrı dosya. Envanter 0. Miktar 1 iken number hatası, kayıt yok. Kod yok.
+

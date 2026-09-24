@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · HIZ · web temizlik kutu |
-| Aktif gündem | **KT4-TALEP** · D28 gelen kutu |
+| Aşama | **AKTİF** · HIZ · yeni dosya 90 envanter |
+| Aktif gündem | **KT4-ENVANTER** · E1 miktar |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | HATIRLATMA 2× · TALEP T1 henüz yok · KAPANDI yok |
-| Kanıt | dosya 45–89 · M701–M772 |
+| Kanıt | dosya 45–90 · M701–M773 |
 | Emülatör | YASAK |
-| Son iletişim | M772 Cursor — web temizlik kutu |
+| Son iletişim | M773 Cursor — dosya 90 envanter |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9246,4 +9246,13 @@ Yazım farkı: web HVAC (Klima/Havalandırma), Çatı/İzolasyon, Bahçe/Peyzaj.
 Yönetici bakım Yeni Talep: öncelik Düşük/Orta/Yüksek/Acil, açılış Orta. Sözcük Öncelik. Kaydedilmedi.
 Form kaydedilmedi.
 SIRADAKI: sakin bakım Acil Durum anahtarı kapalı mı.
+Hex/kod yok.
+
+### M773 - 2026-09-24 11:30 (+03) - Cursor — **dosya 90 envanter · E1**
+GUNDEM: KT4-ENVANTER · REF-15 · REF-16 · HIZ
+Yeni konu yeni dosya. 89’a yazılmadı.
+`/manager/inventory` toplam 0. Yeni Öğe: ad ÖRNEK-KT4 envanter, konum Depo, miktar 1.
+**E1:** «Geçersiz veri tipi: number bekleniyor». Kayıt yok.
+Telefon bu turda yok. KAPANDI yok.
+SIRADAKI: telefon envanter menüsü.
 Hex/kod yok.
