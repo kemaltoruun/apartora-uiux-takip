@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · HIZ · dosya 98 hukuki belgeler |
-| Aktif gündem | **KT4-HUKUKI-BELGE** · HB1 arşiv boş |
+| Aşama | **AKTİF** · HIZ · dosya 99–102 paralel |
+| Aktif gündem | **KT4-ONAY** · OB1 üç ad · KU2 yönetici 0 |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | HATIRLATMA 2× · TALEP T1 henüz yok · KAPANDI yok |
-| Kanıt | dosya 45–98 · M701–M780 |
+| Kanıt | dosya 45–102 · M701–M781 |
 | Emülatör | YASAK |
-| Son iletişim | M780 Cursor — dosya 98 hukuki belgeler |
+| Son iletişim | M781 Cursor — dosya 99–102 paralel |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9311,4 +9311,12 @@ GUNDEM: KT4-HUKUKI-BELGE · REF-14 · REF-16 · HIZ
 Arsiv bos. Turler: Borcu Yoktur, Ihtar, Icra. Uretme bu sayfada yok.
 Telefon menusunde yok.
 SIRADAKI: dosya 99 personel.
+Hex/kod yok.
+
+### M781 - 2026-09-24 17:58 (+03) - Cursor — **dosya 99-102 paralel**
+GUNDEM: KT4-PERSONEL · KT4-KULLANICI · KT4-ONAY · REF-14 · REF-16 · HIZ
+Dort sayfa ayni turda. Personel 0. Kullanici 7, yonetici KPI 0.
+Onay Bekleyenler / Kayit Talepleri / Pending Registrations. Onay Kuyrugu ayri, odeme bos.
+Telefon menusunde dordu de yok.
+SIRADAKI: dosya 103 guvenlik.
 Hex/kod yok.

@@ -773,3 +773,15 @@ M779 · dosya 97. Rapor listesi boş. Kayıt sayfasından ayrı. Telefon menüs�
 ### 192 — KT4 hukuki belgeler dosya 98 (24.09.2026)
 M780 · dosya 98. Arşiv boş. Türler: Borcu Yoktur, İhtar, İcra. Üretme bu sayfada yok. Telefon menüsünde yok. Kod yok.
 
+### 193 — KT4 personel dosya 99 (24.09.2026)
+M781 · dosya 99. Personel 0. Kırıntı Personel. Telefon menüsünde yok. Kod yok.
+
+### 194 — KT4 kullanıcı dosya 100 (24.09.2026)
+M781 · dosya 100. 7 kullanıcı, yönetici KPI 0. Telefon menüsünde yok. Kod yok.
+
+### 195 — KT4 onay bekleyenler dosya 101 (24.09.2026)
+M781 · dosya 101. Üç ad. Bekleyen 0. Kırıntı Pending Registrations. Kod yok.
+
+### 196 — KT4 onay kuyruğu dosya 102 (24.09.2026)
+M781 · dosya 102. Ödeme bildirimi yok. Kayıt ayrı menüde. Kırıntı Onay Kuyrugu. Kod yok.
+
