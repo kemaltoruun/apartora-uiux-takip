@@ -863,3 +863,18 @@ M786 · dosya 127. Profil %75. E-posta ve telefon yazılmadı. Kod yok.
 ### 222 — KT4 hatırlatma menü dosya 128 (24.09.2026)
 M786 · dosya 128. Yönetici menüsünde Hatırlatmalar yok. Sakin menüde var. Kod yok.
 
+### 223 — KT4 karar telefon dosya 129 (24.09.2026)
+M787 · dosya 129. Telefonda yayımlı aidat kararı var. Kurul sayacı 0. Kod yok.
+
+### 224 — KT4 kadro telefon dosya 130 (24.09.2026)
+M787 · dosya 130. Telefonda Yönetici, webde Site Yöneticisi. Numara yazılmadı. Kod yok.
+
+### 225 — KT4 hizmet telefon dosya 131 (24.09.2026)
+M787 · dosya 131. İki kanal da boş. Kod yok.
+
+### 226 — KT4 hatırlatma telefon dosya 132 (24.09.2026)
+M787 · dosya 132. ÖRNEK kart telefonda. Yönetici menü linki yok. Kod yok.
+
+### 227 — KT4 ajanda hatırlatma dosya 133 (24.09.2026)
+M787 · dosya 133. Aynı kart ajandada. Tür PERSONAL. Kod yok.
+
