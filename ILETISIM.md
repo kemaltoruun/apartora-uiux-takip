@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · HIZ · dosya 94 site kuralları |
-| Aktif gündem | **KT4-SITE-KURALLARI** · SK3 kayıt · SK4 telefon boş |
+| Aşama | **AKTİF** · HIZ · dosya 95 site belgeleri |
+| Aktif gündem | **KT4-SITE-BELGELERI** · BL2 boyut · BL3 telefon boş |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | HATIRLATMA 2× · TALEP T1 henüz yok · KAPANDI yok |
-| Kanıt | dosya 45–94 · M701–M777 |
+| Kanıt | dosya 45–95 · M701–M778 |
 | Emülatör | YASAK |
-| Son iletişim | M777 Cursor — dosya 94 site kuralları |
+| Son iletişim | M778 Cursor — dosya 95 site belgeleri |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9289,4 +9289,12 @@ Web menü Site Yaşam Kuralları. Sayfa başlığı Site Kuralları. IŞIK seçi
 Gürültü ve Huzur kategorisiyle Ekle: Geçersiz veri.
 Telefon Site Kuralları, çıkıp girince hâlâ kural eklenmemiş.
 SIRADAKI: dosya 95 belgeler.
+Hex/kod yok.
+
+### M778 - 2026-09-24 13:58 (+03) - Cursor — **dosya 95 site belgeleri**
+GUNDEM: KT4-SITE-BELGELERI · REF-14 · REF-15 · REF-16 · HIZ
+Web Site Belgeleri. Kırıntı Documents.
+37 bayt: Dosya çok küçük veya boş. 2.9 KB yüklendi: ÖRNEK-KT4 site belgesi, Diğer, Tüm sakinler.
+Telefon Belgelerim, çıkıp girince hâlâ belge bulunamadı.
+SIRADAKI: dosya 96 denetim kayıtları.
 Hex/kod yok.

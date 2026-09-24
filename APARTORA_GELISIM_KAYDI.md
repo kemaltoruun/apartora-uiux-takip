@@ -761,3 +761,6 @@ M776 · dosya 93. Toplantı sayfası 0. Karar defteri ve telefon aynı aidat kar
 ### 188 — KT4 site kuralları dosya 94 (24.09.2026)
 M777 · dosya 94. Web’de ÖRNEK aktif. Gürültü kategorisi Geçersiz veri. Telefon yeniden açılınca boş. Kod yok.
 
+### 189 — KT4 site belgeleri dosya 95 (24.09.2026)
+M778 · dosya 95. 37 bayt reddedildi. 2.9 KB yüklendi, tüm sakinler. Telefon Belgelerim boş. Kod yok.
+
