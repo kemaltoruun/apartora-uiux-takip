@@ -785,3 +785,6 @@ M781 · dosya 101. Üç ad. Bekleyen 0. Kırıntı Pending Registrations. Kod yo
 ### 196 — KT4 onay kuyruğu dosya 102 (24.09.2026)
 M781 · dosya 102. Ödeme bildirimi yok. Kayıt ayrı menüde. Kırıntı Onay Kuyrugu. Kod yok.
 
+### 197 — KT4 güvenlik dosya 103 (24.09.2026)
+M782 · dosya 103. Üç ad. Ziyaretçi listesi boş. Telefon menüsünde yok. Kod yok.
+
