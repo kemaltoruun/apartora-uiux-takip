@@ -770,3 +770,6 @@ M779 · dosya 96. Sayfa Audit Logları. 848 kayıt. Bir satır Bilinmeyen Kullan
 ### 191 — KT4 denetim raporları dosya 97 (24.09.2026)
 M779 · dosya 97. Rapor listesi boş. Kayıt sayfasından ayrı. Telefon menüsünde yok. Kod yok.
 
+### 192 — KT4 hukuki belgeler dosya 98 (24.09.2026)
+M780 · dosya 98. Arşiv boş. Türler: Borcu Yoktur, İhtar, İcra. Üretme bu sayfada yok. Telefon menüsünde yok. Kod yok.
+
