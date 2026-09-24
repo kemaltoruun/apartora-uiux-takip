@@ -755,3 +755,6 @@ M774 · dosya 91. Web ve telefon boş. Telefonda oluşturma yok. Envanter telefo
 ### 186 — KT4 yönetim kadrosu dosya 92 (24.09.2026)
 M775 · dosya 92. Aynı kişi. Web Site Yöneticisi / 21 Eyl. Telefon Yönetici / 9 Nis 2026. Kod yok.
 
+### 187 — KT4 genel kurul dosya 93 (24.09.2026)
+M776 · dosya 93. Toplantı sayfası 0. Karar defteri ve telefon aynı aidat kararı. Menü adı toplantı değil. Kod yok.
+

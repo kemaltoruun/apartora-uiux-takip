@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · HIZ · dosya 92 kadro |
-| Aktif gündem | **KT4-KADRO** · K1 rol ve tarih |
+| Aşama | **AKTİF** · HIZ · dosya 93 genel kurul |
+| Aktif gündem | **KT4-GENEL-KURUL** · G1 menü adı |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | HATIRLATMA 2× · TALEP T1 henüz yok · KAPANDI yok |
-| Kanıt | dosya 45–92 · M701–M775 |
+| Kanıt | dosya 45–93 · M701–M776 |
 | Emülatör | YASAK |
-| Son iletişim | M775 Cursor — dosya 92 kadro |
+| Son iletişim | M776 Cursor — dosya 93 genel kurul |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9272,4 +9272,13 @@ Web Kadro & Yetkiler: 1 üye, Site Yöneticisi, 21 Eyl, Tam yetki.
 Telefon Yönetim Kadrosu: Yönetici, 9 Nis 2026 tarihinden beri görevde.
 **K1:** rol sözü ve tarih farklı. Numara dosyaya yazılmadı.
 SIRADAKI: dosya 93 genel kurul.
+Hex/kod yok.
+
+### M776 - 2026-09-24 13:06 (+03) - Cursor — **dosya 93 genel kurul · G1**
+GUNDEM: KT4-GENEL-KURUL · REF-14 · REF-16 · HIZ
+Web Genel Kurul toplantı: 0.
+Karar Defteri: Aidat tutar guncellemesi · Mali · Orta · 24.09.2026 · Yayımlandı.
+Telefon Genel Kurul Kararları: aynı başlık · Mali · 24 Eyl 2026.
+**G1:** menü genel kurul kararı diyor; toplantı listesi boş; kayıt karar defterinde.
+SIRADAKI: dosya 94 site kuralları.
 Hex/kod yok.
