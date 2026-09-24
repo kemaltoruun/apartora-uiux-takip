@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · HIZ · yeni dosya 90 envanter |
-| Aktif gündem | **KT4-ENVANTER** · E1 miktar |
+| Aşama | **AKTİF** · HIZ · dosya 91 hizmet rehberi |
+| Aktif gündem | **KT4-HIZMET** · web+telefon boş |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | HATIRLATMA 2× · TALEP T1 henüz yok · KAPANDI yok |
-| Kanıt | dosya 45–90 · M701–M773 |
+| Kanıt | dosya 45–91 · M701–M774 |
 | Emülatör | YASAK |
-| Son iletişim | M773 Cursor — dosya 90 envanter |
+| Son iletişim | M774 Cursor — dosya 91 hizmet rehberi |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9255,4 +9255,13 @@ Yeni konu yeni dosya. 89’a yazılmadı.
 **E1:** «Geçersiz veri tipi: number bekleniyor». Kayıt yok.
 Telefon bu turda yok. KAPANDI yok.
 SIRADAKI: telefon envanter menüsü.
+Hex/kod yok.
+
+### M774 - 2026-09-24 11:40 (+03) - Cursor — **dosya 91 hizmet rehberi · envanter telefonda yok**
+GUNDEM: KT4-HIZMET-REHBERI · REF-14 · HIZ
+90 dosyasına yazılmadı.
+Telefon menü (kaydırıldı): Envanter yok. Hizmet Rehberi var.
+Web hizmet 0. Form kaydedilmedi. Kategori açılış Konut Hizmetleri.
+Telefon: «Henüz hizmet kaydı yok». Oluşturma yok.
+SIRADAKI: dosya 92 yönetim kadrosu web+telefon.
 Hex/kod yok.

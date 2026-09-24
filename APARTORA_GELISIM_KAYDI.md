@@ -749,3 +749,6 @@ M772 · dosya 89. Temizlik Talepleri boş, oluşturma yok. Bakım formu web+yön
 ### 184 — KT4 envanter yeni dosya 90 (24.09.2026)
 M773 · dosya 90. Yeni konu ayrı dosya. Envanter 0. Miktar 1 iken number hatası, kayıt yok. Kod yok.
 
+### 185 — KT4 hizmet rehberi dosya 91 (24.09.2026)
+M774 · dosya 91. Web ve telefon boş. Telefonda oluşturma yok. Envanter telefon menüsünde yok. Kod yok.
+
