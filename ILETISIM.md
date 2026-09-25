@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · HIZ · dosya 142–143 |
+| Aşama | **AKTİF** · HIZ · dosya 144–145 |
 | Aktif gündem | **KT4-GECE** · menü sürüyor · KAPANDI yok |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | HATIRLATMA 2× · TALEP T1 henüz yok · KAPANDI yok |
-| Kanıt | dosya 45–143 · M701–M794 |
+| Kanıt | dosya 45–145 · M701–M795 |
 | Emülatör | YASAK |
-| Son iletişim | M794 Cursor — dosya 142–143 |
+| Son iletişim | M795 Cursor — dosya 144–145 |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9426,4 +9426,13 @@ Yorum govdesi bos: yazdi ve nokta.
 Aidat bildirimi A Blok-1, 400 TL, vade 22.09.2026.
 Web giris kapali.
 SIRADAKI: telefon Toplu Ode. KAPANDI yok.
+Hex/kod yok.
+
+### M795 - 2026-09-25 23:55 (+03) - Cursor — **dosya 144-145**
+GUNDEM: KT4-GECE · REF-14 · REF-08 · HIZ
+Bildirimde Yeni Belge: ORNEK site belgesi, 24 Eyl, Yonetici.
+Toplu Ode: 86 kalem, secili satir yok. Gorunenler gecikmis 400 TL.
+Cip Tum daireler 86 bu kalem sayisi.
+Web giris kapali.
+SIRADAKI: telefon Odemeniz Gerceklesmedi govdesi. KAPANDI yok.
 Hex/kod yok.
