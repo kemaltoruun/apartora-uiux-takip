@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · HIZ · dosya 140 |
+| Aşama | **AKTİF** · HIZ · dosya 141 |
 | Aktif gündem | **KT4-GECE** · menü sürüyor · KAPANDI yok |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | HATIRLATMA 2× · TALEP T1 henüz yok · KAPANDI yok |
-| Kanıt | dosya 45–140 · M701–M792 |
+| Kanıt | dosya 45–141 · M701–M793 |
 | Emülatör | YASAK |
-| Son iletişim | M792 Cursor — dosya 140 |
+| Son iletişim | M793 Cursor — dosya 141 |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9408,4 +9408,11 @@ GUNDEM: KT4-GECE · REF-14 · REF-15 · HIZ
 Telefon Duyurular sekmesi: ORNEK kart, 23 Eyl. Apartora duyurusu ayri ve bos.
 Talepler sekmesi 1 yeni. Web giris kapali.
 SIRADAKI: telefon Talepler sekmesi. KAPANDI yok.
+Hex/kod yok.
+
+### M793 - 2026-09-25 11:36 (+03) - Cursor — **dosya 141**
+GUNDEM: KT4-GECE · REF-14 · REF-15 · HIZ
+Telefon Talepler: ORNEK kart, Sikayet, Gonderildi. Sayac Destek 1. Rozet 1 yeni duruyor.
+Web giris kapali.
+SIRADAKI: telefon Ozet sekmesi. KAPANDI yok.
 Hex/kod yok.
