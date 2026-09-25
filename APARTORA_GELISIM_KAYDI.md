@@ -902,3 +902,9 @@ M792 · dosya 140. ÖRNEK duyuru sekmede. Platform duyurusu ayrı. Kod yok.
 
 ### 235 — KT4 talep telefon dosya 141 (25.09.2026)
 M793 · dosya 141. ÖRNEK talep Şikayet. Sayaç Destek. Rozet duruyor. Kod yok.
+
+### 236 — KT4 özet telefon dosya 142 (25.09.2026)
+M794 · dosya 142. Geciken 10.454,29. Ödenen 0. Tüm daireler çipi 86. Kod yok.
+
+### 237 — KT4 bildirim telefon dosya 143 (25.09.2026)
+M794 · dosya 143. Rozet 1, okunmadı boş. Yorum metni yok. Kod yok.
