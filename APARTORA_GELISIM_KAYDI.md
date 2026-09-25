@@ -890,3 +890,9 @@ M789 · dosya 136. Makbuzlarım boş. Kod yok.
 
 ### 231 — KT4 ödeme geçmişi telefon dosya 137 (25.09.2026)
 M790 · dosya 137. Açılış 2027 yaklaşan. Ödendi boş. Gecikende 9/2026 A1, not yok. Web giriş. Kod yok.
+
+### 232 — KT4 anket telefon dosya 138 (25.09.2026)
+M791 · dosya 138. ÖRNEK anket, yanıtlandı. Web giriş. Kod yok.
+
+### 233 — KT4 etkinlik telefon dosya 139 (25.09.2026)
+M791 · dosya 139. ÖRNEK etkinlik 25 Eyl, katılıyor. Web giriş. Kod yok.
