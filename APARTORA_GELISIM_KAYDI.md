@@ -896,3 +896,6 @@ M791 · dosya 138. ÖRNEK anket, yanıtlandı. Web giriş. Kod yok.
 
 ### 233 — KT4 etkinlik telefon dosya 139 (25.09.2026)
 M791 · dosya 139. ÖRNEK etkinlik 25 Eyl, katılıyor. Web giriş. Kod yok.
+
+### 234 — KT4 duyuru telefon dosya 140 (25.09.2026)
+M792 · dosya 140. ÖRNEK duyuru sekmede. Platform duyurusu ayrı. Kod yok.
