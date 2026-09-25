@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · HIZ · dosya 144–145 |
+| Aşama | **AKTİF** · HIZ · dosya 146–150 |
 | Aktif gündem | **KT4-GECE** · menü sürüyor · KAPANDI yok |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | HATIRLATMA 2× · TALEP T1 henüz yok · KAPANDI yok |
-| Kanıt | dosya 45–145 · M701–M795 |
+| Kanıt | dosya 45–150 · M701–M796 |
 | Emülatör | YASAK |
-| Son iletişim | M795 Cursor — dosya 144–145 |
+| Son iletişim | M796 Cursor — dosya 146–150 |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9435,4 +9435,14 @@ Toplu Ode: 86 kalem, secili satir yok. Gorunenler gecikmis 400 TL.
 Cip Tum daireler 86 bu kalem sayisi.
 Web giris kapali.
 SIRADAKI: telefon Odemeniz Gerceklesmedi govdesi. KAPANDI yok.
+Hex/kod yok.
+
+### M796 - 2026-09-25 23:58 (+03) - Cursor — **dosya 146-150**
+GUNDEM: KT4-GECE · REF-14 · REF-16 · HIZ
+Odemeniz Gerceklesmedi: Daire A/301, Agustos, 5,25 TL. Kart bankasi onaylamadi. Islem no yazilmadi.
+Deneme: Dneme1234, 20 Eyl, hâlâ 7 gun. ISIk kutusunda.
+Banka bildirimi Turkce. Web kilit financial.
+Test maili: Super admin test maili. Limit metni sakinde.
+Alt: havale 5 TL, 09/2026 govde yok, makbuz no var, Makbuzlarim bos.
+SIRADAKI: Yeni Odeme Alindi govdesi. KAPANDI yok.
 Hex/kod yok.

@@ -914,3 +914,18 @@ M795 · dosya 144. Yeni Belge bildirimi, ÖRNEK site belgesi. Kod yok.
 
 ### 239 — KT4 toplu öde dosya 145 (25.09.2026)
 M795 · dosya 145. 86 kalem, seçili yok. Çip daire diyor. Kod yok.
+
+### 240 — KT4 ödeme olmadı dosya 146 (25.09.2026)
+M796 · dosya 146. A/301, ₺5,25, kart onayı yok. Kod yok.
+
+### 241 — KT4 deneme bildirim dosya 147 (25.09.2026)
+M796 · dosya 147. Dneme1234, 7 gün donmuş. Kod yok.
+
+### 242 — KT4 banka bildirim dosya 148 (25.09.2026)
+M796 · dosya 148. Telefonda Türkçe. Web financial. Kod yok.
+
+### 243 — KT4 test bildirim dosya 149 (25.09.2026)
+M796 · dosya 149. Süper admin test maili sakin kutusunda. Kod yok.
+
+### 244 — KT4 bildirim altı dosya 150 (25.09.2026)
+M796 · dosya 150. Makbuz no var, Makbuzlarım boş. 09/2026 gövde yok. Kod yok.
