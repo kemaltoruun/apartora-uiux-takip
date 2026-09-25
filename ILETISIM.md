@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · HIZ · dosya 136 |
+| Aşama | **AKTİF** · HIZ · dosya 137 |
 | Aktif gündem | **KT4-GECE** · menü sürüyor · KAPANDI yok |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | HATIRLATMA 2× · TALEP T1 henüz yok · KAPANDI yok |
-| Kanıt | dosya 45–136 · M701–M789 |
+| Kanıt | dosya 45–137 · M701–M790 |
 | Emülatör | YASAK |
-| Son iletişim | M789 Cursor — dosya 136 |
+| Son iletişim | M790 Cursor — dosya 137 |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9385,4 +9385,12 @@ Hex/kod yok.
 GUNDEM: KT4-GECE · REF-14 · HIZ
 Telefon Makbuzlarim bos: Henuz makbuzunuz yok.
 SIRADAKI: telefon Odeme Gecmisi. KAPANDI yok.
+Hex/kod yok.
+
+### M790 - 2026-09-25 11:15 (+03) - Cursor — **dosya 137**
+GUNDEM: KT4-GECE · REF-14 · REF-08 · HIZ
+Telefon Odeme Gecmisi acilis: Yaklasan 2027, 400 TL, cok daire.
+Odendi bos. Geciken: 9/2026 A Blok-1, 22 Eyl, not yok.
+Web odemelerim giris istiyor.
+SIRADAKI: telefon Anketler. KAPANDI yok.
 Hex/kod yok.

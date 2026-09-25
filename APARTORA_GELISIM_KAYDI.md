@@ -887,3 +887,6 @@ M788 · dosya 135. ÖRNEK belge telefonda. Kod yok.
 
 ### 230 — KT4 makbuz telefon dosya 136 (24.09.2026)
 M789 · dosya 136. Makbuzlarım boş. Kod yok.
+
+### 231 — KT4 ödeme geçmişi telefon dosya 137 (25.09.2026)
+M790 · dosya 137. Açılış 2027 yaklaşan. Ödendi boş. Gecikende 9/2026 A1, not yok. Web giriş. Kod yok.
