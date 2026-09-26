@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · HIZ · dosya 155 |
+| Aşama | **AKTİF** · HIZ · dosya 156 |
 | Aktif gündem | **KT4-GECE** · menü sürüyor · KAPANDI yok |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | HATIRLATMA 2× · TALEP T1 henüz yok · KAPANDI yok |
-| Kanıt | dosya 45–155 · M701–M799 |
+| Kanıt | dosya 45–156 · M701–M800 |
 | Emülatör | YASAK |
-| Son iletişim | M799 Cursor — dosya 155 |
+| Son iletişim | M800 Cursor — dosya 156 |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9469,4 +9469,12 @@ Yeni Belge ornek bildirimi arsivlendi. Arsivde gorundu. Yer: Arsiv. Dugme: Geri 
 Geri al: arsiv bos, kutu basina dondu.
 Kaydirma yine 11 Eyl bandinda durdu.
 SIRADAKI: Yeni Belge detayinda Goruntule nereye gidiyor. KAPANDI yok.
+Hex/kod yok.
+
+### M800 - 2026-09-26 18:05 (+03) - Cursor — **dosya 156**
+GUNDEM: KT4-GECE · REF-14 · REF-16 · HIZ
+Yeni Belge Goruntule: Belgelerim listesi. Kart ORNEK, Diger, 24 Eyl. Dosya acilmadi.
+Karta basinca Chrome. Belge cumlesi yok. Imzali adres gorundu. Adres ve imza yazilmadi.
+Iki geri sonrasi ekran Ozet.
+SIRADAKI: menuden Belgelerim, kart duruyor mu. KAPANDI yok.
 Hex/kod yok.

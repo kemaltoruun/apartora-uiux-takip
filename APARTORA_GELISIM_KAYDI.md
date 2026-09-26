@@ -944,3 +944,6 @@ M798 · dosya 154. Arşiv boş. Kod yok.
 
 ### 249 — KT4 arşivle geri al dosya 155 (26.09.2026)
 M799 · dosya 155. Örnek belge arşive gitti ve geri döndü. Kaydırma 11 Eyl’de durdu. Kod yok.
+
+### 250 — KT4 görüntüle belge dosya 156 (26.09.2026)
+M800 · dosya 156. Görüntüle listeyi açtı. Kart Chrome’da imzalı adres. Adres yazılmadı. Kod yok.
