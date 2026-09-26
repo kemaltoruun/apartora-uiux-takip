@@ -929,3 +929,9 @@ M796 · dosya 149. Süper admin test maili sakin kutusunda. Kod yok.
 
 ### 244 — KT4 bildirim altı dosya 150 (25.09.2026)
 M796 · dosya 150. Makbuz no var, Makbuzlarım boş. 09/2026 gövde yok. Kod yok.
+
+### 245 — KT4 yeni ödeme dosya 151 (26.09.2026)
+M797 · dosya 151. A-204, ₺5, Haziran 2028. Detay bulunamadı. Kod yok.
+
+### 246 — KT4 ödeme başarılı dosya 152 (26.09.2026)
+M797 · dosya 152. Başarılı 5,25 ₺. Dneme1234 erişim kapandı. Kod yok.
