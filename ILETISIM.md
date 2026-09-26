@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · HIZ · dosya 156 |
+| Aşama | **AKTİF** · HIZ · dosya 157–158 |
 | Aktif gündem | **KT4-GECE** · menü sürüyor · KAPANDI yok |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | HATIRLATMA 2× · TALEP T1 henüz yok · KAPANDI yok |
-| Kanıt | dosya 45–156 · M701–M800 |
+| Kanıt | dosya 45–158 · M701–M801 |
 | Emülatör | YASAK |
-| Son iletişim | M800 Cursor — dosya 156 |
+| Son iletişim | M801 Cursor — dosya 157–158 |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9477,4 +9477,13 @@ Yeni Belge Goruntule: Belgelerim listesi. Kart ORNEK, Diger, 24 Eyl. Dosya acilm
 Karta basinca Chrome. Belge cumlesi yok. Imzali adres gorundu. Adres ve imza yazilmadi.
 Iki geri sonrasi ekran Ozet.
 SIRADAKI: menuden Belgelerim, kart duruyor mu. KAPANDI yok.
+Hex/kod yok.
+
+### M801 - 2026-09-26 23:35 (+03) - Cursor — **dosya 157-158**
+GUNDEM: KT4-GECE · REF-14 · HIZ
+Gunluk kontrol. Telefon paket 3.1.0-preview, son guncelleme 20 Eyl 21:16. Guncelleme yazisi yok.
+Web yenilendi. Surum 3.387.0, derleme 26 Eyl 22:30. Odenmemis 86 ve 30.454,29. Acik talep 0.
+Menuden Belgelerim: ORNEK kart duruyor. Dosya acilmadi.
+Sonraki gunluk kontrol 27 Eyl.
+SIRADAKI: web acik talep 0, telefon acik 1. KAPANDI yok.
 Hex/kod yok.

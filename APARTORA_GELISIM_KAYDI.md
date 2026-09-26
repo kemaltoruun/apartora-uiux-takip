@@ -947,3 +947,9 @@ M799 · dosya 155. Örnek belge arşive gitti ve geri döndü. Kaydırma 11 Eyl�
 
 ### 250 — KT4 görüntüle belge dosya 156 (26.09.2026)
 M800 · dosya 156. Görüntüle listeyi açtı. Kart Chrome’da imzalı adres. Adres yazılmadı. Kod yok.
+
+### 251 — KT4 günlük kontrol dosya 157 (26.09.2026)
+M801 · dosya 157. Telefon 3.1.0-preview, 20 Eyl. Web 3.387.0 yenilendi. Kod yok.
+
+### 252 — KT4 belgelerim menü dosya 158 (26.09.2026)
+M801 · dosya 158. Menüden kart duruyor. Dosya açılmadı. Kod yok.
