@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · HIZ · dosya 157–158 |
+| Aşama | **AKTİF** · HIZ · dosya 159 |
 | Aktif gündem | **KT4-GECE** · menü sürüyor · KAPANDI yok |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | HATIRLATMA 2× · TALEP T1 henüz yok · KAPANDI yok |
-| Kanıt | dosya 45–158 · M701–M801 |
+| Kanıt | dosya 45–159 · M701–M802 |
 | Emülatör | YASAK |
-| Son iletişim | M801 Cursor — dosya 157–158 |
+| Son iletişim | M802 Cursor — dosya 159 |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9486,4 +9486,11 @@ Web yenilendi. Surum 3.387.0, derleme 26 Eyl 22:30. Odenmemis 86 ve 30.454,29. A
 Menuden Belgelerim: ORNEK kart duruyor. Dosya acilmadi.
 Sonraki gunluk kontrol 27 Eyl.
 SIRADAKI: web acik talep 0, telefon acik 1. KAPANDI yok.
+Hex/kod yok.
+
+### M802 - 2026-09-26 23:40 (+03) - Cursor — **dosya 159**
+GUNDEM: KT4-GECE · REF-14 · HIZ
+Telefon talepler acik 1. Web taleplerim bekleyen 1. Ayni ORNEK kart.
+Ana sayfa karti aktif talep yok. Menu odemelerim 41 gecikmis, ana sayfa 86 odenmemis.
+SIRADAKI: telefon Hizmet Rehberi. KAPANDI yok.
 Hex/kod yok.

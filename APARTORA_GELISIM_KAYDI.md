@@ -953,3 +953,6 @@ M801 · dosya 157. Telefon 3.1.0-preview, 20 Eyl. Web 3.387.0 yenilendi. Kod yok
 
 ### 252 — KT4 belgelerim menü dosya 158 (26.09.2026)
 M801 · dosya 158. Menüden kart duruyor. Dosya açılmadı. Kod yok.
+
+### 253 — KT4 talep özeti dosya 159 (26.09.2026)
+M802 · dosya 159. Liste 1, ana sayfa 0. Kod yok.
