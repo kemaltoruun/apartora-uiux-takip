@@ -935,3 +935,9 @@ M797 · dosya 151. A-204, ₺5, Haziran 2028. Detay bulunamadı. Kod yok.
 
 ### 246 — KT4 ödeme başarılı dosya 152 (26.09.2026)
 M797 · dosya 152. Başarılı 5,25 ₺. Dneme1234 erişim kapandı. Kod yok.
+
+### 247 — KT4 bildirim kaydırma dosya 153 (26.09.2026)
+M798 · dosya 153. Kaydırma kilit. Arama gövdeyi taramiyor. Kod yok.
+
+### 248 — KT4 bildirim arşiv dosya 154 (26.09.2026)
+M798 · dosya 154. Arşiv boş. Kod yok.
