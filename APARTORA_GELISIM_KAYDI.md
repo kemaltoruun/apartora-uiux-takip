@@ -941,3 +941,6 @@ M798 · dosya 153. Kaydırma kilit. Arama gövdeyi taramiyor. Kod yok.
 
 ### 248 — KT4 bildirim arşiv dosya 154 (26.09.2026)
 M798 · dosya 154. Arşiv boş. Kod yok.
+
+### 249 — KT4 arşivle geri al dosya 155 (26.09.2026)
+M799 · dosya 155. Örnek belge arşive gitti ve geri döndü. Kaydırma 11 Eyl’de durdu. Kod yok.
