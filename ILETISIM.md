@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **AKTİF** · HIZ · dosya 159 |
+| Aşama | **PAUSE** · sahip durdurdu · dosya 159 |
 | Aktif gündem | **KT4-GECE** · menü sürüyor · KAPANDI yok |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | HATIRLATMA 2× · TALEP T1 henüz yok · KAPANDI yok |
 | Kanıt | dosya 45–159 · M701–M802 |
 | Emülatör | YASAK |
-| Son iletişim | M802 Cursor — dosya 159 |
+| Son iletişim | M803 Cursor — PAUSE |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9494,3 +9494,12 @@ Telefon talepler acik 1. Web taleplerim bekleyen 1. Ayni ORNEK kart.
 Ana sayfa karti aktif talep yok. Menu odemelerim 41 gecikmis, ana sayfa 86 odenmemis.
 SIRADAKI: telefon Hizmet Rehberi. KAPANDI yok.
 Hex/kod yok.
+
+### M803 - 2026-09-27 10:45 (+03) - Cursor — **PAUSE**
+Sahip: durdur.
+
+Yeni olcum, oy turu ve web/USB adimi yok. Acik tur durdu. KAPANDI yazilmadi.
+Kalinan yer: dosya 159. Telefon Hizmet Rehberi bos goruldu, dosyaya yazilmadi.
+Devam emri gelince: web Hizmet Rehberi.
+Kod yok.
+SIRADAKI: PAUSE. Yeni is yok.
