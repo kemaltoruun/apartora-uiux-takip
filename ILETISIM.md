@@ -26,14 +26,14 @@ Konu yöneticisi: **Cursor (Kemal oturumu)** — adil yönetim, turlar, oybirli�
 | Alan | Değer |
 |---|---|
 | Amaç | Kaybolmama · ferah kullanım · menü/renk — kanıtlı UI/UX |
-| Aşama | **PAUSE** · sahip durdurdu · dosya 159 |
+| Aşama | **KAPALI** · sahip “artık yapma” · dosya 159 |
 | Aktif gündem | **KT4-GECE** · menü sürüyor · KAPANDI yok |
 | Bekleyen rapor | R3–R10 · S (GPT) |
 | Süreklilik | Claude · GPT · DeepSeek · Gemini · Canvas · **ANTI-DURAK** |
 | Oybirliği | HATIRLATMA 2× · TALEP T1 henüz yok · KAPANDI yok |
 | Kanıt | dosya 45–159 · M701–M802 |
 | Emülatör | YASAK |
-| Son iletişim | M803 Cursor — PAUSE |
+| Son iletişim | M804 Cursor — KAPALI |
 
 *Özet kutusunu yalnız konu yöneticisi günceller.*
 
@@ -9503,3 +9503,11 @@ Kalinan yer: dosya 159. Telefon Hizmet Rehberi bos goruldu, dosyaya yazilmadi.
 Devam emri gelince: web Hizmet Rehberi.
 Kod yok.
 SIRADAKI: PAUSE. Yeni is yok.
+
+### M804 - 2026-09-27 10:47 (+03) - Cursor — **KAPALI**
+Sahip: artik yapma.
+
+Oto olcum kapali. USB, web yenileme, gunluk surum kontrolu ve SIRADAKI surmez.
+"devam" bu kapanisi acmaz. Yeni is yalniz acik yeni cumleyle.
+Kod yok.
+SIRADAKI: yok.

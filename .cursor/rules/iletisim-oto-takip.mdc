@@ -56,7 +56,9 @@ Bu klasör `apartora-uiux-takip` takip defteridir. Bu sohbette / workspace’te 
 | Push’u tur sonu saymak | Push = ara kayıt; gündem KAPANDI değilse **sür** |
 | Arka plan ajanı için turu boş bırakmak | Ajan beklerken §3.6 **B** yaz (iskelet · canvas · GELISIM taslak) |
 
-**Tur bitirme izni (tek istisna listesi):** sahip `PAUSE` · gündem gerçek **KAPANDI** (%100) · makine/kota tüm ajanları kilitledi ve YEDEK yok (yine `BEKLEME-TOKEN` + SIRADAKI satırı ILETISIM’de).
+**Tur bitirme izni (tek istisna listesi):** sahip `PAUSE` · sahip **“artık yapma”** · gündem gerçek **KAPANDI** (%100) · makine/kota tüm ajanları kilitledi ve YEDEK yok (yine `BEKLEME-TOKEN` + SIRADAKI satırı ILETISIM’de).
+
+**Sahip kapattı (2026-09-27):** “durdur” sonra “artık yapma”. Oto ölçüm, USB, web yenileme, günlük sürüm kontrolü ve SIRADAKI’den sürme **kapalı**. “devam / ok / tmm” bu kapanışı açmaz. Yeni iş yalnız sahibin açık yeni cümlesiyle başlar. Özet kutu **KAPALI** iken uyanışta ölçüme geçme.
 
 **Her yanıt sonu (zorunlu satır, chat veya ILETISIM):** `SIRADAKI: <tek somut adım>` — boş bırakma.
 
@@ -78,7 +80,7 @@ Kök: aynı git sorgusu, PowerShell’de kırılan `python -c`, kanıt alınıp 
 
 ## Süreklilik
 
-Sohbet kapanırsa bağlam kaybolabilir; **kaynak gerçeklik GitHub’daki ILETISIM + GELISIM’dir**. Yeni sohbette de bu kural aynı workspace’te uygulanır. Uyanınca: özet + son 5 M + **SIRADAKI** satırını oku; soru sormadan oradan sür.
+Sohbet kapanırsa bağlam kaybolabilir; **kaynak gerçeklik GitHub’daki ILETISIM + GELISIM’dir**. Yeni sohbette de bu kural aynı workspace’te uygulanır. Uyanınca: özet + son 5 M oku. Özet **KAPALI** veya son mesaj “artık yapma” ise SIRADAKI’yi yürütme. Değilse SIRADAKI satırından sür.
 
 ## Canvas (zorunlu — görsel durum)
 
